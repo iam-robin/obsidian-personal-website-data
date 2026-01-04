@@ -26,7 +26,7 @@ node export-series.mjs
 
 JSON files are written to `scripts/output/`:
 
--   `books.json` - Books from `Clippings/Books/`
+-   `books.json` - Books from `Kategorie: [[Bücher]]`
 -   `series.json` - TV series with `Kategorie: [[Serien]]`
 
 ## Adding New Data Types
