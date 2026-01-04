@@ -1,0 +1,51 @@
+{
+  "lastUpdated": "2026-01-04T23:08:12.800Z",
+  "count": 2,
+  "aktiv": [],
+  "merkliste": [],
+  "pausiert": [
+    {
+      "title": "Die Brücke",
+      "season": 1,
+      "genre": [
+        null
+      ],
+      "director": null,
+      "rating": null,
+      "imdbScore": null,
+      "cast": [
+        null
+      ],
+      "cover": "https://m.media-amazon.com/images/I/91+SzVRLNeL._AC_UF894,1000_QL80_.jpg",
+      "released": null,
+      "finished": null,
+      "added": "2025-12-01 22:26",
+      "status": [
+        "Pausiert"
+      ]
+    }
+  ],
+  "abgeschlossen": {
+    "2025": [
+      {
+        "title": "Pluribus",
+        "season": 1,
+        "genre": [
+          "Drama",
+          "Sci-Fi"
+        ],
+        "director": "Vince Gilligan",
+        "rating": 5,
+        "imdbScore": 8.9,
+        "cast": null,
+        "cover": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_.jpg",
+        "released": "2025-11-07T00:00:00.000Z",
+        "finished": "2025-12-24T00:00:00.000Z",
+        "added": "2025-11-12T20:44:37.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ]
+  }
+}

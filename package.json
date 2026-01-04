@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-export",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Export Obsidian vault data to JSON",
+  "scripts": {
+    "export": "node export-all.mjs",
+    "export:books": "node export-books.mjs",
+    "export:series": "node export-series.mjs"
+  },
+  "dependencies": {
+    "glob": "^10.3.10",
+    "gray-matter": "^4.0.3"
+  }
+}
