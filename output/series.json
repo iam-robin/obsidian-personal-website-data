@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-05T20:42:01.148Z",
-  "count": 2,
+  "lastUpdated": "2026-01-05T21:12:32.742Z",
+  "count": 3,
   "aktiv": [],
   "merkliste": [],
   "pausiert": [
@@ -42,6 +42,24 @@
         "released": "2025-11-07T00:00:00.000Z",
         "finished": "2025-12-24T00:00:00.000Z",
         "added": "2025-11-12T20:44:37.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2026": [
+      {
+        "title": "The Bear",
+        "season": 2,
+        "genre": null,
+        "director": null,
+        "rating": 4.5,
+        "imdbScore": null,
+        "cast": null,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Bear_Season_2.png",
+        "released": null,
+        "finished": "2026-01-05T00:00:00.000Z",
+        "added": "2026-01-05T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
