@@ -1,1063 +1,1538 @@
 {
-    "lastUpdated": "2026-01-04T23:15:03.867Z",
-    "count": 81,
-    "aktiv": [
-        {
-            "title": "ë",
-            "author": ["Jehona Kicaj"],
-            "pages": 145,
-            "published": "2025-07-23T00:00:00.000Z",
-            "cover": "http://books.google.com/books/content?id=eORyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "isbn": "383538936X 9783835389366",
-            "publisher": "Wallstein Verlag",
-            "genre": null,
-            "finished": null,
-            "rating": null,
-            "added": "2026-01-03 23:34",
-            "status": ["Aktiv"]
-        }
-    ],
-    "merkliste": [
-        {
-            "title": "Watchmen",
-            "author": [
-                "Alan             Moore",
-                "Dave Gibbons",
-                "John    Higgins"
-            ],
-            "pages": 416,
-            "published": "1987",
-            "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1442239711i/472331.jpg",
-            "isbn": null,
-            "genre": [
-                "Graphic Novels",
-                "Comics",
-                "Fiction",
-                "Science Fiction",
-                "Fantasy",
-                "Graphic Novels Comics",
-                "Classics"
-            ],
-            "finished": null,
-            "rating": null,
-            "status": ["Merkliste"]
-        },
-        {
-            "title": "The People in the Trees",
-            "author": ["Hanya Yanagihara"],
-            "pages": 369,
-            "published": "2013",
-            "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1356108388i/16126596.jpg",
-            "isbn": "[]",
-            "genre": [
-                "Fiction",
-                "Historical Fiction",
-                "Fantasy",
-                "Magical Realism",
-                "Literary Fiction",
-                "Contemporary",
-                "Historical"
-            ],
-            "finished": null,
-            "rating": null,
-            "status": ["Merkliste"]
-        },
-        {
-            "title": "Station Eleven",
-            "author": ["Emily St. John Mandel"],
-            "pages": 333,
-            "published": "2014",
-            "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1680459872i/20170404.jpg",
-            "isbn": null,
-            "genre": [
-                "Fiction",
-                "Science Fiction",
-                "Dystopia",
-                "Book Club",
-                "Post Apocalyptic",
-                "Audiobook",
-                "Fantasy"
-            ],
-            "finished": null,
-            "rating": null,
-            "status": ["Merkliste"]
-        }
-    ],
-    "pausiert": [],
-    "abgeschlossen": {
-        "2018": [
-            {
-                "title": "Speculative Everything: Design, Fiction, and Social Dreaming",
-                "author": ["Anthony Dunne", "Fiona Raby"],
-                "pages": 224,
-                "published": "2013",
-                "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1381287521i/17756296.jpg",
-                "isbn": null,
-                "genre": [
-                    "Design",
-                    "Nonfiction",
-                    "Art",
-                    "Art Design",
-                    "Architecture",
-                    "Technology",
-                    "Academic"
-                ],
-                "finished": "2018-09-05T00:00:00.000Z",
-                "rating": 4.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Handmaid's Tale",
-                "author": ["Margaret Atwood"],
-                "pages": 320,
-                "published": "1985",
-                "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1488552336i/34454589.jpg",
-                "isbn": null,
-                "genre": [
-                    "Fiction",
-                    "Classics",
-                    "Dystopia",
-                    "Science Fiction",
-                    "Feminism"
-                ],
-                "finished": "2018-09-08T00:00:00.000Z",
-                "rating": 4.5,
-                "status": ["Abgeschlossen"]
-            }
-        ],
-        "2019": [
-            {
-                "title": "An Absolutely Remarkable Thing",
-                "author": ["Hank Green"],
-                "pages": 343,
-                "published": "2018",
-                "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1520026196i/24233708.jpg",
-                "isbn": null,
-                "genre": [
-                    "Science Fiction",
-                    "Fiction",
-                    "Young Adult",
-                    "Contemporary"
-                ],
-                "finished": "2019-12-18T00:00:00.000Z",
-                "rating": 3,
-                "status": ["Abgeschlossen"]
-            }
-        ],
-        "2021": [
-            {
-                "title": "Untenrum frei",
-                "author": ["Margarete Stokowski"],
-                "pages": 256,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckrrn5sha1422711798ro12dfq7.jpg",
-                "isbn": 9783499631863,
-                "genre": ["Fiction"],
-                "finished": "2021-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Midnight Library",
-                "author": ["Matt Haig"],
-                "pages": 304,
-                "published": "",
-                "cover": "https://assets.literal.club/1/ckkln8g1k142991i7juluiok1f.jpg",
-                "isbn": 9781786892713,
-                "genre": ["Fiction"],
-                "finished": "2021-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Sophie Passmann über Frank Ocean",
-                "author": ["Sophie Passmann"],
-                "pages": 96,
-                "published": "",
-                "cover": "https://assets.literal.club/3/ckr32qwgk1101361fu6ay51gnqg.jpg",
-                "isbn": 9783462320367,
-                "genre": ["Fiction"],
-                "finished": "2021-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Sei kein Mann: Warum Männlichkeit ein Albtraum für Jungs ist",
-                "author": ["JJ Bola"],
-                "pages": 0,
-                "published": "",
-                "cover": "https://assets.literal.club/cover/5/ckwgk6xse70995014v9oonplbjl.jpg",
-                "isbn": 9783446272835,
-                "genre": ["Fiction"],
-                "finished": "2021-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Land in Sicht",
-                "author": ["Ilona Hartmann"],
-                "pages": 160,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckrqpcjb0257311fugyxf2yuio.jpg",
-                "isbn": 9783351050764,
-                "genre": ["Fiction"],
-                "finished": "2021-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Jacob träumt nicht mehr",
-                "author": ["Clemens Bruno Gatzmaga"],
-                "pages": 0,
-                "published": "",
-                "cover": "https://assets.literal.club/cover/5/cky4hfr4912510420ik6msb160at.jpg",
-                "isbn": 9783792002,
-                "genre": ["Fiction"],
-                "finished": "2021-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Das Leben ist eins der Härtesten",
-                "author": ["Giulia Becker"],
-                "pages": 224,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckun28e6q10931772j7a2zwxiz7a.jpg",
-                "isbn": 9783498006891,
-                "genre": ["Fiction"],
-                "finished": "2021-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Dark Matter",
-                "author": ["Blake Crouch"],
-                "pages": 352,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckr1qywbq0ah101crrmxldsk9.jpg",
-                "isbn": 9781447297574,
-                "genre": ["Fiction"],
-                "finished": "2021-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            }
-        ],
-        "2022": [
-            {
-                "title": "In: A Graphic Novel",
-                "author": ["Will McPhail"],
-                "pages": 0,
-                "published": "",
-                "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1593147401i/53968432.jpg",
-                "isbn": 9780358345541,
-                "genre": ["Graphic Novel"],
-                "finished": "2022-05-24T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Tuesdays With Morrie: An old man, a young man, and life's greatest lesson",
-                "author": ["Mitch Albom"],
-                "pages": 0,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckr1voyun1p8u01cr2v4fqo7e.jpg",
-                "isbn": 9780751569575,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Nickel Boys",
-                "author": ["Colson Whitehead"],
-                "pages": 240,
-                "published": "",
-                "cover": "http://books.google.com/books/content?id=wvHdzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-                "isbn": 9781785417962,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Monk of Mokha",
-                "author": ["Dave Eggers"],
-                "pages": 352,
-                "published": "",
-                "cover": "https://assets.literal.club/2/cklgjvco001731ifbtovevtln.jpg",
-                "isbn": 9780241244906,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Terror",
-                "author": ["Ferdinand von Schirach"],
-                "pages": 96,
-                "published": "",
-                "cover": "https://assets.literal.club/1/ckrbpf6je82659183skge514ay.jpg",
-                "isbn": 9780571340767,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Schöner als überall: Roman",
-                "author": ["Kristin Höller"],
-                "pages": 219,
-                "published": "",
-                "cover": "https://assets.literal.club/1/ckuohb70j2889801fy86a20m3el.jpg",
-                "isbn": 9783518763278,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Sapiens: A Brief History of Humankind",
-                "author": ["Yuval Noah Harari"],
-                "pages": 512,
-                "published": "",
-                "cover": "https://assets.literal.club/cover/5/cketqjupl21366jm0ycwopwxq6.jpg",
-                "isbn": 9780099590088,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Permanent Record",
-                "author": ["Edward Snowden"],
-                "pages": 352,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckjpr7w4725500zm4em0gcly0.jpg",
-                "isbn": 9781250237231,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Oryx and Crake",
-                "author": ["Margaret Atwood"],
-                "pages": 0,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckr1sv3ox0uds01cr5to70h8b.jpg",
-                "isbn": 9781408802779,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Monsieur Ibrahim And The Flowers",
-                "author": ["Eric-Emmanuel Schmitt"],
-                "pages": 42,
-                "published": "",
-                "cover": "http://books.google.com/books/content?id=R6QdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-                "isbn": null,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 3,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Miroloi",
-                "author": ["Karen Köhler"],
-                "pages": 464,
-                "published": "",
-                "cover": "https://assets.literal.club/4/cksktwi1i1196537q298w63o84tp.jpg",
-                "isbn": 9783446261716,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "HERKUNFT",
-                "author": ["Sasa Stanisic"],
-                "pages": 320,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckp43do37272441gjs1r4w5cx9.jpg",
-                "isbn": 9783630874739,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Factfulness: The Ten Reason We're Wrong About the World--And Why Things Are Better Than You Think",
-                "author": ["Hans Rosling"],
-                "pages": 352,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckhdjxbzf29901llg4yj1b12e.jpg",
-                "isbn": 9781473637467,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
-                "author": ["Cal Newport"],
-                "pages": 304,
-                "published": "",
-                "cover": "https://assets.literal.club/1/ckhdk94xu239370zap55p9nzso.jpg",
-                "isbn": 9780241341155,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Der Goldene Handschuh",
-                "author": ["Heinz Strunk"],
-                "pages": 256,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckrqytx4v5323917982hkw3i22.jpg",
-                "isbn": 9783498064365,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Das Parfum: Die Geschichte eines Mörders. Buch und Film",
-                "author": ["Patrick Süskind"],
-                "pages": 336,
-                "published": "",
-                "cover": "http://books.google.com/books/content?id=7FQDogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-                "isbn": 9783257069334,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
-                "author": ["Haruki Murakami"],
-                "pages": 304,
-                "published": "",
-                "cover": "https://assets.literal.club/1/ckgcfooqw26850zb8v1j3sz21.jpg",
-                "isbn": 9781448190959,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Alte Sorten: Roman",
-                "author": ["Ewald Arenz"],
-                "pages": 210,
-                "published": "",
-                "cover": "https://assets.literal.club/2/cksktryjr1184502q298z513nj0p.jpg",
-                "isbn": 9783832183813,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "A Winter's Promise: Book One of the Mirror Visitor Quartet",
-                "author": ["Christelle Dabos"],
-                "pages": 492,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckm653vej372151h6gos1c6k1m.jpg",
-                "isbn": 9781609456078,
-                "genre": ["Fiction"],
-                "finished": "2022-09-08T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Death Note  Vol. 1",
-                "author": ["Yuki Kowalsky"],
-                "pages": 385,
-                "published": "2003-01-01T00:00:00.000Z",
-                "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327777419i/6345999.jpg",
-                "isbn": 9781421539652,
-                "genre": ["Manga", "Graphic Novel"],
-                "finished": "2022-04-28T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Memory Police",
-                "author": ["YÅko Ogawa"],
-                "pages": 274,
-                "published": "2019-08-13T00:00:00.000Z",
-                "cover": "https://assets.literal.club/4/cklgk5n08236441ifbcnrx6hmj.jpg?size=600",
-                "isbn": 9781101870600,
-                "genre": ["Fiction"],
-                "finished": "2022-10-08T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Wool",
-                "author": ["Hugh Howey"],
-                "pages": 592,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckl9crv1i381161i4lmnx2rbnh.jpg",
-                "isbn": 9780358447849,
-                "genre": ["Fiction"],
-                "finished": "2022-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Girl with the Dragon Tattoo",
-                "author": ["Stieg Larsson"],
-                "pages": 480,
-                "published": "",
-                "cover": "https://assets.literal.club/2/cksa88031767311evrqmo5viof.jpg",
-                "isbn": 9780143198369,
-                "genre": ["Fiction"],
-                "finished": "2022-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Comfort Book",
-                "author": ["Matt Haig"],
-                "pages": 272,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckt3edmpz38988ck7a9qsk8ewb.jpg",
-                "isbn": 9781838853938,
-                "genre": ["Fiction"],
-                "finished": "2022-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered",
-                "author": ["Austin Kleon"],
-                "pages": 224,
-                "published": "",
-                "cover": "https://assets.literal.club/1/ckgjc95wm06490zahco6e0gg0.jpg",
-                "isbn": 9780761181361,
-                "genre": ["Fiction"],
-                "finished": "2022-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Refactoring UI",
-                "author": ["Adam Wathan", "Steve Schoger"],
-                "pages": 252,
-                "published": "",
-                "cover": "https://assets.literal.club/cover/5/ckt7kn47a446764xy7aypi3jyzd.jpg",
-                "isbn": null,
-                "genre": ["Fiction"],
-                "finished": "2022-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed",
-                "author": ["Lori Gottlieb"],
-                "pages": 415,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckjmti5je277810za75vxyk5kz.jpg",
-                "isbn": 9781328662057,
-                "genre": ["Fiction"],
-                "finished": "2022-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Ghostwritten",
-                "author": ["David Mitchell"],
-                "pages": 300,
-                "published": "",
-                "cover": "https://assets.literal.club/1/ckoroxf087633111i7n76wx1ekl.jpg",
-                "isbn": 9781844568833,
-                "genre": ["Fiction"],
-                "finished": "2022-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Dschinns: Roman",
-                "author": ["Fatma Aydemir"],
-                "pages": 368,
-                "published": "",
-                "cover": "https://assets.literal.club/2/cl0m9a3gh20530id05dpo0uro.jpg",
-                "isbn": 9783446269149,
-                "genre": ["Fiction"],
-                "finished": "2022-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Convenience Store Woman",
-                "author": ["Sayaka Murata"],
-                "pages": 176,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckt2k9csh222948897adl7vncb0.jpg",
-                "isbn": 9781846276842,
-                "genre": ["Fiction"],
-                "finished": "2022-01-01T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            }
-        ],
-        "2023": [
-            {
-                "title": "Kummer aller Art",
-                "author": ["Mariana Leky"],
-                "pages": 128,
-                "published": "",
-                "cover": "https://assets.literal.club/cover/2/cl5m57lz07197040js1t1kqjoqs.jpg",
-                "isbn": 9783832182168,
-                "genre": ["Fiction"],
-                "finished": "2023-11-15T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Sprache und Sein",
-                "author": ["Kübra Gümüsay"],
-                "pages": 208,
-                "published": "2020-01-27T00:00:00.000Z",
-                "cover": "https://assets.literal.club/4/ckp43d35n234351gjs3t6m09ft.jpg?size=600",
-                "isbn": 9783446265950,
-                "genre": ["Sachbuch", "Sprachwissenschaft"],
-                "finished": "2023-05-03T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Recursion",
-                "author": ["Blake Crouch"],
-                "pages": 352,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckt06kxcw4054114y32szteraf.jpg",
-                "isbn": 9781509866670,
-                "genre": ["Fiction"],
-                "finished": "2023-03-29T00:00:00.000Z",
-                "rating": 5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
-                "author": ["Austin Kleon"],
-                "pages": 160,
-                "published": "",
-                "cover": "https://assets-ol.literal.club/ol/7284187.jpg",
-                "isbn": 9780761169253,
-                "genre": ["Fiction"],
-                "finished": "2023-06-07T00:00:00.000Z",
-                "rating": 4.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Swimming Studies",
-                "author": ["Leanne Shapton"],
-                "pages": 336,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckrwc1l8m10928041798debxq9p3.jpg",
-                "isbn": 9780399174841,
-                "genre": ["Fiction"],
-                "finished": "2023-10-03T00:00:00.000Z",
-                "rating": 3,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Vom Ende der Einsamkeit: Roman",
-                "author": ["Benedict Wells"],
-                "pages": 354,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckrdhn5rd0dmp01suqi2gxci6.jpg",
-                "isbn": 9783257069587,
-                "genre": ["Fiction"],
-                "finished": "2023-01-26T00:00:00.000Z",
-                "rating": 4.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Horrorstör: Thriller",
-                "author": ["Grady Hendrix"],
-                "pages": 276,
-                "published": "",
-                "cover": "https://assets.literal.club/3/ckrp0nrj3844562178fwtqtr14q.jpg",
-                "isbn": 9783426429648,
-                "genre": ["Fiction"],
-                "finished": "2023-12-14T00:00:00.000Z",
-                "rating": 3,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Fellowship of the Ring: The Lord of the Rings, Part 1",
-                "author": ["J.R.R. Tolkien"],
-                "pages": 560,
-                "published": "",
-                "cover": "https://assets.literal.club/cover/5/ckohgtx7k2080561i64riy3s7z3.jpg",
-                "isbn": 9780008108298,
-                "genre": ["Fiction"],
-                "finished": "2023-01-15T00:00:00.000Z",
-                "rating": 5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Two Towers : Lord of the Rings Part 2",
-                "author": ["J.R.R. Tolkien"],
-                "pages": 464,
-                "published": "",
-                "cover": "https://assets.literal.club/cover/5/cl2jpmvpm7569760hxvnywmm3ox.jpg",
-                "isbn": null,
-                "genre": ["Fiction"],
-                "finished": "2023-03-11T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Animal Farm",
-                "author": ["George Orwell"],
-                "pages": 140,
-                "published": "",
-                "cover": "https://assets.literal.club/5/ckh0i8o0253020z6kexebi3y9.jpg",
-                "isbn": 9780451526342,
-                "genre": ["Fiction", "Science Fiction", "Fabel", "Dystopia"],
-                "finished": "2023-07-22T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Attack on Titan, Vol. 1",
-                "author": ["Hajime Isayama"],
-                "pages": 0,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckr1qjtma05yf01craymg9l8h.jpg?size=600",
-                "isbn": 9781612620244,
-                "genre": ["Graphic Novel", "Manga"],
-                "finished": "2023-01-14T00:00:00.000Z",
-                "rating": null,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Little Fires Everywhere",
-                "author": ["Celeste Ng"],
-                "pages": 338,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckr1sa6ti0oaw01crl1mowc3y.jpg",
-                "isbn": 9780525522560,
-                "genre": ["Fiction"],
-                "finished": "2023-05-15T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "What I Talk About When I Talk About Running",
-                "author": ["Haruki Murakami"],
-                "pages": 192,
-                "published": "",
-                "cover": "https://assets.literal.club/3/ckemnwffv0391240yxom61ne1.jpg",
-                "isbn": 9781448103737,
-                "genre": ["Fiction"],
-                "finished": "2023-06-26T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "What They Forgot to Teach You at School",
-                "author": ["The School of Life"],
-                "pages": 160,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckuy4bb6e6917015tx1colw37y.jpg",
-                "isbn": 9781912891399,
-                "genre": ["Fiction"],
-                "finished": "2023-08-28T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Hard Land",
-                "author": ["Benedict Wells"],
-                "pages": 352,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckpzys5da1583341rjmff0m5tmn.jpg",
-                "isbn": 9783257071481,
-                "genre": ["Fiction"],
-                "finished": "2023-10-20T00:00:00.000Z",
-                "rating": 5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "A Simpler Life: A guide to greater serenity, ease, and clarity",
-                "author": ["The School of Life"],
-                "pages": 192,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckzmu2sox346250jv09wmi081n.jpg",
-                "isbn": 9781912891689,
-                "genre": ["Fiction"],
-                "finished": "2023-06-02T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            }
-        ],
-        "2024": [
-            {
-                "title": "Anxiety",
-                "author": ["The School of Life"],
-                "pages": 112,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckk7787zi379411i8sdaglvhfl.jpg",
-                "isbn": 9781912891214,
-                "genre": ["Fiction"],
-                "finished": "2024-05-01T00:00:00.000Z",
-                "rating": 3,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Project Hail Mary",
-                "author": ["Andy Weir"],
-                "pages": 0,
-                "published": "",
-                "cover": "https://assets.literal.club/2/cl3jrbr1s12942000hircv8g3mxc.jpg",
-                "isbn": 9781529157468,
-                "genre": ["Fiction"],
-                "finished": "2024-02-28T00:00:00.000Z",
-                "rating": 4.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Harry Potter and the Sorcerer's Stone: Harry Potter #1",
-                "author": ["J. K. Rowling"],
-                "pages": 309,
-                "published": "",
-                "cover": "https://assets.literal.club/1/ckg2lgfd20298onx217ihdaul.jpg",
-                "isbn": 9781781100486,
-                "genre": ["Fiction"],
-                "finished": "2024-11-19T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Seven Brief Lessons on Physics",
-                "author": ["Carlo Rovelli"],
-                "pages": 86,
-                "published": "",
-                "cover": "https://assets.literal.club/2/ckp4g096x74711gjs7ptfyuwi.jpg",
-                "isbn": 9780399184413,
-                "genre": ["Fiction"],
-                "finished": "2024-01-25T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "How To Live: 27 conflicting answers and one weird conclusion",
-                "author": ["Derek Sivers"],
-                "pages": 115,
-                "published": "",
-                "cover": "https://literal-app-assets.ams3.cdn.digitaloceanspaces.com/production/covers/useruploads/ckvw5262k004m0oywb192eohe.jpeg",
-                "isbn": null,
-                "genre": ["Fiction"],
-                "finished": "2024-01-11T00:00:00.000Z",
-                "rating": 3,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Glass Castle: A Memoir",
-                "author": ["Jeannette Walls"],
-                "pages": 304,
-                "published": "",
-                "cover": "https://assets.literal.club/4/cklgk5kc1231441ifbd1r3fjtb.jpg",
-                "isbn": 9780743247542,
-                "genre": ["Fiction"],
-                "finished": "2024-04-04T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Diary of a Murderer: And Other Stories",
-                "author": ["Young-ha Kim"],
-                "pages": 208,
-                "published": "",
-                "cover": "https://assets.literal.club/2/cksxouobh410310378gsr84ti5g.jpg",
-                "isbn": 9781328545428,
-                "genre": ["Fiction"],
-                "finished": "2024-10-27T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Stay True: A Memoir",
-                "author": ["Hua Hsu"],
-                "pages": 204,
-                "published": "",
-                "cover": "https://assets.literal.club/1/cl00d3o9j360100hsuqyqegoa9.jpg",
-                "isbn": 9780385547772,
-                "genre": ["Fiction"],
-                "finished": "2024-10-20T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "22 Bahnen",
-                "author": ["Caroline Wahl"],
-                "pages": 187,
-                "published": "",
-                "cover": "https://assets.literal.club/cover/1/clkk03kw89041530gs3b4irwl9j.jpg",
-                "isbn": 9783832182786,
-                "genre": ["Fiction"],
-                "finished": "2024-06-09T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Circe",
-                "author": ["Madeline Miller"],
-                "pages": 393,
-                "published": "",
-                "cover": "https://assets.literal.club/4/ckppt3chb609341givgend0zvh.jpg",
-                "isbn": 9780316556347,
-                "genre": ["Fiction"],
-                "finished": "2024-09-14T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Walking Man",
-                "author": ["Jiro Taniguchi"],
-                "pages": 160,
-                "published": "",
-                "cover": "https://assets.literal.club/2/cksob22j178831gwii0n4l9vx.jpg?size=600",
-                "isbn": 9781908007421,
-                "genre": ["Graphic Novel"],
-                "finished": "2024-12-02T00:00:00.000Z",
-                "rating": 2.5,
-                "status": ["Abgeschlossen"]
-            }
-        ],
-        "2025": [
-            {
-                "title": "Small Things Like These",
-                "author": ["Claire Keegan"],
-                "pages": 112,
-                "published": "2024-10-03T00:00:00.000Z",
-                "cover": "https://i.cbc.ca/ais/1.6426648,1650572073000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1527%2C2252%29%3BResize%3D1280",
-                "isbn": "0571392601 9780571392605",
-                "publisher": "Steidl",
-                "genre": null,
-                "finished": "2025-12-24T00:00:00.000Z",
-                "rating": 4,
-                "added": "2025-12-22 16:54",
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Tomorrow, and Tomorrow, and Tomorrow: A Novel",
-                "author": ["Gabrielle Zevin"],
-                "pages": 401,
-                "published": "2022-07-05T00:00:00.000Z",
-                "cover": "https://assets.literal.club/2/cl0b14t3f9376650hj21mqjeq87.jpg?size=600",
-                "isbn": 9780593321201,
-                "genre": ["Fiction", "coming of age"],
-                "finished": "2025-04-02T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Fever in Urbicand",
-                "author": ["François Schuiten", "Benoît Peeters"],
-                "pages": 96,
-                "published": "1984",
-                "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1181637249i/1173925.jpg",
-                "isbn": "9780918348869",
-                "genre": [
-                    "Comics",
-                    "Bande Dessinée",
-                    "Fantasy",
-                    "France",
-                    "Architecture",
-                    "Science Fiction",
-                    "Fiction",
-                    "Graphic Novel"
-                ],
-                "finished": "2025-11-11T00:00:00.000Z",
-                "rating": 4.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Hello World: Being Human in the Age of Algorithms",
-                "author": ["Hannah Fry"],
-                "pages": 256,
-                "published": "2019-09-24T00:00:00.000Z",
-                "cover": "https://assets.literal.club/4/cklgk45h8163491ifb4whwpcri.jpg?size=600",
-                "isbn": 9780393357363,
-                "genre": ["Fiction"],
-                "finished": "2025-02-09T00:00:00.000Z",
-                "rating": 3.5,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The Hobbit",
-                "author": ["J.R.R. Tolkien"],
-                "pages": 0,
-                "published": "1974-07-13T00:00:00.000Z",
-                "cover": "https://assets.literal.club/1/ckr1ubxp71a8y01crj3it69iu.jpg?size=600",
-                "isbn": 345240316,
-                "genre": ["Fiction"],
-                "finished": "2025-05-03T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The song of Achilles : Barnes & Noble Edition ",
-                "author": ["Madeline Miller"],
-                "pages": 369,
-                "published": "2023-12-04T00:00:00.000Z",
-                "cover": "https://literal-app-assets.ams3.cdn.digitaloceanspaces.com/production/covers/useruploads/clpq4abe5000k0hsh9klm4tpp.jpeg",
-                "isbn": null,
-                "genre": ["Fiction"],
-                "finished": "2025-02-08T00:00:00.000Z",
-                "rating": 3,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "Swimming in Darkness",
-                "author": ["Lucas Harari"],
-                "pages": 152,
-                "published": "2019-11-01T00:00:00.000Z",
-                "cover": "https://assets.literal.club/4/ckrp1l49i1071036178fed02wt8w.jpg?size=600",
-                "isbn": 9781551527673,
-                "genre": ["Fiction"],
-                "finished": "2025-04-26T00:00:00.000Z",
-                "rating": 3,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "The List of Suspicious Things",
-                "author": ["Jennie Godfrey"],
-                "pages": 464,
-                "published": "2024",
-                "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1686974902i/157591205.jpg",
-                "isbn": null,
-                "genre": [
-                    "Mystery",
-                    "Fiction",
-                    "Historical Fiction",
-                    "Crime",
-                    "Historical"
-                ],
-                "finished": "2025-12-15T00:00:00.000Z",
-                "rating": 4,
-                "status": ["Abgeschlossen"]
-            },
-            {
-                "title": "My Year of Rest and Relaxation",
-                "author": ["Ottessa Moshfegh"],
-                "pages": 304,
-                "published": "2019-05-02T00:00:00.000Z",
-                "cover": "https://assets.literal.club/2/cklgk0s0n48211ifbty0fv6t9.jpg?size=600",
-                "isbn": 9781784707422,
-                "genre": ["Fiction"],
-                "finished": "2025-06-13T00:00:00.000Z",
-                "rating": 2.5,
-                "status": ["Abgeschlossen"]
-            }
-        ]
+  "lastUpdated": "2026-01-05T12:02:05.910Z",
+  "count": 81,
+  "aktiv": [
+    {
+      "title": "ë",
+      "author": [
+        "Jehona Kicaj"
+      ],
+      "pages": 145,
+      "published": "2025-07-23T00:00:00.000Z",
+      "cover": "http://books.google.com/books/content?id=eORyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      "isbn": "383538936X 9783835389366",
+      "publisher": "Wallstein Verlag",
+      "genre": null,
+      "finished": null,
+      "rating": null,
+      "added": "2026-01-03 23:34",
+      "status": [
+        "Aktiv"
+      ]
     }
+  ],
+  "merkliste": [
+    {
+      "title": "Watchmen",
+      "author": [
+        "Alan             Moore",
+        "Dave Gibbons",
+        "John    Higgins"
+      ],
+      "pages": 416,
+      "published": "1987",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1442239711i/472331.jpg",
+      "isbn": null,
+      "genre": [
+        "Graphic Novels",
+        "Comics",
+        "Fiction",
+        "Science Fiction",
+        "Fantasy",
+        "Graphic Novels Comics",
+        "Classics"
+      ],
+      "finished": null,
+      "rating": null,
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "The People in the Trees",
+      "author": [
+        "Hanya Yanagihara"
+      ],
+      "pages": 369,
+      "published": "2013",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1356108388i/16126596.jpg",
+      "isbn": "[]",
+      "genre": [
+        "Fiction",
+        "Historical Fiction",
+        "Fantasy",
+        "Magical Realism",
+        "Literary Fiction",
+        "Contemporary",
+        "Historical"
+      ],
+      "finished": null,
+      "rating": null,
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Station Eleven",
+      "author": [
+        "Emily St. John Mandel"
+      ],
+      "pages": 333,
+      "published": "2014",
+      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1680459872i/20170404.jpg",
+      "isbn": null,
+      "genre": [
+        "Fiction",
+        "Science Fiction",
+        "Dystopia",
+        "Book Club",
+        "Post Apocalyptic",
+        "Audiobook",
+        "Fantasy"
+      ],
+      "finished": null,
+      "rating": null,
+      "status": [
+        "Merkliste"
+      ]
+    }
+  ],
+  "pausiert": [],
+  "abgeschlossen": {
+    "2018": [
+      {
+        "title": "Speculative Everything: Design, Fiction, and Social Dreaming",
+        "author": [
+          "Anthony Dunne",
+          "Fiona Raby"
+        ],
+        "pages": 224,
+        "published": "2013",
+        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1381287521i/17756296.jpg",
+        "isbn": null,
+        "genre": [
+          "Design",
+          "Nonfiction",
+          "Art",
+          "Art Design",
+          "Architecture",
+          "Technology",
+          "Academic"
+        ],
+        "finished": "2018-09-05T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Handmaid's Tale",
+        "author": [
+          "Margaret Atwood"
+        ],
+        "pages": 320,
+        "published": "1985",
+        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1488552336i/34454589.jpg",
+        "isbn": null,
+        "genre": [
+          "Fiction",
+          "Classics",
+          "Dystopia",
+          "Science Fiction",
+          "Feminism"
+        ],
+        "finished": "2018-09-08T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2019": [
+      {
+        "title": "An Absolutely Remarkable Thing",
+        "author": [
+          "Hank Green"
+        ],
+        "pages": 343,
+        "published": "2018",
+        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1520026196i/24233708.jpg",
+        "isbn": null,
+        "genre": [
+          "Science Fiction",
+          "Fiction",
+          "Young Adult",
+          "Contemporary"
+        ],
+        "finished": "2019-12-18T00:00:00.000Z",
+        "rating": 3,
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2021": [
+      {
+        "title": "Untenrum frei",
+        "author": [
+          "Margarete Stokowski"
+        ],
+        "pages": 256,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckrrn5sha1422711798ro12dfq7.jpg",
+        "isbn": 9783499631863,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2021-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Midnight Library",
+        "author": [
+          "Matt Haig"
+        ],
+        "pages": 304,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckkln8g1k142991i7juluiok1f.jpg",
+        "isbn": 9781786892713,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2021-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Sophie Passmann über Frank Ocean",
+        "author": [
+          "Sophie Passmann"
+        ],
+        "pages": 96,
+        "published": "",
+        "cover": "https://assets.literal.club/3/ckr32qwgk1101361fu6ay51gnqg.jpg",
+        "isbn": 9783462320367,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2021-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Sei kein Mann: Warum Männlichkeit ein Albtraum für Jungs ist",
+        "author": [
+          "JJ Bola"
+        ],
+        "pages": 0,
+        "published": "",
+        "cover": "https://assets.literal.club/cover/5/ckwgk6xse70995014v9oonplbjl.jpg",
+        "isbn": 9783446272835,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2021-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Land in Sicht",
+        "author": [
+          "Ilona Hartmann"
+        ],
+        "pages": 160,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckrqpcjb0257311fugyxf2yuio.jpg",
+        "isbn": 9783351050764,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2021-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Jacob träumt nicht mehr",
+        "author": [
+          "Clemens Bruno Gatzmaga"
+        ],
+        "pages": 0,
+        "published": "",
+        "cover": "https://assets.literal.club/cover/5/cky4hfr4912510420ik6msb160at.jpg",
+        "isbn": 9783792002,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2021-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Das Leben ist eins der Härtesten",
+        "author": [
+          "Giulia Becker"
+        ],
+        "pages": 224,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckun28e6q10931772j7a2zwxiz7a.jpg",
+        "isbn": 9783498006891,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2021-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Dark Matter",
+        "author": [
+          "Blake Crouch"
+        ],
+        "pages": 352,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckr1qywbq0ah101crrmxldsk9.jpg",
+        "isbn": 9781447297574,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2021-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2022": [
+      {
+        "title": "In: A Graphic Novel",
+        "author": [
+          "Will McPhail"
+        ],
+        "pages": 0,
+        "published": "",
+        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1593147401i/53968432.jpg",
+        "isbn": 9780358345541,
+        "genre": [
+          "Graphic Novel"
+        ],
+        "finished": "2022-05-24T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Tuesdays With Morrie: An old man, a young man, and life's greatest lesson",
+        "author": [
+          "Mitch Albom"
+        ],
+        "pages": 0,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckr1voyun1p8u01cr2v4fqo7e.jpg",
+        "isbn": 9780751569575,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Nickel Boys",
+        "author": [
+          "Colson Whitehead"
+        ],
+        "pages": 240,
+        "published": "",
+        "cover": "http://books.google.com/books/content?id=wvHdzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": 9781785417962,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Monk of Mokha",
+        "author": [
+          "Dave Eggers"
+        ],
+        "pages": 352,
+        "published": "",
+        "cover": "https://assets.literal.club/2/cklgjvco001731ifbtovevtln.jpg",
+        "isbn": 9780241244906,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Terror",
+        "author": [
+          "Ferdinand von Schirach"
+        ],
+        "pages": 96,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckrbpf6je82659183skge514ay.jpg",
+        "isbn": 9780571340767,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Schöner als überall: Roman",
+        "author": [
+          "Kristin Höller"
+        ],
+        "pages": 219,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckuohb70j2889801fy86a20m3el.jpg",
+        "isbn": 9783518763278,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": [
+          "Yuval Noah Harari"
+        ],
+        "pages": 512,
+        "published": "",
+        "cover": "https://assets.literal.club/cover/5/cketqjupl21366jm0ycwopwxq6.jpg",
+        "isbn": 9780099590088,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Permanent Record",
+        "author": [
+          "Edward Snowden"
+        ],
+        "pages": 352,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckjpr7w4725500zm4em0gcly0.jpg",
+        "isbn": 9781250237231,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Oryx and Crake",
+        "author": [
+          "Margaret Atwood"
+        ],
+        "pages": 0,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckr1sv3ox0uds01cr5to70h8b.jpg",
+        "isbn": 9781408802779,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Monsieur Ibrahim And The Flowers",
+        "author": [
+          "Eric-Emmanuel Schmitt"
+        ],
+        "pages": 42,
+        "published": "",
+        "cover": "http://books.google.com/books/content?id=R6QdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": null,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 3,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Miroloi",
+        "author": [
+          "Karen Köhler"
+        ],
+        "pages": 464,
+        "published": "",
+        "cover": "https://assets.literal.club/4/cksktwi1i1196537q298w63o84tp.jpg",
+        "isbn": 9783446261716,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "HERKUNFT",
+        "author": [
+          "Sasa Stanisic"
+        ],
+        "pages": 320,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckp43do37272441gjs1r4w5cx9.jpg",
+        "isbn": 9783630874739,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Factfulness: The Ten Reason We're Wrong About the World--And Why Things Are Better Than You Think",
+        "author": [
+          "Hans Rosling"
+        ],
+        "pages": 352,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckhdjxbzf29901llg4yj1b12e.jpg",
+        "isbn": 9781473637467,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+        "author": [
+          "Cal Newport"
+        ],
+        "pages": 304,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckhdk94xu239370zap55p9nzso.jpg",
+        "isbn": 9780241341155,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Der Goldene Handschuh",
+        "author": [
+          "Heinz Strunk"
+        ],
+        "pages": 256,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckrqytx4v5323917982hkw3i22.jpg",
+        "isbn": 9783498064365,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Das Parfum: Die Geschichte eines Mörders. Buch und Film",
+        "author": [
+          "Patrick Süskind"
+        ],
+        "pages": 336,
+        "published": "",
+        "cover": "http://books.google.com/books/content?id=7FQDogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": 9783257069334,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+        "author": [
+          "Haruki Murakami"
+        ],
+        "pages": 304,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckgcfooqw26850zb8v1j3sz21.jpg",
+        "isbn": 9781448190959,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Alte Sorten: Roman",
+        "author": [
+          "Ewald Arenz"
+        ],
+        "pages": 210,
+        "published": "",
+        "cover": "https://assets.literal.club/2/cksktryjr1184502q298z513nj0p.jpg",
+        "isbn": 9783832183813,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "A Winter's Promise: Book One of the Mirror Visitor Quartet",
+        "author": [
+          "Christelle Dabos"
+        ],
+        "pages": 492,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckm653vej372151h6gos1c6k1m.jpg",
+        "isbn": 9781609456078,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-09-08T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Death Note  Vol. 1",
+        "author": [
+          "Yuki Kowalsky"
+        ],
+        "pages": 385,
+        "published": "2003-01-01T00:00:00.000Z",
+        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327777419i/6345999.jpg",
+        "isbn": 9781421539652,
+        "genre": [
+          "Manga",
+          "Graphic Novel"
+        ],
+        "finished": "2022-04-28T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Memory Police",
+        "author": [
+          "YÅko Ogawa"
+        ],
+        "pages": 274,
+        "published": "2019-08-13T00:00:00.000Z",
+        "cover": "https://assets.literal.club/4/cklgk5n08236441ifbcnrx6hmj.jpg?size=600",
+        "isbn": 9781101870600,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-10-08T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Wool",
+        "author": [
+          "Hugh Howey"
+        ],
+        "pages": 592,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckl9crv1i381161i4lmnx2rbnh.jpg",
+        "isbn": 9780358447849,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": [
+          "Stieg Larsson"
+        ],
+        "pages": 480,
+        "published": "",
+        "cover": "https://assets.literal.club/2/cksa88031767311evrqmo5viof.jpg",
+        "isbn": 9780143198369,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Comfort Book",
+        "author": [
+          "Matt Haig"
+        ],
+        "pages": 272,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckt3edmpz38988ck7a9qsk8ewb.jpg",
+        "isbn": 9781838853938,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered",
+        "author": [
+          "Austin Kleon"
+        ],
+        "pages": 224,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckgjc95wm06490zahco6e0gg0.jpg",
+        "isbn": 9780761181361,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Refactoring UI",
+        "author": [
+          "Adam Wathan",
+          "Steve Schoger"
+        ],
+        "pages": 252,
+        "published": "",
+        "cover": "https://assets.literal.club/cover/5/ckt7kn47a446764xy7aypi3jyzd.jpg",
+        "isbn": null,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed",
+        "author": [
+          "Lori Gottlieb"
+        ],
+        "pages": 415,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckjmti5je277810za75vxyk5kz.jpg",
+        "isbn": 9781328662057,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Ghostwritten",
+        "author": [
+          "David Mitchell"
+        ],
+        "pages": 300,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckoroxf087633111i7n76wx1ekl.jpg",
+        "isbn": 9781844568833,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Dschinns: Roman",
+        "author": [
+          "Fatma Aydemir"
+        ],
+        "pages": 368,
+        "published": "",
+        "cover": "https://assets.literal.club/2/cl0m9a3gh20530id05dpo0uro.jpg",
+        "isbn": 9783446269149,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Convenience Store Woman",
+        "author": [
+          "Sayaka Murata"
+        ],
+        "pages": 176,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckt2k9csh222948897adl7vncb0.jpg",
+        "isbn": 9781846276842,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2022-01-01T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2023": [
+      {
+        "title": "Kummer aller Art",
+        "author": [
+          "Mariana Leky"
+        ],
+        "pages": 128,
+        "published": "",
+        "cover": "https://assets.literal.club/cover/2/cl5m57lz07197040js1t1kqjoqs.jpg",
+        "isbn": 9783832182168,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-11-15T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Sprache und Sein",
+        "author": [
+          "Kübra Gümüsay"
+        ],
+        "pages": 208,
+        "published": "2020-01-27T00:00:00.000Z",
+        "cover": "https://assets.literal.club/4/ckp43d35n234351gjs3t6m09ft.jpg?size=600",
+        "isbn": 9783446265950,
+        "genre": [
+          "Sachbuch",
+          "Sprachwissenschaft"
+        ],
+        "finished": "2023-05-03T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Recursion",
+        "author": [
+          "Blake Crouch"
+        ],
+        "pages": 352,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckt06kxcw4054114y32szteraf.jpg",
+        "isbn": 9781509866670,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-03-29T00:00:00.000Z",
+        "rating": 5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+        "author": [
+          "Austin Kleon"
+        ],
+        "pages": 160,
+        "published": "",
+        "cover": "https://assets-ol.literal.club/ol/7284187.jpg",
+        "isbn": 9780761169253,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-06-07T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Swimming Studies",
+        "author": [
+          "Leanne Shapton"
+        ],
+        "pages": 336,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckrwc1l8m10928041798debxq9p3.jpg",
+        "isbn": 9780399174841,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-10-03T00:00:00.000Z",
+        "rating": 3,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Vom Ende der Einsamkeit: Roman",
+        "author": [
+          "Benedict Wells"
+        ],
+        "pages": 354,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckrdhn5rd0dmp01suqi2gxci6.jpg",
+        "isbn": 9783257069587,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-01-26T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Horrorstör: Thriller",
+        "author": [
+          "Grady Hendrix"
+        ],
+        "pages": 276,
+        "published": "",
+        "cover": "https://assets.literal.club/3/ckrp0nrj3844562178fwtqtr14q.jpg",
+        "isbn": 9783426429648,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-12-14T00:00:00.000Z",
+        "rating": 3,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Fellowship of the Ring: The Lord of the Rings, Part 1",
+        "author": [
+          "J.R.R. Tolkien"
+        ],
+        "pages": 560,
+        "published": "",
+        "cover": "https://assets.literal.club/cover/5/ckohgtx7k2080561i64riy3s7z3.jpg",
+        "isbn": 9780008108298,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-01-15T00:00:00.000Z",
+        "rating": 5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Two Towers : Lord of the Rings Part 2",
+        "author": [
+          "J.R.R. Tolkien"
+        ],
+        "pages": 464,
+        "published": "",
+        "cover": "https://assets.literal.club/cover/5/cl2jpmvpm7569760hxvnywmm3ox.jpg",
+        "isbn": null,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-03-11T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Animal Farm",
+        "author": [
+          "George Orwell"
+        ],
+        "pages": 140,
+        "published": "",
+        "cover": "https://assets.literal.club/5/ckh0i8o0253020z6kexebi3y9.jpg",
+        "isbn": 9780451526342,
+        "genre": [
+          "Fiction",
+          "Science Fiction",
+          "Fabel",
+          "Dystopia"
+        ],
+        "finished": "2023-07-22T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Attack on Titan, Vol. 1",
+        "author": [
+          "Hajime Isayama"
+        ],
+        "pages": 0,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckr1qjtma05yf01craymg9l8h.jpg?size=600",
+        "isbn": 9781612620244,
+        "genre": [
+          "Graphic Novel",
+          "Manga"
+        ],
+        "finished": "2023-01-14T00:00:00.000Z",
+        "rating": null,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Little Fires Everywhere",
+        "author": [
+          "Celeste Ng"
+        ],
+        "pages": 338,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckr1sa6ti0oaw01crl1mowc3y.jpg",
+        "isbn": 9780525522560,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-05-15T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "What I Talk About When I Talk About Running",
+        "author": [
+          "Haruki Murakami"
+        ],
+        "pages": 192,
+        "published": "",
+        "cover": "https://assets.literal.club/3/ckemnwffv0391240yxom61ne1.jpg",
+        "isbn": 9781448103737,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-06-26T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "What They Forgot to Teach You at School",
+        "author": [
+          "The School of Life"
+        ],
+        "pages": 160,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckuy4bb6e6917015tx1colw37y.jpg",
+        "isbn": 9781912891399,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-08-28T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Hard Land",
+        "author": [
+          "Benedict Wells"
+        ],
+        "pages": 352,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckpzys5da1583341rjmff0m5tmn.jpg",
+        "isbn": 9783257071481,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-10-20T00:00:00.000Z",
+        "rating": 5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "A Simpler Life: A guide to greater serenity, ease, and clarity",
+        "author": [
+          "The School of Life"
+        ],
+        "pages": 192,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckzmu2sox346250jv09wmi081n.jpg",
+        "isbn": 9781912891689,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2023-06-02T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2024": [
+      {
+        "title": "Anxiety",
+        "author": [
+          "The School of Life"
+        ],
+        "pages": 112,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckk7787zi379411i8sdaglvhfl.jpg",
+        "isbn": 9781912891214,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-05-01T00:00:00.000Z",
+        "rating": 3,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Project Hail Mary",
+        "author": [
+          "Andy Weir"
+        ],
+        "pages": 0,
+        "published": "",
+        "cover": "https://assets.literal.club/2/cl3jrbr1s12942000hircv8g3mxc.jpg",
+        "isbn": 9781529157468,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-02-28T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Harry Potter and the Sorcerer's Stone: Harry Potter #1",
+        "author": [
+          "J. K. Rowling"
+        ],
+        "pages": 309,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckg2lgfd20298onx217ihdaul.jpg",
+        "isbn": 9781781100486,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-11-19T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Seven Brief Lessons on Physics",
+        "author": [
+          "Carlo Rovelli"
+        ],
+        "pages": 86,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckp4g096x74711gjs7ptfyuwi.jpg",
+        "isbn": 9780399184413,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-01-25T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "How To Live: 27 conflicting answers and one weird conclusion",
+        "author": [
+          "Derek Sivers"
+        ],
+        "pages": 115,
+        "published": "",
+        "cover": "https://literal-app-assets.ams3.cdn.digitaloceanspaces.com/production/covers/useruploads/ckvw5262k004m0oywb192eohe.jpeg",
+        "isbn": null,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-01-11T00:00:00.000Z",
+        "rating": 3,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Glass Castle: A Memoir",
+        "author": [
+          "Jeannette Walls"
+        ],
+        "pages": 304,
+        "published": "",
+        "cover": "https://assets.literal.club/4/cklgk5kc1231441ifbd1r3fjtb.jpg",
+        "isbn": 9780743247542,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-04-04T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Diary of a Murderer: And Other Stories",
+        "author": [
+          "Young-ha Kim"
+        ],
+        "pages": 208,
+        "published": "",
+        "cover": "https://assets.literal.club/2/cksxouobh410310378gsr84ti5g.jpg",
+        "isbn": 9781328545428,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-10-27T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Stay True: A Memoir",
+        "author": [
+          "Hua Hsu"
+        ],
+        "pages": 204,
+        "published": "",
+        "cover": "https://assets.literal.club/1/cl00d3o9j360100hsuqyqegoa9.jpg",
+        "isbn": 9780385547772,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-10-20T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "22 Bahnen",
+        "author": [
+          "Caroline Wahl"
+        ],
+        "pages": 187,
+        "published": "",
+        "cover": "https://assets.literal.club/cover/1/clkk03kw89041530gs3b4irwl9j.jpg",
+        "isbn": 9783832182786,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-06-09T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Circe",
+        "author": [
+          "Madeline Miller"
+        ],
+        "pages": 393,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckppt3chb609341givgend0zvh.jpg",
+        "isbn": 9780316556347,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2024-09-14T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Walking Man",
+        "author": [
+          "Jiro Taniguchi"
+        ],
+        "pages": 160,
+        "published": "",
+        "cover": "https://assets.literal.club/2/cksob22j178831gwii0n4l9vx.jpg?size=600",
+        "isbn": 9781908007421,
+        "genre": [
+          "Graphic Novel"
+        ],
+        "finished": "2024-12-02T00:00:00.000Z",
+        "rating": 2.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2025": [
+      {
+        "title": "Small Things Like These",
+        "author": [
+          "Claire Keegan"
+        ],
+        "pages": 112,
+        "published": "2024-10-03T00:00:00.000Z",
+        "cover": "https://i.cbc.ca/ais/1.6426648,1650572073000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1527%2C2252%29%3BResize%3D1280",
+        "isbn": "0571392601 9780571392605",
+        "publisher": "Steidl",
+        "genre": null,
+        "finished": "2025-12-24T00:00:00.000Z",
+        "rating": 4,
+        "added": "2025-12-22 16:54",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Tomorrow, and Tomorrow, and Tomorrow: A Novel",
+        "author": [
+          "Gabrielle Zevin"
+        ],
+        "pages": 401,
+        "published": "2022-07-05T00:00:00.000Z",
+        "cover": "https://assets.literal.club/2/cl0b14t3f9376650hj21mqjeq87.jpg?size=600",
+        "isbn": 9780593321201,
+        "genre": [
+          "Fiction",
+          "coming of age"
+        ],
+        "finished": "2025-04-02T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Fever in Urbicand",
+        "author": [
+          "François Schuiten",
+          "Benoît Peeters"
+        ],
+        "pages": 96,
+        "published": "1984",
+        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1181637249i/1173925.jpg",
+        "isbn": "9780918348869",
+        "genre": [
+          "Comics",
+          "Bande Dessinée",
+          "Fantasy",
+          "France",
+          "Architecture",
+          "Science Fiction",
+          "Fiction",
+          "Graphic Novel"
+        ],
+        "finished": "2025-11-11T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Hello World: Being Human in the Age of Algorithms",
+        "author": [
+          "Hannah Fry"
+        ],
+        "pages": 256,
+        "published": "2019-09-24T00:00:00.000Z",
+        "cover": "https://assets.literal.club/4/cklgk45h8163491ifb4whwpcri.jpg?size=600",
+        "isbn": 9780393357363,
+        "genre": [
+          "Non-fiction"
+        ],
+        "finished": "2025-02-09T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Hobbit",
+        "author": [
+          "J.R.R. Tolkien"
+        ],
+        "pages": 0,
+        "published": "1974-07-13T00:00:00.000Z",
+        "cover": "https://assets.literal.club/1/ckr1ubxp71a8y01crj3it69iu.jpg?size=600",
+        "isbn": 345240316,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2025-05-03T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The song of Achilles : Barnes & Noble Edition ",
+        "author": [
+          "Madeline Miller"
+        ],
+        "pages": 369,
+        "published": "2023-12-04T00:00:00.000Z",
+        "cover": "https://literal-app-assets.ams3.cdn.digitaloceanspaces.com/production/covers/useruploads/clpq4abe5000k0hsh9klm4tpp.jpeg",
+        "isbn": null,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2025-02-08T00:00:00.000Z",
+        "rating": 3,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Swimming in Darkness",
+        "author": [
+          "Lucas Harari"
+        ],
+        "pages": 152,
+        "published": "2019-11-01T00:00:00.000Z",
+        "cover": "https://assets.literal.club/4/ckrp1l49i1071036178fed02wt8w.jpg?size=600",
+        "isbn": 9781551527673,
+        "genre": [
+          "Fiction",
+          "Graphic Novel"
+        ],
+        "finished": "2025-04-26T00:00:00.000Z",
+        "rating": 3,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The List of Suspicious Things",
+        "author": [
+          "Jennie Godfrey"
+        ],
+        "pages": 464,
+        "published": "2024",
+        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1686974902i/157591205.jpg",
+        "isbn": null,
+        "genre": [
+          "Mystery",
+          "Fiction",
+          "Historical Fiction",
+          "Crime",
+          "Historical"
+        ],
+        "finished": "2025-12-15T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "My Year of Rest and Relaxation",
+        "author": [
+          "Ottessa Moshfegh"
+        ],
+        "pages": 304,
+        "published": "2019-05-02T00:00:00.000Z",
+        "cover": "https://assets.literal.club/2/cklgk0s0n48211ifbty0fv6t9.jpg?size=600",
+        "isbn": 9781784707422,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2025-06-13T00:00:00.000Z",
+        "rating": 2.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ]
+  }
 }
