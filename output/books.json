@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T08:44:29.556Z",
+  "lastUpdated": "2026-01-09T09:14:50.503Z",
   "count": 81,
   "aktiv": [
     {
@@ -169,6 +169,332 @@
         "status": [
           "Abgeschlossen"
         ]
+      },
+      {
+        "title": "The Monk of Mokha",
+        "author": [
+          "Dave Eggers"
+        ],
+        "pages": 352,
+        "published": "",
+        "cover": "https://assets.literal.club/2/cklgjvco001731ifbtovevtln.jpg",
+        "isbn": 9780241244906,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2019-03-05T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Monsieur Ibrahim And The Flowers",
+        "author": [
+          "Eric-Emmanuel Schmitt"
+        ],
+        "pages": 42,
+        "published": "",
+        "cover": "http://books.google.com/books/content?id=R6QdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": null,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2019-05-09T00:00:00.000Z",
+        "rating": 3,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Tuesdays With Morrie: An old man, a young man, and life's greatest lesson",
+        "author": [
+          "Mitch Albom"
+        ],
+        "pages": 0,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckr1voyun1p8u01cr2v4fqo7e.jpg",
+        "isbn": 9780751569575,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2019-02-28T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Terror",
+        "author": [
+          "Ferdinand von Schirach"
+        ],
+        "pages": 96,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckrbpf6je82659183skge514ay.jpg",
+        "isbn": 9780571340767,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2019-04-11T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Das Parfum: Die Geschichte eines Mörders. Buch und Film",
+        "author": [
+          "Patrick Süskind"
+        ],
+        "pages": 336,
+        "published": "",
+        "cover": "http://books.google.com/books/content?id=7FQDogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": 9783257069334,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2019-08-04T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Permanent Record",
+        "author": [
+          "Edward Snowden"
+        ],
+        "pages": 352,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckjpr7w4725500zm4em0gcly0.jpg",
+        "isbn": 9781250237231,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2019-11-16T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Der Goldene Handschuh",
+        "author": [
+          "Heinz Strunk"
+        ],
+        "pages": 256,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckrqytx4v5323917982hkw3i22.jpg",
+        "isbn": 9783498064365,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2019-03-15T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2020": [
+      {
+        "title": "HERKUNFT",
+        "author": [
+          "Sasa Stanisic"
+        ],
+        "pages": 320,
+        "published": "",
+        "cover": "https://assets.literal.club/2/ckp43do37272441gjs1r4w5cx9.jpg",
+        "isbn": 9783630874739,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-09-24T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Alte Sorten: Roman",
+        "author": [
+          "Ewald Arenz"
+        ],
+        "pages": 210,
+        "published": "",
+        "cover": "https://assets.literal.club/2/cksktryjr1184502q298z513nj0p.jpg",
+        "isbn": 9783832183813,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-05-21T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": [
+          "Yuval Noah Harari"
+        ],
+        "pages": 512,
+        "published": "",
+        "cover": "https://assets.literal.club/cover/5/cketqjupl21366jm0ycwopwxq6.jpg",
+        "isbn": 9780099590088,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-07-30T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "A Winter's Promise: Book One of the Mirror Visitor Quartet",
+        "author": [
+          "Christelle Dabos"
+        ],
+        "pages": 492,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckm653vej372151h6gos1c6k1m.jpg",
+        "isbn": 9781609456078,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-07-02T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+        "author": [
+          "Haruki Murakami"
+        ],
+        "pages": 304,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckgcfooqw26850zb8v1j3sz21.jpg",
+        "isbn": 9781448190959,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-02-13T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Oryx and Crake",
+        "author": [
+          "Margaret Atwood"
+        ],
+        "pages": 0,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckr1sv3ox0uds01cr5to70h8b.jpg",
+        "isbn": 9781408802779,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-12-17T00:00:00.000Z",
+        "rating": 3.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Miroloi",
+        "author": [
+          "Karen Köhler"
+        ],
+        "pages": 464,
+        "published": "",
+        "cover": "https://assets.literal.club/4/cksktwi1i1196537q298w63o84tp.jpg",
+        "isbn": 9783446261716,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-04-16T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Schöner als überall: Roman",
+        "author": [
+          "Kristin Höller"
+        ],
+        "pages": 219,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckuohb70j2889801fy86a20m3el.jpg",
+        "isbn": 9783518763278,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-01-18T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Factfulness",
+        "author": [
+          "Hans Rosling"
+        ],
+        "pages": 352,
+        "published": "",
+        "cover": "https://assets.literal.club/4/ckhdjxbzf29901llg4yj1b12e.jpg",
+        "isbn": 9781473637467,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-10-19T00:00:00.000Z",
+        "rating": 4.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Nickel Boys",
+        "author": [
+          "Colson Whitehead"
+        ],
+        "pages": 240,
+        "published": "",
+        "cover": "http://books.google.com/books/content?id=wvHdzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "isbn": 9781785417962,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-06-15T00:00:00.000Z",
+        "rating": 4,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+        "author": [
+          "Cal Newport"
+        ],
+        "pages": 304,
+        "published": "",
+        "cover": "https://assets.literal.club/1/ckhdk94xu239370zap55p9nzso.jpg",
+        "isbn": 9780241341155,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2020-11-13T00:00:00.000Z",
+        "rating": 5,
+        "status": [
+          "Abgeschlossen"
+        ]
       }
     ],
     "2021": [
@@ -331,330 +657,6 @@
           "Graphic Novel"
         ],
         "finished": "2022-05-24T00:00:00.000Z",
-        "rating": 4,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Tuesdays With Morrie: An old man, a young man, and life's greatest lesson",
-        "author": [
-          "Mitch Albom"
-        ],
-        "pages": 0,
-        "published": "",
-        "cover": "https://assets.literal.club/4/ckr1voyun1p8u01cr2v4fqo7e.jpg",
-        "isbn": 9780751569575,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 3.5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "The Nickel Boys",
-        "author": [
-          "Colson Whitehead"
-        ],
-        "pages": 240,
-        "published": "",
-        "cover": "http://books.google.com/books/content?id=wvHdzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "isbn": 9781785417962,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "The Monk of Mokha",
-        "author": [
-          "Dave Eggers"
-        ],
-        "pages": 352,
-        "published": "",
-        "cover": "https://assets.literal.club/2/cklgjvco001731ifbtovevtln.jpg",
-        "isbn": 9780241244906,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4.5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Terror",
-        "author": [
-          "Ferdinand von Schirach"
-        ],
-        "pages": 96,
-        "published": "",
-        "cover": "https://assets.literal.club/1/ckrbpf6je82659183skge514ay.jpg",
-        "isbn": 9780571340767,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Schöner als überall: Roman",
-        "author": [
-          "Kristin Höller"
-        ],
-        "pages": 219,
-        "published": "",
-        "cover": "https://assets.literal.club/1/ckuohb70j2889801fy86a20m3el.jpg",
-        "isbn": 9783518763278,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Sapiens: A Brief History of Humankind",
-        "author": [
-          "Yuval Noah Harari"
-        ],
-        "pages": 512,
-        "published": "",
-        "cover": "https://assets.literal.club/cover/5/cketqjupl21366jm0ycwopwxq6.jpg",
-        "isbn": 9780099590088,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4.5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Permanent Record",
-        "author": [
-          "Edward Snowden"
-        ],
-        "pages": 352,
-        "published": "",
-        "cover": "https://assets.literal.club/2/ckjpr7w4725500zm4em0gcly0.jpg",
-        "isbn": 9781250237231,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Oryx and Crake",
-        "author": [
-          "Margaret Atwood"
-        ],
-        "pages": 0,
-        "published": "",
-        "cover": "https://assets.literal.club/4/ckr1sv3ox0uds01cr5to70h8b.jpg",
-        "isbn": 9781408802779,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 3.5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Monsieur Ibrahim And The Flowers",
-        "author": [
-          "Eric-Emmanuel Schmitt"
-        ],
-        "pages": 42,
-        "published": "",
-        "cover": "http://books.google.com/books/content?id=R6QdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "isbn": null,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 3,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Miroloi",
-        "author": [
-          "Karen Köhler"
-        ],
-        "pages": 464,
-        "published": "",
-        "cover": "https://assets.literal.club/4/cksktwi1i1196537q298w63o84tp.jpg",
-        "isbn": 9783446261716,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "HERKUNFT",
-        "author": [
-          "Sasa Stanisic"
-        ],
-        "pages": 320,
-        "published": "",
-        "cover": "https://assets.literal.club/2/ckp43do37272441gjs1r4w5cx9.jpg",
-        "isbn": 9783630874739,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Factfulness: The Ten Reason We're Wrong About the World--And Why Things Are Better Than You Think",
-        "author": [
-          "Hans Rosling"
-        ],
-        "pages": 352,
-        "published": "",
-        "cover": "https://assets.literal.club/4/ckhdjxbzf29901llg4yj1b12e.jpg",
-        "isbn": 9781473637467,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4.5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
-        "author": [
-          "Cal Newport"
-        ],
-        "pages": 304,
-        "published": "",
-        "cover": "https://assets.literal.club/1/ckhdk94xu239370zap55p9nzso.jpg",
-        "isbn": 9780241341155,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Der Goldene Handschuh",
-        "author": [
-          "Heinz Strunk"
-        ],
-        "pages": 256,
-        "published": "",
-        "cover": "https://assets.literal.club/2/ckrqytx4v5323917982hkw3i22.jpg",
-        "isbn": 9783498064365,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 3.5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Das Parfum: Die Geschichte eines Mörders. Buch und Film",
-        "author": [
-          "Patrick Süskind"
-        ],
-        "pages": 336,
-        "published": "",
-        "cover": "http://books.google.com/books/content?id=7FQDogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-        "isbn": 9783257069334,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 4,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
-        "author": [
-          "Haruki Murakami"
-        ],
-        "pages": 304,
-        "published": "",
-        "cover": "https://assets.literal.club/1/ckgcfooqw26850zb8v1j3sz21.jpg",
-        "isbn": 9781448190959,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 3.5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Alte Sorten: Roman",
-        "author": [
-          "Ewald Arenz"
-        ],
-        "pages": 210,
-        "published": "",
-        "cover": "https://assets.literal.club/2/cksktryjr1184502q298z513nj0p.jpg",
-        "isbn": 9783832183813,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
-        "rating": 3.5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "A Winter's Promise: Book One of the Mirror Visitor Quartet",
-        "author": [
-          "Christelle Dabos"
-        ],
-        "pages": 492,
-        "published": "",
-        "cover": "https://assets.literal.club/4/ckm653vej372151h6gos1c6k1m.jpg",
-        "isbn": 9781609456078,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2022-09-08T00:00:00.000Z",
         "rating": 4,
         "status": [
           "Abgeschlossen"
