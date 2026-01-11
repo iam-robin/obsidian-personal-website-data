@@ -1,56 +1,102 @@
 {
-    "lastUpdated": "2026-01-05T21:12:32.742Z",
-    "count": 3,
-    "aktiv": [],
-    "merkliste": [],
-    "pausiert": [
-        {
-            "title": "Die Brücke",
-            "season": 1,
-            "genre": [null],
-            "director": null,
-            "rating": null,
-            "imdbScore": null,
-            "cast": [null],
-            "cover": "https://m.media-amazon.com/images/I/91+SzVRLNeL._AC_UF894,1000_QL80_.jpg",
-            "released": null,
-            "finished": null,
-            "added": "2025-12-01 22:26",
-            "status": ["Pausiert"]
-        }
-    ],
-    "abgeschlossen": {
-        "2025": [
-            {
-                "title": "Pluribus",
-                "season": 1,
-                "genre": ["Drama", "Sci-Fi"],
-                "director": "Vince Gilligan",
-                "rating": 5,
-                "imdbScore": 8.9,
-                "cast": null,
-                "cover": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_.jpg",
-                "released": "2025-11-07T00:00:00.000Z",
-                "finished": "2025-12-24T00:00:00.000Z",
-                "added": "2025-11-12T20:44:37.000Z",
-                "status": ["Abgeschlossen"]
-            }
-        ],
-        "2026": [
-            {
-                "title": "The Bear",
-                "season": 2,
-                "genre": null,
-                "director": null,
-                "rating": 4.5,
-                "imdbScore": null,
-                "cast": null,
-                "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Bear_Season_2.png",
-                "released": null,
-                "finished": "2026-01-05T00:00:00.000Z",
-                "added": "2026-01-05T00:00:00.000Z",
-                "status": ["Abgeschlossen"]
-            }
-        ]
+  "lastUpdated": "2026-01-11T17:30:12.941Z",
+  "count": 5,
+  "aktiv": [
+    {
+      "title": "The Bear",
+      "season": 3,
+      "genre": null,
+      "director": null,
+      "rating": null,
+      "imdbScore": null,
+      "cast": null,
+      "cover": "https://artworks.thetvdb.com/banners/v4/season/2127094/posters/682d0083267ff.jpg",
+      "released": null,
+      "finished": null,
+      "added": "2026-01-10T00:00:00.000Z",
+      "status": [
+        "Aktiv"
+      ]
+    },
+    {
+      "title": "Halt and catch fire",
+      "season": 1,
+      "genre": null,
+      "director": null,
+      "rating": null,
+      "imdbScore": null,
+      "cast": null,
+      "cover": "https://static.wikia.nocookie.net/haltandcatchfire/images/8/8f/Season1Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20160531012637",
+      "released": null,
+      "finished": null,
+      "added": "2026-01-10T00:00:00.000Z",
+      "status": [
+        "Aktiv"
+      ]
     }
+  ],
+  "merkliste": [],
+  "pausiert": [
+    {
+      "title": "Die Brücke",
+      "season": 1,
+      "genre": [
+        null
+      ],
+      "director": null,
+      "rating": null,
+      "imdbScore": null,
+      "cast": [
+        null
+      ],
+      "cover": "https://m.media-amazon.com/images/I/91+SzVRLNeL._AC_UF894,1000_QL80_.jpg",
+      "released": null,
+      "finished": null,
+      "added": "2025-12-01 22:26",
+      "status": [
+        "Pausiert"
+      ]
+    }
+  ],
+  "abgeschlossen": {
+    "2025": [
+      {
+        "title": "Pluribus",
+        "season": 1,
+        "genre": [
+          "Drama",
+          "Sci-Fi"
+        ],
+        "director": "Vince Gilligan",
+        "rating": 5,
+        "imdbScore": 8.9,
+        "cast": null,
+        "cover": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_.jpg",
+        "released": "2025-11-07T00:00:00.000Z",
+        "finished": "2025-12-24T00:00:00.000Z",
+        "added": "2025-11-12T20:44:37.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2026": [
+      {
+        "title": "The Bear",
+        "season": 2,
+        "genre": null,
+        "director": null,
+        "rating": 4.5,
+        "imdbScore": null,
+        "cast": null,
+        "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Bear_Season_2.png",
+        "released": null,
+        "finished": "2026-01-05T00:00:00.000Z",
+        "added": "2026-01-05T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ]
+  }
 }

@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-01-09T09:14:50.503Z",
-  "count": 81,
+  "lastUpdated": "2026-01-11T17:30:12.851Z",
+  "count": 82,
   "aktiv": [
     {
-      "title": "ë",
+      "title": "Hey guten Morgen, wie geht es dir?",
       "author": [
-        "Jehona Kicaj"
+        "Martina Hefter"
       ],
-      "pages": 145,
-      "published": "2025-07-23T00:00:00.000Z",
-      "cover": "https://www.wallstein-verlag.de/media/cover/9783835359499l.png",
-      "isbn": "383538936X 9783835389366",
-      "publisher": "Wallstein Verlag",
+      "pages": 178,
+      "published": "2024-07-13T00:00:00.000Z",
+      "cover": "https://bilder.buecher.de/produkte/73/73769/73769914z.jpg",
+      "isbn": "3608123539 9783608123531",
+      "publisher": "Klett-Cotta",
       "genre": null,
       "finished": null,
       "rating": null,
-      "added": "2026-01-03 23:34",
+      "added": "2026-01-10 19:45",
       "status": [
         "Aktiv"
       ]
@@ -1531,6 +1531,26 @@
         ],
         "finished": "2025-06-13T00:00:00.000Z",
         "rating": 2.5,
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2026": [
+      {
+        "title": "ë",
+        "author": [
+          "Jehona Kicaj"
+        ],
+        "pages": 145,
+        "published": "2025-07-23T00:00:00.000Z",
+        "cover": "https://www.wallstein-verlag.de/media/cover/9783835359499l.png",
+        "isbn": "383538936X 9783835389366",
+        "publisher": "Wallstein Verlag",
+        "genre": null,
+        "finished": "2026-01-10T00:00:00.000Z",
+        "rating": 4.5,
+        "added": "2026-01-03 23:34",
         "status": [
           "Abgeschlossen"
         ]
