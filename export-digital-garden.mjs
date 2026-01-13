@@ -110,7 +110,9 @@ async function exportDigitalGarden() {
 
     const outputPath = await writeOutput("digital-garden.json", output);
 
-    console.log(`  Exported ${notes.length} Digital Garden notes to ${outputPath}`);
+    console.log(
+        `  Exported ${notes.length} Digital Garden notes to ${outputPath}`
+    );
     for (const [thema, themeNotes] of Object.entries(sortedByThema)) {
         console.log(`    - ${thema}: ${themeNotes.length}`);
     }
