@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-13T07:23:42.535Z",
-  "count": 34,
+  "lastUpdated": "2026-01-17T22:38:59.651Z",
+  "count": 35,
   "Art": [
     {
       "thema": "Art",
@@ -46,6 +46,15 @@
       "title": "Ron Mueck",
       "slug": "ron-mueck",
       "content": ""
+    },
+    {
+      "thema": "Art",
+      "description": "Expressionist painter and co-founder of Der Blaue Reiter",
+      "created": "2026-01-17T00:00:00.000Z",
+      "edited": null,
+      "title": "Gabriele Münter",
+      "slug": "gabriele-m-nter",
+      "content": "<div class=\"columns vertically-centered\" style=\"--column-widths: 1fr 1fr;\">\n\n<div>\n<ul>\n\t<li><b>Born:</b> 19. February, 1877</li>\n\t<li><b>Died:</b> 19. May, 1962</li>\n\t<li><b>Nationality:</b> German</li>\n\t<li><b>Movement:</b> Expressionism, Der Blaue Reiter</li>\n</ul>\n</div>\n\n<div>\n<img src=\"https://res.cloudinary.com/daxsvl9cg/image/upload/v1768689444/csm_GMS_656_MuenterG_A2_PUBLIC_cb0ddde15c_fgiv2l.jpg\" alt=\"portrait painting of Gabriele Münter\">\n</div>\n</div>\n\n---\n\nGabriele Münter is one of those artists who got overshadowed for too long by the men around her, especially Wassily Kandinsky, with whom she had a relationship for over a decade. But her work stands completely on its own and deserves way more recognition.\n\nWhat I find fascinating about her paintings is how she simplifies forms and uses bold, flat colors. There's a directness to her work that feels almost modern, even though she was painting over a hundred years ago. Her landscapes and portraits have this beautiful balance between abstraction and representation.\n\nShe was a key figure in founding Der Blaue Reiter alongside Kandinsky and Franz Marc, which was one of the most influential expressionist movements. After World War I and her separation from Kandinsky, she continued working but largely stepped away from the public art world.\n\nOne remarkable thing she did was hide and preserve a huge collection of avant-garde art during the Nazi era when such works were labeled \"degenerate art\". She later donated over 80 of her own works and many pieces from her collection to the Lenbachhaus in Munich, which now has one of the best collections of Blaue Reiter art in the world."
     }
   ],
   "Books": [
