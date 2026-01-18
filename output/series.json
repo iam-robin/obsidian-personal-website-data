@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T07:23:42.479Z",
+  "lastUpdated": "2026-01-18T17:16:24.679Z",
   "count": 5,
   "aktiv": [
     {
@@ -17,7 +17,10 @@
       "status": [
         "Aktiv"
       ]
-    },
+    }
+  ],
+  "merkliste": [],
+  "pausiert": [
     {
       "title": "Halt and catch fire",
       "season": 1,
@@ -31,12 +34,9 @@
       "finished": null,
       "added": "2026-01-10T00:00:00.000Z",
       "status": [
-        "Aktiv"
+        "Pausiert"
       ]
-    }
-  ],
-  "merkliste": [],
-  "pausiert": [
+    },
     {
       "title": "Die Brücke",
       "season": 1,
