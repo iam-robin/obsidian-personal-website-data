@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T18:19:10.905Z",
-  "count": 27,
+  "lastUpdated": "2026-01-18T18:27:23.859Z",
+  "count": 32,
   "aktiv": [
     {
       "title": "The Bear",
@@ -384,9 +384,63 @@
         "status": [
           "Abgeschlossen"
         ]
+      },
+      {
+        "title": "When They See Us",
+        "season": 1,
+        "genre": [
+          "Drama"
+        ],
+        "director": [
+          "Ava DuVernay"
+        ],
+        "rating": null,
+        "imdbScore": 8.2,
+        "cast": [
+          "Asante Blackk",
+          "Jharrel Jerome",
+          "Ethan Herisse",
+          "Marquis Rodriguez",
+          "Caleel Harris"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/cVlqRoJN5NsFD4NbbUAiyUUFjVz.jpg",
+        "released": "2019-05-31T00:00:00.000Z",
+        "finished": "2019-06-10T00:00:00.000Z",
+        "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
       }
     ],
     "2020": [
+      {
+        "title": "I Am Not Okay with This",
+        "season": 1,
+        "genre": [
+          "Drama",
+          "Komödie",
+          "Sci-Fi & Fantasy"
+        ],
+        "director": [
+          "Christy Hall",
+          "Jonathan Entwistle"
+        ],
+        "rating": null,
+        "imdbScore": 8,
+        "cast": [
+          "Sophia Lillis",
+          "Wyatt Oleff",
+          "Sofia Bryant",
+          "Kathleen Rose Perkins"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/tEs8FyNRkTUvhTOmePkkykFgsRp.jpg",
+        "released": "2020-02-26T00:00:00.000Z",
+        "finished": "2020-02-13T00:00:00.000Z",
+        "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
       {
         "title": "Chernobyl",
         "season": 1,
@@ -498,6 +552,33 @@
         ]
       },
       {
+        "title": "Unorthodox",
+        "season": 1,
+        "genre": [
+          "Drama"
+        ],
+        "director": [
+          "Alexa Karolinski",
+          "Anna Winger"
+        ],
+        "rating": null,
+        "imdbScore": 7.7,
+        "cast": [
+          "Shira Haas",
+          "עמית רהב",
+          "Jeff Wilbusch",
+          "Alex Reid",
+          "Delia Mayer"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/87VO6spysSzuYUId2ZPz0hfmYEJ.jpg",
+        "released": "2020-03-26T00:00:00.000Z",
+        "finished": "2021-08-16T00:00:00.000Z",
+        "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
         "title": "The Leftovers",
         "season": 3,
         "genre": [
@@ -578,6 +659,62 @@
         "cover": "https://image.tmdb.org/t/p/w500/dZHa2vUtYNQ81KV38eHGjn0P4JE.jpg",
         "released": "2020-02-23T00:00:00.000Z",
         "finished": "2022-09-04T00:00:00.000Z",
+        "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2023": [
+      {
+        "title": "The Bear",
+        "season": 1,
+        "genre": [
+          "Drama",
+          "Komödie"
+        ],
+        "director": [
+          "Christopher Storer"
+        ],
+        "rating": null,
+        "imdbScore": 8.2,
+        "cast": [
+          "Jeremy Allen White",
+          "Ebon Moss-Bachrach",
+          "Ayo Edebiri",
+          "Lionel Boyce",
+          "Abby Elliott"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/utQj0H6F24SG8Q5xopgoUJwFWmJ.jpg",
+        "released": "2022-06-23T00:00:00.000Z",
+        "finished": "2023-01-17T00:00:00.000Z",
+        "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "BEEF",
+        "season": 1,
+        "genre": [
+          "Komödie",
+          "Drama"
+        ],
+        "director": [
+          "Lee Sung Jin"
+        ],
+        "rating": null,
+        "imdbScore": 7.7,
+        "cast": [
+          "Steven Yeun",
+          "Ali Wong",
+          "Joseph Lee",
+          "Young Mazino",
+          "David Choe"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/qmj4lGU9WSJgFF9mIPUzStsUGnZ.jpg",
+        "released": "2023-04-05T00:00:00.000Z",
+        "finished": "2023-10-20T00:00:00.000Z",
         "added": "2026-01-18T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
