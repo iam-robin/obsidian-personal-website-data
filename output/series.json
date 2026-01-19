@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T14:51:36.034Z",
+  "lastUpdated": "2026-01-19T14:52:30.408Z",
   "count": 63,
   "aktiv": [
     {
@@ -1070,7 +1070,7 @@
         "director": [
           "Christopher Storer"
         ],
-        "rating": null,
+        "rating": 4,
         "imdbScore": 8.2,
         "cast": [
           "Jeremy Allen White",
@@ -1083,7 +1083,7 @@
         "released": "2022-06-23T00:00:00.000Z",
         "finished": "2023-01-17T00:00:00.000Z",
         "added": "2026-01-18T00:00:00.000Z",
-        "favorite": false,
+        "favorite": true,
         "status": [
           "Abgeschlossen"
         ]
