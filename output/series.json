@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T14:39:20.051Z",
+  "lastUpdated": "2026-01-19T14:51:36.034Z",
   "count": 63,
   "aktiv": [
     {
@@ -462,7 +462,7 @@
     ],
     "2020": [
       {
-        "title": "Das Damengambit",
+        "title": "The Queen's Gambit",
         "season": 1,
         "genre": [
           "Drama"
@@ -1242,7 +1242,7 @@
           "Baran bo Odar",
           "Jantje Friese"
         ],
-        "rating": null,
+        "rating": 4,
         "imdbScore": 8.4,
         "cast": [
           "Louis Hofmann"
@@ -1266,7 +1266,7 @@
         "director": [
           "Lauren LeFranc"
         ],
-        "rating": null,
+        "rating": 4,
         "imdbScore": 8.4,
         "cast": [
           "Colin Farrell",
@@ -1285,7 +1285,7 @@
         ]
       },
       {
-        "title": "Slow Horses - Ein Fall für Jackson Lamb",
+        "title": "Slow Horses",
         "season": 1,
         "genre": [
           "Krimi",
@@ -1293,7 +1293,7 @@
           "Komödie"
         ],
         "director": null,
-        "rating": null,
+        "rating": 3.5,
         "imdbScore": 8,
         "cast": [
           "Gary Oldman",
@@ -1321,7 +1321,7 @@
         "director": [
           "Blake Crouch"
         ],
-        "rating": null,
+        "rating": 2,
         "imdbScore": 7.8,
         "cast": [
           "Joel Edgerton",
@@ -1340,7 +1340,7 @@
         ]
       },
       {
-        "title": "Slow Horses - Ein Fall für Jackson Lamb",
+        "title": "Slow Horses",
         "season": 2,
         "genre": [
           "Krimi",
@@ -1348,7 +1348,7 @@
           "Komödie"
         ],
         "director": null,
-        "rating": null,
+        "rating": 3.5,
         "imdbScore": 8,
         "cast": [
           "Gary Oldman",
@@ -1379,7 +1379,7 @@
         "director": [
           "Mike White"
         ],
-        "rating": null,
+        "rating": 4,
         "imdbScore": 7.6,
         "cast": [
           "Leslie Bibb",
@@ -1427,7 +1427,7 @@
         "director": [
           "Jesse Armstrong"
         ],
-        "rating": null,
+        "rating": 4,
         "imdbScore": 8.3,
         "cast": [
           "Jeremy Strong",
@@ -1456,7 +1456,7 @@
         "director": [
           "Mike White"
         ],
-        "rating": null,
+        "rating": 3.5,
         "imdbScore": 7.6,
         "cast": [
           "Leslie Bibb",
@@ -1485,7 +1485,7 @@
         "director": [
           "Mike White"
         ],
-        "rating": null,
+        "rating": 4.5,
         "imdbScore": 7.6,
         "cast": [
           "Leslie Bibb",
@@ -1514,7 +1514,7 @@
           "Stephen Graham",
           "Jack Thorne"
         ],
-        "rating": null,
+        "rating": 4,
         "imdbScore": 7.8,
         "cast": null,
         "cover": "https://image.tmdb.org/t/p/w500/kcAgL0amIvGDGpFsD4P8WJOT8b9.jpg",
@@ -1536,7 +1536,7 @@
           "Neil Druckmann",
           "Craig Mazin"
         ],
-        "rating": null,
+        "rating": 3,
         "imdbScore": 8.5,
         "cast": [
           "Bella Ramsey",
