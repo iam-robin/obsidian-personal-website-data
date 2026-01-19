@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-19T14:02:18.427Z",
-  "count": 62,
+  "lastUpdated": "2026-01-19T14:18:31.633Z",
+  "count": 63,
   "aktiv": [
     {
       "title": "The Bear",
@@ -145,6 +145,34 @@
       "released": null,
       "finished": null,
       "added": "2025-12-01 22:26",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "A Knight of the Seven Kingdoms",
+      "season": 1,
+      "genre": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "director": [
+        "George R. R. Martin",
+        "Ira Parker"
+      ],
+      "rating": null,
+      "imdbScore": 7.3,
+      "cast": [
+        "Peter Claffey",
+        "Dexter Sol Ansell",
+        "Finn Bennett",
+        "Bertie Carvel",
+        "Tanzyn Crawford"
+      ],
+      "cover": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
+      "released": "2026-01-18T00:00:00.000Z",
+      "finished": null,
+      "added": "2026-01-19T00:00:00.000Z",
       "status": [
         "Merkliste"
       ]
