@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T14:52:30.408Z",
+  "lastUpdated": "2026-01-19T15:11:28.651Z",
   "count": 63,
   "aktiv": [
     {
@@ -1042,7 +1042,7 @@
         "director": [
           "Sam Levinson"
         ],
-        "rating": null,
+        "rating": 4.5,
         "imdbScore": 8.3,
         "cast": [
           "Zendaya",
@@ -1055,7 +1055,7 @@
         "released": "2022-01-08T00:00:00.000Z",
         "finished": "2023-01-11T00:00:00.000Z",
         "added": "2026-01-19T00:00:00.000Z",
-        "favorite": false,
+        "favorite": true,
         "status": [
           "Abgeschlossen"
         ]
@@ -1099,7 +1099,7 @@
           "Matt Owens",
           "Steven Maeda"
         ],
-        "rating": null,
+        "rating": 3.5,
         "imdbScore": 8.3,
         "cast": [
           "Iñaki Godoy",
@@ -1127,7 +1127,7 @@
         "director": [
           "Jesse Armstrong"
         ],
-        "rating": null,
+        "rating": 4,
         "imdbScore": 8.3,
         "cast": [
           "Jeremy Strong",
@@ -1155,7 +1155,7 @@
         "director": [
           "Lee Sung Jin"
         ],
-        "rating": null,
+        "rating": 3.5,
         "imdbScore": 7.7,
         "cast": [
           "Steven Yeun",
@@ -1183,7 +1183,7 @@
         "director": [
           "Joe Penhall"
         ],
-        "rating": null,
+        "rating": 3.5,
         "imdbScore": 8.1,
         "cast": [
           "Jonathan Groff",
@@ -1210,7 +1210,7 @@
         "director": [
           "Joe Penhall"
         ],
-        "rating": null,
+        "rating": 3,
         "imdbScore": 8.1,
         "cast": [
           "Jonathan Groff",
