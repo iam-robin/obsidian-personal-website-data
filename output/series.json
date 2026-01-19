@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-18T18:27:23.859Z",
-  "count": 32,
+  "lastUpdated": "2026-01-19T14:02:18.427Z",
+  "count": 62,
   "aktiv": [
     {
       "title": "The Bear",
@@ -14,6 +14,34 @@
       "released": null,
       "finished": null,
       "added": "2026-01-10T00:00:00.000Z",
+      "status": [
+        "Aktiv"
+      ]
+    },
+    {
+      "title": "Shōgun",
+      "season": 1,
+      "genre": [
+        "Drama",
+        "War & Politics"
+      ],
+      "director": [
+        "Rachel Kondo",
+        "Justin Marks"
+      ],
+      "rating": null,
+      "imdbScore": 8.4,
+      "cast": [
+        "Hiroyuki Sanada",
+        "Cosmo Jarvis",
+        "Anna Sawai",
+        "Tadanobu Asano",
+        "Takehiro Hira"
+      ],
+      "cover": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+      "released": "2024-02-27T00:00:00.000Z",
+      "finished": null,
+      "added": "2026-01-18T00:00:00.000Z",
       "status": [
         "Aktiv"
       ]
@@ -102,31 +130,6 @@
       ]
     },
     {
-      "title": "Mr. Robot",
-      "season": 1,
-      "genre": [
-        "Krimi",
-        "Drama"
-      ],
-      "director": [
-        "Sam Esmail"
-      ],
-      "rating": null,
-      "imdbScore": 8.3,
-      "cast": [
-        "Rami Malek",
-        "Christian Slater",
-        "Carly Chaikin"
-      ],
-      "cover": "https://image.tmdb.org/t/p/w500/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",
-      "released": "2015-06-24T00:00:00.000Z",
-      "finished": null,
-      "added": "2026-01-18T00:00:00.000Z",
-      "status": [
-        "Merkliste"
-      ]
-    },
-    {
       "title": "Die Brücke",
       "season": 1,
       "genre": [
@@ -196,28 +199,30 @@
         ]
       },
       {
-        "title": "The End of the F***ing World",
-        "season": 1,
+        "title": "4 Blocks",
+        "season": 2,
         "genre": [
-          "Komödie",
-          "Drama",
-          "Krimi"
+          "Krimi",
+          "Drama"
         ],
         "director": [
-          "Jonathan Entwistle"
+          "Richard Kropf",
+          "Hanno Hackfort",
+          "Bob Konrad"
         ],
         "rating": null,
-        "imdbScore": 8,
+        "imdbScore": 6.3,
         "cast": [
-          "Alex Lawther",
-          "Jessica Barden",
-          "Naomi Ackie",
-          "Josh Dylan"
+          "Kida Khodr Ramadan",
+          "Massiv",
+          "Almila Bağrıaçık",
+          "Oliver Masucci",
+          "Emilio Sakraya"
         ],
-        "cover": "https://image.tmdb.org/t/p/w500/3xzfmg9olP5XzrQrJgyku2nd6P0.jpg",
-        "released": "2017-10-24T00:00:00.000Z",
-        "finished": "2018-05-16T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "cover": "https://image.tmdb.org/t/p/w500/iLgsphV7n5WrIVYv8x8JTDh5AmY.jpg",
+        "released": "2018-10-11T00:00:00.000Z",
+        "finished": "2018-12-25T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
@@ -244,64 +249,37 @@
         ],
         "cover": "https://image.tmdb.org/t/p/w500/dHIMW3CkL21jYWtsHiAdwkCjAej.jpg",
         "released": "2017-04-10T00:00:00.000Z",
-        "finished": "2018-05-16T00:00:00.000Z",
+        "finished": "2018-12-31T00:00:00.000Z",
         "added": "2026-01-18T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
       },
       {
-        "title": "Better Call Saul",
-        "season": 2,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Vince Gilligan",
-          "Peter Gould"
-        ],
-        "rating": null,
-        "imdbScore": 8.7,
-        "cast": [
-          "Bob Odenkirk",
-          "Jonathan Banks",
-          "Rhea Seehorn",
-          "Tony Dalton",
-          "Giancarlo Esposito"
-        ],
-        "cover": "https://image.tmdb.org/t/p/w500/4NDwAQjFD8bTOsMKxYdl8IK10R9.jpg",
-        "released": "2016-02-15T00:00:00.000Z",
-        "finished": "2018-05-16T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
-        "title": "Better Call Saul",
+        "title": "4 Blocks",
         "season": 1,
         "genre": [
           "Krimi",
           "Drama"
         ],
         "director": [
-          "Vince Gilligan",
-          "Peter Gould"
+          "Richard Kropf",
+          "Hanno Hackfort",
+          "Bob Konrad"
         ],
         "rating": null,
-        "imdbScore": 8.7,
+        "imdbScore": 6.3,
         "cast": [
-          "Bob Odenkirk",
-          "Jonathan Banks",
-          "Rhea Seehorn",
-          "Tony Dalton",
-          "Giancarlo Esposito"
+          "Kida Khodr Ramadan",
+          "Massiv",
+          "Almila Bağrıaçık",
+          "Oliver Masucci",
+          "Emilio Sakraya"
         ],
-        "cover": "https://image.tmdb.org/t/p/w500/bAbZBZmz25Lqk8A8mwMWzAkvlAj.jpg",
-        "released": "2015-02-08T00:00:00.000Z",
-        "finished": "2018-05-16T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "cover": "https://image.tmdb.org/t/p/w500/eAl3MQkWHHCVMNm54Q2M32TRKp7.jpg",
+        "released": "2017-05-08T00:00:00.000Z",
+        "finished": "2018-12-10T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
@@ -329,6 +307,31 @@
         "released": "2019-03-04T00:00:00.000Z",
         "finished": "2019-07-16T00:00:00.000Z",
         "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Mr. Robot",
+        "season": 4,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Sam Esmail"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Rami Malek",
+          "Christian Slater",
+          "Carly Chaikin"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",
+        "released": "2019-10-05T00:00:00.000Z",
+        "finished": "2019-12-24T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
@@ -414,6 +417,58 @@
     ],
     "2020": [
       {
+        "title": "Das Damengambit",
+        "season": 1,
+        "genre": [
+          "Drama"
+        ],
+        "director": [
+          "Scott Frank",
+          "Allan Scott"
+        ],
+        "rating": null,
+        "imdbScore": 8.4,
+        "cast": [
+          "Anya Taylor-Joy",
+          "Chloe Pirrie"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "released": "2020-10-23T00:00:00.000Z",
+        "finished": "2020-12-09T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Ozark",
+        "season": 2,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Bill Dubuque",
+          "Mark Williams"
+        ],
+        "rating": null,
+        "imdbScore": 8.2,
+        "cast": [
+          "Jason Bateman",
+          "Laura Linney",
+          "Sofia Hublitz",
+          "Skylar Gaertner",
+          "Julia Garner"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/k9VHO9Btnj1D57kNIHWY9pl9Qcj.jpg",
+        "released": "2018-08-31T00:00:00.000Z",
+        "finished": "2020-10-27T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
         "title": "I Am Not Okay with This",
         "season": 1,
         "genre": [
@@ -442,6 +497,33 @@
         ]
       },
       {
+        "title": "Bad Banks",
+        "season": 1,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Christian Schwochow"
+        ],
+        "rating": null,
+        "imdbScore": 7.3,
+        "cast": [
+          "Paula Beer",
+          "Barry Atsma",
+          "Désirée Nosbusch",
+          "Albrecht Schuch",
+          "Mai Duong Kieu"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/3M7BRPhUEhcewLiUhHOZUep7wwF.jpg",
+        "released": "2018-03-01T00:00:00.000Z",
+        "finished": "2020-05-10T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
         "title": "Chernobyl",
         "season": 1,
         "genre": [
@@ -463,6 +545,90 @@
         "released": "2019-05-06T00:00:00.000Z",
         "finished": "2020-05-03T00:00:00.000Z",
         "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "4 Blocks",
+        "season": 3,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Richard Kropf",
+          "Hanno Hackfort",
+          "Bob Konrad"
+        ],
+        "rating": null,
+        "imdbScore": 6.3,
+        "cast": [
+          "Kida Khodr Ramadan",
+          "Massiv",
+          "Almila Bağrıaçık",
+          "Oliver Masucci",
+          "Emilio Sakraya"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/iNB6KSH1U0jFPklFJaukMtpkbHs.jpg",
+        "released": "2019-11-07T00:00:00.000Z",
+        "finished": "2020-05-02T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Bad Banks",
+        "season": 2,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Christian Schwochow"
+        ],
+        "rating": null,
+        "imdbScore": 7.3,
+        "cast": [
+          "Paula Beer",
+          "Barry Atsma",
+          "Désirée Nosbusch",
+          "Albrecht Schuch",
+          "Mai Duong Kieu"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/dlTrCV1RtbARSfvH2bsSbqCspdd.jpg",
+        "released": "2020-02-06T00:00:00.000Z",
+        "finished": "2020-07-18T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Ozark",
+        "season": 1,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Bill Dubuque",
+          "Mark Williams"
+        ],
+        "rating": null,
+        "imdbScore": 8.2,
+        "cast": [
+          "Jason Bateman",
+          "Laura Linney",
+          "Sofia Hublitz",
+          "Skylar Gaertner",
+          "Julia Garner"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/clxEFkDueNUp2G9mphAFNXwotkt.jpg",
+        "released": "2017-07-21T00:00:00.000Z",
+        "finished": "2020-09-07T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
@@ -552,6 +718,60 @@
         ]
       },
       {
+        "title": "Ozark",
+        "season": 3,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Bill Dubuque",
+          "Mark Williams"
+        ],
+        "rating": null,
+        "imdbScore": 8.2,
+        "cast": [
+          "Jason Bateman",
+          "Laura Linney",
+          "Sofia Hublitz",
+          "Skylar Gaertner",
+          "Julia Garner"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/lgHXzqpForw8qsMoC6pySkbpAUP.jpg",
+        "released": "2020-03-27T00:00:00.000Z",
+        "finished": "2021-01-03T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Die Neue Zeit",
+        "season": 1,
+        "genre": [
+          "Drama"
+        ],
+        "director": [
+          "Lars Kraume"
+        ],
+        "rating": null,
+        "imdbScore": 7.1,
+        "cast": [
+          "August Diehl",
+          "Anna Maria Mühe",
+          "Trine Dyrholm",
+          "Valerie Pachner",
+          "Ludwig Trepte"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/50Z6XkPSzM6bpeUeLrqLWCR6QpF.jpg",
+        "released": "2019-09-05T00:00:00.000Z",
+        "finished": "2021-01-03T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
         "title": "Unorthodox",
         "season": 1,
         "genre": [
@@ -574,6 +794,32 @@
         "released": "2020-03-26T00:00:00.000Z",
         "finished": "2021-08-16T00:00:00.000Z",
         "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Euphoria",
+        "season": 1,
+        "genre": [
+          "Drama"
+        ],
+        "director": [
+          "Sam Levinson"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Zendaya",
+          "Hunter Schafer",
+          "Sydney Sweeney",
+          "Jacob Elordi",
+          "Alexa Demie"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg",
+        "released": "2019-06-16T00:00:00.000Z",
+        "finished": "2021-03-26T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
@@ -608,6 +854,62 @@
       }
     ],
     "2022": [
+      {
+        "title": "Ozark",
+        "season": 4,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Bill Dubuque",
+          "Mark Williams"
+        ],
+        "rating": null,
+        "imdbScore": 8.2,
+        "cast": [
+          "Jason Bateman",
+          "Laura Linney",
+          "Sofia Hublitz",
+          "Skylar Gaertner",
+          "Julia Garner"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/8VddwjSjvuHaoSw1wZ0mflB0Ckq.jpg",
+        "released": "2022-01-21T00:00:00.000Z",
+        "finished": "2022-02-15T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Severance",
+        "season": 1,
+        "genre": [
+          "Drama",
+          "Mystery",
+          "Sci-Fi & Fantasy"
+        ],
+        "director": [
+          "Dan Erickson"
+        ],
+        "rating": null,
+        "imdbScore": 8.4,
+        "cast": [
+          "Adam Scott",
+          "Britt Lower",
+          "Tramell Tillman",
+          "Zach Cherry",
+          "Jen Tullock"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/16rmeQjNJDGQS2sk6dKujc5uYi6.jpg",
+        "released": "2022-02-17T00:00:00.000Z",
+        "finished": "2022-04-12T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
       {
         "title": "Better Call Saul",
         "season": 6,
@@ -667,6 +969,32 @@
     ],
     "2023": [
       {
+        "title": "Euphoria",
+        "season": 2,
+        "genre": [
+          "Drama"
+        ],
+        "director": [
+          "Sam Levinson"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Zendaya",
+          "Hunter Schafer",
+          "Sydney Sweeney",
+          "Jacob Elordi",
+          "Alexa Demie"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/jtnfNzqZwN4E32FGGxx1YZaBWWf.jpg",
+        "released": "2022-01-08T00:00:00.000Z",
+        "finished": "2023-01-11T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
         "title": "The Bear",
         "season": 1,
         "genre": [
@@ -694,6 +1022,61 @@
         ]
       },
       {
+        "title": "One Piece",
+        "season": 1,
+        "genre": [
+          "Action & Adventure",
+          "Sci-Fi & Fantasy"
+        ],
+        "director": [
+          "Matt Owens",
+          "Steven Maeda"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Iñaki Godoy",
+          "Mackenyu",
+          "Emily Rudd",
+          "Jacob Romero Gibson",
+          "Taz Skylar"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
+        "released": "2023-08-31T00:00:00.000Z",
+        "finished": "2023-09-25T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Succession",
+        "season": 1,
+        "genre": [
+          "Drama",
+          "Komödie"
+        ],
+        "director": [
+          "Jesse Armstrong"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Jeremy Strong",
+          "Kieran Culkin",
+          "Sarah Snook",
+          "Brian Cox",
+          "Matthew Macfadyen"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/hS62paPx7Ls3c6voXcXJzJNaTG4.jpg",
+        "released": "2018-06-03T00:00:00.000Z",
+        "finished": "2023-07-17T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
         "title": "BEEF",
         "season": 1,
         "genre": [
@@ -716,6 +1099,192 @@
         "released": "2023-04-05T00:00:00.000Z",
         "finished": "2023-10-20T00:00:00.000Z",
         "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Mindhunter",
+        "season": 1,
+        "genre": [
+          "Drama",
+          "Krimi"
+        ],
+        "director": [
+          "Joe Penhall"
+        ],
+        "rating": null,
+        "imdbScore": 8.1,
+        "cast": [
+          "Jonathan Groff",
+          "Holt McCallany",
+          "Anna Torv",
+          "Stacey Roca"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/lJFRiAeD83gKyzpoqStRM3ebKul.jpg",
+        "released": "2017-10-13T00:00:00.000Z",
+        "finished": "2023-01-27T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Mindhunter",
+        "season": 2,
+        "genre": [
+          "Drama",
+          "Krimi"
+        ],
+        "director": [
+          "Joe Penhall"
+        ],
+        "rating": null,
+        "imdbScore": 8.1,
+        "cast": [
+          "Jonathan Groff",
+          "Holt McCallany",
+          "Anna Torv",
+          "Stacey Roca"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/ge5B0uzU7ggvzMMgtuQnBAaxvVx.jpg",
+        "released": "2019-08-16T00:00:00.000Z",
+        "finished": "2023-02-10T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "2024": [
+      {
+        "title": "Dark",
+        "season": 1,
+        "genre": [
+          "Krimi",
+          "Drama",
+          "Sci-Fi & Fantasy",
+          "Mystery"
+        ],
+        "director": [
+          "Baran bo Odar",
+          "Jantje Friese"
+        ],
+        "rating": null,
+        "imdbScore": 8.4,
+        "cast": [
+          "Louis Hofmann"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/b3Efu3KoVUWHlfw3bcJVEIhxqR0.jpg",
+        "released": "2017-12-01T00:00:00.000Z",
+        "finished": "2024-01-10T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Penguin",
+        "season": 1,
+        "genre": [
+          "Drama",
+          "Krimi"
+        ],
+        "director": [
+          "Lauren LeFranc"
+        ],
+        "rating": null,
+        "imdbScore": 8.4,
+        "cast": [
+          "Colin Farrell",
+          "Cristin Milioti",
+          "Rhenzy Feliz",
+          "Deirdre O'Connell",
+          "Clancy Brown"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+        "released": "2024-09-19T00:00:00.000Z",
+        "finished": "2024-12-04T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Slow Horses - Ein Fall für Jackson Lamb",
+        "season": 1,
+        "genre": [
+          "Krimi",
+          "Drama",
+          "Komödie"
+        ],
+        "director": null,
+        "rating": null,
+        "imdbScore": 8,
+        "cast": [
+          "Gary Oldman",
+          "Jack Lowden",
+          "Kristin Scott Thomas",
+          "Saskia Reeves",
+          "Christopher Chung"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/34H2sg0NhQtMeSlOuKISomQTMeH.jpg",
+        "released": "2022-04-01T00:00:00.000Z",
+        "finished": "2024-10-20T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Dark Matter",
+        "season": 1,
+        "genre": [
+          "Sci-Fi & Fantasy",
+          "Drama"
+        ],
+        "director": [
+          "Blake Crouch"
+        ],
+        "rating": null,
+        "imdbScore": 7.8,
+        "cast": [
+          "Joel Edgerton",
+          "Jennifer Connelly",
+          "Alice Braga",
+          "Jimmi Simpson",
+          "Dayo Okeniyi"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/v3IXL25IaFGFKeZWcpA6FaLzSVB.jpg",
+        "released": "2024-05-07T00:00:00.000Z",
+        "finished": "2024-07-21T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Slow Horses - Ein Fall für Jackson Lamb",
+        "season": 2,
+        "genre": [
+          "Krimi",
+          "Drama",
+          "Komödie"
+        ],
+        "director": null,
+        "rating": null,
+        "imdbScore": 8,
+        "cast": [
+          "Gary Oldman",
+          "Jack Lowden",
+          "Kristin Scott Thomas",
+          "Saskia Reeves",
+          "Christopher Chung"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/8FM8KCgZQSbLLXcZew0MSj6so1k.jpg",
+        "released": "2022-12-02T00:00:00.000Z",
+        "finished": "2024-12-14T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
@@ -765,6 +1334,33 @@
         "released": "2025-11-07T00:00:00.000Z",
         "finished": "2025-12-24T00:00:00.000Z",
         "added": "2025-11-12T20:44:37.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Succession",
+        "season": 2,
+        "genre": [
+          "Drama",
+          "Komödie"
+        ],
+        "director": [
+          "Jesse Armstrong"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Jeremy Strong",
+          "Kieran Culkin",
+          "Sarah Snook",
+          "Brian Cox",
+          "Matthew Macfadyen"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/hXuVhMxi3ZNzfBY8h7Hiiotmjiy.jpg",
+        "released": "2019-08-11T00:00:00.000Z",
+        "finished": "2025-04-09T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
@@ -824,6 +1420,54 @@
         "status": [
           "Abgeschlossen"
         ]
+      },
+      {
+        "title": "Adolescence",
+        "season": 1,
+        "genre": [
+          "Drama",
+          "Krimi"
+        ],
+        "director": [
+          "Stephen Graham",
+          "Jack Thorne"
+        ],
+        "rating": null,
+        "imdbScore": 7.8,
+        "cast": null,
+        "cover": "https://image.tmdb.org/t/p/w500/kcAgL0amIvGDGpFsD4P8WJOT8b9.jpg",
+        "released": "2025-03-13T00:00:00.000Z",
+        "finished": "2025-03-30T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "The Last of Us",
+        "season": 1,
+        "genre": [
+          "Drama"
+        ],
+        "director": [
+          "Neil Druckmann",
+          "Craig Mazin"
+        ],
+        "rating": null,
+        "imdbScore": 8.5,
+        "cast": [
+          "Bella Ramsey",
+          "Gabriel Luna",
+          "Isabela Merced",
+          "Young Mazino"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/wEgf8HtZmx44U32zVVXBvdgq4iW.jpg",
+        "released": "2023-01-15T00:00:00.000Z",
+        "finished": "2025-07-21T00:00:00.000Z",
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
       }
     ],
     "2026": [
@@ -839,6 +1483,167 @@
         "released": null,
         "finished": "2026-01-05T00:00:00.000Z",
         "added": "2026-01-05T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      }
+    ],
+    "unknown": [
+      {
+        "title": "The End of the F***ing World",
+        "season": 1,
+        "genre": [
+          "Komödie",
+          "Drama",
+          "Krimi"
+        ],
+        "director": [
+          "Jonathan Entwistle"
+        ],
+        "rating": null,
+        "imdbScore": 8,
+        "cast": [
+          "Alex Lawther",
+          "Jessica Barden",
+          "Naomi Ackie",
+          "Josh Dylan"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/3xzfmg9olP5XzrQrJgyku2nd6P0.jpg",
+        "released": "2017-10-24T00:00:00.000Z",
+        "finished": null,
+        "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Mr. Robot",
+        "season": 3,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Sam Esmail"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Rami Malek",
+          "Christian Slater",
+          "Carly Chaikin"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",
+        "released": "2017-10-11T00:00:00.000Z",
+        "finished": null,
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Mr. Robot",
+        "season": 2,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Sam Esmail"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Rami Malek",
+          "Christian Slater",
+          "Carly Chaikin"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",
+        "released": "2016-07-13T00:00:00.000Z",
+        "finished": null,
+        "added": "2026-01-19T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Mr. Robot",
+        "season": 1,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Sam Esmail"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Rami Malek",
+          "Christian Slater",
+          "Carly Chaikin"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",
+        "released": "2015-06-24T00:00:00.000Z",
+        "finished": null,
+        "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen",
+          "Merkliste"
+        ]
+      },
+      {
+        "title": "Better Call Saul",
+        "season": 2,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Vince Gilligan",
+          "Peter Gould"
+        ],
+        "rating": null,
+        "imdbScore": 8.7,
+        "cast": [
+          "Bob Odenkirk",
+          "Jonathan Banks",
+          "Rhea Seehorn",
+          "Tony Dalton",
+          "Giancarlo Esposito"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/4NDwAQjFD8bTOsMKxYdl8IK10R9.jpg",
+        "released": "2016-02-15T00:00:00.000Z",
+        "finished": null,
+        "added": "2026-01-18T00:00:00.000Z",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Better Call Saul",
+        "season": 1,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Vince Gilligan",
+          "Peter Gould"
+        ],
+        "rating": null,
+        "imdbScore": 8.7,
+        "cast": [
+          "Bob Odenkirk",
+          "Jonathan Banks",
+          "Rhea Seehorn",
+          "Tony Dalton",
+          "Giancarlo Esposito"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/bAbZBZmz25Lqk8A8mwMWzAkvlAj.jpg",
+        "released": "2015-02-08T00:00:00.000Z",
+        "finished": null,
+        "added": "2026-01-18T00:00:00.000Z",
         "status": [
           "Abgeschlossen"
         ]
