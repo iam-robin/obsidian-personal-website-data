@@ -21,7 +21,8 @@ const KEY_MAP = {
   'Cover': 'cover',
   'Erschienen': 'released',
   'Beendet': 'finished',
-  'Hinzugefügt': 'added'
+  'Hinzugefügt': 'added',
+  'Favorit': 'favorite'
 };
 
 async function exportSeries() {
