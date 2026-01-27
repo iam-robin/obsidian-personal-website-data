@@ -1,0 +1,84 @@
+{
+  "lastUpdated": "2026-01-27T07:43:43.410Z",
+  "count": 2,
+  "entries": [
+    {
+      "title": "Zweiter Weltkrieg",
+      "type": "Zeitspanne",
+      "start": "1939-09-01T00:00:00.000Z",
+      "end": "1945-09-02T00:00:00.000Z",
+      "categories": [
+        "Weltkrieg",
+        "Globale Geschichte",
+        "20. Jahrhundert",
+        "Holocaust"
+      ],
+      "tags": [
+        "Krieg",
+        "Nazi-Deutschland",
+        "Holocaust",
+        "Atombombe",
+        "Vereinte Nationen"
+      ],
+      "added": "2026-01-26T00:00:00.000Z"
+    },
+    {
+      "title": "Erster Weltkrieg",
+      "type": "Zeitspanne",
+      "start": "1914-07-28T00:00:00.000Z",
+      "end": "1918-11-11T00:00:00.000Z",
+      "categories": [
+        "Weltkrieg",
+        "Europäische Geschichte",
+        "20. Jahrhundert"
+      ],
+      "tags": [
+        "Krieg",
+        "Europa",
+        "Völkerbund"
+      ],
+      "added": "2026-01-26T00:00:00.000Z"
+    }
+  ],
+  "byType": {
+    "Zeitspanne": [
+      {
+        "title": "Zweiter Weltkrieg",
+        "type": "Zeitspanne",
+        "start": "1939-09-01T00:00:00.000Z",
+        "end": "1945-09-02T00:00:00.000Z",
+        "categories": [
+          "Weltkrieg",
+          "Globale Geschichte",
+          "20. Jahrhundert",
+          "Holocaust"
+        ],
+        "tags": [
+          "Krieg",
+          "Nazi-Deutschland",
+          "Holocaust",
+          "Atombombe",
+          "Vereinte Nationen"
+        ],
+        "added": "2026-01-26T00:00:00.000Z"
+      },
+      {
+        "title": "Erster Weltkrieg",
+        "type": "Zeitspanne",
+        "start": "1914-07-28T00:00:00.000Z",
+        "end": "1918-11-11T00:00:00.000Z",
+        "categories": [
+          "Weltkrieg",
+          "Europäische Geschichte",
+          "20. Jahrhundert"
+        ],
+        "tags": [
+          "Krieg",
+          "Europa",
+          "Völkerbund"
+        ],
+        "added": "2026-01-26T00:00:00.000Z"
+      }
+    ]
+  }
+}

@@ -7,6 +7,7 @@ import {
     hasKategorie,
     translateKeys,
     writeOutput,
+    getLastUpdated,
 } from "./lib/utils.mjs";
 
 // Map German frontmatter keys to English JSON keys
@@ -103,7 +104,7 @@ async function exportDigitalGarden() {
         });
 
     const output = {
-        lastUpdated: new Date().toISOString(),
+        lastUpdated: await getLastUpdated("digital-garden.json", sortedByThema),
         count: notes.length,
         ...sortedByThema,
     };

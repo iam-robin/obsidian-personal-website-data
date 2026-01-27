@@ -6,7 +6,8 @@ import {
   hasKategorie,
   translateKeys,
   normalizeStatus,
-  writeOutput
+  writeOutput,
+  getLastUpdated,
 } from './lib/utils.mjs';
 
 // Map German frontmatter keys to English JSON keys
@@ -134,13 +135,17 @@ async function exportSeries() {
       sortedAbgeschlossen[year] = abgeschlossen[year];
     });
 
-  const output = {
-    lastUpdated: new Date().toISOString(),
-    count: series.length,
+  const dataForComparison = {
     aktiv,
     merkliste,
     pausiert,
-    abgeschlossen: sortedAbgeschlossen
+    abgeschlossen: sortedAbgeschlossen,
+  };
+
+  const output = {
+    lastUpdated: await getLastUpdated("series.json", dataForComparison),
+    count: series.length,
+    ...dataForComparison,
   };
 
   const outputPath = await writeOutput('series.json', output);
