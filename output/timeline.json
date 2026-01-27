@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:30:01.570Z",
+  "lastUpdated": "2026-01-27T21:41:29.384Z",
   "count": 6,
   "entries": [
     {
@@ -7,12 +7,6 @@
       "type": "Zeitspanne",
       "start": "1939-09-01T00:00:00.000Z",
       "end": "1945-09-02T00:00:00.000Z",
-      "categories": [
-        "Weltkrieg",
-        "Globale Geschichte",
-        "20. Jahrhundert",
-        "Holocaust"
-      ],
       "tags": [
         "Krieg",
         "Nazi-Deutschland",
@@ -27,12 +21,6 @@
       "type": "Zeitspanne",
       "start": "1911-01-01T00:00:00.000Z",
       "end": "1914-08-01T00:00:00.000Z",
-      "categories": [
-        "Kunst",
-        "Moderne Kunst",
-        "Deutscher Expressionismus",
-        "20. Jahrhundert"
-      ],
       "tags": [
         "Kunstbewegung",
         "Expressionismus",
@@ -47,12 +35,6 @@
       "type": "Ereignis",
       "start": "1969-07-20T00:00:00.000Z",
       "end": null,
-      "categories": [
-        "Raumfahrt",
-        "Amerikanische Geschichte",
-        "20. Jahrhundert",
-        "Technologie"
-      ],
       "tags": [
         "Weltraum",
         "NASA",
@@ -67,12 +49,6 @@
       "type": "Ereignis",
       "start": "1989-11-09T00:00:00.000Z",
       "end": null,
-      "categories": [
-        "Kalter Krieg",
-        "Deutsche Geschichte",
-        "20. Jahrhundert",
-        "Europäische Geschichte"
-      ],
       "tags": [
         "Wiedervereinigung",
         "DDR",
@@ -87,11 +63,6 @@
       "type": "Zeitspanne",
       "start": "1914-07-28T00:00:00.000Z",
       "end": "1918-11-11T00:00:00.000Z",
-      "categories": [
-        "Weltkrieg",
-        "Europäische Geschichte",
-        "20. Jahrhundert"
-      ],
       "tags": [
         "Krieg",
         "Europa",
@@ -104,12 +75,6 @@
       "type": "Epoche",
       "start": "1947-03-12T00:00:00.000Z",
       "end": "1991-12-26T00:00:00.000Z",
-      "categories": [
-        "20. Jahrhundert",
-        "Weltgeschichte",
-        "Politik",
-        "Nachkriegszeit"
-      ],
       "tags": [
         "Ost-West-Konflikt",
         "USA",
@@ -129,12 +94,6 @@
         "type": "Zeitspanne",
         "start": "1939-09-01T00:00:00.000Z",
         "end": "1945-09-02T00:00:00.000Z",
-        "categories": [
-          "Weltkrieg",
-          "Globale Geschichte",
-          "20. Jahrhundert",
-          "Holocaust"
-        ],
         "tags": [
           "Krieg",
           "Nazi-Deutschland",
@@ -149,12 +108,6 @@
         "type": "Zeitspanne",
         "start": "1911-01-01T00:00:00.000Z",
         "end": "1914-08-01T00:00:00.000Z",
-        "categories": [
-          "Kunst",
-          "Moderne Kunst",
-          "Deutscher Expressionismus",
-          "20. Jahrhundert"
-        ],
         "tags": [
           "Kunstbewegung",
           "Expressionismus",
@@ -169,11 +122,6 @@
         "type": "Zeitspanne",
         "start": "1914-07-28T00:00:00.000Z",
         "end": "1918-11-11T00:00:00.000Z",
-        "categories": [
-          "Weltkrieg",
-          "Europäische Geschichte",
-          "20. Jahrhundert"
-        ],
         "tags": [
           "Krieg",
           "Europa",
@@ -188,12 +136,6 @@
         "type": "Ereignis",
         "start": "1969-07-20T00:00:00.000Z",
         "end": null,
-        "categories": [
-          "Raumfahrt",
-          "Amerikanische Geschichte",
-          "20. Jahrhundert",
-          "Technologie"
-        ],
         "tags": [
           "Weltraum",
           "NASA",
@@ -208,12 +150,6 @@
         "type": "Ereignis",
         "start": "1989-11-09T00:00:00.000Z",
         "end": null,
-        "categories": [
-          "Kalter Krieg",
-          "Deutsche Geschichte",
-          "20. Jahrhundert",
-          "Europäische Geschichte"
-        ],
         "tags": [
           "Wiedervereinigung",
           "DDR",
@@ -230,12 +166,6 @@
         "type": "Epoche",
         "start": "1947-03-12T00:00:00.000Z",
         "end": "1991-12-26T00:00:00.000Z",
-        "categories": [
-          "20. Jahrhundert",
-          "Weltgeschichte",
-          "Politik",
-          "Nachkriegszeit"
-        ],
         "tags": [
           "Ost-West-Konflikt",
           "USA",
