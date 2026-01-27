@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-27T14:40:46.955Z",
-  "count": 5,
+  "lastUpdated": "2026-01-27T21:30:01.570Z",
+  "count": 6,
   "entries": [
     {
       "title": "Zweiter Weltkrieg",
@@ -21,6 +21,26 @@
         "Vereinte Nationen"
       ],
       "added": "2026-01-26T00:00:00.000Z"
+    },
+    {
+      "title": "Der Blaue Reiter",
+      "type": "Zeitspanne",
+      "start": "1911-01-01T00:00:00.000Z",
+      "end": "1914-08-01T00:00:00.000Z",
+      "categories": [
+        "Kunst",
+        "Moderne Kunst",
+        "Deutscher Expressionismus",
+        "20. Jahrhundert"
+      ],
+      "tags": [
+        "Kunstbewegung",
+        "Expressionismus",
+        "Malerei",
+        "München",
+        "Abstraktion"
+      ],
+      "added": "2026-01-27T00:00:00.000Z"
     },
     {
       "title": "Erste Mondlandung (Apollo 11)",
@@ -123,6 +143,26 @@
           "Vereinte Nationen"
         ],
         "added": "2026-01-26T00:00:00.000Z"
+      },
+      {
+        "title": "Der Blaue Reiter",
+        "type": "Zeitspanne",
+        "start": "1911-01-01T00:00:00.000Z",
+        "end": "1914-08-01T00:00:00.000Z",
+        "categories": [
+          "Kunst",
+          "Moderne Kunst",
+          "Deutscher Expressionismus",
+          "20. Jahrhundert"
+        ],
+        "tags": [
+          "Kunstbewegung",
+          "Expressionismus",
+          "Malerei",
+          "München",
+          "Abstraktion"
+        ],
+        "added": "2026-01-27T00:00:00.000Z"
       },
       {
         "title": "Erster Weltkrieg",
