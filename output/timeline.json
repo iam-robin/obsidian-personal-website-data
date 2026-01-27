@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-27T08:53:28.907Z",
-  "count": 4,
+  "lastUpdated": "2026-01-27T14:40:46.955Z",
+  "count": 5,
   "entries": [
     {
       "title": "Zweiter Weltkrieg",
@@ -21,6 +21,26 @@
         "Vereinte Nationen"
       ],
       "added": "2026-01-26T00:00:00.000Z"
+    },
+    {
+      "title": "Erste Mondlandung (Apollo 11)",
+      "type": "Ereignis",
+      "start": "1969-07-20T00:00:00.000Z",
+      "end": null,
+      "categories": [
+        "Raumfahrt",
+        "Amerikanische Geschichte",
+        "20. Jahrhundert",
+        "Technologie"
+      ],
+      "tags": [
+        "Weltraum",
+        "NASA",
+        "Kalter Krieg",
+        "Entdeckung",
+        "Meilenstein"
+      ],
+      "added": "2026-01-27T00:00:00.000Z"
     },
     {
       "title": "Fall der Berliner Mauer",
@@ -123,6 +143,26 @@
       }
     ],
     "Ereignis": [
+      {
+        "title": "Erste Mondlandung (Apollo 11)",
+        "type": "Ereignis",
+        "start": "1969-07-20T00:00:00.000Z",
+        "end": null,
+        "categories": [
+          "Raumfahrt",
+          "Amerikanische Geschichte",
+          "20. Jahrhundert",
+          "Technologie"
+        ],
+        "tags": [
+          "Weltraum",
+          "NASA",
+          "Kalter Krieg",
+          "Entdeckung",
+          "Meilenstein"
+        ],
+        "added": "2026-01-27T00:00:00.000Z"
+      },
       {
         "title": "Fall der Berliner Mauer",
         "type": "Ereignis",
