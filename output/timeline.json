@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-27T07:43:43.410Z",
-  "count": 2,
+  "lastUpdated": "2026-01-27T08:53:28.907Z",
+  "count": 4,
   "entries": [
     {
       "title": "Zweiter Weltkrieg",
@@ -23,6 +23,26 @@
       "added": "2026-01-26T00:00:00.000Z"
     },
     {
+      "title": "Fall der Berliner Mauer",
+      "type": "Ereignis",
+      "start": "1989-11-09T00:00:00.000Z",
+      "end": null,
+      "categories": [
+        "Kalter Krieg",
+        "Deutsche Geschichte",
+        "20. Jahrhundert",
+        "Europäische Geschichte"
+      ],
+      "tags": [
+        "Wiedervereinigung",
+        "DDR",
+        "BRD",
+        "Kalter Krieg",
+        "Grenzöffnung"
+      ],
+      "added": "2026-01-27T00:00:00.000Z"
+    },
+    {
       "title": "Erster Weltkrieg",
       "type": "Zeitspanne",
       "start": "1914-07-28T00:00:00.000Z",
@@ -38,6 +58,28 @@
         "Völkerbund"
       ],
       "added": "2026-01-26T00:00:00.000Z"
+    },
+    {
+      "title": "Kalter Krieg",
+      "type": "Epoche",
+      "start": "1947-03-12T00:00:00.000Z",
+      "end": "1991-12-26T00:00:00.000Z",
+      "categories": [
+        "20. Jahrhundert",
+        "Weltgeschichte",
+        "Politik",
+        "Nachkriegszeit"
+      ],
+      "tags": [
+        "Ost-West-Konflikt",
+        "USA",
+        "Sowjetunion",
+        "NATO",
+        "Warschauer Pakt",
+        "Wettrüsten",
+        "Stellvertreterkriege"
+      ],
+      "added": "2026-01-27T00:00:00.000Z"
     }
   ],
   "byType": {
@@ -78,6 +120,52 @@
           "Völkerbund"
         ],
         "added": "2026-01-26T00:00:00.000Z"
+      }
+    ],
+    "Ereignis": [
+      {
+        "title": "Fall der Berliner Mauer",
+        "type": "Ereignis",
+        "start": "1989-11-09T00:00:00.000Z",
+        "end": null,
+        "categories": [
+          "Kalter Krieg",
+          "Deutsche Geschichte",
+          "20. Jahrhundert",
+          "Europäische Geschichte"
+        ],
+        "tags": [
+          "Wiedervereinigung",
+          "DDR",
+          "BRD",
+          "Kalter Krieg",
+          "Grenzöffnung"
+        ],
+        "added": "2026-01-27T00:00:00.000Z"
+      }
+    ],
+    "Epoche": [
+      {
+        "title": "Kalter Krieg",
+        "type": "Epoche",
+        "start": "1947-03-12T00:00:00.000Z",
+        "end": "1991-12-26T00:00:00.000Z",
+        "categories": [
+          "20. Jahrhundert",
+          "Weltgeschichte",
+          "Politik",
+          "Nachkriegszeit"
+        ],
+        "tags": [
+          "Ost-West-Konflikt",
+          "USA",
+          "Sowjetunion",
+          "NATO",
+          "Warschauer Pakt",
+          "Wettrüsten",
+          "Stellvertreterkriege"
+        ],
+        "added": "2026-01-27T00:00:00.000Z"
       }
     ]
   }
