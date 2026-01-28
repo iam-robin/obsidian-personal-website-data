@@ -15,7 +15,7 @@ const KEY_MAP = {
     Typ: "type",
     Beginn: "start",
     Ende: "end",
-    Kategorien: "categories",
+    Bereich: "domain",
     Schlagwörter: "tags",
     Hinzugefügt: "added",
 };
@@ -37,11 +37,6 @@ async function exportTimeline() {
 
             // Translate keys and clean wikilinks
             const entry = translateKeys(data, KEY_MAP);
-
-            // Ensure categories is always an array
-            if (entry.categories && !Array.isArray(entry.categories)) {
-                entry.categories = [entry.categories];
-            }
 
             // Ensure tags is always an array
             if (entry.tags && !Array.isArray(entry.tags)) {

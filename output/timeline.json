@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:41:29.384Z",
+  "lastUpdated": "2026-01-28T08:16:48.260Z",
   "count": 6,
   "entries": [
     {
@@ -7,6 +7,7 @@
       "type": "Zeitspanne",
       "start": "1939-09-01T00:00:00.000Z",
       "end": "1945-09-02T00:00:00.000Z",
+      "domain": "Geschichte",
       "tags": [
         "Krieg",
         "Nazi-Deutschland",
@@ -21,6 +22,7 @@
       "type": "Zeitspanne",
       "start": "1911-01-01T00:00:00.000Z",
       "end": "1914-08-01T00:00:00.000Z",
+      "domain": "Kunst",
       "tags": [
         "Kunstbewegung",
         "Expressionismus",
@@ -35,6 +37,7 @@
       "type": "Ereignis",
       "start": "1969-07-20T00:00:00.000Z",
       "end": null,
+      "domain": "Technologie",
       "tags": [
         "Weltraum",
         "NASA",
@@ -49,6 +52,7 @@
       "type": "Ereignis",
       "start": "1989-11-09T00:00:00.000Z",
       "end": null,
+      "domain": "Geschichte",
       "tags": [
         "Wiedervereinigung",
         "DDR",
@@ -63,6 +67,7 @@
       "type": "Zeitspanne",
       "start": "1914-07-28T00:00:00.000Z",
       "end": "1918-11-11T00:00:00.000Z",
+      "domain": "Geschichte",
       "tags": [
         "Krieg",
         "Europa",
@@ -75,6 +80,7 @@
       "type": "Epoche",
       "start": "1947-03-12T00:00:00.000Z",
       "end": "1991-12-26T00:00:00.000Z",
+      "domain": "Geschichte",
       "tags": [
         "Ost-West-Konflikt",
         "USA",
@@ -94,6 +100,7 @@
         "type": "Zeitspanne",
         "start": "1939-09-01T00:00:00.000Z",
         "end": "1945-09-02T00:00:00.000Z",
+        "domain": "Geschichte",
         "tags": [
           "Krieg",
           "Nazi-Deutschland",
@@ -108,6 +115,7 @@
         "type": "Zeitspanne",
         "start": "1911-01-01T00:00:00.000Z",
         "end": "1914-08-01T00:00:00.000Z",
+        "domain": "Kunst",
         "tags": [
           "Kunstbewegung",
           "Expressionismus",
@@ -122,6 +130,7 @@
         "type": "Zeitspanne",
         "start": "1914-07-28T00:00:00.000Z",
         "end": "1918-11-11T00:00:00.000Z",
+        "domain": "Geschichte",
         "tags": [
           "Krieg",
           "Europa",
@@ -136,6 +145,7 @@
         "type": "Ereignis",
         "start": "1969-07-20T00:00:00.000Z",
         "end": null,
+        "domain": "Technologie",
         "tags": [
           "Weltraum",
           "NASA",
@@ -150,6 +160,7 @@
         "type": "Ereignis",
         "start": "1989-11-09T00:00:00.000Z",
         "end": null,
+        "domain": "Geschichte",
         "tags": [
           "Wiedervereinigung",
           "DDR",
@@ -166,6 +177,7 @@
         "type": "Epoche",
         "start": "1947-03-12T00:00:00.000Z",
         "end": "1991-12-26T00:00:00.000Z",
+        "domain": "Geschichte",
         "tags": [
           "Ost-West-Konflikt",
           "USA",
