@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-30T20:04:07.113Z",
-  "count": 9,
+  "lastUpdated": "2026-01-30T20:15:10.807Z",
+  "count": 12,
   "entries": [
     {
       "title": "Zweiter Weltkrieg",
@@ -95,6 +95,21 @@
       "added": "2026-01-30T00:00:00.000Z"
     },
     {
+      "title": "Erfindung des World Wide Web",
+      "type": "Ereignis",
+      "start": "1991-08-06T00:00:00.000Z",
+      "end": null,
+      "domain": "Technologie",
+      "tags": [
+        "Internet",
+        "WWW",
+        "CERN",
+        "Tim Berners-Lee",
+        "Digitalisierung"
+      ],
+      "added": "2026-01-30T00:00:00.000Z"
+    },
+    {
       "title": "Erfindung des Buchdrucks",
       "type": "Ereignis",
       "start": "1450-01-01T00:00:00.000Z",
@@ -110,6 +125,22 @@
       "added": "2026-01-30T00:00:00.000Z"
     },
     {
+      "title": "Erfindung des Smartphones",
+      "type": "Ereignis",
+      "start": "2007-01-09T00:00:00.000Z",
+      "end": null,
+      "domain": "Technologie",
+      "tags": [
+        "Smartphone",
+        "iPhone",
+        "Apple",
+        "Touchscreen",
+        "Mobile",
+        "Steve Jobs"
+      ],
+      "added": "2026-01-30T00:00:00.000Z"
+    },
+    {
       "title": "Erster Weltkrieg",
       "type": "Zeitspanne",
       "start": "1914-07-28T00:00:00.000Z",
@@ -121,6 +152,22 @@
         "Völkerbund"
       ],
       "added": "2026-01-26T00:00:00.000Z"
+    },
+    {
+      "title": "Erfindung des Personalcomputers",
+      "type": "Ereignis",
+      "start": "1975-01-01T00:00:00.000Z",
+      "end": null,
+      "domain": "Technologie",
+      "tags": [
+        "Computer",
+        "PC",
+        "Altair",
+        "Apple",
+        "IBM",
+        "Mikrocomputer"
+      ],
+      "added": "2026-01-30T00:00:00.000Z"
     },
     {
       "title": "Kalter Krieg",
@@ -250,6 +297,21 @@
         "added": "2026-01-27T00:00:00.000Z"
       },
       {
+        "title": "Erfindung des World Wide Web",
+        "type": "Ereignis",
+        "start": "1991-08-06T00:00:00.000Z",
+        "end": null,
+        "domain": "Technologie",
+        "tags": [
+          "Internet",
+          "WWW",
+          "CERN",
+          "Tim Berners-Lee",
+          "Digitalisierung"
+        ],
+        "added": "2026-01-30T00:00:00.000Z"
+      },
+      {
         "title": "Erfindung des Buchdrucks",
         "type": "Ereignis",
         "start": "1450-01-01T00:00:00.000Z",
@@ -261,6 +323,38 @@
           "Gutenberg",
           "Medien",
           "Renaissance"
+        ],
+        "added": "2026-01-30T00:00:00.000Z"
+      },
+      {
+        "title": "Erfindung des Smartphones",
+        "type": "Ereignis",
+        "start": "2007-01-09T00:00:00.000Z",
+        "end": null,
+        "domain": "Technologie",
+        "tags": [
+          "Smartphone",
+          "iPhone",
+          "Apple",
+          "Touchscreen",
+          "Mobile",
+          "Steve Jobs"
+        ],
+        "added": "2026-01-30T00:00:00.000Z"
+      },
+      {
+        "title": "Erfindung des Personalcomputers",
+        "type": "Ereignis",
+        "start": "1975-01-01T00:00:00.000Z",
+        "end": null,
+        "domain": "Technologie",
+        "tags": [
+          "Computer",
+          "PC",
+          "Altair",
+          "Apple",
+          "IBM",
+          "Mikrocomputer"
         ],
         "added": "2026-01-30T00:00:00.000Z"
       }
