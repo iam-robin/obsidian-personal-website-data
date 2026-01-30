@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-28T08:16:48.260Z",
-  "count": 6,
+  "lastUpdated": "2026-01-30T20:04:07.113Z",
+  "count": 9,
   "entries": [
     {
       "title": "Zweiter Weltkrieg",
@@ -16,6 +16,22 @@
         "Vereinte Nationen"
       ],
       "added": "2026-01-26T00:00:00.000Z"
+    },
+    {
+      "title": "Weimarer Republik",
+      "type": "Zeitspanne",
+      "start": "1919-08-11T00:00:00.000Z",
+      "end": "1933-01-30T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Demokratie",
+        "Deutschland",
+        "Zwischenkriegszeit",
+        "Verfassung",
+        "Hyperinflation",
+        "Goldene Zwanziger"
+      ],
+      "added": "2026-01-30T00:00:00.000Z"
     },
     {
       "title": "Der Blaue Reiter",
@@ -61,6 +77,37 @@
         "Grenzöffnung"
       ],
       "added": "2026-01-27T00:00:00.000Z"
+    },
+    {
+      "title": "Bauhaus",
+      "type": "Zeitspanne",
+      "start": "1919-04-01T00:00:00.000Z",
+      "end": "1933-04-11T00:00:00.000Z",
+      "domain": "Kunst",
+      "tags": [
+        "Design",
+        "Architektur",
+        "Moderne",
+        "Weimar",
+        "Dessau",
+        "Gropius"
+      ],
+      "added": "2026-01-30T00:00:00.000Z"
+    },
+    {
+      "title": "Erfindung des Buchdrucks",
+      "type": "Ereignis",
+      "start": "1450-01-01T00:00:00.000Z",
+      "end": null,
+      "domain": "Technologie",
+      "tags": [
+        "Erfindung",
+        "Buchdruck",
+        "Gutenberg",
+        "Medien",
+        "Renaissance"
+      ],
+      "added": "2026-01-30T00:00:00.000Z"
     },
     {
       "title": "Erster Weltkrieg",
@@ -111,6 +158,22 @@
         "added": "2026-01-26T00:00:00.000Z"
       },
       {
+        "title": "Weimarer Republik",
+        "type": "Zeitspanne",
+        "start": "1919-08-11T00:00:00.000Z",
+        "end": "1933-01-30T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Demokratie",
+          "Deutschland",
+          "Zwischenkriegszeit",
+          "Verfassung",
+          "Hyperinflation",
+          "Goldene Zwanziger"
+        ],
+        "added": "2026-01-30T00:00:00.000Z"
+      },
+      {
         "title": "Der Blaue Reiter",
         "type": "Zeitspanne",
         "start": "1911-01-01T00:00:00.000Z",
@@ -124,6 +187,22 @@
           "Abstraktion"
         ],
         "added": "2026-01-27T00:00:00.000Z"
+      },
+      {
+        "title": "Bauhaus",
+        "type": "Zeitspanne",
+        "start": "1919-04-01T00:00:00.000Z",
+        "end": "1933-04-11T00:00:00.000Z",
+        "domain": "Kunst",
+        "tags": [
+          "Design",
+          "Architektur",
+          "Moderne",
+          "Weimar",
+          "Dessau",
+          "Gropius"
+        ],
+        "added": "2026-01-30T00:00:00.000Z"
       },
       {
         "title": "Erster Weltkrieg",
@@ -169,6 +248,21 @@
           "Grenzöffnung"
         ],
         "added": "2026-01-27T00:00:00.000Z"
+      },
+      {
+        "title": "Erfindung des Buchdrucks",
+        "type": "Ereignis",
+        "start": "1450-01-01T00:00:00.000Z",
+        "end": null,
+        "domain": "Technologie",
+        "tags": [
+          "Erfindung",
+          "Buchdruck",
+          "Gutenberg",
+          "Medien",
+          "Renaissance"
+        ],
+        "added": "2026-01-30T00:00:00.000Z"
       }
     ],
     "Epoche": [
