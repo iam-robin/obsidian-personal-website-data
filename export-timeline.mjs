@@ -29,7 +29,7 @@ async function exportTimeline() {
 
     for (const filePath of files) {
         try {
-            const { data } = await parseMarkdownFile(filePath);
+            const { data, body } = await parseMarkdownFile(filePath);
 
             // Skip if not a timeline entry or is a template
             if (!hasKategorie(data, "Timeline")) continue;
@@ -42,6 +42,9 @@ async function exportTimeline() {
             if (entry.tags && !Array.isArray(entry.tags)) {
                 entry.tags = [entry.tags];
             }
+
+            // Add markdown content
+            entry.content = body;
 
             entries.push(entry);
         } catch (err) {
