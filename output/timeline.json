@@ -1,382 +1,374 @@
 {
-  "lastUpdated": "2026-01-30T20:15:10.807Z",
-  "count": 12,
-  "entries": [
-    {
-      "title": "Zweiter Weltkrieg",
-      "type": "Zeitspanne",
-      "start": "1939-09-01T00:00:00.000Z",
-      "end": "1945-09-02T00:00:00.000Z",
-      "domain": "Geschichte",
-      "tags": [
-        "Krieg",
-        "Nazi-Deutschland",
-        "Holocaust",
-        "Atombombe",
-        "Vereinte Nationen"
-      ],
-      "added": "2026-01-26T00:00:00.000Z"
-    },
-    {
-      "title": "Weimarer Republik",
-      "type": "Zeitspanne",
-      "start": "1919-08-11T00:00:00.000Z",
-      "end": "1933-01-30T00:00:00.000Z",
-      "domain": "Geschichte",
-      "tags": [
-        "Demokratie",
-        "Deutschland",
-        "Zwischenkriegszeit",
-        "Verfassung",
-        "Hyperinflation",
-        "Goldene Zwanziger"
-      ],
-      "added": "2026-01-30T00:00:00.000Z"
-    },
-    {
-      "title": "Der Blaue Reiter",
-      "type": "Zeitspanne",
-      "start": "1911-01-01T00:00:00.000Z",
-      "end": "1914-08-01T00:00:00.000Z",
-      "domain": "Kunst",
-      "tags": [
-        "Kunstbewegung",
-        "Expressionismus",
-        "Malerei",
-        "München",
-        "Abstraktion"
-      ],
-      "added": "2026-01-27T00:00:00.000Z"
-    },
-    {
-      "title": "Erste Mondlandung (Apollo 11)",
-      "type": "Ereignis",
-      "start": "1969-07-20T00:00:00.000Z",
-      "end": null,
-      "domain": "Technologie",
-      "tags": [
-        "Weltraum",
-        "NASA",
-        "Kalter Krieg",
-        "Entdeckung",
-        "Meilenstein"
-      ],
-      "added": "2026-01-27T00:00:00.000Z"
-    },
-    {
-      "title": "Fall der Berliner Mauer",
-      "type": "Ereignis",
-      "start": "1989-11-09T00:00:00.000Z",
-      "end": null,
-      "domain": "Geschichte",
-      "tags": [
-        "Wiedervereinigung",
-        "DDR",
-        "BRD",
-        "Kalter Krieg",
-        "Grenzöffnung"
-      ],
-      "added": "2026-01-27T00:00:00.000Z"
-    },
-    {
-      "title": "Bauhaus",
-      "type": "Zeitspanne",
-      "start": "1919-04-01T00:00:00.000Z",
-      "end": "1933-04-11T00:00:00.000Z",
-      "domain": "Kunst",
-      "tags": [
-        "Design",
-        "Architektur",
-        "Moderne",
-        "Weimar",
-        "Dessau",
-        "Gropius"
-      ],
-      "added": "2026-01-30T00:00:00.000Z"
-    },
-    {
-      "title": "Erfindung des World Wide Web",
-      "type": "Ereignis",
-      "start": "1991-08-06T00:00:00.000Z",
-      "end": null,
-      "domain": "Technologie",
-      "tags": [
-        "Internet",
-        "WWW",
-        "CERN",
-        "Tim Berners-Lee",
-        "Digitalisierung"
-      ],
-      "added": "2026-01-30T00:00:00.000Z"
-    },
-    {
-      "title": "Erfindung des Buchdrucks",
-      "type": "Ereignis",
-      "start": "1450-01-01T00:00:00.000Z",
-      "end": null,
-      "domain": "Technologie",
-      "tags": [
-        "Erfindung",
-        "Buchdruck",
-        "Gutenberg",
-        "Medien",
-        "Renaissance"
-      ],
-      "added": "2026-01-30T00:00:00.000Z"
-    },
-    {
-      "title": "Erfindung des Smartphones",
-      "type": "Ereignis",
-      "start": "2007-01-09T00:00:00.000Z",
-      "end": null,
-      "domain": "Technologie",
-      "tags": [
-        "Smartphone",
-        "iPhone",
-        "Apple",
-        "Touchscreen",
-        "Mobile",
-        "Steve Jobs"
-      ],
-      "added": "2026-01-30T00:00:00.000Z"
-    },
-    {
-      "title": "Erster Weltkrieg",
-      "type": "Zeitspanne",
-      "start": "1914-07-28T00:00:00.000Z",
-      "end": "1918-11-11T00:00:00.000Z",
-      "domain": "Geschichte",
-      "tags": [
-        "Krieg",
-        "Europa",
-        "Völkerbund"
-      ],
-      "added": "2026-01-26T00:00:00.000Z"
-    },
-    {
-      "title": "Erfindung des Personalcomputers",
-      "type": "Ereignis",
-      "start": "1975-01-01T00:00:00.000Z",
-      "end": null,
-      "domain": "Technologie",
-      "tags": [
-        "Computer",
-        "PC",
-        "Altair",
-        "Apple",
-        "IBM",
-        "Mikrocomputer"
-      ],
-      "added": "2026-01-30T00:00:00.000Z"
-    },
-    {
-      "title": "Kalter Krieg",
-      "type": "Epoche",
-      "start": "1947-03-12T00:00:00.000Z",
-      "end": "1991-12-26T00:00:00.000Z",
-      "domain": "Geschichte",
-      "tags": [
-        "Ost-West-Konflikt",
-        "USA",
-        "Sowjetunion",
-        "NATO",
-        "Warschauer Pakt",
-        "Wettrüsten",
-        "Stellvertreterkriege"
-      ],
-      "added": "2026-01-27T00:00:00.000Z"
+    "lastUpdated": "2026-01-30T20:15:10.807Z",
+    "count": 12,
+    "entries": [
+        {
+            "title": "Zweiter Weltkrieg",
+            "type": "Zeitspanne",
+            "start": "1939-09-01T00:00:00.000Z",
+            "end": "1945-09-02T00:00:00.000Z",
+            "domain": "Geschichte",
+            "tags": [
+                "Krieg",
+                "Nazi-Deutschland",
+                "Holocaust",
+                "Atombombe",
+                "Vereinte Nationen"
+            ],
+            "added": "2026-01-26T00:00:00.000Z"
+        },
+        {
+            "title": "Weimarer Republik",
+            "type": "Zeitspanne",
+            "start": "1919-08-11T00:00:00.000Z",
+            "end": "1933-01-30T00:00:00.000Z",
+            "domain": "Geschichte",
+            "tags": [
+                "Demokratie",
+                "Deutschland",
+                "Zwischenkriegszeit",
+                "Verfassung",
+                "Hyperinflation",
+                "Goldene Zwanziger"
+            ],
+            "added": "2026-01-30T00:00:00.000Z"
+        },
+        {
+            "title": "Der Blaue Reiter",
+            "type": "Zeitspanne",
+            "start": "1911-01-01T00:00:00.000Z",
+            "end": "1914-08-01T00:00:00.000Z",
+            "domain": "Kunst",
+            "tags": [
+                "Kunstbewegung",
+                "Expressionismus",
+                "Malerei",
+                "München",
+                "Abstraktion"
+            ],
+            "added": "2026-01-27T00:00:00.000Z"
+        },
+        {
+            "title": "Erste Mondlandung (Apollo 11)",
+            "type": "Ereignis",
+            "start": "1969-07-20T00:00:00.000Z",
+            "end": null,
+            "domain": "Technologie",
+            "tags": [
+                "Weltraum",
+                "NASA",
+                "Kalter Krieg",
+                "Entdeckung",
+                "Meilenstein"
+            ],
+            "added": "2026-01-27T00:00:00.000Z"
+        },
+        {
+            "title": "Fall der Berliner Mauer",
+            "type": "Ereignis",
+            "start": "1989-11-09T00:00:00.000Z",
+            "end": null,
+            "domain": "Geschichte",
+            "tags": [
+                "Wiedervereinigung",
+                "DDR",
+                "BRD",
+                "Kalter Krieg",
+                "Grenzöffnung"
+            ],
+            "added": "2026-01-27T00:00:00.000Z"
+        },
+        {
+            "title": "Bauhaus",
+            "type": "Zeitspanne",
+            "start": "1919-04-01T00:00:00.000Z",
+            "end": "1933-04-11T00:00:00.000Z",
+            "domain": "Kunst",
+            "tags": [
+                "Design",
+                "Architektur",
+                "Moderne",
+                "Weimar",
+                "Dessau",
+                "Gropius"
+            ],
+            "added": "2026-01-30T00:00:00.000Z"
+        },
+        {
+            "title": "Erfindung des World Wide Web",
+            "type": "Ereignis",
+            "start": "1991-08-06T00:00:00.000Z",
+            "end": null,
+            "domain": "Technologie",
+            "tags": [
+                "Internet",
+                "WWW",
+                "CERN",
+                "Tim Berners-Lee",
+                "Digitalisierung"
+            ],
+            "added": "2026-01-30T00:00:00.000Z"
+        },
+        {
+            "title": "Erfindung des Buchdrucks",
+            "type": "Ereignis",
+            "start": "1450-01-01T00:00:00.000Z",
+            "end": null,
+            "domain": "Technologie",
+            "tags": [
+                "Erfindung",
+                "Buchdruck",
+                "Gutenberg",
+                "Medien",
+                "Renaissance"
+            ],
+            "added": "2026-01-30T00:00:00.000Z"
+        },
+        {
+            "title": "Erfindung des Smartphones",
+            "type": "Ereignis",
+            "start": "2007-01-09T00:00:00.000Z",
+            "end": null,
+            "domain": "Technologie",
+            "tags": [
+                "Smartphone",
+                "iPhone",
+                "Apple",
+                "Touchscreen",
+                "Mobile",
+                "Steve Jobs"
+            ],
+            "added": "2026-01-30T00:00:00.000Z"
+        },
+        {
+            "title": "Erster Weltkrieg",
+            "type": "Zeitspanne",
+            "start": "1914-07-28T00:00:00.000Z",
+            "end": "1918-11-11T00:00:00.000Z",
+            "domain": "Geschichte",
+            "tags": ["Krieg", "Europa", "Völkerbund"],
+            "added": "2026-01-26T00:00:00.000Z"
+        },
+        {
+            "title": "Erfindung des Personalcomputers",
+            "type": "Ereignis",
+            "start": "1975-01-01T00:00:00.000Z",
+            "end": null,
+            "domain": "Technologie",
+            "tags": [
+                "Computer",
+                "PC",
+                "Altair",
+                "Apple",
+                "IBM",
+                "Mikrocomputer"
+            ],
+            "added": "2026-01-30T00:00:00.000Z"
+        },
+        {
+            "title": "Kalter Krieg",
+            "type": "Epoche",
+            "start": "1947-03-12T00:00:00.000Z",
+            "end": "1991-12-26T00:00:00.000Z",
+            "domain": "Geschichte",
+            "tags": [
+                "Ost-West-Konflikt",
+                "USA",
+                "Sowjetunion",
+                "NATO",
+                "Warschauer Pakt",
+                "Wettrüsten",
+                "Stellvertreterkriege"
+            ],
+            "added": "2026-01-27T00:00:00.000Z"
+        }
+    ],
+    "byType": {
+        "Zeitspanne": [
+            {
+                "title": "Zweiter Weltkrieg",
+                "type": "Zeitspanne",
+                "start": "1939-09-01T00:00:00.000Z",
+                "end": "1945-09-02T00:00:00.000Z",
+                "domain": "Geschichte",
+                "tags": [
+                    "Krieg",
+                    "Nazi-Deutschland",
+                    "Holocaust",
+                    "Atombombe",
+                    "Vereinte Nationen"
+                ],
+                "added": "2026-01-26T00:00:00.000Z"
+            },
+            {
+                "title": "Weimarer Republik",
+                "type": "Zeitspanne",
+                "start": "1919-08-11T00:00:00.000Z",
+                "end": "1933-01-30T00:00:00.000Z",
+                "domain": "Geschichte",
+                "tags": [
+                    "Demokratie",
+                    "Deutschland",
+                    "Zwischenkriegszeit",
+                    "Verfassung",
+                    "Hyperinflation",
+                    "Goldene Zwanziger"
+                ],
+                "added": "2026-01-30T00:00:00.000Z"
+            },
+            {
+                "title": "Der Blaue Reiter",
+                "type": "Zeitspanne",
+                "start": "1911-01-01T00:00:00.000Z",
+                "end": "1914-08-01T00:00:00.000Z",
+                "domain": "Kunst",
+                "tags": [
+                    "Kunstbewegung",
+                    "Expressionismus",
+                    "Malerei",
+                    "München",
+                    "Abstraktion"
+                ],
+                "added": "2026-01-27T00:00:00.000Z"
+            },
+            {
+                "title": "Bauhaus",
+                "type": "Zeitspanne",
+                "start": "1919-04-01T00:00:00.000Z",
+                "end": "1933-04-11T00:00:00.000Z",
+                "domain": "Kunst",
+                "tags": [
+                    "Design",
+                    "Architektur",
+                    "Moderne",
+                    "Weimar",
+                    "Dessau",
+                    "Gropius"
+                ],
+                "added": "2026-01-30T00:00:00.000Z"
+            },
+            {
+                "title": "Erster Weltkrieg",
+                "type": "Zeitspanne",
+                "start": "1914-07-28T00:00:00.000Z",
+                "end": "1918-11-11T00:00:00.000Z",
+                "domain": "Geschichte",
+                "tags": ["Krieg", "Europa", "Völkerbund"],
+                "added": "2026-01-26T00:00:00.000Z"
+            }
+        ],
+        "Ereignis": [
+            {
+                "title": "Erste Mondlandung (Apollo 11)",
+                "type": "Ereignis",
+                "start": "1969-07-20T00:00:00.000Z",
+                "end": null,
+                "domain": "Technologie",
+                "tags": [
+                    "Weltraum",
+                    "NASA",
+                    "Kalter Krieg",
+                    "Entdeckung",
+                    "Meilenstein"
+                ],
+                "added": "2026-01-27T00:00:00.000Z"
+            },
+            {
+                "title": "Fall der Berliner Mauer",
+                "type": "Ereignis",
+                "start": "1989-11-09T00:00:00.000Z",
+                "end": null,
+                "domain": "Geschichte",
+                "tags": [
+                    "Wiedervereinigung",
+                    "DDR",
+                    "BRD",
+                    "Kalter Krieg",
+                    "Grenzöffnung"
+                ],
+                "added": "2026-01-27T00:00:00.000Z"
+            },
+            {
+                "title": "Erfindung des World Wide Web",
+                "type": "Ereignis",
+                "start": "1991-08-06T00:00:00.000Z",
+                "end": null,
+                "domain": "Technologie",
+                "tags": [
+                    "Internet",
+                    "WWW",
+                    "CERN",
+                    "Tim Berners-Lee",
+                    "Digitalisierung"
+                ],
+                "added": "2026-01-30T00:00:00.000Z"
+            },
+            {
+                "title": "Erfindung des Buchdrucks",
+                "type": "Ereignis",
+                "start": "1450-01-01T00:00:00.000Z",
+                "end": null,
+                "domain": "Technologie",
+                "tags": [
+                    "Erfindung",
+                    "Buchdruck",
+                    "Gutenberg",
+                    "Medien",
+                    "Renaissance"
+                ],
+                "added": "2026-01-30T00:00:00.000Z"
+            },
+            {
+                "title": "Erfindung des Smartphones",
+                "type": "Ereignis",
+                "start": "2007-01-09T00:00:00.000Z",
+                "end": null,
+                "domain": "Technologie",
+                "tags": [
+                    "Smartphone",
+                    "iPhone",
+                    "Apple",
+                    "Touchscreen",
+                    "Mobile",
+                    "Steve Jobs"
+                ],
+                "added": "2026-01-30T00:00:00.000Z"
+            },
+            {
+                "title": "Erfindung des Personalcomputers",
+                "type": "Ereignis",
+                "start": "1975-01-01T00:00:00.000Z",
+                "end": null,
+                "domain": "Technologie",
+                "tags": [
+                    "Computer",
+                    "PC",
+                    "Altair",
+                    "Apple",
+                    "IBM",
+                    "Mikrocomputer"
+                ],
+                "added": "2026-01-30T00:00:00.000Z"
+            }
+        ],
+        "Epoche": [
+            {
+                "title": "Kalter Krieg",
+                "type": "Epoche",
+                "start": "1947-03-12T00:00:00.000Z",
+                "end": "1991-12-26T00:00:00.000Z",
+                "domain": "Geschichte",
+                "tags": [
+                    "Ost-West-Konflikt",
+                    "USA",
+                    "Sowjetunion",
+                    "NATO",
+                    "Warschauer Pakt",
+                    "Wettrüsten",
+                    "Stellvertreterkriege"
+                ],
+                "added": "2026-01-27T00:00:00.000Z"
+            }
+        ]
     }
-  ],
-  "byType": {
-    "Zeitspanne": [
-      {
-        "title": "Zweiter Weltkrieg",
-        "type": "Zeitspanne",
-        "start": "1939-09-01T00:00:00.000Z",
-        "end": "1945-09-02T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Krieg",
-          "Nazi-Deutschland",
-          "Holocaust",
-          "Atombombe",
-          "Vereinte Nationen"
-        ],
-        "added": "2026-01-26T00:00:00.000Z"
-      },
-      {
-        "title": "Weimarer Republik",
-        "type": "Zeitspanne",
-        "start": "1919-08-11T00:00:00.000Z",
-        "end": "1933-01-30T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Demokratie",
-          "Deutschland",
-          "Zwischenkriegszeit",
-          "Verfassung",
-          "Hyperinflation",
-          "Goldene Zwanziger"
-        ],
-        "added": "2026-01-30T00:00:00.000Z"
-      },
-      {
-        "title": "Der Blaue Reiter",
-        "type": "Zeitspanne",
-        "start": "1911-01-01T00:00:00.000Z",
-        "end": "1914-08-01T00:00:00.000Z",
-        "domain": "Kunst",
-        "tags": [
-          "Kunstbewegung",
-          "Expressionismus",
-          "Malerei",
-          "München",
-          "Abstraktion"
-        ],
-        "added": "2026-01-27T00:00:00.000Z"
-      },
-      {
-        "title": "Bauhaus",
-        "type": "Zeitspanne",
-        "start": "1919-04-01T00:00:00.000Z",
-        "end": "1933-04-11T00:00:00.000Z",
-        "domain": "Kunst",
-        "tags": [
-          "Design",
-          "Architektur",
-          "Moderne",
-          "Weimar",
-          "Dessau",
-          "Gropius"
-        ],
-        "added": "2026-01-30T00:00:00.000Z"
-      },
-      {
-        "title": "Erster Weltkrieg",
-        "type": "Zeitspanne",
-        "start": "1914-07-28T00:00:00.000Z",
-        "end": "1918-11-11T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Krieg",
-          "Europa",
-          "Völkerbund"
-        ],
-        "added": "2026-01-26T00:00:00.000Z"
-      }
-    ],
-    "Ereignis": [
-      {
-        "title": "Erste Mondlandung (Apollo 11)",
-        "type": "Ereignis",
-        "start": "1969-07-20T00:00:00.000Z",
-        "end": null,
-        "domain": "Technologie",
-        "tags": [
-          "Weltraum",
-          "NASA",
-          "Kalter Krieg",
-          "Entdeckung",
-          "Meilenstein"
-        ],
-        "added": "2026-01-27T00:00:00.000Z"
-      },
-      {
-        "title": "Fall der Berliner Mauer",
-        "type": "Ereignis",
-        "start": "1989-11-09T00:00:00.000Z",
-        "end": null,
-        "domain": "Geschichte",
-        "tags": [
-          "Wiedervereinigung",
-          "DDR",
-          "BRD",
-          "Kalter Krieg",
-          "Grenzöffnung"
-        ],
-        "added": "2026-01-27T00:00:00.000Z"
-      },
-      {
-        "title": "Erfindung des World Wide Web",
-        "type": "Ereignis",
-        "start": "1991-08-06T00:00:00.000Z",
-        "end": null,
-        "domain": "Technologie",
-        "tags": [
-          "Internet",
-          "WWW",
-          "CERN",
-          "Tim Berners-Lee",
-          "Digitalisierung"
-        ],
-        "added": "2026-01-30T00:00:00.000Z"
-      },
-      {
-        "title": "Erfindung des Buchdrucks",
-        "type": "Ereignis",
-        "start": "1450-01-01T00:00:00.000Z",
-        "end": null,
-        "domain": "Technologie",
-        "tags": [
-          "Erfindung",
-          "Buchdruck",
-          "Gutenberg",
-          "Medien",
-          "Renaissance"
-        ],
-        "added": "2026-01-30T00:00:00.000Z"
-      },
-      {
-        "title": "Erfindung des Smartphones",
-        "type": "Ereignis",
-        "start": "2007-01-09T00:00:00.000Z",
-        "end": null,
-        "domain": "Technologie",
-        "tags": [
-          "Smartphone",
-          "iPhone",
-          "Apple",
-          "Touchscreen",
-          "Mobile",
-          "Steve Jobs"
-        ],
-        "added": "2026-01-30T00:00:00.000Z"
-      },
-      {
-        "title": "Erfindung des Personalcomputers",
-        "type": "Ereignis",
-        "start": "1975-01-01T00:00:00.000Z",
-        "end": null,
-        "domain": "Technologie",
-        "tags": [
-          "Computer",
-          "PC",
-          "Altair",
-          "Apple",
-          "IBM",
-          "Mikrocomputer"
-        ],
-        "added": "2026-01-30T00:00:00.000Z"
-      }
-    ],
-    "Epoche": [
-      {
-        "title": "Kalter Krieg",
-        "type": "Epoche",
-        "start": "1947-03-12T00:00:00.000Z",
-        "end": "1991-12-26T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Ost-West-Konflikt",
-          "USA",
-          "Sowjetunion",
-          "NATO",
-          "Warschauer Pakt",
-          "Wettrüsten",
-          "Stellvertreterkriege"
-        ],
-        "added": "2026-01-27T00:00:00.000Z"
-      }
-    ]
-  }
 }
