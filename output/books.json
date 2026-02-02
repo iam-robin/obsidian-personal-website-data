@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-01-18T18:19:10.847Z",
-  "count": 82,
+  "lastUpdated": "2026-02-02T07:20:06.544Z",
+  "count": 83,
   "aktiv": [
     {
-      "title": "Hey guten Morgen, wie geht es dir?",
+      "title": "The Pillars of the Earth",
       "author": [
-        "Martina Hefter"
+        "Ken Follett"
       ],
-      "pages": 178,
-      "published": "2024-07-13T00:00:00.000Z",
-      "cover": "https://bilder.buecher.de/produkte/73/73769/73769914z.jpg",
-      "isbn": "3608123539 9783608123531",
-      "publisher": "Klett-Cotta",
-      "genre": null,
-      "finished": null,
-      "rating": null,
-      "added": "2026-01-10 19:45",
+      "pages": "",
+      "published": "",
+      "cover": "https://m.media-amazon.com/images/I/919i0IEfm-L._SL1500_.jpg",
+      "isbn": "",
+      "publisher": "",
+      "genre": [],
+      "finished": "",
+      "rating": "",
+      "added": "2026-02-02 15:30",
       "status": [
         "Aktiv"
       ]
@@ -1537,6 +1537,24 @@
       }
     ],
     "2026": [
+      {
+        "title": "Hey guten Morgen, wie geht es dir?",
+        "author": [
+          "Martina Hefter"
+        ],
+        "pages": 178,
+        "published": "2024-07-13T00:00:00.000Z",
+        "cover": "https://bilder.buecher.de/produkte/73/73769/73769914z.jpg",
+        "isbn": "3608123539 9783608123531",
+        "publisher": "Klett-Cotta",
+        "genre": null,
+        "finished": "2026-02-01T00:00:00.000Z",
+        "rating": null,
+        "added": "2026-01-10 19:45",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
       {
         "title": "ë",
         "author": [
