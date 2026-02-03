@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+import { copyFile, mkdir } from "fs/promises";
+import { existsSync } from "fs";
+import { join, basename, dirname } from "path";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
@@ -8,7 +11,11 @@ import {
     normalizeStatus,
     writeOutput,
     getLastUpdated,
+    VAULT_PATH,
 } from "./lib/utils.mjs";
+
+const COVERS_DIR = join(dirname(new URL(import.meta.url).pathname), "output", "book-covers");
+const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers";
 
 // Map German frontmatter keys to English JSON keys
 const KEY_MAP = {
@@ -17,6 +24,7 @@ const KEY_MAP = {
     Seiten: "pages",
     Erschienen: "published",
     Cover: "cover",
+    "Cover (lokal)": "coverLocal",
     isbn: "isbn",
     Verlag: "publisher",
     Genre: "genre",
@@ -66,6 +74,41 @@ async function exportBooks() {
             if (book.rating) {
                 const parsed = parseFloat(book.rating);
                 book.rating = isNaN(parsed) ? book.rating : parsed;
+            }
+
+            // Handle cover field: copy local cover and generate GitHub URL
+            if (book.coverLocal) {
+                try {
+                    // Build full paths
+                    const sourcePath = join(VAULT_PATH, book.coverLocal);
+                    const filename = basename(book.coverLocal);
+                    const destPath = join(COVERS_DIR, filename);
+
+                    // Ensure covers directory exists
+                    await mkdir(COVERS_DIR, { recursive: true });
+
+                    // Copy file if source exists
+                    if (existsSync(sourcePath)) {
+                        await copyFile(sourcePath, destPath);
+                        // Set cover to GitHub raw URL
+                        book.cover = `${GITHUB_RAW_BASE}/${filename}`;
+                    } else {
+                        console.warn(`  Warning: Cover file not found: ${sourcePath}`);
+                        book.cover = null;
+                    }
+                } catch (error) {
+                    console.error(`  Error copying cover for ${book.title}: ${error.message}`);
+                    book.cover = null;
+                }
+                // Remove coverLocal from final output
+                delete book.coverLocal;
+            } else if (book.cover) {
+                // External URL exists but no local cover - keep it (shouldn't happen after migration)
+                delete book.coverLocal;
+            } else {
+                // No cover at all
+                book.cover = null;
+                delete book.coverLocal;
             }
 
             books.push(book);

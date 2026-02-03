@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T07:20:06.544Z",
+  "lastUpdated": "2026-02-03T08:09:18.654Z",
   "count": 83,
   "aktiv": [
     {
@@ -9,7 +9,7 @@
       ],
       "pages": "",
       "published": "",
-      "cover": "https://m.media-amazon.com/images/I/919i0IEfm-L._SL1500_.jpg",
+      "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-pillars-of-the-earth-ken-follett.jpg",
       "isbn": "",
       "publisher": "",
       "genre": [],
@@ -31,7 +31,7 @@
       ],
       "pages": 416,
       "published": "1987",
-      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1442239711i/472331.jpg",
+      "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/watchmen-alan-moore.jpg",
       "isbn": null,
       "genre": [
         "Graphic Novels",
@@ -55,7 +55,7 @@
       ],
       "pages": 369,
       "published": "2013",
-      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1356108388i/16126596.jpg",
+      "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-people-in-the-trees-hanya-yanagihara.jpg",
       "isbn": "[]",
       "genre": [
         "Fiction",
@@ -79,7 +79,7 @@
       ],
       "pages": 333,
       "published": "2014",
-      "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1680459872i/20170404.jpg",
+      "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/station-eleven-emily-st-john-mandel.jpg",
       "isbn": null,
       "genre": [
         "Fiction",
@@ -108,7 +108,7 @@
         ],
         "pages": 224,
         "published": "2013",
-        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1381287521i/17756296.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/speculative-everything-design-fiction-and-social-dreaming-anthony-dunne.jpg",
         "isbn": null,
         "genre": [
           "Design",
@@ -132,7 +132,7 @@
         ],
         "pages": 320,
         "published": "1985",
-        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1488552336i/34454589.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-handmaid-s-tale-margaret-atwood.jpg",
         "isbn": null,
         "genre": [
           "Fiction",
@@ -156,7 +156,7 @@
         ],
         "pages": 343,
         "published": "2018",
-        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1520026196i/24233708.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/an-absolutely-remarkable-thing-hank-green.jpg",
         "isbn": null,
         "genre": [
           "Science Fiction",
@@ -177,7 +177,7 @@
         ],
         "pages": 352,
         "published": "",
-        "cover": "https://assets.literal.club/2/cklgjvco001731ifbtovevtln.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-monk-of-mokha-dave-eggers.jpg",
         "isbn": 9780241244906,
         "genre": [
           "Fiction"
@@ -195,7 +195,7 @@
         ],
         "pages": 42,
         "published": "",
-        "cover": "http://books.google.com/books/content?id=R6QdAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/monsieur-ibrahim-and-the-flowers-eric-emmanuel-schmitt.jpg",
         "isbn": null,
         "genre": [
           "Fiction"
@@ -213,7 +213,7 @@
         ],
         "pages": 0,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckr1voyun1p8u01cr2v4fqo7e.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/tuesdays-with-morrie-an-old-man-a-young-man-and-life-s-greatest-lesson-mitch-albom.jpg",
         "isbn": 9780751569575,
         "genre": [
           "Fiction"
@@ -231,7 +231,7 @@
         ],
         "pages": 96,
         "published": "",
-        "cover": "https://assets.literal.club/1/ckrbpf6je82659183skge514ay.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/terror-ferdinand-von-schirach.jpg",
         "isbn": 9780571340767,
         "genre": [
           "Fiction"
@@ -243,13 +243,13 @@
         ]
       },
       {
-        "title": "Das Parfum: Die Geschichte eines Mörders. Buch und Film",
+        "title": "Das Parfum",
         "author": [
           "Patrick Süskind"
         ],
         "pages": 336,
         "published": "",
-        "cover": "http://books.google.com/books/content?id=7FQDogEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/das-parfum-patrick-s-skind.jpg",
         "isbn": 9783257069334,
         "genre": [
           "Fiction"
@@ -267,7 +267,7 @@
         ],
         "pages": 352,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckjpr7w4725500zm4em0gcly0.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/permanent-record-edward-snowden.jpg",
         "isbn": 9781250237231,
         "genre": [
           "Fiction"
@@ -285,7 +285,7 @@
         ],
         "pages": 256,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckrqytx4v5323917982hkw3i22.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/der-goldene-handschuh-heinz-strunk.jpg",
         "isbn": 9783498064365,
         "genre": [
           "Fiction"
@@ -305,7 +305,7 @@
         ],
         "pages": 320,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckp43do37272441gjs1r4w5cx9.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/herkunft-sasa-stanisic.jpg",
         "isbn": 9783630874739,
         "genre": [
           "Fiction"
@@ -323,7 +323,7 @@
         ],
         "pages": 210,
         "published": "",
-        "cover": "https://assets.literal.club/2/cksktryjr1184502q298z513nj0p.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/alte-sorten-roman-ewald-arenz.jpg",
         "isbn": 9783832183813,
         "genre": [
           "Fiction"
@@ -341,7 +341,7 @@
         ],
         "pages": 512,
         "published": "",
-        "cover": "https://assets.literal.club/cover/5/cketqjupl21366jm0ycwopwxq6.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/sapiens-a-brief-history-of-humankind-yuval-noah-harari.jpg",
         "isbn": 9780099590088,
         "genre": [
           "Fiction"
@@ -359,7 +359,7 @@
         ],
         "pages": 492,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckm653vej372151h6gos1c6k1m.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/a-winter-s-promise-book-one-of-the-mirror-visitor-quartet-christelle-dabos.jpg",
         "isbn": 9781609456078,
         "genre": [
           "Fiction"
@@ -377,7 +377,7 @@
         ],
         "pages": 304,
         "published": "",
-        "cover": "https://assets.literal.club/1/ckgcfooqw26850zb8v1j3sz21.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-haruki-murakami.jpg",
         "isbn": 9781448190959,
         "genre": [
           "Fiction"
@@ -395,7 +395,7 @@
         ],
         "pages": 0,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckr1sv3ox0uds01cr5to70h8b.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/oryx-and-crake-margaret-atwood.jpg",
         "isbn": 9781408802779,
         "genre": [
           "Fiction"
@@ -413,7 +413,7 @@
         ],
         "pages": 464,
         "published": "",
-        "cover": "https://assets.literal.club/4/cksktwi1i1196537q298w63o84tp.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/miroloi-karen-k-hler.jpg",
         "isbn": 9783446261716,
         "genre": [
           "Fiction"
@@ -431,7 +431,7 @@
         ],
         "pages": 219,
         "published": "",
-        "cover": "https://assets.literal.club/1/ckuohb70j2889801fy86a20m3el.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/sch-ner-als-berall-roman-kristin-h-ller.jpg",
         "isbn": 9783518763278,
         "genre": [
           "Fiction"
@@ -449,7 +449,7 @@
         ],
         "pages": 352,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckhdjxbzf29901llg4yj1b12e.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/factfulness-hans-rosling.jpg",
         "isbn": 9781473637467,
         "genre": [
           "Fiction"
@@ -467,7 +467,7 @@
         ],
         "pages": 240,
         "published": "",
-        "cover": "http://books.google.com/books/content?id=wvHdzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-nickel-boys-colson-whitehead.jpg",
         "isbn": 9781785417962,
         "genre": [
           "Fiction"
@@ -485,7 +485,7 @@
         ],
         "pages": 304,
         "published": "",
-        "cover": "https://assets.literal.club/1/ckhdk94xu239370zap55p9nzso.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/digital-minimalism-choosing-a-focused-life-in-a-noisy-world-cal-newport.jpg",
         "isbn": 9780241341155,
         "genre": [
           "Fiction"
@@ -505,7 +505,7 @@
         ],
         "pages": 256,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckrrn5sha1422711798ro12dfq7.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/untenrum-frei-margarete-stokowski.jpg",
         "isbn": 9783499631863,
         "genre": [
           "Fiction"
@@ -523,7 +523,7 @@
         ],
         "pages": 304,
         "published": "",
-        "cover": "https://assets.literal.club/1/ckkln8g1k142991i7juluiok1f.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-midnight-library-matt-haig.jpg",
         "isbn": 9781786892713,
         "genre": [
           "Fiction"
@@ -541,7 +541,7 @@
         ],
         "pages": 96,
         "published": "",
-        "cover": "https://assets.literal.club/3/ckr32qwgk1101361fu6ay51gnqg.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/sophie-passmann-ber-frank-ocean-sophie-passmann.jpg",
         "isbn": 9783462320367,
         "genre": [
           "Fiction"
@@ -559,7 +559,7 @@
         ],
         "pages": 0,
         "published": "",
-        "cover": "https://assets.literal.club/cover/5/ckwgk6xse70995014v9oonplbjl.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/sei-kein-mann-warum-m-nnlichkeit-ein-albtraum-f-r-jungs-ist-jj-bola.jpg",
         "isbn": 9783446272835,
         "genre": [
           "Fiction"
@@ -577,7 +577,7 @@
         ],
         "pages": 160,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckrqpcjb0257311fugyxf2yuio.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/land-in-sicht-ilona-hartmann.jpg",
         "isbn": 9783351050764,
         "genre": [
           "Fiction"
@@ -595,7 +595,7 @@
         ],
         "pages": 0,
         "published": "",
-        "cover": "https://assets.literal.club/cover/5/cky4hfr4912510420ik6msb160at.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/jacob-tr-umt-nicht-mehr-clemens-bruno-gatzmaga.jpg",
         "isbn": 9783792002,
         "genre": [
           "Fiction"
@@ -613,7 +613,7 @@
         ],
         "pages": 224,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckun28e6q10931772j7a2zwxiz7a.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/das-leben-ist-eins-der-h-rtesten-giulia-becker.jpg",
         "isbn": 9783498006891,
         "genre": [
           "Fiction"
@@ -631,7 +631,7 @@
         ],
         "pages": 352,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckr1qywbq0ah101crrmxldsk9.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/dark-matter-blake-crouch.jpg",
         "isbn": 9781447297574,
         "genre": [
           "Fiction"
@@ -651,7 +651,7 @@
         ],
         "pages": 0,
         "published": "",
-        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1593147401i/53968432.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/in-a-graphic-novel-will-mcphail.jpg",
         "isbn": 9780358345541,
         "genre": [
           "Graphic Novel"
@@ -669,7 +669,7 @@
         ],
         "pages": 385,
         "published": "2003-01-01T00:00:00.000Z",
-        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1327777419i/6345999.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/death-note-vol-1-yuki-kowalsky.jpg",
         "isbn": 9781421539652,
         "genre": [
           "Manga",
@@ -688,7 +688,7 @@
         ],
         "pages": 274,
         "published": "2019-08-13T00:00:00.000Z",
-        "cover": "https://assets.literal.club/4/cklgk5n08236441ifbcnrx6hmj.jpg?size=600",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-memory-police-y-ko-ogawa.jpg",
         "isbn": 9781101870600,
         "genre": [
           "Fiction"
@@ -706,7 +706,7 @@
         ],
         "pages": 592,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckl9crv1i381161i4lmnx2rbnh.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/wool-hugh-howey.jpg",
         "isbn": 9780358447849,
         "genre": [
           "Fiction"
@@ -724,7 +724,7 @@
         ],
         "pages": 480,
         "published": "",
-        "cover": "https://assets.literal.club/2/cksa88031767311evrqmo5viof.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-girl-with-the-dragon-tattoo-stieg-larsson.jpg",
         "isbn": 9780143198369,
         "genre": [
           "Fiction"
@@ -742,7 +742,7 @@
         ],
         "pages": 272,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckt3edmpz38988ck7a9qsk8ewb.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-comfort-book-matt-haig.jpg",
         "isbn": 9781838853938,
         "genre": [
           "Fiction"
@@ -760,7 +760,7 @@
         ],
         "pages": 224,
         "published": "",
-        "cover": "https://assets.literal.club/1/ckgjc95wm06490zahco6e0gg0.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/show-your-work-10-ways-to-share-your-creativity-and-get-discovered-austin-kleon.jpg",
         "isbn": 9780761181361,
         "genre": [
           "Fiction"
@@ -779,7 +779,7 @@
         ],
         "pages": 252,
         "published": "",
-        "cover": "https://assets.literal.club/cover/5/ckt7kn47a446764xy7aypi3jyzd.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/refactoring-ui-adam-wathan.jpg",
         "isbn": null,
         "genre": [
           "Fiction"
@@ -797,7 +797,7 @@
         ],
         "pages": 415,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckjmti5je277810za75vxyk5kz.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/maybe-you-should-talk-to-someone-a-therapist-her-therapist-and-our-lives-revealed-lori-gottlieb.jpg",
         "isbn": 9781328662057,
         "genre": [
           "Fiction"
@@ -815,7 +815,7 @@
         ],
         "pages": 300,
         "published": "",
-        "cover": "https://assets.literal.club/1/ckoroxf087633111i7n76wx1ekl.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/ghostwritten-david-mitchell.jpg",
         "isbn": 9781844568833,
         "genre": [
           "Fiction"
@@ -833,7 +833,7 @@
         ],
         "pages": 368,
         "published": "",
-        "cover": "https://assets.literal.club/2/cl0m9a3gh20530id05dpo0uro.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/dschinns-roman-fatma-aydemir.jpg",
         "isbn": 9783446269149,
         "genre": [
           "Fiction"
@@ -851,7 +851,7 @@
         ],
         "pages": 176,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckt2k9csh222948897adl7vncb0.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/convenience-store-woman-sayaka-murata.jpg",
         "isbn": 9781846276842,
         "genre": [
           "Fiction"
@@ -871,7 +871,7 @@
         ],
         "pages": 128,
         "published": "",
-        "cover": "https://assets.literal.club/cover/2/cl5m57lz07197040js1t1kqjoqs.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/kummer-aller-art-mariana-leky.jpg",
         "isbn": 9783832182168,
         "genre": [
           "Fiction"
@@ -889,7 +889,7 @@
         ],
         "pages": 208,
         "published": "2020-01-27T00:00:00.000Z",
-        "cover": "https://assets.literal.club/4/ckp43d35n234351gjs3t6m09ft.jpg?size=600",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/sprache-und-sein-k-bra-g-m-say.jpg",
         "isbn": 9783446265950,
         "genre": [
           "Sachbuch",
@@ -908,7 +908,7 @@
         ],
         "pages": 352,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckt06kxcw4054114y32szteraf.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/recursion-blake-crouch.jpg",
         "isbn": 9781509866670,
         "genre": [
           "Fiction"
@@ -926,7 +926,7 @@
         ],
         "pages": 160,
         "published": "",
-        "cover": "https://assets-ol.literal.club/ol/7284187.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/steal-like-an-artist-10-things-nobody-told-you-about-being-creative-austin-kleon.jpg",
         "isbn": 9780761169253,
         "genre": [
           "Fiction"
@@ -944,7 +944,7 @@
         ],
         "pages": 336,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckrwc1l8m10928041798debxq9p3.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/swimming-studies-leanne-shapton.jpg",
         "isbn": 9780399174841,
         "genre": [
           "Fiction"
@@ -962,7 +962,7 @@
         ],
         "pages": 354,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckrdhn5rd0dmp01suqi2gxci6.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/vom-ende-der-einsamkeit-roman-benedict-wells.jpg",
         "isbn": 9783257069587,
         "genre": [
           "Fiction"
@@ -980,7 +980,7 @@
         ],
         "pages": 276,
         "published": "",
-        "cover": "https://assets.literal.club/3/ckrp0nrj3844562178fwtqtr14q.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/horrorst-r-thriller-grady-hendrix.jpg",
         "isbn": 9783426429648,
         "genre": [
           "Fiction"
@@ -998,7 +998,7 @@
         ],
         "pages": 560,
         "published": "",
-        "cover": "https://assets.literal.club/cover/5/ckohgtx7k2080561i64riy3s7z3.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-fellowship-of-the-ring-the-lord-of-the-rings-part-1-j-r-r-tolkien.jpg",
         "isbn": 9780008108298,
         "genre": [
           "Fiction"
@@ -1016,7 +1016,7 @@
         ],
         "pages": 464,
         "published": "",
-        "cover": "https://assets.literal.club/cover/5/cl2jpmvpm7569760hxvnywmm3ox.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-two-towers-lord-of-the-rings-part-2-j-r-r-tolkien.jpg",
         "isbn": null,
         "genre": [
           "Fiction"
@@ -1034,7 +1034,7 @@
         ],
         "pages": 140,
         "published": "",
-        "cover": "https://assets.literal.club/5/ckh0i8o0253020z6kexebi3y9.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/animal-farm-george-orwell.jpg",
         "isbn": 9780451526342,
         "genre": [
           "Fiction",
@@ -1055,7 +1055,7 @@
         ],
         "pages": 0,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckr1qjtma05yf01craymg9l8h.jpg?size=600",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/attack-on-titan-vol-1-hajime-isayama.jpg",
         "isbn": 9781612620244,
         "genre": [
           "Graphic Novel",
@@ -1074,7 +1074,7 @@
         ],
         "pages": 338,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckr1sa6ti0oaw01crl1mowc3y.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/little-fires-everywhere-celeste-ng.jpg",
         "isbn": 9780525522560,
         "genre": [
           "Fiction"
@@ -1092,7 +1092,7 @@
         ],
         "pages": 192,
         "published": "",
-        "cover": "https://assets.literal.club/3/ckemnwffv0391240yxom61ne1.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/what-i-talk-about-when-i-talk-about-running-haruki-murakami.jpg",
         "isbn": 9781448103737,
         "genre": [
           "Fiction"
@@ -1110,7 +1110,7 @@
         ],
         "pages": 160,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckuy4bb6e6917015tx1colw37y.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/what-they-forgot-to-teach-you-at-school-the-school-of-life.jpg",
         "isbn": 9781912891399,
         "genre": [
           "Fiction"
@@ -1128,7 +1128,7 @@
         ],
         "pages": 352,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckpzys5da1583341rjmff0m5tmn.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/hard-land-benedict-wells.jpg",
         "isbn": 9783257071481,
         "genre": [
           "Fiction"
@@ -1146,7 +1146,7 @@
         ],
         "pages": 192,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckzmu2sox346250jv09wmi081n.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/a-simpler-life-a-guide-to-greater-serenity-ease-and-clarity-the-school-of-life.jpg",
         "isbn": 9781912891689,
         "genre": [
           "Fiction"
@@ -1160,13 +1160,34 @@
     ],
     "2024": [
       {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": [
+          "J. K. Rowling"
+        ],
+        "pages": 309,
+        "published": "1997-06-26T00:00:00.000Z",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/harry-potter-and-the-sorcerer-s-stone-j-k-rowling.jpg",
+        "isbn": "0439708184 9780439708180",
+        "publisher": "Scholastic Inc.",
+        "genre": [
+          "Fantasy",
+          "Children's Literature"
+        ],
+        "finished": "2024-11-20T00:00:00.000Z",
+        "rating": "",
+        "added": "2026-02-02 19:30",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
         "title": "Anxiety",
         "author": [
           "The School of Life"
         ],
         "pages": 112,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckk7787zi379411i8sdaglvhfl.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/anxiety-the-school-of-life.jpg",
         "isbn": 9781912891214,
         "genre": [
           "Fiction"
@@ -1184,7 +1205,7 @@
         ],
         "pages": 0,
         "published": "",
-        "cover": "https://assets.literal.club/2/cl3jrbr1s12942000hircv8g3mxc.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/project-hail-mary-andy-weir.jpg",
         "isbn": 9781529157468,
         "genre": [
           "Fiction"
@@ -1196,31 +1217,13 @@
         ]
       },
       {
-        "title": "Harry Potter and the Sorcerer's Stone: Harry Potter #1",
-        "author": [
-          "J. K. Rowling"
-        ],
-        "pages": 309,
-        "published": "",
-        "cover": "https://assets.literal.club/1/ckg2lgfd20298onx217ihdaul.jpg",
-        "isbn": 9781781100486,
-        "genre": [
-          "Fiction"
-        ],
-        "finished": "2024-11-19T00:00:00.000Z",
-        "rating": 3.5,
-        "status": [
-          "Abgeschlossen"
-        ]
-      },
-      {
         "title": "Seven Brief Lessons on Physics",
         "author": [
           "Carlo Rovelli"
         ],
         "pages": 86,
         "published": "",
-        "cover": "https://assets.literal.club/2/ckp4g096x74711gjs7ptfyuwi.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/seven-brief-lessons-on-physics-carlo-rovelli.jpg",
         "isbn": 9780399184413,
         "genre": [
           "Fiction"
@@ -1238,7 +1241,7 @@
         ],
         "pages": 115,
         "published": "",
-        "cover": "https://literal-app-assets.ams3.cdn.digitaloceanspaces.com/production/covers/useruploads/ckvw5262k004m0oywb192eohe.jpeg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/how-to-live-27-conflicting-answers-and-one-weird-conclusion-derek-sivers.jpg",
         "isbn": null,
         "genre": [
           "Fiction"
@@ -1256,7 +1259,7 @@
         ],
         "pages": 304,
         "published": "",
-        "cover": "https://assets.literal.club/4/cklgk5kc1231441ifbd1r3fjtb.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-glass-castle-a-memoir-jeannette-walls.jpg",
         "isbn": 9780743247542,
         "genre": [
           "Fiction"
@@ -1274,7 +1277,7 @@
         ],
         "pages": 208,
         "published": "",
-        "cover": "https://assets.literal.club/2/cksxouobh410310378gsr84ti5g.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/diary-of-a-murderer-and-other-stories-young-ha-kim.jpg",
         "isbn": 9781328545428,
         "genre": [
           "Fiction"
@@ -1292,7 +1295,7 @@
         ],
         "pages": 204,
         "published": "",
-        "cover": "https://assets.literal.club/1/cl00d3o9j360100hsuqyqegoa9.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/stay-true-a-memoir-hua-hsu.jpg",
         "isbn": 9780385547772,
         "genre": [
           "Fiction"
@@ -1310,7 +1313,7 @@
         ],
         "pages": 187,
         "published": "",
-        "cover": "https://assets.literal.club/cover/1/clkk03kw89041530gs3b4irwl9j.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/22-bahnen-caroline-wahl.jpg",
         "isbn": 9783832182786,
         "genre": [
           "Fiction"
@@ -1328,7 +1331,7 @@
         ],
         "pages": 393,
         "published": "",
-        "cover": "https://assets.literal.club/4/ckppt3chb609341givgend0zvh.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/circe-madeline-miller.jpg",
         "isbn": 9780316556347,
         "genre": [
           "Fiction"
@@ -1346,7 +1349,7 @@
         ],
         "pages": 160,
         "published": "",
-        "cover": "https://assets.literal.club/2/cksob22j178831gwii0n4l9vx.jpg?size=600",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-walking-man-jiro-taniguchi.jpg",
         "isbn": 9781908007421,
         "genre": [
           "Graphic Novel"
@@ -1366,7 +1369,7 @@
         ],
         "pages": 112,
         "published": "2024-10-03T00:00:00.000Z",
-        "cover": "https://i.cbc.ca/ais/1.6426648,1650572073000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1527%2C2252%29%3BResize%3D1280",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/small-things-like-these-claire-keegan.jpg",
         "isbn": "0571392601 9780571392605",
         "publisher": "Steidl",
         "genre": null,
@@ -1384,7 +1387,7 @@
         ],
         "pages": 401,
         "published": "2022-07-05T00:00:00.000Z",
-        "cover": "https://assets.literal.club/2/cl0b14t3f9376650hj21mqjeq87.jpg?size=600",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/tomorrow-and-tomorrow-and-tomorrow-a-novel-gabrielle-zevin.jpg",
         "isbn": 9780593321201,
         "genre": [
           "Fiction",
@@ -1404,7 +1407,7 @@
         ],
         "pages": 96,
         "published": "1984",
-        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1181637249i/1173925.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/fever-in-urbicand-fran-ois-schuiten.jpg",
         "isbn": "9780918348869",
         "genre": [
           "Comics",
@@ -1429,7 +1432,7 @@
         ],
         "pages": 256,
         "published": "2019-09-24T00:00:00.000Z",
-        "cover": "https://assets.literal.club/4/cklgk45h8163491ifb4whwpcri.jpg?size=600",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/hello-world-being-human-in-the-age-of-algorithms-hannah-fry.jpg",
         "isbn": 9780393357363,
         "genre": [
           "Non-fiction"
@@ -1447,7 +1450,7 @@
         ],
         "pages": 0,
         "published": "1974-07-13T00:00:00.000Z",
-        "cover": "https://assets.literal.club/1/ckr1ubxp71a8y01crj3it69iu.jpg?size=600",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-hobbit-j-r-r-tolkien.jpg",
         "isbn": 345240316,
         "genre": [
           "Fiction"
@@ -1465,7 +1468,7 @@
         ],
         "pages": 369,
         "published": "2023-12-04T00:00:00.000Z",
-        "cover": "https://literal-app-assets.ams3.cdn.digitaloceanspaces.com/production/covers/useruploads/clpq4abe5000k0hsh9klm4tpp.jpeg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-song-of-achilles-barnes-noble-edition-madeline-miller.jpg",
         "isbn": null,
         "genre": [
           "Fiction"
@@ -1483,7 +1486,7 @@
         ],
         "pages": 152,
         "published": "2019-11-01T00:00:00.000Z",
-        "cover": "https://assets.literal.club/4/ckrp1l49i1071036178fed02wt8w.jpg?size=600",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/swimming-in-darkness-lucas-harari.jpg",
         "isbn": 9781551527673,
         "genre": [
           "Fiction",
@@ -1502,7 +1505,7 @@
         ],
         "pages": 464,
         "published": "2024",
-        "cover": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1686974902i/157591205.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/the-list-of-suspicious-things-jennie-godfrey.jpg",
         "isbn": null,
         "genre": [
           "Mystery",
@@ -1524,7 +1527,7 @@
         ],
         "pages": 304,
         "published": "2019-05-02T00:00:00.000Z",
-        "cover": "https://assets.literal.club/2/cklgk0s0n48211ifbty0fv6t9.jpg?size=600",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/my-year-of-rest-and-relaxation-ottessa-moshfegh.jpg",
         "isbn": 9781784707422,
         "genre": [
           "Fiction"
@@ -1544,12 +1547,12 @@
         ],
         "pages": 178,
         "published": "2024-07-13T00:00:00.000Z",
-        "cover": "https://bilder.buecher.de/produkte/73/73769/73769914z.jpg",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/hey-guten-morgen-wie-geht-es-dir-martina-hefter.jpg",
         "isbn": "3608123539 9783608123531",
         "publisher": "Klett-Cotta",
         "genre": null,
         "finished": "2026-02-01T00:00:00.000Z",
-        "rating": null,
+        "rating": 3,
         "added": "2026-01-10 19:45",
         "status": [
           "Abgeschlossen"
@@ -1562,7 +1565,7 @@
         ],
         "pages": 145,
         "published": "2025-07-23T00:00:00.000Z",
-        "cover": "https://www.wallstein-verlag.de/media/cover/9783835359499l.png",
+        "cover": "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers/jehona-kicaj.jpg",
         "isbn": "383538936X 9783835389366",
         "publisher": "Wallstein Verlag",
         "genre": null,
