@@ -15,7 +15,7 @@ import {
 } from "./lib/utils.mjs";
 
 const COVERS_DIR = join(dirname(new URL(import.meta.url).pathname), "output", "book-covers");
-const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/iam-robin/obsidian-personal-website-data/main/output/book-covers";
+const GITHUB_RAW_BASE = "book-covers"; // Relative path for website build
 
 // Map German frontmatter keys to English JSON keys
 const KEY_MAP = {
