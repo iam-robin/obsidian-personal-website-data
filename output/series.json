@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-01-19T15:11:28.651Z",
-  "count": 63,
+  "lastUpdated": "2026-02-04T07:18:01.275Z",
+  "count": 64,
   "aktiv": [
     {
       "title": "The Bear",
@@ -43,6 +43,35 @@
       "released": "2024-02-27T00:00:00.000Z",
       "finished": null,
       "added": "2026-01-18T00:00:00.000Z",
+      "favorite": false,
+      "status": [
+        "Aktiv"
+      ]
+    },
+    {
+      "title": "Blue Eye Samurai",
+      "season": 1,
+      "genre": [
+        "Action & Adventure",
+        "Animation"
+      ],
+      "director": [
+        "Amber Noizumi",
+        "Michael Green"
+      ],
+      "rating": null,
+      "imdbScore": 8.5,
+      "cast": [
+        "Maya Erskine",
+        "George Takei",
+        "Masi Oka",
+        "Cary-Hiroyuki Tagawa",
+        "Brenda Song"
+      ],
+      "cover": "https://image.tmdb.org/t/p/w500/bOPIUxriSFP2xqlzTYRdInFZAsG.jpg",
+      "released": "2023-11-01T00:00:00.000Z",
+      "finished": null,
+      "added": "2026-02-03T00:00:00.000Z",
       "favorite": false,
       "status": [
         "Aktiv"
