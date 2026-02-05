@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-02-05T15:32:58.732Z",
+  "lastUpdated": "2026-02-05T16:50:20.639Z",
   "count": 19,
   "entries": [
     {
       "title": "Antike",
       "type": "Epoche",
-      "start": "-0800-01-01",
+      "start": "-0800-01-01T00:00:00.000Z",
       "end": "0500-01-01T00:00:00.000Z",
       "domain": "Geschichte",
       "tags": [
@@ -35,37 +35,20 @@
       "content": "\n## Summary\n\nDas Mittelalter (ca. 500 bis 1500 n. Chr.) war eine Epoche zwischen Antike und Neuzeit, geprägt von Feudalismus, der Dominanz der christlichen Kirche, dem Rittertum und einer agrarisch geprägten Gesellschaftsordnung in Europa.\n\n## Description\n\nDas Frühmittelalter begann mit dem Zerfall des Weströmischen Reiches und der Völkerwanderung, die zur Entstehung neuer germanischer Königreiche führte. Das Frankenreich unter Karl dem Großen (768-814) schuf ein neues westeuropäisches Kaisertum und förderte eine kulturelle Blütezeit, die karolingische Renaissance. Die christliche Kirche entwickelte sich zur wichtigsten Institution des mittelalterlichen Europas, prägte Bildung, Kultur und Politik, während Klöster zu Zentren des Wissens und der Landwirtschaft wurden. Die Gesellschaft organisierte sich im Feudalsystem mit Lehnsherren, Vasallen und Leibeigenen.\n\nDas Hochmittelalter (etwa 1000-1300) war eine Zeit wirtschaftlichen Wachstums, städtischer Entwicklung und kultureller Blüte. Die Kreuzzüge (1095-1291) prägten die Beziehungen zwischen christlichem Europa und dem islamischen Orient. Gotische Kathedralen wurden errichtet, Universitäten gegründet, und das Rittertum entwickelte sich zu einer eigenen Kultur mit höfischen Idealen. Der Handel expandierte, Städte gewannen an Bedeutung, und neue Handelsrouten verbanden Europa mit Asien.\n\nDas Spätmittelalter war geprägt von Krisen: Die Pest (Schwarzer Tod, 1347-1353) tötete etwa ein Drittel der europäischen Bevölkerung, der Hundertjährige Krieg verwüstete Frankreich, und das Abendländische Schisma spaltete die Kirche. Gleichzeitig entstanden nationale Identitäten, und Erfindungen wie der Buchdruck (Gutenberg, ca. 1450) bereiteten den Übergang zur Neuzeit vor. Die Entdeckung Amerikas (1492) und die Renaissance markierten schließlich das Ende des mittelalterlichen Weltbilds.\n"
     },
     {
-      "title": "Zweiter Weltkrieg",
-      "type": "Zeitspanne",
-      "start": "1939-09-01T00:00:00.000Z",
-      "end": "1945-09-02T00:00:00.000Z",
-      "domain": "Geschichte",
+      "title": "Erfindung des Buchdrucks",
+      "type": "Ereignis",
+      "start": "1450-01-01T00:00:00.000Z",
+      "end": null,
+      "domain": "Technologie",
       "tags": [
-        "Krieg",
-        "Nazi-Deutschland",
-        "Holocaust",
-        "Atombombe",
-        "Vereinte Nationen"
-      ],
-      "added": "2026-01-26T00:00:00.000Z",
-      "content": "\n## Summary\n\nDer Zweite Weltkrieg (1939-1945) war der bisher größte und verheerendste Konflikt der Menschheitsgeschichte, der die Achsenmächte gegen die Alliierten stellte. Der Krieg endete mit der bedingungslosen Kapitulation Nazi-Deutschlands im Mai 1945 und Japans im September 1945.\n\n## Description\n\nDer Zweite Weltkrieg begann am 1. September 1939 mit dem deutschen Überfall auf Polen. Der Konflikt weitete sich schnell zu einem globalen Krieg aus, mit den Achsenmächten (Nazi-Deutschland, Italien, Japan) gegen die Alliierten (Großbritannien, Sowjetunion, USA, China und weitere).\n\nDer Krieg war gekennzeichnet durch beispiellose Grausamkeiten, darunter der Holocaust, in dem sechs Millionen Juden und Millionen andere systematisch ermordet wurden. Neue Waffentechnologien wie Raketen, Jets und schließlich Atomwaffen veränderten die Kriegsführung grundlegend.\n\nInsgesamt starben schätzungsweise 70-85 Millionen Menschen, was etwa 3% der Weltbevölkerung entspricht. Der Krieg endete in Europa am 8. Mai 1945 (VE-Day) und im Pazifik am 2. September 1945 nach den Atombombenabwürfen auf Hiroshima und Nagasaki.\n\nDie Nachkriegsordnung führte zur Gründung der Vereinten Nationen, zum Beginn des Kalten Krieges und zur Teilung Deutschlands und Europas.\n\n## References\n\n- Antony Beevor: \"The Second World War\"\n- United States Holocaust Memorial Museum\n- Potsdam Conference (1945)\n"
-    },
-    {
-      "title": "Weimarer Republik",
-      "type": "Zeitspanne",
-      "start": "1919-08-11T00:00:00.000Z",
-      "end": "1933-01-30T00:00:00.000Z",
-      "domain": "Geschichte",
-      "tags": [
-        "Demokratie",
-        "Deutschland",
-        "Zwischenkriegszeit",
-        "Verfassung",
-        "Hyperinflation",
-        "Goldene Zwanziger"
+        "Erfindung",
+        "Buchdruck",
+        "Gutenberg",
+        "Medien",
+        "Renaissance"
       ],
       "added": "2026-01-30T00:00:00.000Z",
-      "content": "\n## Summary\n\nDie Weimarer Republik (1919-1933) war die erste demokratische Staatsform in Deutschland, die nach dem Ersten Weltkrieg entstand und mit der Machtübernahme der Nationalsozialisten endete.\n\n## Description\n\nDie Weimarer Republik wurde am 11. August 1919 mit der Verabschiedung der Weimarer Verfassung gegründet, nachdem Kaiser Wilhelm II. abdanken musste und Deutschland den Ersten Weltkrieg verloren hatte. Die neue demokratische Republik war von Anfang an mit enormen Herausforderungen konfrontiert: dem Versailler Vertrag mit seinen harten Bedingungen und Reparationszahlungen, politischer Instabilität durch extremistische Parteien von links und rechts, sowie wirtschaftlichen Krisen. Die junge Demokratie wurde von vielen als \"Novemberverbrecher\" diffamiert, die Deutschland angeblich verraten hätten.\n\nDie Geschichte der Weimarer Republik lässt sich in mehrere Phasen unterteilen. Die Krisenjahre (1919-1923) waren geprägt von politischen Putschversuchen, separatistischen Bewegungen und der verheerenden Hyperinflation von 1923, die die Ersparnisse weiter Bevölkerungsteile vernichtete. Die \"Goldenen Zwanziger\" (1924-1929) brachten eine Phase relativer Stabilität und kultureller Blüte mit bedeutenden Entwicklungen in Kunst, Architektur (Bauhaus), Literatur und Film. Berlin wurde zur kulturellen Metropole Europas. Die Weltwirtschaftskrise ab 1929 stürzte die Republik jedoch in eine tiefe politische und wirtschaftliche Krise mit Massenarbeitslosigkeit von über sechs Millionen Menschen.\n\nDie zunehmende Radikalisierung der Politik, das Versagen der demokratischen Parteien und die wirtschaftliche Not ermöglichten den Aufstieg der NSDAP. Am 30. Januar 1933 wurde Adolf Hitler zum Reichskanzler ernannt, was das faktische Ende der Weimarer Republik bedeutete. Mit dem Ermächtigungsgesetz vom 23. März 1933 wurde die demokratische Ordnung endgültig beseitigt. Die Weimarer Republik gilt als Lehrstück über die Fragilität der Demokratie und die Bedeutung wehrhafter demokratischer Institutionen.\n\n## References\n\n- Weimarer Verfassung (11. August 1919)\n- Versailler Vertrag (28. Juni 1919)\n- Ermächtigungsgesetz (23. März 1933)\n"
+      "content": "\n## Summary\n\nJohannes Gutenberg erfand um 1450 den modernen Buchdruck mit beweglichen Lettern, eine Revolution, die die Verbreitung von Wissen demokratisierte und als eine der einflussreichsten Erfindungen der Menschheitsgeschichte gilt.\n\n## Description\n\nJohannes Gutenberg entwickelte um 1450 in Mainz ein revolutionäres Druckverfahren mit beweglichen Metalllettern. Anders als frühere Druckmethoden wie der Holztafeldruck ermöglichte Gutenbergs System die flexible Kombination einzelner Buchstaben zu Wörtern und Texten. Er kombinierte verschiedene Technologien: bewegliche Lettern aus einer Metalllegierung, eine Druckerpresse (adaptiert von Weinpressen), ölbasierte Druckfarbe und spezielles Papier. Sein erstes großes Werk, die Gutenberg-Bibel (auch 42-zeilige Bibel genannt), wurde zwischen 1452 und 1454 gedruckt und demonstrierte die außergewöhnliche Qualität des neuen Verfahrens.\n\nDie Erfindung des Buchdrucks hatte weitreichende Konsequenzen für die Gesellschaft. Erstmals konnten Bücher schnell und in großer Stückzahl produziert werden, was die Kosten drastisch senkte und Wissen einer breiteren Bevölkerung zugänglich machte. Innerhalb von 50 Jahren entstanden in ganz Europa über 1.000 Druckereien, die schätzungsweise 20 Millionen Bücher produzierten. Der Buchdruck ermöglichte die Verbreitung wissenschaftlicher Erkenntnisse, förderte die Alphabetisierung und spielte eine entscheidende Rolle bei der Reformation, der Renaissance und der wissenschaftlichen Revolution.\n\nDie Gutenberg-Presse wird oft als \"Erfindung des Jahrtausends\" bezeichnet und gilt als Katalysator für die moderne Wissensgesellschaft. Sie veränderte fundamental, wie Informationen gespeichert, verbreitet und konsumiert wurden. Der Buchdruck ebnete den Weg für spätere Entwicklungen wie Zeitungen, Massenbildung und letztlich die digitale Informationsrevolution. Gutenbergs Innovation steht symbolisch für die transformative Kraft der Technologie auf Gesellschaft und Kultur.\n\n## References\n\n- Gutenberg-Bibel (1452-1454)\n- Gutenberg-Museum Mainz\n"
     },
     {
       "title": "Frühe Neuzeit",
@@ -84,38 +67,6 @@
       "content": "\n## Summary\n\nDie Frühe Neuzeit (ca. 1500 bis 1800) war eine transformative Epoche, geprägt von Renaissance, Reformation, wissenschaftlicher Revolution, Aufklärung und dem Beginn der europäischen Kolonialexpansion, die das mittelalterliche Weltbild grundlegend veränderte.\n\n## Description\n\nDie Frühe Neuzeit begann mit der Renaissance, die antikes Wissen wiederbelebte und den Humanismus förderte. Die Erfindung des Buchdrucks ermöglichte die Verbreitung von Ideen in nie dagewesener Geschwindigkeit. Die europäische Expansion führte zur \"Entdeckung\" neuer Kontinente – Kolumbus erreichte 1492 Amerika, Vasco da Gama umrundete Afrika nach Indien. Diese Entdeckungen lösten ein Zeitalter des Kolonialismus aus, das die Welt nachhaltig prägte. Die Reformation (ab 1517) mit Martin Luther spaltete das christliche Westeuropa und führte zu religiösen Konflikten, die im verheerenden Dreißigjährigen Krieg (1618-1648) gipfelten.\n\nDie wissenschaftliche Revolution des 16. und 17. Jahrhunderts veränderte das Weltbild fundamental. Kopernikus, Galileo und Newton stellten das geozentrische Weltbild infrage und legten die Grundlagen der modernen Naturwissenschaften. Die Philosophie der Aufklärung (18. Jahrhundert) mit Denkern wie Voltaire, Rousseau und Kant betonte Vernunft, individuelle Freiheit und Menschenrechte. Diese Ideen stellten absolute Monarchien und kirchliche Autorität zunehmend in Frage.\n\nPolitisch war die Frühe Neuzeit geprägt vom Aufstieg absolutistischer Nationalstaaten wie Frankreich unter Ludwig XIV., aber auch vom Entstehen parlamentarischer Systeme in England. Der Merkantilismus förderte den Handel und wirtschaftliches Wachstum. Die Epoche endete mit revolutionären Umwälzungen – die Amerikanische Revolution (1776) und die Französische Revolution (1789) setzten aufklärerische Ideale in politische Realität um und leiteten den Übergang zur Moderne ein.\n"
     },
     {
-      "title": "Der Blaue Reiter",
-      "type": "Zeitspanne",
-      "start": "1911-01-01T00:00:00.000Z",
-      "end": "1914-08-01T00:00:00.000Z",
-      "domain": "Kunst",
-      "tags": [
-        "Kunstbewegung",
-        "Expressionismus",
-        "Malerei",
-        "München",
-        "Abstraktion"
-      ],
-      "added": "2026-01-27T00:00:00.000Z",
-      "content": "\n## Summary\n\nDer Blaue Reiter (1911-1914) war eine bedeutende Künstlergruppe des deutschen Expressionismus, die von Wassily Kandinsky und Franz Marc in München gegründet wurde und die Entwicklung der modernen abstrakten Kunst maßgeblich beeinflusste.\n\n## Description\n\nDer Blaue Reiter entstand 1911 in München als Reaktion auf die konservative Haltung der Künstlervereinigung \"Neue Künstlervereinigung München\" (NKVM). Wassily Kandinsky und Franz Marc, die sich über künstlerische Differenzen mit der NKVM entzweiten, gründeten die neue Gruppe und gaben den gleichnamigen Almanach heraus. Der Name \"Der Blaue Reiter\" entstand aus den gemeinsamen Vorlieben der beiden Künstler: Marc liebte Pferde, Kandinsky liebte Reiter, und beide liebten die Farbe Blau.\n\nDie Bewegung versammelte eine diverse Gruppe internationaler Künstler, darunter Paul Klee, Gabriele Münter, August Macke und Alexej von Jawlensky. Sie organisierten zwei bedeutende Ausstellungen in München (1911 und 1912) und veröffentlichten den berühmten Almanach \"Der Blaue Reiter\" (1912), der Aufsätze über Kunst, Musik und Theater enthielt. Die Künstler strebten nach spiritueller Erneuerung in der Kunst und experimentierten mit Farbe, Form und Abstraktion. Sie lehnten naturalistische Darstellungen ab und suchten nach einer inneren, emotionalen Wahrheit in der Kunst.\n\nDer Ausbruch des Ersten Weltkriegs 1914 beendete die Aktivitäten der Gruppe abrupt. Franz Marc und August Macke fielen im Krieg, während Kandinsky als russischer Staatsbürger Deutschland verlassen musste. Trotz der kurzen Existenz hatte Der Blaue Reiter einen nachhaltigen Einfluss auf die Entwicklung der modernen Kunst, insbesondere auf die Abstraktion und den Expressionismus. Die Bewegung ebnete den Weg für spätere avantgardistische Kunstrichtungen und gilt heute als einer der wichtigsten Beiträge Deutschlands zur modernen Kunstgeschichte.\n"
-    },
-    {
-      "title": "Erste Mondlandung (Apollo 11)",
-      "type": "Ereignis",
-      "start": "1969-07-20T00:00:00.000Z",
-      "end": null,
-      "domain": "Technologie",
-      "tags": [
-        "Weltraum",
-        "NASA",
-        "Kalter Krieg",
-        "Entdeckung",
-        "Meilenstein"
-      ],
-      "added": "2026-01-27T00:00:00.000Z",
-      "content": "\n## Summary\n\nDie erste Mondlandung am 20. Juli 1969 war ein historischer Meilenstein der Menschheitsgeschichte, als die amerikanischen Astronauten Neil Armstrong und Buzz Aldrin als erste Menschen den Mond betraten.\n\n## Description\n\nDie Apollo-11-Mission war der Höhepunkt des amerikanischen Raumfahrtprogramms und des Wettlaufs ins All zwischen den USA und der Sowjetunion während des Kalten Krieges. Präsident John F. Kennedy hatte 1961 das ehrgeizige Ziel verkündet, noch vor Ende des Jahrzehnts einen Menschen auf den Mond zu bringen und sicher zur Erde zurückzukehren.\n\nAm 16. Juli 1969 startete die Saturn-V-Rakete vom Kennedy Space Center in Florida mit den drei Astronauten Neil Armstrong, Buzz Aldrin und Michael Collins an Bord. Während Collins in der Mondumlaufbahn blieb, landeten Armstrong und Aldrin mit der Mondlandefähre \"Eagle\" im Mare Tranquillitatis (Meer der Ruhe). Um 02:56 UTC am 21. Juli betrat Neil Armstrong als erster Mensch die Mondoberfläche und sprach die berühmten Worte: \"Das ist ein kleiner Schritt für einen Menschen, aber ein gewaltiger Sprung für die Menschheit.\"\n\nDie erfolgreiche Mission markierte einen der größten technologischen und wissenschaftlichen Erfolge des 20. Jahrhunderts. Sie bewies die Leistungsfähigkeit der bemannten Raumfahrt und inspirierte Generationen von Wissenschaftlern und Ingenieuren. Die Astronauten brachten etwa 22 Kilogramm Mondgestein zur Erde zurück, das wertvolle Erkenntnisse über die Entstehung des Mondes und des Sonnensystems lieferte.\n\n## References\n\n- NASA Apollo 11 Mission Archives\n- Kennedy, John F.: \"Moon Speech\" (Rice University, 1962)\n"
-    },
-    {
       "title": "Erfindung der Dampfmaschine",
       "type": "Ereignis",
       "start": "1769-01-05T00:00:00.000Z",
@@ -132,116 +83,20 @@
       "content": "\n## Summary\n\n1769 erhielt James Watt das Patent für seine verbesserte Dampfmaschine mit separatem Kondensator, eine Erfindung, die die Industrielle Revolution ermöglichte und die Welt von menschlicher und tierischer Arbeitskraft zu mechanischer Energie transformierte.\n\n## Description\n\nFrühe Dampfmaschinen existierten bereits seit Beginn des 18. Jahrhunderts, insbesondere Thomas Newcomens atmosphärische Dampfmaschine von 1712, die vor allem zum Abpumpen von Wasser aus Kohlebergwerken genutzt wurde. Diese Maschinen waren jedoch extrem ineffizient und verbrauchten große Mengen Kohle. Der schottische Ingenieur James Watt begann 1763 mit der Reparatur einer Newcomen-Maschine und erkannte deren fundamentale Schwäche: Der Zylinder musste bei jedem Hub abwechselnd erhitzt und gekühlt werden, was enorme Energieverschwendung bedeutete. Am 5. Januar 1769 erhielt Watt das Patent für seine revolutionäre Verbesserung: einen separaten Kondensator, der den Zylinder ständig heiß hielt und die Effizienz um das Vierfache steigerte.\n\nWatts Dampfmaschine entwickelte sich kontinuierlich weiter. Zusammen mit dem Unternehmer Matthew Boulton gründete er 1775 die Firma Boulton & Watt, die verbesserte Dampfmaschinen produzierte und lizenzierte. Weitere Innovationen folgten: die doppelt wirkende Dampfmaschine (1782), das Planetengetriebe (1781) und der Fliehkraftregler (1788). Diese Verbesserungen machten die Dampfmaschine vielseitig einsetzbar – nicht nur zum Pumpen, sondern auch zum Antrieb von Maschinen in Textilfabriken, Mühlen und später Lokomotiven und Dampfschiffen. Die Dampfmaschine wurde zur Hauptenergiequelle der Industriellen Revolution.\n\nDie Dampfmaschine veränderte die menschliche Zivilisation fundamental. Sie ermöglichte die Mechanisierung der Produktion, die Entwicklung von Eisenbahnen und Dampfschiffen, die Urbanisierung und den Übergang von einer landwirtschaftlichen zu einer industriellen Gesellschaft. Die Erfindung legte den Grundstein für die moderne Welt und gilt als eine der bedeutendsten technologischen Durchbrüche der Menschheitsgeschichte. Watt selbst wurde zu Lebzeiten geehrt; die Einheit der Leistung \"Watt\" wurde 1882 nach ihm benannt.\n\n## References\n\n- James Watt: Patent für separate Kondensator (5. Januar 1769)\n- Boulton & Watt (gegründet 1775)\n- Science Museum London: James Watt Collection\n"
     },
     {
-      "title": "Fall der Berliner Mauer",
-      "type": "Ereignis",
-      "start": "1989-11-09T00:00:00.000Z",
-      "end": null,
-      "domain": "Geschichte",
-      "tags": [
-        "Wiedervereinigung",
-        "DDR",
-        "BRD",
-        "Kalter Krieg",
-        "Grenzöffnung"
-      ],
-      "added": "2026-01-27T00:00:00.000Z",
-      "content": "\n## Summary\n\nAm 9. November 1989 fiel die Berliner Mauer, die seit 1961 Ost- und West-Berlin teilte. Dieses historische Ereignis markierte das Ende der deutschen Teilung und wurde zum Symbol für das Ende des Kalten Krieges.\n\n## Description\n\nDie Berliner Mauer wurde 1961 von der DDR errichtet, um die Flucht von Ost- nach West-Berlin zu verhindern. Über 28 Jahre lang war sie das stärkste Symbol der Teilung Deutschlands und des Kalten Krieges. Die Mauer trennte nicht nur eine Stadt, sondern auch Familien, Freunde und eine ganze Nation. Im Laufe des Jahres 1989 wuchs der Druck auf die DDR-Regierung durch Massenproteste und die Reformbewegungen in Osteuropa stetig an.\n\nAm Abend des 9. November 1989 verkündete SED-Politbüromitglied Günter Schabowski bei einer Pressekonferenz versehentlich, dass DDR-Bürger ab sofort die Grenze zur Bundesrepublik frei passieren könnten. Nach anfänglicher Verwirrung öffneten die überforderten Grenzsoldaten die Grenzübergänge. Tausende Ost-Berliner strömten nach West-Berlin, wo sie von jubelnden Menschen empfangen wurden. In den folgenden Tagen und Wochen begannen Bürger, die Mauer eigenhändig abzubauen.\n\nDer Fall der Berliner Mauer führte zur deutschen Wiedervereinigung am 3. Oktober 1990 und gilt als Wendepunkt der europäischen Geschichte. Das Ereignis markierte nicht nur das Ende der deutschen Teilung, sondern symbolisierte auch den Zusammenbruch der kommunistischen Regime in Osteuropa und das Ende des Kalten Krieges. Heute erinnern Reste der Mauer und Gedenkstätten wie die East Side Gallery an die Teilung und mahnen zur Bewahrung der Freiheit.\n"
-    },
-    {
-      "title": "Bauhaus",
-      "type": "Zeitspanne",
-      "start": "1919-04-01T00:00:00.000Z",
-      "end": "1933-04-11T00:00:00.000Z",
-      "domain": "Kunst",
-      "tags": [
-        "Design",
-        "Architektur",
-        "Moderne",
-        "Weimar",
-        "Dessau",
-        "Gropius"
-      ],
-      "added": "2026-01-30T00:00:00.000Z",
-      "content": "\n## Summary\n\nDas Bauhaus (1919-1933) war eine revolutionäre deutsche Kunstschule, die von Walter Gropius gegründet wurde und durch die Verbindung von Kunst, Handwerk und Technik das moderne Design und die Architektur des 20. Jahrhunderts maßgeblich prägte.\n\n## Description\n\nDas Bauhaus wurde im April 1919 von Walter Gropius in Weimar gegründet, entstanden aus der Fusion der Kunstgewerbeschule und der Hochschule für Bildende Kunst. Gropius' Vision war radikal: Er wollte die traditionelle Trennung zwischen Kunst und Handwerk überwinden und eine neue Einheit schaffen. Der Name \"Bauhaus\" bezog sich auf die mittelalterlichen Bauhütten und symbolisierte die Zusammenarbeit verschiedener Gewerke. Die Schule entwickelte einen innovativen pädagogischen Ansatz mit dem Vorkurs von Johannes Itten, gefolgt von Werkstattunterricht in verschiedenen Materialien und Techniken.\n\nDas Bauhaus durchlief drei Standorte und Phasen: Weimar (1919-1925), Dessau (1925-1932) und Berlin (1932-1933). In Dessau entstand unter Gropius' Nachfolger Hannes Meyer und später Ludwig Mies van der Rohe das ikonische Bauhaus-Gebäude, selbst ein Manifest der modernen Architektur. Die Schule zog bedeutende Künstler und Lehrer an, darunter Paul Klee, Wassily Kandinsky, László Moholy-Nagy und Josef Albers. Der Bauhaus-Stil zeichnete sich durch Funktionalität, geometrische Formen, klare Linien und das Prinzip \"Form follows Function\" aus. Die Bauhaus-Gestalter prägten Möbeldesign (Marcel Breuer's Stahlrohrmöbel), Typografie, Textilien und Architektur.\n\n1933 wurde das Bauhaus von den Nationalsozialisten als \"entartet\" diffamiert und geschlossen. Viele Bauhaus-Meister emigrierten, besonders in die USA, und verbreiteten die Ideen weltweit. Das Bauhaus wurde zur einflussreichsten Designschule der Moderne und prägt bis heute Architektur, Produktdesign und Kunsterziehung. Das Dessauer Bauhaus-Gebäude und die Meisterhäuser sind UNESCO-Weltkulturerbe und Pilgerstätten der Designgeschichte.\n\n## References\n\n- Bauhaus-Archiv / Museum für Gestaltung, Berlin\n- UNESCO-Weltkulturerbe: Bauhaus-Stätten in Weimar, Dessau und Bernau\n- Walter Gropius: \"Bauhaus-Manifest\" (1919)\n"
-    },
-    {
-      "title": "Erfindung des World Wide Web",
-      "type": "Ereignis",
-      "start": "1991-08-06T00:00:00.000Z",
-      "end": null,
-      "domain": "Technologie",
-      "tags": [
-        "Internet",
-        "WWW",
-        "CERN",
-        "Tim Berners-Lee",
-        "Digitalisierung"
-      ],
-      "added": "2026-01-30T00:00:00.000Z",
-      "content": "\n## Summary\n\nAm 6. August 1991 machte Tim Berners-Lee das World Wide Web öffentlich zugänglich, eine Erfindung, die die Art und Weise revolutionierte, wie Menschen Informationen teilen und miteinander kommunizieren, und die Grundlage der modernen digitalen Gesellschaft schuf.\n\n## Description\n\nTim Berners-Lee, ein britischer Informatiker am CERN (Europäische Organisation für Kernforschung) in Genf, entwickelte das World Wide Web als Lösung für das Problem der Informationsverteilung unter Wissenschaftlern. Im März 1989 reichte er seinen Vorschlag \"Information Management: A Proposal\" ein, in dem er ein System zur Verknüpfung von Dokumenten über ein Netzwerk beschrieb. Zwischen 1989 und 1991 entwickelte Berners-Lee die grundlegenden Technologien: HTML (Hypertext Markup Language) für die Strukturierung von Dokumenten, HTTP (Hypertext Transfer Protocol) für die Datenübertragung, URLs (Uniform Resource Locators) zur Adressierung von Ressourcen sowie den ersten Webbrowser und Webserver.\n\nAm 6. August 1991 veröffentlichte Berners-Lee die erste Website (info.cern.ch) und stellte das World Wide Web der Öffentlichkeit vor. Entscheidend für den Erfolg war, dass CERN 1993 das WWW als freie Technologie ohne Lizenzgebühren zur Verfügung stellte. Dies ermöglichte die explosive Verbreitung: Von einer Handvoll Websites 1991 wuchs das Web auf Millionen innerhalb weniger Jahre. Der erste populäre grafische Browser Mosaic (1993) und später Netscape Navigator machten das Web massentauglich. Das WWW unterschied sich vom bereits existierenden Internet dadurch, dass es eine benutzerfreundliche, visuelle Schnittstelle für den Zugang zu vernetzten Informationen bot.\n\nDas World Wide Web transformierte fundamental, wie die Menschheit kommuniziert, arbeitet, lernt und sich unterhält. Es demokratisierte den Zugang zu Information, ermöglichte neue Geschäftsmodelle (E-Commerce, Social Media, Cloud Computing) und veränderte politische und soziale Strukturen weltweit. Heute nutzen über 5 Milliarden Menschen das Web. Tim Berners-Lee wurde für seine Erfindung zum Ritter geschlagen und erhielt zahlreiche Auszeichnungen. Das WWW gilt neben dem Buchdruck und dem Internet selbst als eine der bedeutendsten Kommunikationstechnologien der Geschichte und prägt das 21. Jahrhundert wie kaum eine andere Erfindung.\n\n## References\n\n- Tim Berners-Lee: \"Information Management: A Proposal\" (März 1989)\n- CERN\n- World Wide Web Consortium (W3C)\n"
-    },
-    {
-      "title": "Erfindung des Buchdrucks",
-      "type": "Ereignis",
-      "start": "1450-01-01T00:00:00.000Z",
-      "end": null,
-      "domain": "Technologie",
-      "tags": [
-        "Erfindung",
-        "Buchdruck",
-        "Gutenberg",
-        "Medien",
-        "Renaissance"
-      ],
-      "added": "2026-01-30T00:00:00.000Z",
-      "content": "\n## Summary\n\nJohannes Gutenberg erfand um 1450 den modernen Buchdruck mit beweglichen Lettern, eine Revolution, die die Verbreitung von Wissen demokratisierte und als eine der einflussreichsten Erfindungen der Menschheitsgeschichte gilt.\n\n## Description\n\nJohannes Gutenberg entwickelte um 1450 in Mainz ein revolutionäres Druckverfahren mit beweglichen Metalllettern. Anders als frühere Druckmethoden wie der Holztafeldruck ermöglichte Gutenbergs System die flexible Kombination einzelner Buchstaben zu Wörtern und Texten. Er kombinierte verschiedene Technologien: bewegliche Lettern aus einer Metalllegierung, eine Druckerpresse (adaptiert von Weinpressen), ölbasierte Druckfarbe und spezielles Papier. Sein erstes großes Werk, die Gutenberg-Bibel (auch 42-zeilige Bibel genannt), wurde zwischen 1452 und 1454 gedruckt und demonstrierte die außergewöhnliche Qualität des neuen Verfahrens.\n\nDie Erfindung des Buchdrucks hatte weitreichende Konsequenzen für die Gesellschaft. Erstmals konnten Bücher schnell und in großer Stückzahl produziert werden, was die Kosten drastisch senkte und Wissen einer breiteren Bevölkerung zugänglich machte. Innerhalb von 50 Jahren entstanden in ganz Europa über 1.000 Druckereien, die schätzungsweise 20 Millionen Bücher produzierten. Der Buchdruck ermöglichte die Verbreitung wissenschaftlicher Erkenntnisse, förderte die Alphabetisierung und spielte eine entscheidende Rolle bei der Reformation, der Renaissance und der wissenschaftlichen Revolution.\n\nDie Gutenberg-Presse wird oft als \"Erfindung des Jahrtausends\" bezeichnet und gilt als Katalysator für die moderne Wissensgesellschaft. Sie veränderte fundamental, wie Informationen gespeichert, verbreitet und konsumiert wurden. Der Buchdruck ebnete den Weg für spätere Entwicklungen wie Zeitungen, Massenbildung und letztlich die digitale Informationsrevolution. Gutenbergs Innovation steht symbolisch für die transformative Kraft der Technologie auf Gesellschaft und Kultur.\n\n## References\n\n- Gutenberg-Bibel (1452-1454)\n- Gutenberg-Museum Mainz\n"
-    },
-    {
-      "title": "Erfindung des Smartphones",
-      "type": "Ereignis",
-      "start": "2007-01-09T00:00:00.000Z",
-      "end": null,
-      "domain": "Technologie",
-      "tags": [
-        "Smartphone",
-        "iPhone",
-        "Apple",
-        "Touchscreen",
-        "Mobile",
-        "Steve Jobs"
-      ],
-      "added": "2026-01-30T00:00:00.000Z",
-      "content": "\n## Summary\n\nAm 9. Januar 2007 stellte Steve Jobs das erste iPhone vor und definierte damit das moderne Smartphone neu – ein Gerät, das Telefon, iPod und Internet-Kommunikator in einem vereinte und die Art und Weise revolutionierte, wie Menschen mit Technologie interagieren.\n\n## Description\n\nVor dem iPhone existierten bereits Smartphones wie der IBM Simon (1994), Nokia Communicator oder BlackBerry-Geräte, die jedoch hauptsächlich von Geschäftsleuten genutzt wurden und komplizierte Bedienung mit Tastaturen und Stiften erforderten. Am 9. Januar 2007 präsentierte Steve Jobs auf der Macworld Conference in San Francisco das iPhone mit den Worten \"Today, Apple is going to reinvent the phone\". Das iPhone kombinierte erstmals einen großen Multi-Touch-Bildschirm, eine intuitive Benutzeroberfläche, einen vollwertigen Webbrowser und ein elegantes Design in einem Gerät. Die revolutionäre Steuerung mit Fingergesten statt Tastatur oder Stift machte Smartphones erstmals massentauglich. Der App Store, der 2008 folgte, schuf ein ganzes Ökosystem von Anwendungen.\n\nDer Erfolg des iPhone zwang die gesamte Mobilfunkindustrie zur Neuorientierung. Google entwickelte Android als Antwort, Nokia und BlackBerry, die den Smartphone-Markt dominierten, verloren innerhalb weniger Jahre ihre Marktführerschaft. Innerhalb eines Jahrzehnts entwickelten sich Smartphones von Nischenprodukten zu unverzichtbaren Alltagsgegenständen. Sie vereinten Funktionen von Dutzenden Geräten: Telefon, Kamera, Musikplayer, Navigationssystem, Computer, Fernseher, Spielkonsole, Geldbörse und mehr.\n\nHeute nutzen über 6 Milliarden Menschen Smartphones weltweit. Sie haben fundamental verändert, wie Menschen kommunizieren, arbeiten, lernen, sich informieren und unterhalten. Smartphones ermöglichten neue Geschäftsmodelle (Uber, Instagram, TikTok), veränderten soziale Interaktionen und demokratisierten den Zugang zu Information in bisher unerreichtem Maß. Das Smartphone gilt als die transformativste Technologie des 21. Jahrhunderts und hat innerhalb von 15 Jahren die menschliche Gesellschaft nachhaltig geprägt – eine Geschwindigkeit der Adoption, die historisch beispiellos ist.\n\n## References\n\n- Apple iPhone (vorgestellt 9. Januar 2007, veröffentlicht 29. Juni 2007)\n- Steve Jobs' Macworld Keynote 2007\n"
-    },
-    {
-      "title": "Erster Weltkrieg",
-      "type": "Zeitspanne",
-      "start": "1914-07-28T00:00:00.000Z",
-      "end": "1918-11-11T00:00:00.000Z",
-      "domain": "Geschichte",
-      "tags": [
-        "Krieg",
-        "Europa",
-        "Völkerbund"
-      ],
-      "added": "2026-01-26T00:00:00.000Z",
-      "content": "\n## Summary\n\nDer Erste Weltkrieg (1914-1918) war ein globaler Konflikt, der hauptsächlich in Europa stattfand und die Mittelmächte gegen die Alliierten stellte. Der Krieg endete mit dem Waffenstillstand von Compiègne am 11. November 1918.\n\n## Description\n\nDer Erste Weltkrieg begann am 28. Juli 1914 nach der Ermordung des österreichisch-ungarischen Thronfolgers Franz Ferdinand in Sarajevo. Der Konflikt entwickelte sich schnell zu einem weltweiten Krieg mit den Mittelmächten (Deutsches Reich, Österreich-Ungarn, Osmanisches Reich) gegen die Alliierten (Frankreich, Großbritannien, Russland, später die USA).\n\nDer Krieg war geprägt durch Grabenkrieg, neue Waffentechnologien wie Giftgas und Panzer, sowie enorme Verluste auf beiden Seiten. Schätzungen zufolge starben etwa 17 Millionen Menschen, darunter Soldaten und Zivilisten.\n\nDer Krieg endete mit dem Waffenstillstand am 11. November 1918 und dem anschließenden Vertrag von Versailles 1919, der Deutschland schwere Reparationen auferlegte und die Karte Europas neu zeichnete.\n"
-    },
-    {
-      "title": "Zeitgeschichte",
+      "title": "Moderne",
       "type": "Epoche",
-      "start": "1945-05-08T00:00:00.000Z",
-      "end": "2026-02-05T00:00:00.000Z",
+      "start": "1800-01-01T00:00:00.000Z",
+      "end": "1945-05-08T00:00:00.000Z",
       "domain": "Geschichte",
       "tags": [
         "Epoche",
-        "Kalter Krieg",
-        "Globalisierung",
-        "Digitalisierung",
-        "Dekolonisierung"
+        "Industrialisierung",
+        "Nationalismus",
+        "Weltkriege",
+        "Imperialismus"
       ],
       "added": "2026-02-05T00:00:00.000Z",
-      "content": "\n## Summary\n\nDie Zeitgeschichte (1945 bis heute) ist die jüngste historische Epoche, geprägt vom Kalten Krieg, Dekolonisierung, technologischer Revolution, Globalisierung und dem Übergang in eine multipolare, digital vernetzte Welt mit neuartigen globalen Herausforderungen.\n\n## Description\n\nDie Zeitgeschichte begann unmittelbar nach dem Zweiten Weltkrieg mit der Teilung der Welt in zwei ideologische Blöcke: die kapitalistische, demokratische Welt unter Führung der USA und der kommunistische Ostblock unter sowjetischer Herrschaft. Der Kalte Krieg (1947-1991) bestimmte die internationalen Beziehungen durch Wettrüsten, Stellvertreterkriege (Korea, Vietnam) und die ständige Bedrohung eines nuklearen Konflikts. Gleichzeitig vollzog sich die Dekolonisierung: Dutzende ehemaliger Kolonien in Asien, Afrika und der Karibik erlangten ihre Unabhängigkeit, was die globale Machtkonstellation grundlegend veränderte.\n\nDie wirtschaftliche Nachkriegsordnung wurde durch Institutionen wie UN, Weltbank und IWF geprägt. Westeuropa erlebte das \"Wirtschaftswunder\", während sich die Europäische Integration entwickelte (von der EGKS zur heutigen EU). Die 1960er Jahre brachten gesellschaftliche Umwälzungen: Bürgerrechtsbewegungen, Studentenproteste, sexuelle Revolution und Feminismus. Die Ölkrisen der 1970er, der Fall der Berliner Mauer 1989 und der Zusammenbruch der Sowjetunion 1991 markierten das Ende des Kalten Krieges und schienen kurzzeitig eine neue Ära des Friedens zu versprechen.\n\nDas späte 20. und frühe 21. Jahrhundert wurde geprägt von Globalisierung, dem Aufstieg Chinas zur Weltmacht, und der digitalen Revolution – Personal Computer, Internet, Smartphones transformierten Kommunikation, Arbeit und Gesellschaft. Die Terroranschläge vom 11. September 2001 führten zu \"Kriegen gegen den Terror\" und neuen geopolitischen Spannungen. Aktuelle Herausforderungen umfassen Klimawandel, Migration, Populismus, Pandemien (COVID-19) und die Rückkehr von Großmachtrivalitäten. Die Zeitgeschichte ist noch nicht abgeschlossen – wir leben in ihr und gestalten sie mit.\n"
+      "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
     },
     {
       "title": "Erfindung der Eisenbahn",
@@ -261,20 +116,134 @@
       "content": "\n## Summary\n\nAm 27. September 1825 eröffnete die Stockton and Darlington Railway in England als erste öffentliche Eisenbahn mit Dampflokomotiven, eine Erfindung, die Transport und Handel revolutionierte und zum Symbol des industriellen Zeitalters wurde.\n\n## Description\n\nVor der Eisenbahn existierten bereits Pferdebahnen und stationäre Dampfmaschinen zum Ziehen von Wagen auf Schienen in Bergwerken. Der britische Ingenieur George Stephenson entwickelte jedoch die erste praktikable Dampflokomotive für den öffentlichen Verkehr. Seine Lokomotive \"Locomotion No. 1\" zog am 27. September 1825 auf der Stockton and Darlington Railway den ersten Zug mit Passagieren und Fracht über eine Strecke von 40 Kilometern. Dies war die erste öffentliche Eisenbahnlinie, die regelmäßig Dampflokomotiven einsetzte. Die Geschwindigkeit von etwa 24 km/h erschien damals atemberaubend und übertraf alles bisher Dagewesene.\n\nDer Durchbruch kam 1829 bei den Rainhill Trials, einem Wettbewerb zur Auswahl der besten Lokomotive für die neue Liverpool and Manchester Railway. Stephensons \"Rocket\" gewann überzeugend und wurde zum Prototyp für alle zukünftigen Lokomotiven. Die Liverpool and Manchester Railway, eröffnet 1830, war die erste Intercity-Eisenbahn und bewies die kommerzielle Rentabilität des Eisenbahnverkehrs. Innerhalb weniger Jahrzehnte breitete sich das Eisenbahnnetz explosionsartig aus: Großbritannien hatte 1850 bereits über 10.000 Kilometer Schienen, und Eisenbahnen wurden weltweit gebaut – in Europa, Nordamerika, Indien und darüber hinaus.\n\nDie Eisenbahn transformierte die Welt fundamental. Sie ermöglichte schnellen, zuverlässigen Güter- und Personentransport über große Entfernungen, förderte die Industrialisierung, verband Märkte, ermöglichte Massentourismus und prägte die wirtschaftliche und soziale Entwicklung des 19. Jahrhunderts. Städte entstanden entlang von Eisenbahnlinien, Zeitzonen wurden standardisiert, und nationale Wirtschaftsräume vereinheitlicht. Die Eisenbahn gilt neben der Dampfmaschine als die wichtigste technologische Innovation der Industriellen Revolution und bleibt bis heute ein zentrales Transportmittel.\n\n## References\n\n- Stockton and Darlington Railway (27. September 1825)\n- George Stephenson: \"Locomotion No. 1\"\n- Rainhill Trials (1829)\n- Liverpool and Manchester Railway (1830)\n"
     },
     {
-      "title": "Moderne",
+      "title": "Der Blaue Reiter",
+      "type": "Zeitspanne",
+      "start": "1911-01-01T00:00:00.000Z",
+      "end": "1914-08-01T00:00:00.000Z",
+      "domain": "Kunst",
+      "tags": [
+        "Kunstbewegung",
+        "Expressionismus",
+        "Malerei",
+        "München",
+        "Abstraktion"
+      ],
+      "added": "2026-01-27T00:00:00.000Z",
+      "content": "\n## Summary\n\nDer Blaue Reiter (1911-1914) war eine bedeutende Künstlergruppe des deutschen Expressionismus, die von Wassily Kandinsky und Franz Marc in München gegründet wurde und die Entwicklung der modernen abstrakten Kunst maßgeblich beeinflusste.\n\n## Description\n\nDer Blaue Reiter entstand 1911 in München als Reaktion auf die konservative Haltung der Künstlervereinigung \"Neue Künstlervereinigung München\" (NKVM). Wassily Kandinsky und Franz Marc, die sich über künstlerische Differenzen mit der NKVM entzweiten, gründeten die neue Gruppe und gaben den gleichnamigen Almanach heraus. Der Name \"Der Blaue Reiter\" entstand aus den gemeinsamen Vorlieben der beiden Künstler: Marc liebte Pferde, Kandinsky liebte Reiter, und beide liebten die Farbe Blau.\n\nDie Bewegung versammelte eine diverse Gruppe internationaler Künstler, darunter Paul Klee, Gabriele Münter, August Macke und Alexej von Jawlensky. Sie organisierten zwei bedeutende Ausstellungen in München (1911 und 1912) und veröffentlichten den berühmten Almanach \"Der Blaue Reiter\" (1912), der Aufsätze über Kunst, Musik und Theater enthielt. Die Künstler strebten nach spiritueller Erneuerung in der Kunst und experimentierten mit Farbe, Form und Abstraktion. Sie lehnten naturalistische Darstellungen ab und suchten nach einer inneren, emotionalen Wahrheit in der Kunst.\n\nDer Ausbruch des Ersten Weltkriegs 1914 beendete die Aktivitäten der Gruppe abrupt. Franz Marc und August Macke fielen im Krieg, während Kandinsky als russischer Staatsbürger Deutschland verlassen musste. Trotz der kurzen Existenz hatte Der Blaue Reiter einen nachhaltigen Einfluss auf die Entwicklung der modernen Kunst, insbesondere auf die Abstraktion und den Expressionismus. Die Bewegung ebnete den Weg für spätere avantgardistische Kunstrichtungen und gilt heute als einer der wichtigsten Beiträge Deutschlands zur modernen Kunstgeschichte.\n"
+    },
+    {
+      "title": "Erster Weltkrieg",
+      "type": "Zeitspanne",
+      "start": "1914-07-28T00:00:00.000Z",
+      "end": "1918-11-11T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Krieg",
+        "Europa",
+        "Völkerbund"
+      ],
+      "added": "2026-01-26T00:00:00.000Z",
+      "content": "\n## Summary\n\nDer Erste Weltkrieg (1914-1918) war ein globaler Konflikt, der hauptsächlich in Europa stattfand und die Mittelmächte gegen die Alliierten stellte. Der Krieg endete mit dem Waffenstillstand von Compiègne am 11. November 1918.\n\n## Description\n\nDer Erste Weltkrieg begann am 28. Juli 1914 nach der Ermordung des österreichisch-ungarischen Thronfolgers Franz Ferdinand in Sarajevo. Der Konflikt entwickelte sich schnell zu einem weltweiten Krieg mit den Mittelmächten (Deutsches Reich, Österreich-Ungarn, Osmanisches Reich) gegen die Alliierten (Frankreich, Großbritannien, Russland, später die USA).\n\nDer Krieg war geprägt durch Grabenkrieg, neue Waffentechnologien wie Giftgas und Panzer, sowie enorme Verluste auf beiden Seiten. Schätzungen zufolge starben etwa 17 Millionen Menschen, darunter Soldaten und Zivilisten.\n\nDer Krieg endete mit dem Waffenstillstand am 11. November 1918 und dem anschließenden Vertrag von Versailles 1919, der Deutschland schwere Reparationen auferlegte und die Karte Europas neu zeichnete.\n"
+    },
+    {
+      "title": "Bauhaus",
+      "type": "Zeitspanne",
+      "start": "1919-04-01T00:00:00.000Z",
+      "end": "1933-04-11T00:00:00.000Z",
+      "domain": "Kunst",
+      "tags": [
+        "Design",
+        "Architektur",
+        "Moderne",
+        "Weimar",
+        "Dessau",
+        "Gropius"
+      ],
+      "added": "2026-01-30T00:00:00.000Z",
+      "content": "\n## Summary\n\nDas Bauhaus (1919-1933) war eine revolutionäre deutsche Kunstschule, die von Walter Gropius gegründet wurde und durch die Verbindung von Kunst, Handwerk und Technik das moderne Design und die Architektur des 20. Jahrhunderts maßgeblich prägte.\n\n## Description\n\nDas Bauhaus wurde im April 1919 von Walter Gropius in Weimar gegründet, entstanden aus der Fusion der Kunstgewerbeschule und der Hochschule für Bildende Kunst. Gropius' Vision war radikal: Er wollte die traditionelle Trennung zwischen Kunst und Handwerk überwinden und eine neue Einheit schaffen. Der Name \"Bauhaus\" bezog sich auf die mittelalterlichen Bauhütten und symbolisierte die Zusammenarbeit verschiedener Gewerke. Die Schule entwickelte einen innovativen pädagogischen Ansatz mit dem Vorkurs von Johannes Itten, gefolgt von Werkstattunterricht in verschiedenen Materialien und Techniken.\n\nDas Bauhaus durchlief drei Standorte und Phasen: Weimar (1919-1925), Dessau (1925-1932) und Berlin (1932-1933). In Dessau entstand unter Gropius' Nachfolger Hannes Meyer und später Ludwig Mies van der Rohe das ikonische Bauhaus-Gebäude, selbst ein Manifest der modernen Architektur. Die Schule zog bedeutende Künstler und Lehrer an, darunter Paul Klee, Wassily Kandinsky, László Moholy-Nagy und Josef Albers. Der Bauhaus-Stil zeichnete sich durch Funktionalität, geometrische Formen, klare Linien und das Prinzip \"Form follows Function\" aus. Die Bauhaus-Gestalter prägten Möbeldesign (Marcel Breuer's Stahlrohrmöbel), Typografie, Textilien und Architektur.\n\n1933 wurde das Bauhaus von den Nationalsozialisten als \"entartet\" diffamiert und geschlossen. Viele Bauhaus-Meister emigrierten, besonders in die USA, und verbreiteten die Ideen weltweit. Das Bauhaus wurde zur einflussreichsten Designschule der Moderne und prägt bis heute Architektur, Produktdesign und Kunsterziehung. Das Dessauer Bauhaus-Gebäude und die Meisterhäuser sind UNESCO-Weltkulturerbe und Pilgerstätten der Designgeschichte.\n\n## References\n\n- Bauhaus-Archiv / Museum für Gestaltung, Berlin\n- UNESCO-Weltkulturerbe: Bauhaus-Stätten in Weimar, Dessau und Bernau\n- Walter Gropius: \"Bauhaus-Manifest\" (1919)\n"
+    },
+    {
+      "title": "Weimarer Republik",
+      "type": "Zeitspanne",
+      "start": "1919-08-11T00:00:00.000Z",
+      "end": "1933-01-30T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Demokratie",
+        "Deutschland",
+        "Zwischenkriegszeit",
+        "Verfassung",
+        "Hyperinflation",
+        "Goldene Zwanziger"
+      ],
+      "added": "2026-01-30T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Weimarer Republik (1919-1933) war die erste demokratische Staatsform in Deutschland, die nach dem Ersten Weltkrieg entstand und mit der Machtübernahme der Nationalsozialisten endete.\n\n## Description\n\nDie Weimarer Republik wurde am 11. August 1919 mit der Verabschiedung der Weimarer Verfassung gegründet, nachdem Kaiser Wilhelm II. abdanken musste und Deutschland den Ersten Weltkrieg verloren hatte. Die neue demokratische Republik war von Anfang an mit enormen Herausforderungen konfrontiert: dem Versailler Vertrag mit seinen harten Bedingungen und Reparationszahlungen, politischer Instabilität durch extremistische Parteien von links und rechts, sowie wirtschaftlichen Krisen. Die junge Demokratie wurde von vielen als \"Novemberverbrecher\" diffamiert, die Deutschland angeblich verraten hätten.\n\nDie Geschichte der Weimarer Republik lässt sich in mehrere Phasen unterteilen. Die Krisenjahre (1919-1923) waren geprägt von politischen Putschversuchen, separatistischen Bewegungen und der verheerenden Hyperinflation von 1923, die die Ersparnisse weiter Bevölkerungsteile vernichtete. Die \"Goldenen Zwanziger\" (1924-1929) brachten eine Phase relativer Stabilität und kultureller Blüte mit bedeutenden Entwicklungen in Kunst, Architektur (Bauhaus), Literatur und Film. Berlin wurde zur kulturellen Metropole Europas. Die Weltwirtschaftskrise ab 1929 stürzte die Republik jedoch in eine tiefe politische und wirtschaftliche Krise mit Massenarbeitslosigkeit von über sechs Millionen Menschen.\n\nDie zunehmende Radikalisierung der Politik, das Versagen der demokratischen Parteien und die wirtschaftliche Not ermöglichten den Aufstieg der NSDAP. Am 30. Januar 1933 wurde Adolf Hitler zum Reichskanzler ernannt, was das faktische Ende der Weimarer Republik bedeutete. Mit dem Ermächtigungsgesetz vom 23. März 1933 wurde die demokratische Ordnung endgültig beseitigt. Die Weimarer Republik gilt als Lehrstück über die Fragilität der Demokratie und die Bedeutung wehrhafter demokratischer Institutionen.\n\n## References\n\n- Weimarer Verfassung (11. August 1919)\n- Versailler Vertrag (28. Juni 1919)\n- Ermächtigungsgesetz (23. März 1933)\n"
+    },
+    {
+      "title": "Zweiter Weltkrieg",
+      "type": "Zeitspanne",
+      "start": "1939-09-01T00:00:00.000Z",
+      "end": "1945-09-02T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Krieg",
+        "Nazi-Deutschland",
+        "Holocaust",
+        "Atombombe",
+        "Vereinte Nationen"
+      ],
+      "added": "2026-01-26T00:00:00.000Z",
+      "content": "\n## Summary\n\nDer Zweite Weltkrieg (1939-1945) war der bisher größte und verheerendste Konflikt der Menschheitsgeschichte, der die Achsenmächte gegen die Alliierten stellte. Der Krieg endete mit der bedingungslosen Kapitulation Nazi-Deutschlands im Mai 1945 und Japans im September 1945.\n\n## Description\n\nDer Zweite Weltkrieg begann am 1. September 1939 mit dem deutschen Überfall auf Polen. Der Konflikt weitete sich schnell zu einem globalen Krieg aus, mit den Achsenmächten (Nazi-Deutschland, Italien, Japan) gegen die Alliierten (Großbritannien, Sowjetunion, USA, China und weitere).\n\nDer Krieg war gekennzeichnet durch beispiellose Grausamkeiten, darunter der Holocaust, in dem sechs Millionen Juden und Millionen andere systematisch ermordet wurden. Neue Waffentechnologien wie Raketen, Jets und schließlich Atomwaffen veränderten die Kriegsführung grundlegend.\n\nInsgesamt starben schätzungsweise 70-85 Millionen Menschen, was etwa 3% der Weltbevölkerung entspricht. Der Krieg endete in Europa am 8. Mai 1945 (VE-Day) und im Pazifik am 2. September 1945 nach den Atombombenabwürfen auf Hiroshima und Nagasaki.\n\nDie Nachkriegsordnung führte zur Gründung der Vereinten Nationen, zum Beginn des Kalten Krieges und zur Teilung Deutschlands und Europas.\n\n## References\n\n- Antony Beevor: \"The Second World War\"\n- United States Holocaust Memorial Museum\n- Potsdam Conference (1945)\n"
+    },
+    {
+      "title": "Zeitgeschichte",
       "type": "Epoche",
-      "start": "1800-01-01T00:00:00.000Z",
-      "end": "1945-05-08T00:00:00.000Z",
+      "start": "1945-05-08T00:00:00.000Z",
+      "end": "2026-02-05T00:00:00.000Z",
       "domain": "Geschichte",
       "tags": [
         "Epoche",
-        "Industrialisierung",
-        "Nationalismus",
-        "Weltkriege",
-        "Imperialismus"
+        "Kalter Krieg",
+        "Globalisierung",
+        "Digitalisierung",
+        "Dekolonisierung"
       ],
       "added": "2026-02-05T00:00:00.000Z",
-      "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
+      "content": "\n## Summary\n\nDie Zeitgeschichte (1945 bis heute) ist die jüngste historische Epoche, geprägt vom Kalten Krieg, Dekolonisierung, technologischer Revolution, Globalisierung und dem Übergang in eine multipolare, digital vernetzte Welt mit neuartigen globalen Herausforderungen.\n\n## Description\n\nDie Zeitgeschichte begann unmittelbar nach dem Zweiten Weltkrieg mit der Teilung der Welt in zwei ideologische Blöcke: die kapitalistische, demokratische Welt unter Führung der USA und der kommunistische Ostblock unter sowjetischer Herrschaft. Der Kalte Krieg (1947-1991) bestimmte die internationalen Beziehungen durch Wettrüsten, Stellvertreterkriege (Korea, Vietnam) und die ständige Bedrohung eines nuklearen Konflikts. Gleichzeitig vollzog sich die Dekolonisierung: Dutzende ehemaliger Kolonien in Asien, Afrika und der Karibik erlangten ihre Unabhängigkeit, was die globale Machtkonstellation grundlegend veränderte.\n\nDie wirtschaftliche Nachkriegsordnung wurde durch Institutionen wie UN, Weltbank und IWF geprägt. Westeuropa erlebte das \"Wirtschaftswunder\", während sich die Europäische Integration entwickelte (von der EGKS zur heutigen EU). Die 1960er Jahre brachten gesellschaftliche Umwälzungen: Bürgerrechtsbewegungen, Studentenproteste, sexuelle Revolution und Feminismus. Die Ölkrisen der 1970er, der Fall der Berliner Mauer 1989 und der Zusammenbruch der Sowjetunion 1991 markierten das Ende des Kalten Krieges und schienen kurzzeitig eine neue Ära des Friedens zu versprechen.\n\nDas späte 20. und frühe 21. Jahrhundert wurde geprägt von Globalisierung, dem Aufstieg Chinas zur Weltmacht, und der digitalen Revolution – Personal Computer, Internet, Smartphones transformierten Kommunikation, Arbeit und Gesellschaft. Die Terroranschläge vom 11. September 2001 führten zu \"Kriegen gegen den Terror\" und neuen geopolitischen Spannungen. Aktuelle Herausforderungen umfassen Klimawandel, Migration, Populismus, Pandemien (COVID-19) und die Rückkehr von Großmachtrivalitäten. Die Zeitgeschichte ist noch nicht abgeschlossen – wir leben in ihr und gestalten sie mit.\n"
+    },
+    {
+      "title": "Kalter Krieg",
+      "type": "Zeitspanne",
+      "start": "1947-03-12T00:00:00.000Z",
+      "end": "1991-12-26T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Ost-West-Konflikt",
+        "USA",
+        "Sowjetunion",
+        "NATO",
+        "Warschauer Pakt",
+        "Wettrüsten",
+        "Stellvertreterkriege"
+      ],
+      "added": "2026-01-27T00:00:00.000Z",
+      "content": "\n## Summary\n\nDer Kalte Krieg (1947-1991) war eine Epoche der geopolitischen Spannung zwischen den USA und der Sowjetunion sowie ihren jeweiligen Verbündeten, die die Weltpolitik nach dem Zweiten Weltkrieg prägte. Diese Konfrontation zwischen kapitalistischem Westen und kommunistischem Osten bestimmte fast ein halbes Jahrhundert lang die internationale Politik, ohne in einen direkten militärischen Konflikt zwischen den Supermächten zu münden.\n\n## Description\n\nDer Kalte Krieg begann nach dem Zweiten Weltkrieg, als die Zusammenarbeit zwischen den westlichen Alliierten und der Sowjetunion zerbrach. Die Truman-Doktrin vom 12. März 1947, die den Eindämmung des Kommunismus zum Ziel erklärte, markierte den symbolischen Beginn dieser Ära. Europa wurde durch den Eisernen Vorhang geteilt, manifestiert durch die Gründung der NATO 1949 im Westen und des Warschauer Pakts 1955 im Osten. Deutschland wurde zum Brennpunkt des Konflikts, symbolisiert durch die Teilung Berlins und den Bau der Berliner Mauer 1961.\n\nDie Epoche war geprägt von einem massiven nuklearen Wettrüsten, das die Welt an den Rand der Vernichtung brachte. Krisenmomente wie die Berlin-Blockade (1948-1949), die Kubakrise (1962) und der Korea-Krieg (1950-1953) zeigten die Gefahr einer direkten Konfrontation. Stattdessen trugen die Supermächte ihre Rivalität in Stellvertreterkriegen aus, etwa in Vietnam, Afghanistan und verschiedenen afrikanischen und lateinamerikanischen Ländern. Der Konflikt erstreckte sich auch auf Bereiche wie Wissenschaft und Sport, exemplarisch im Weltraumwettlauf, der mit der ersten Mondlandung 1969 seinen Höhepunkt erreichte.\n\nDer Kalte Krieg endete mit dem Zusammenbruch der kommunistischen Regime in Osteuropa ab 1989, symbolisiert durch den Fall der Berliner Mauer am 9. November 1989. Die formale Auflösung der Sowjetunion am 26. Dezember 1991 markierte das endgültige Ende dieser Epoche. Der Kalte Krieg hinterließ eine bipolare Weltordnung, die sich in eine neue multipolare Struktur verwandelte, und prägte maßgeblich die politischen, wirtschaftlichen und gesellschaftlichen Strukturen der zweiten Hälfte des 20. Jahrhunderts.\n\n## References\n\n- Truman-Doktrin (12. März 1947)\n- NATO-Gründungsvertrag (4. April 1949)\n- Warschauer Pakt (14. Mai 1955)\n"
+    },
+    {
+      "title": "Erste Mondlandung (Apollo 11)",
+      "type": "Ereignis",
+      "start": "1969-07-20T00:00:00.000Z",
+      "end": null,
+      "domain": "Technologie",
+      "tags": [
+        "Weltraum",
+        "NASA",
+        "Kalter Krieg",
+        "Entdeckung",
+        "Meilenstein"
+      ],
+      "added": "2026-01-27T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie erste Mondlandung am 20. Juli 1969 war ein historischer Meilenstein der Menschheitsgeschichte, als die amerikanischen Astronauten Neil Armstrong und Buzz Aldrin als erste Menschen den Mond betraten.\n\n## Description\n\nDie Apollo-11-Mission war der Höhepunkt des amerikanischen Raumfahrtprogramms und des Wettlaufs ins All zwischen den USA und der Sowjetunion während des Kalten Krieges. Präsident John F. Kennedy hatte 1961 das ehrgeizige Ziel verkündet, noch vor Ende des Jahrzehnts einen Menschen auf den Mond zu bringen und sicher zur Erde zurückzukehren.\n\nAm 16. Juli 1969 startete die Saturn-V-Rakete vom Kennedy Space Center in Florida mit den drei Astronauten Neil Armstrong, Buzz Aldrin und Michael Collins an Bord. Während Collins in der Mondumlaufbahn blieb, landeten Armstrong und Aldrin mit der Mondlandefähre \"Eagle\" im Mare Tranquillitatis (Meer der Ruhe). Um 02:56 UTC am 21. Juli betrat Neil Armstrong als erster Mensch die Mondoberfläche und sprach die berühmten Worte: \"Das ist ein kleiner Schritt für einen Menschen, aber ein gewaltiger Sprung für die Menschheit.\"\n\nDie erfolgreiche Mission markierte einen der größten technologischen und wissenschaftlichen Erfolge des 20. Jahrhunderts. Sie bewies die Leistungsfähigkeit der bemannten Raumfahrt und inspirierte Generationen von Wissenschaftlern und Ingenieuren. Die Astronauten brachten etwa 22 Kilogramm Mondgestein zur Erde zurück, das wertvolle Erkenntnisse über die Entstehung des Mondes und des Sonnensystems lieferte.\n\n## References\n\n- NASA Apollo 11 Mission Archives\n- Kennedy, John F.: \"Moon Speech\" (Rice University, 1962)\n"
     },
     {
       "title": "Erfindung des Personalcomputers",
@@ -294,22 +263,53 @@
       "content": "\n## Summary\n\nDie Erfindung des Personalcomputers begann 1975 mit dem Altair 8800, dem ersten kommerziell erfolgreichen Mikrocomputer-Bausatz, der die Computernutzung von Großrechnern für Unternehmen zu erschwinglichen Geräten für Einzelpersonen transformierte und die digitale Revolution einleitete.\n\n## Description\n\nVor Mitte der 1970er Jahre waren Computer ausschließlich große, teure Maschinen, die von Unternehmen, Universitäten und Regierungen genutzt wurden. Die Entwicklung von Mikroprozessoren wie dem Intel 8080 machte es erstmals möglich, leistungsfähige Computer in kompakter Form zu bauen. Im Januar 1975 erschien der Altair 8800 von MITS auf dem Titelbild des Magazins \"Popular Electronics\". Dieser Bausatz für 397 Dollar war zwar primitiv und für Laien kaum nutzbar, löste aber eine Revolution aus: Er bewies, dass Computer für Einzelpersonen technisch und finanziell erreichbar waren. Der Altair inspirierte eine Generation von Enthusiasten, darunter Bill Gates und Paul Allen, die für den Altair die Programmiersprache BASIC entwickelten.\n\nDie Jahre nach 1975 brachten rasante Entwicklungen: Der Apple II (1977) von Steve Jobs und Steve Wozniak war der erste wirklich benutzerfreundliche Personal Computer mit Farbgrafik und wurde zum kommerziellen Durchbruch. Im selben Jahr erschienen auch der Commodore PET und der Tandy TRS-80, zusammen als \"Trinity of 1977\" bekannt. 1981 brachte IBM den IBM PC auf den Markt, der durch seine offene Architektur den Standard für die PC-Industrie setzte. Der IBM PC mit MS-DOS von Microsoft etablierte die Plattform, die die Computerindustrie für Jahrzehnte dominieren sollte. Der Apple Macintosh (1984) revolutionierte mit seiner grafischen Benutzeroberfläche die Bedienbarkeit.\n\nDer Personalcomputer veränderte fundamental, wie Menschen arbeiten, lernen, kommunizieren und sich unterhalten. Von wenigen tausend Hobbyisten 1975 wuchs die Nutzerbasis auf Milliarden weltweit. PCs ermöglichten die Softwareindustrie, Desktop-Publishing, digitale Musik und Kunst, und ebneten den Weg für das Internet-Zeitalter. Die Erfindung demokratisierte den Zugang zu Rechenleistung und Information und gilt als eine der transformativsten Technologien des 20. Jahrhunderts, vergleichbar mit Elektrizität und dem Automobil.\n\n## References\n\n- Altair 8800 (MITS, Januar 1975)\n- Apple II (1977)\n- IBM Personal Computer (1981)\n- Computer History Museum\n"
     },
     {
-      "title": "Kalter Krieg",
-      "type": "Zeitspanne",
-      "start": "1947-03-12T00:00:00.000Z",
-      "end": "1991-12-26T00:00:00.000Z",
+      "title": "Fall der Berliner Mauer",
+      "type": "Ereignis",
+      "start": "1989-11-09T00:00:00.000Z",
+      "end": null,
       "domain": "Geschichte",
       "tags": [
-        "Ost-West-Konflikt",
-        "USA",
-        "Sowjetunion",
-        "NATO",
-        "Warschauer Pakt",
-        "Wettrüsten",
-        "Stellvertreterkriege"
+        "Wiedervereinigung",
+        "DDR",
+        "BRD",
+        "Kalter Krieg",
+        "Grenzöffnung"
       ],
       "added": "2026-01-27T00:00:00.000Z",
-      "content": "\n## Summary\n\nDer Kalte Krieg (1947-1991) war eine Epoche der geopolitischen Spannung zwischen den USA und der Sowjetunion sowie ihren jeweiligen Verbündeten, die die Weltpolitik nach dem Zweiten Weltkrieg prägte. Diese Konfrontation zwischen kapitalistischem Westen und kommunistischem Osten bestimmte fast ein halbes Jahrhundert lang die internationale Politik, ohne in einen direkten militärischen Konflikt zwischen den Supermächten zu münden.\n\n## Description\n\nDer Kalte Krieg begann nach dem Zweiten Weltkrieg, als die Zusammenarbeit zwischen den westlichen Alliierten und der Sowjetunion zerbrach. Die Truman-Doktrin vom 12. März 1947, die den Eindämmung des Kommunismus zum Ziel erklärte, markierte den symbolischen Beginn dieser Ära. Europa wurde durch den Eisernen Vorhang geteilt, manifestiert durch die Gründung der NATO 1949 im Westen und des Warschauer Pakts 1955 im Osten. Deutschland wurde zum Brennpunkt des Konflikts, symbolisiert durch die Teilung Berlins und den Bau der Berliner Mauer 1961.\n\nDie Epoche war geprägt von einem massiven nuklearen Wettrüsten, das die Welt an den Rand der Vernichtung brachte. Krisenmomente wie die Berlin-Blockade (1948-1949), die Kubakrise (1962) und der Korea-Krieg (1950-1953) zeigten die Gefahr einer direkten Konfrontation. Stattdessen trugen die Supermächte ihre Rivalität in Stellvertreterkriegen aus, etwa in Vietnam, Afghanistan und verschiedenen afrikanischen und lateinamerikanischen Ländern. Der Konflikt erstreckte sich auch auf Bereiche wie Wissenschaft und Sport, exemplarisch im Weltraumwettlauf, der mit der ersten Mondlandung 1969 seinen Höhepunkt erreichte.\n\nDer Kalte Krieg endete mit dem Zusammenbruch der kommunistischen Regime in Osteuropa ab 1989, symbolisiert durch den Fall der Berliner Mauer am 9. November 1989. Die formale Auflösung der Sowjetunion am 26. Dezember 1991 markierte das endgültige Ende dieser Epoche. Der Kalte Krieg hinterließ eine bipolare Weltordnung, die sich in eine neue multipolare Struktur verwandelte, und prägte maßgeblich die politischen, wirtschaftlichen und gesellschaftlichen Strukturen der zweiten Hälfte des 20. Jahrhunderts.\n\n## References\n\n- Truman-Doktrin (12. März 1947)\n- NATO-Gründungsvertrag (4. April 1949)\n- Warschauer Pakt (14. Mai 1955)\n"
+      "content": "\n## Summary\n\nAm 9. November 1989 fiel die Berliner Mauer, die seit 1961 Ost- und West-Berlin teilte. Dieses historische Ereignis markierte das Ende der deutschen Teilung und wurde zum Symbol für das Ende des Kalten Krieges.\n\n## Description\n\nDie Berliner Mauer wurde 1961 von der DDR errichtet, um die Flucht von Ost- nach West-Berlin zu verhindern. Über 28 Jahre lang war sie das stärkste Symbol der Teilung Deutschlands und des Kalten Krieges. Die Mauer trennte nicht nur eine Stadt, sondern auch Familien, Freunde und eine ganze Nation. Im Laufe des Jahres 1989 wuchs der Druck auf die DDR-Regierung durch Massenproteste und die Reformbewegungen in Osteuropa stetig an.\n\nAm Abend des 9. November 1989 verkündete SED-Politbüromitglied Günter Schabowski bei einer Pressekonferenz versehentlich, dass DDR-Bürger ab sofort die Grenze zur Bundesrepublik frei passieren könnten. Nach anfänglicher Verwirrung öffneten die überforderten Grenzsoldaten die Grenzübergänge. Tausende Ost-Berliner strömten nach West-Berlin, wo sie von jubelnden Menschen empfangen wurden. In den folgenden Tagen und Wochen begannen Bürger, die Mauer eigenhändig abzubauen.\n\nDer Fall der Berliner Mauer führte zur deutschen Wiedervereinigung am 3. Oktober 1990 und gilt als Wendepunkt der europäischen Geschichte. Das Ereignis markierte nicht nur das Ende der deutschen Teilung, sondern symbolisierte auch den Zusammenbruch der kommunistischen Regime in Osteuropa und das Ende des Kalten Krieges. Heute erinnern Reste der Mauer und Gedenkstätten wie die East Side Gallery an die Teilung und mahnen zur Bewahrung der Freiheit.\n"
+    },
+    {
+      "title": "Erfindung des World Wide Web",
+      "type": "Ereignis",
+      "start": "1991-08-06T00:00:00.000Z",
+      "end": null,
+      "domain": "Technologie",
+      "tags": [
+        "Internet",
+        "WWW",
+        "CERN",
+        "Tim Berners-Lee",
+        "Digitalisierung"
+      ],
+      "added": "2026-01-30T00:00:00.000Z",
+      "content": "\n## Summary\n\nAm 6. August 1991 machte Tim Berners-Lee das World Wide Web öffentlich zugänglich, eine Erfindung, die die Art und Weise revolutionierte, wie Menschen Informationen teilen und miteinander kommunizieren, und die Grundlage der modernen digitalen Gesellschaft schuf.\n\n## Description\n\nTim Berners-Lee, ein britischer Informatiker am CERN (Europäische Organisation für Kernforschung) in Genf, entwickelte das World Wide Web als Lösung für das Problem der Informationsverteilung unter Wissenschaftlern. Im März 1989 reichte er seinen Vorschlag \"Information Management: A Proposal\" ein, in dem er ein System zur Verknüpfung von Dokumenten über ein Netzwerk beschrieb. Zwischen 1989 und 1991 entwickelte Berners-Lee die grundlegenden Technologien: HTML (Hypertext Markup Language) für die Strukturierung von Dokumenten, HTTP (Hypertext Transfer Protocol) für die Datenübertragung, URLs (Uniform Resource Locators) zur Adressierung von Ressourcen sowie den ersten Webbrowser und Webserver.\n\nAm 6. August 1991 veröffentlichte Berners-Lee die erste Website (info.cern.ch) und stellte das World Wide Web der Öffentlichkeit vor. Entscheidend für den Erfolg war, dass CERN 1993 das WWW als freie Technologie ohne Lizenzgebühren zur Verfügung stellte. Dies ermöglichte die explosive Verbreitung: Von einer Handvoll Websites 1991 wuchs das Web auf Millionen innerhalb weniger Jahre. Der erste populäre grafische Browser Mosaic (1993) und später Netscape Navigator machten das Web massentauglich. Das WWW unterschied sich vom bereits existierenden Internet dadurch, dass es eine benutzerfreundliche, visuelle Schnittstelle für den Zugang zu vernetzten Informationen bot.\n\nDas World Wide Web transformierte fundamental, wie die Menschheit kommuniziert, arbeitet, lernt und sich unterhält. Es demokratisierte den Zugang zu Information, ermöglichte neue Geschäftsmodelle (E-Commerce, Social Media, Cloud Computing) und veränderte politische und soziale Strukturen weltweit. Heute nutzen über 5 Milliarden Menschen das Web. Tim Berners-Lee wurde für seine Erfindung zum Ritter geschlagen und erhielt zahlreiche Auszeichnungen. Das WWW gilt neben dem Buchdruck und dem Internet selbst als eine der bedeutendsten Kommunikationstechnologien der Geschichte und prägt das 21. Jahrhundert wie kaum eine andere Erfindung.\n\n## References\n\n- Tim Berners-Lee: \"Information Management: A Proposal\" (März 1989)\n- CERN\n- World Wide Web Consortium (W3C)\n"
+    },
+    {
+      "title": "Erfindung des Smartphones",
+      "type": "Ereignis",
+      "start": "2007-01-09T00:00:00.000Z",
+      "end": null,
+      "domain": "Technologie",
+      "tags": [
+        "Smartphone",
+        "iPhone",
+        "Apple",
+        "Touchscreen",
+        "Mobile",
+        "Steve Jobs"
+      ],
+      "added": "2026-01-30T00:00:00.000Z",
+      "content": "\n## Summary\n\nAm 9. Januar 2007 stellte Steve Jobs das erste iPhone vor und definierte damit das moderne Smartphone neu – ein Gerät, das Telefon, iPod und Internet-Kommunikator in einem vereinte und die Art und Weise revolutionierte, wie Menschen mit Technologie interagieren.\n\n## Description\n\nVor dem iPhone existierten bereits Smartphones wie der IBM Simon (1994), Nokia Communicator oder BlackBerry-Geräte, die jedoch hauptsächlich von Geschäftsleuten genutzt wurden und komplizierte Bedienung mit Tastaturen und Stiften erforderten. Am 9. Januar 2007 präsentierte Steve Jobs auf der Macworld Conference in San Francisco das iPhone mit den Worten \"Today, Apple is going to reinvent the phone\". Das iPhone kombinierte erstmals einen großen Multi-Touch-Bildschirm, eine intuitive Benutzeroberfläche, einen vollwertigen Webbrowser und ein elegantes Design in einem Gerät. Die revolutionäre Steuerung mit Fingergesten statt Tastatur oder Stift machte Smartphones erstmals massentauglich. Der App Store, der 2008 folgte, schuf ein ganzes Ökosystem von Anwendungen.\n\nDer Erfolg des iPhone zwang die gesamte Mobilfunkindustrie zur Neuorientierung. Google entwickelte Android als Antwort, Nokia und BlackBerry, die den Smartphone-Markt dominierten, verloren innerhalb weniger Jahre ihre Marktführerschaft. Innerhalb eines Jahrzehnts entwickelten sich Smartphones von Nischenprodukten zu unverzichtbaren Alltagsgegenständen. Sie vereinten Funktionen von Dutzenden Geräten: Telefon, Kamera, Musikplayer, Navigationssystem, Computer, Fernseher, Spielkonsole, Geldbörse und mehr.\n\nHeute nutzen über 6 Milliarden Menschen Smartphones weltweit. Sie haben fundamental verändert, wie Menschen kommunizieren, arbeiten, lernen, sich informieren und unterhalten. Smartphones ermöglichten neue Geschäftsmodelle (Uber, Instagram, TikTok), veränderten soziale Interaktionen und demokratisierten den Zugang zu Information in bisher unerreichtem Maß. Das Smartphone gilt als die transformativste Technologie des 21. Jahrhunderts und hat innerhalb von 15 Jahren die menschliche Gesellschaft nachhaltig geprägt – eine Geschwindigkeit der Adoption, die historisch beispiellos ist.\n\n## References\n\n- Apple iPhone (vorgestellt 9. Januar 2007, veröffentlicht 29. Juni 2007)\n- Steve Jobs' Macworld Keynote 2007\n"
     }
   ],
   "byType": {
@@ -317,7 +317,7 @@
       {
         "title": "Antike",
         "type": "Epoche",
-        "start": "-0800-01-01",
+        "start": "-0800-01-01T00:00:00.000Z",
         "end": "0500-01-01T00:00:00.000Z",
         "domain": "Geschichte",
         "tags": [
@@ -363,22 +363,6 @@
         "content": "\n## Summary\n\nDie Frühe Neuzeit (ca. 1500 bis 1800) war eine transformative Epoche, geprägt von Renaissance, Reformation, wissenschaftlicher Revolution, Aufklärung und dem Beginn der europäischen Kolonialexpansion, die das mittelalterliche Weltbild grundlegend veränderte.\n\n## Description\n\nDie Frühe Neuzeit begann mit der Renaissance, die antikes Wissen wiederbelebte und den Humanismus förderte. Die Erfindung des Buchdrucks ermöglichte die Verbreitung von Ideen in nie dagewesener Geschwindigkeit. Die europäische Expansion führte zur \"Entdeckung\" neuer Kontinente – Kolumbus erreichte 1492 Amerika, Vasco da Gama umrundete Afrika nach Indien. Diese Entdeckungen lösten ein Zeitalter des Kolonialismus aus, das die Welt nachhaltig prägte. Die Reformation (ab 1517) mit Martin Luther spaltete das christliche Westeuropa und führte zu religiösen Konflikten, die im verheerenden Dreißigjährigen Krieg (1618-1648) gipfelten.\n\nDie wissenschaftliche Revolution des 16. und 17. Jahrhunderts veränderte das Weltbild fundamental. Kopernikus, Galileo und Newton stellten das geozentrische Weltbild infrage und legten die Grundlagen der modernen Naturwissenschaften. Die Philosophie der Aufklärung (18. Jahrhundert) mit Denkern wie Voltaire, Rousseau und Kant betonte Vernunft, individuelle Freiheit und Menschenrechte. Diese Ideen stellten absolute Monarchien und kirchliche Autorität zunehmend in Frage.\n\nPolitisch war die Frühe Neuzeit geprägt vom Aufstieg absolutistischer Nationalstaaten wie Frankreich unter Ludwig XIV., aber auch vom Entstehen parlamentarischer Systeme in England. Der Merkantilismus förderte den Handel und wirtschaftliches Wachstum. Die Epoche endete mit revolutionären Umwälzungen – die Amerikanische Revolution (1776) und die Französische Revolution (1789) setzten aufklärerische Ideale in politische Realität um und leiteten den Übergang zur Moderne ein.\n"
       },
       {
-        "title": "Zeitgeschichte",
-        "type": "Epoche",
-        "start": "1945-05-08T00:00:00.000Z",
-        "end": "2026-02-05T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Epoche",
-          "Kalter Krieg",
-          "Globalisierung",
-          "Digitalisierung",
-          "Dekolonisierung"
-        ],
-        "added": "2026-02-05T00:00:00.000Z",
-        "content": "\n## Summary\n\nDie Zeitgeschichte (1945 bis heute) ist die jüngste historische Epoche, geprägt vom Kalten Krieg, Dekolonisierung, technologischer Revolution, Globalisierung und dem Übergang in eine multipolare, digital vernetzte Welt mit neuartigen globalen Herausforderungen.\n\n## Description\n\nDie Zeitgeschichte begann unmittelbar nach dem Zweiten Weltkrieg mit der Teilung der Welt in zwei ideologische Blöcke: die kapitalistische, demokratische Welt unter Führung der USA und der kommunistische Ostblock unter sowjetischer Herrschaft. Der Kalte Krieg (1947-1991) bestimmte die internationalen Beziehungen durch Wettrüsten, Stellvertreterkriege (Korea, Vietnam) und die ständige Bedrohung eines nuklearen Konflikts. Gleichzeitig vollzog sich die Dekolonisierung: Dutzende ehemaliger Kolonien in Asien, Afrika und der Karibik erlangten ihre Unabhängigkeit, was die globale Machtkonstellation grundlegend veränderte.\n\nDie wirtschaftliche Nachkriegsordnung wurde durch Institutionen wie UN, Weltbank und IWF geprägt. Westeuropa erlebte das \"Wirtschaftswunder\", während sich die Europäische Integration entwickelte (von der EGKS zur heutigen EU). Die 1960er Jahre brachten gesellschaftliche Umwälzungen: Bürgerrechtsbewegungen, Studentenproteste, sexuelle Revolution und Feminismus. Die Ölkrisen der 1970er, der Fall der Berliner Mauer 1989 und der Zusammenbruch der Sowjetunion 1991 markierten das Ende des Kalten Krieges und schienen kurzzeitig eine neue Ära des Friedens zu versprechen.\n\nDas späte 20. und frühe 21. Jahrhundert wurde geprägt von Globalisierung, dem Aufstieg Chinas zur Weltmacht, und der digitalen Revolution – Personal Computer, Internet, Smartphones transformierten Kommunikation, Arbeit und Gesellschaft. Die Terroranschläge vom 11. September 2001 führten zu \"Kriegen gegen den Terror\" und neuen geopolitischen Spannungen. Aktuelle Herausforderungen umfassen Klimawandel, Migration, Populismus, Pandemien (COVID-19) und die Rückkehr von Großmachtrivalitäten. Die Zeitgeschichte ist noch nicht abgeschlossen – wir leben in ihr und gestalten sie mit.\n"
-      },
-      {
         "title": "Moderne",
         "type": "Epoche",
         "start": "1800-01-01T00:00:00.000Z",
@@ -393,109 +377,74 @@
         ],
         "added": "2026-02-05T00:00:00.000Z",
         "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
-      }
-    ],
-    "Zeitspanne": [
+      },
       {
-        "title": "Zweiter Weltkrieg",
-        "type": "Zeitspanne",
-        "start": "1939-09-01T00:00:00.000Z",
-        "end": "1945-09-02T00:00:00.000Z",
+        "title": "Zeitgeschichte",
+        "type": "Epoche",
+        "start": "1945-05-08T00:00:00.000Z",
+        "end": "2026-02-05T00:00:00.000Z",
         "domain": "Geschichte",
         "tags": [
-          "Krieg",
-          "Nazi-Deutschland",
-          "Holocaust",
-          "Atombombe",
-          "Vereinte Nationen"
+          "Epoche",
+          "Kalter Krieg",
+          "Globalisierung",
+          "Digitalisierung",
+          "Dekolonisierung"
         ],
-        "added": "2026-01-26T00:00:00.000Z",
-        "content": "\n## Summary\n\nDer Zweite Weltkrieg (1939-1945) war der bisher größte und verheerendste Konflikt der Menschheitsgeschichte, der die Achsenmächte gegen die Alliierten stellte. Der Krieg endete mit der bedingungslosen Kapitulation Nazi-Deutschlands im Mai 1945 und Japans im September 1945.\n\n## Description\n\nDer Zweite Weltkrieg begann am 1. September 1939 mit dem deutschen Überfall auf Polen. Der Konflikt weitete sich schnell zu einem globalen Krieg aus, mit den Achsenmächten (Nazi-Deutschland, Italien, Japan) gegen die Alliierten (Großbritannien, Sowjetunion, USA, China und weitere).\n\nDer Krieg war gekennzeichnet durch beispiellose Grausamkeiten, darunter der Holocaust, in dem sechs Millionen Juden und Millionen andere systematisch ermordet wurden. Neue Waffentechnologien wie Raketen, Jets und schließlich Atomwaffen veränderten die Kriegsführung grundlegend.\n\nInsgesamt starben schätzungsweise 70-85 Millionen Menschen, was etwa 3% der Weltbevölkerung entspricht. Der Krieg endete in Europa am 8. Mai 1945 (VE-Day) und im Pazifik am 2. September 1945 nach den Atombombenabwürfen auf Hiroshima und Nagasaki.\n\nDie Nachkriegsordnung führte zur Gründung der Vereinten Nationen, zum Beginn des Kalten Krieges und zur Teilung Deutschlands und Europas.\n\n## References\n\n- Antony Beevor: \"The Second World War\"\n- United States Holocaust Memorial Museum\n- Potsdam Conference (1945)\n"
-      },
-      {
-        "title": "Weimarer Republik",
-        "type": "Zeitspanne",
-        "start": "1919-08-11T00:00:00.000Z",
-        "end": "1933-01-30T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Demokratie",
-          "Deutschland",
-          "Zwischenkriegszeit",
-          "Verfassung",
-          "Hyperinflation",
-          "Goldene Zwanziger"
-        ],
-        "added": "2026-01-30T00:00:00.000Z",
-        "content": "\n## Summary\n\nDie Weimarer Republik (1919-1933) war die erste demokratische Staatsform in Deutschland, die nach dem Ersten Weltkrieg entstand und mit der Machtübernahme der Nationalsozialisten endete.\n\n## Description\n\nDie Weimarer Republik wurde am 11. August 1919 mit der Verabschiedung der Weimarer Verfassung gegründet, nachdem Kaiser Wilhelm II. abdanken musste und Deutschland den Ersten Weltkrieg verloren hatte. Die neue demokratische Republik war von Anfang an mit enormen Herausforderungen konfrontiert: dem Versailler Vertrag mit seinen harten Bedingungen und Reparationszahlungen, politischer Instabilität durch extremistische Parteien von links und rechts, sowie wirtschaftlichen Krisen. Die junge Demokratie wurde von vielen als \"Novemberverbrecher\" diffamiert, die Deutschland angeblich verraten hätten.\n\nDie Geschichte der Weimarer Republik lässt sich in mehrere Phasen unterteilen. Die Krisenjahre (1919-1923) waren geprägt von politischen Putschversuchen, separatistischen Bewegungen und der verheerenden Hyperinflation von 1923, die die Ersparnisse weiter Bevölkerungsteile vernichtete. Die \"Goldenen Zwanziger\" (1924-1929) brachten eine Phase relativer Stabilität und kultureller Blüte mit bedeutenden Entwicklungen in Kunst, Architektur (Bauhaus), Literatur und Film. Berlin wurde zur kulturellen Metropole Europas. Die Weltwirtschaftskrise ab 1929 stürzte die Republik jedoch in eine tiefe politische und wirtschaftliche Krise mit Massenarbeitslosigkeit von über sechs Millionen Menschen.\n\nDie zunehmende Radikalisierung der Politik, das Versagen der demokratischen Parteien und die wirtschaftliche Not ermöglichten den Aufstieg der NSDAP. Am 30. Januar 1933 wurde Adolf Hitler zum Reichskanzler ernannt, was das faktische Ende der Weimarer Republik bedeutete. Mit dem Ermächtigungsgesetz vom 23. März 1933 wurde die demokratische Ordnung endgültig beseitigt. Die Weimarer Republik gilt als Lehrstück über die Fragilität der Demokratie und die Bedeutung wehrhafter demokratischer Institutionen.\n\n## References\n\n- Weimarer Verfassung (11. August 1919)\n- Versailler Vertrag (28. Juni 1919)\n- Ermächtigungsgesetz (23. März 1933)\n"
-      },
-      {
-        "title": "Der Blaue Reiter",
-        "type": "Zeitspanne",
-        "start": "1911-01-01T00:00:00.000Z",
-        "end": "1914-08-01T00:00:00.000Z",
-        "domain": "Kunst",
-        "tags": [
-          "Kunstbewegung",
-          "Expressionismus",
-          "Malerei",
-          "München",
-          "Abstraktion"
-        ],
-        "added": "2026-01-27T00:00:00.000Z",
-        "content": "\n## Summary\n\nDer Blaue Reiter (1911-1914) war eine bedeutende Künstlergruppe des deutschen Expressionismus, die von Wassily Kandinsky und Franz Marc in München gegründet wurde und die Entwicklung der modernen abstrakten Kunst maßgeblich beeinflusste.\n\n## Description\n\nDer Blaue Reiter entstand 1911 in München als Reaktion auf die konservative Haltung der Künstlervereinigung \"Neue Künstlervereinigung München\" (NKVM). Wassily Kandinsky und Franz Marc, die sich über künstlerische Differenzen mit der NKVM entzweiten, gründeten die neue Gruppe und gaben den gleichnamigen Almanach heraus. Der Name \"Der Blaue Reiter\" entstand aus den gemeinsamen Vorlieben der beiden Künstler: Marc liebte Pferde, Kandinsky liebte Reiter, und beide liebten die Farbe Blau.\n\nDie Bewegung versammelte eine diverse Gruppe internationaler Künstler, darunter Paul Klee, Gabriele Münter, August Macke und Alexej von Jawlensky. Sie organisierten zwei bedeutende Ausstellungen in München (1911 und 1912) und veröffentlichten den berühmten Almanach \"Der Blaue Reiter\" (1912), der Aufsätze über Kunst, Musik und Theater enthielt. Die Künstler strebten nach spiritueller Erneuerung in der Kunst und experimentierten mit Farbe, Form und Abstraktion. Sie lehnten naturalistische Darstellungen ab und suchten nach einer inneren, emotionalen Wahrheit in der Kunst.\n\nDer Ausbruch des Ersten Weltkriegs 1914 beendete die Aktivitäten der Gruppe abrupt. Franz Marc und August Macke fielen im Krieg, während Kandinsky als russischer Staatsbürger Deutschland verlassen musste. Trotz der kurzen Existenz hatte Der Blaue Reiter einen nachhaltigen Einfluss auf die Entwicklung der modernen Kunst, insbesondere auf die Abstraktion und den Expressionismus. Die Bewegung ebnete den Weg für spätere avantgardistische Kunstrichtungen und gilt heute als einer der wichtigsten Beiträge Deutschlands zur modernen Kunstgeschichte.\n"
-      },
-      {
-        "title": "Bauhaus",
-        "type": "Zeitspanne",
-        "start": "1919-04-01T00:00:00.000Z",
-        "end": "1933-04-11T00:00:00.000Z",
-        "domain": "Kunst",
-        "tags": [
-          "Design",
-          "Architektur",
-          "Moderne",
-          "Weimar",
-          "Dessau",
-          "Gropius"
-        ],
-        "added": "2026-01-30T00:00:00.000Z",
-        "content": "\n## Summary\n\nDas Bauhaus (1919-1933) war eine revolutionäre deutsche Kunstschule, die von Walter Gropius gegründet wurde und durch die Verbindung von Kunst, Handwerk und Technik das moderne Design und die Architektur des 20. Jahrhunderts maßgeblich prägte.\n\n## Description\n\nDas Bauhaus wurde im April 1919 von Walter Gropius in Weimar gegründet, entstanden aus der Fusion der Kunstgewerbeschule und der Hochschule für Bildende Kunst. Gropius' Vision war radikal: Er wollte die traditionelle Trennung zwischen Kunst und Handwerk überwinden und eine neue Einheit schaffen. Der Name \"Bauhaus\" bezog sich auf die mittelalterlichen Bauhütten und symbolisierte die Zusammenarbeit verschiedener Gewerke. Die Schule entwickelte einen innovativen pädagogischen Ansatz mit dem Vorkurs von Johannes Itten, gefolgt von Werkstattunterricht in verschiedenen Materialien und Techniken.\n\nDas Bauhaus durchlief drei Standorte und Phasen: Weimar (1919-1925), Dessau (1925-1932) und Berlin (1932-1933). In Dessau entstand unter Gropius' Nachfolger Hannes Meyer und später Ludwig Mies van der Rohe das ikonische Bauhaus-Gebäude, selbst ein Manifest der modernen Architektur. Die Schule zog bedeutende Künstler und Lehrer an, darunter Paul Klee, Wassily Kandinsky, László Moholy-Nagy und Josef Albers. Der Bauhaus-Stil zeichnete sich durch Funktionalität, geometrische Formen, klare Linien und das Prinzip \"Form follows Function\" aus. Die Bauhaus-Gestalter prägten Möbeldesign (Marcel Breuer's Stahlrohrmöbel), Typografie, Textilien und Architektur.\n\n1933 wurde das Bauhaus von den Nationalsozialisten als \"entartet\" diffamiert und geschlossen. Viele Bauhaus-Meister emigrierten, besonders in die USA, und verbreiteten die Ideen weltweit. Das Bauhaus wurde zur einflussreichsten Designschule der Moderne und prägt bis heute Architektur, Produktdesign und Kunsterziehung. Das Dessauer Bauhaus-Gebäude und die Meisterhäuser sind UNESCO-Weltkulturerbe und Pilgerstätten der Designgeschichte.\n\n## References\n\n- Bauhaus-Archiv / Museum für Gestaltung, Berlin\n- UNESCO-Weltkulturerbe: Bauhaus-Stätten in Weimar, Dessau und Bernau\n- Walter Gropius: \"Bauhaus-Manifest\" (1919)\n"
-      },
-      {
-        "title": "Erster Weltkrieg",
-        "type": "Zeitspanne",
-        "start": "1914-07-28T00:00:00.000Z",
-        "end": "1918-11-11T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Krieg",
-          "Europa",
-          "Völkerbund"
-        ],
-        "added": "2026-01-26T00:00:00.000Z",
-        "content": "\n## Summary\n\nDer Erste Weltkrieg (1914-1918) war ein globaler Konflikt, der hauptsächlich in Europa stattfand und die Mittelmächte gegen die Alliierten stellte. Der Krieg endete mit dem Waffenstillstand von Compiègne am 11. November 1918.\n\n## Description\n\nDer Erste Weltkrieg begann am 28. Juli 1914 nach der Ermordung des österreichisch-ungarischen Thronfolgers Franz Ferdinand in Sarajevo. Der Konflikt entwickelte sich schnell zu einem weltweiten Krieg mit den Mittelmächten (Deutsches Reich, Österreich-Ungarn, Osmanisches Reich) gegen die Alliierten (Frankreich, Großbritannien, Russland, später die USA).\n\nDer Krieg war geprägt durch Grabenkrieg, neue Waffentechnologien wie Giftgas und Panzer, sowie enorme Verluste auf beiden Seiten. Schätzungen zufolge starben etwa 17 Millionen Menschen, darunter Soldaten und Zivilisten.\n\nDer Krieg endete mit dem Waffenstillstand am 11. November 1918 und dem anschließenden Vertrag von Versailles 1919, der Deutschland schwere Reparationen auferlegte und die Karte Europas neu zeichnete.\n"
-      },
-      {
-        "title": "Kalter Krieg",
-        "type": "Zeitspanne",
-        "start": "1947-03-12T00:00:00.000Z",
-        "end": "1991-12-26T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Ost-West-Konflikt",
-          "USA",
-          "Sowjetunion",
-          "NATO",
-          "Warschauer Pakt",
-          "Wettrüsten",
-          "Stellvertreterkriege"
-        ],
-        "added": "2026-01-27T00:00:00.000Z",
-        "content": "\n## Summary\n\nDer Kalte Krieg (1947-1991) war eine Epoche der geopolitischen Spannung zwischen den USA und der Sowjetunion sowie ihren jeweiligen Verbündeten, die die Weltpolitik nach dem Zweiten Weltkrieg prägte. Diese Konfrontation zwischen kapitalistischem Westen und kommunistischem Osten bestimmte fast ein halbes Jahrhundert lang die internationale Politik, ohne in einen direkten militärischen Konflikt zwischen den Supermächten zu münden.\n\n## Description\n\nDer Kalte Krieg begann nach dem Zweiten Weltkrieg, als die Zusammenarbeit zwischen den westlichen Alliierten und der Sowjetunion zerbrach. Die Truman-Doktrin vom 12. März 1947, die den Eindämmung des Kommunismus zum Ziel erklärte, markierte den symbolischen Beginn dieser Ära. Europa wurde durch den Eisernen Vorhang geteilt, manifestiert durch die Gründung der NATO 1949 im Westen und des Warschauer Pakts 1955 im Osten. Deutschland wurde zum Brennpunkt des Konflikts, symbolisiert durch die Teilung Berlins und den Bau der Berliner Mauer 1961.\n\nDie Epoche war geprägt von einem massiven nuklearen Wettrüsten, das die Welt an den Rand der Vernichtung brachte. Krisenmomente wie die Berlin-Blockade (1948-1949), die Kubakrise (1962) und der Korea-Krieg (1950-1953) zeigten die Gefahr einer direkten Konfrontation. Stattdessen trugen die Supermächte ihre Rivalität in Stellvertreterkriegen aus, etwa in Vietnam, Afghanistan und verschiedenen afrikanischen und lateinamerikanischen Ländern. Der Konflikt erstreckte sich auch auf Bereiche wie Wissenschaft und Sport, exemplarisch im Weltraumwettlauf, der mit der ersten Mondlandung 1969 seinen Höhepunkt erreichte.\n\nDer Kalte Krieg endete mit dem Zusammenbruch der kommunistischen Regime in Osteuropa ab 1989, symbolisiert durch den Fall der Berliner Mauer am 9. November 1989. Die formale Auflösung der Sowjetunion am 26. Dezember 1991 markierte das endgültige Ende dieser Epoche. Der Kalte Krieg hinterließ eine bipolare Weltordnung, die sich in eine neue multipolare Struktur verwandelte, und prägte maßgeblich die politischen, wirtschaftlichen und gesellschaftlichen Strukturen der zweiten Hälfte des 20. Jahrhunderts.\n\n## References\n\n- Truman-Doktrin (12. März 1947)\n- NATO-Gründungsvertrag (4. April 1949)\n- Warschauer Pakt (14. Mai 1955)\n"
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Zeitgeschichte (1945 bis heute) ist die jüngste historische Epoche, geprägt vom Kalten Krieg, Dekolonisierung, technologischer Revolution, Globalisierung und dem Übergang in eine multipolare, digital vernetzte Welt mit neuartigen globalen Herausforderungen.\n\n## Description\n\nDie Zeitgeschichte begann unmittelbar nach dem Zweiten Weltkrieg mit der Teilung der Welt in zwei ideologische Blöcke: die kapitalistische, demokratische Welt unter Führung der USA und der kommunistische Ostblock unter sowjetischer Herrschaft. Der Kalte Krieg (1947-1991) bestimmte die internationalen Beziehungen durch Wettrüsten, Stellvertreterkriege (Korea, Vietnam) und die ständige Bedrohung eines nuklearen Konflikts. Gleichzeitig vollzog sich die Dekolonisierung: Dutzende ehemaliger Kolonien in Asien, Afrika und der Karibik erlangten ihre Unabhängigkeit, was die globale Machtkonstellation grundlegend veränderte.\n\nDie wirtschaftliche Nachkriegsordnung wurde durch Institutionen wie UN, Weltbank und IWF geprägt. Westeuropa erlebte das \"Wirtschaftswunder\", während sich die Europäische Integration entwickelte (von der EGKS zur heutigen EU). Die 1960er Jahre brachten gesellschaftliche Umwälzungen: Bürgerrechtsbewegungen, Studentenproteste, sexuelle Revolution und Feminismus. Die Ölkrisen der 1970er, der Fall der Berliner Mauer 1989 und der Zusammenbruch der Sowjetunion 1991 markierten das Ende des Kalten Krieges und schienen kurzzeitig eine neue Ära des Friedens zu versprechen.\n\nDas späte 20. und frühe 21. Jahrhundert wurde geprägt von Globalisierung, dem Aufstieg Chinas zur Weltmacht, und der digitalen Revolution – Personal Computer, Internet, Smartphones transformierten Kommunikation, Arbeit und Gesellschaft. Die Terroranschläge vom 11. September 2001 führten zu \"Kriegen gegen den Terror\" und neuen geopolitischen Spannungen. Aktuelle Herausforderungen umfassen Klimawandel, Migration, Populismus, Pandemien (COVID-19) und die Rückkehr von Großmachtrivalitäten. Die Zeitgeschichte ist noch nicht abgeschlossen – wir leben in ihr und gestalten sie mit.\n"
       }
     ],
     "Ereignis": [
+      {
+        "title": "Erfindung des Buchdrucks",
+        "type": "Ereignis",
+        "start": "1450-01-01T00:00:00.000Z",
+        "end": null,
+        "domain": "Technologie",
+        "tags": [
+          "Erfindung",
+          "Buchdruck",
+          "Gutenberg",
+          "Medien",
+          "Renaissance"
+        ],
+        "added": "2026-01-30T00:00:00.000Z",
+        "content": "\n## Summary\n\nJohannes Gutenberg erfand um 1450 den modernen Buchdruck mit beweglichen Lettern, eine Revolution, die die Verbreitung von Wissen demokratisierte und als eine der einflussreichsten Erfindungen der Menschheitsgeschichte gilt.\n\n## Description\n\nJohannes Gutenberg entwickelte um 1450 in Mainz ein revolutionäres Druckverfahren mit beweglichen Metalllettern. Anders als frühere Druckmethoden wie der Holztafeldruck ermöglichte Gutenbergs System die flexible Kombination einzelner Buchstaben zu Wörtern und Texten. Er kombinierte verschiedene Technologien: bewegliche Lettern aus einer Metalllegierung, eine Druckerpresse (adaptiert von Weinpressen), ölbasierte Druckfarbe und spezielles Papier. Sein erstes großes Werk, die Gutenberg-Bibel (auch 42-zeilige Bibel genannt), wurde zwischen 1452 und 1454 gedruckt und demonstrierte die außergewöhnliche Qualität des neuen Verfahrens.\n\nDie Erfindung des Buchdrucks hatte weitreichende Konsequenzen für die Gesellschaft. Erstmals konnten Bücher schnell und in großer Stückzahl produziert werden, was die Kosten drastisch senkte und Wissen einer breiteren Bevölkerung zugänglich machte. Innerhalb von 50 Jahren entstanden in ganz Europa über 1.000 Druckereien, die schätzungsweise 20 Millionen Bücher produzierten. Der Buchdruck ermöglichte die Verbreitung wissenschaftlicher Erkenntnisse, förderte die Alphabetisierung und spielte eine entscheidende Rolle bei der Reformation, der Renaissance und der wissenschaftlichen Revolution.\n\nDie Gutenberg-Presse wird oft als \"Erfindung des Jahrtausends\" bezeichnet und gilt als Katalysator für die moderne Wissensgesellschaft. Sie veränderte fundamental, wie Informationen gespeichert, verbreitet und konsumiert wurden. Der Buchdruck ebnete den Weg für spätere Entwicklungen wie Zeitungen, Massenbildung und letztlich die digitale Informationsrevolution. Gutenbergs Innovation steht symbolisch für die transformative Kraft der Technologie auf Gesellschaft und Kultur.\n\n## References\n\n- Gutenberg-Bibel (1452-1454)\n- Gutenberg-Museum Mainz\n"
+      },
+      {
+        "title": "Erfindung der Dampfmaschine",
+        "type": "Ereignis",
+        "start": "1769-01-05T00:00:00.000Z",
+        "end": null,
+        "domain": "Technologie",
+        "tags": [
+          "Erfindung",
+          "Dampfmaschine",
+          "James Watt",
+          "Industrielle Revolution",
+          "Energie"
+        ],
+        "added": "2026-01-30T00:00:00.000Z",
+        "content": "\n## Summary\n\n1769 erhielt James Watt das Patent für seine verbesserte Dampfmaschine mit separatem Kondensator, eine Erfindung, die die Industrielle Revolution ermöglichte und die Welt von menschlicher und tierischer Arbeitskraft zu mechanischer Energie transformierte.\n\n## Description\n\nFrühe Dampfmaschinen existierten bereits seit Beginn des 18. Jahrhunderts, insbesondere Thomas Newcomens atmosphärische Dampfmaschine von 1712, die vor allem zum Abpumpen von Wasser aus Kohlebergwerken genutzt wurde. Diese Maschinen waren jedoch extrem ineffizient und verbrauchten große Mengen Kohle. Der schottische Ingenieur James Watt begann 1763 mit der Reparatur einer Newcomen-Maschine und erkannte deren fundamentale Schwäche: Der Zylinder musste bei jedem Hub abwechselnd erhitzt und gekühlt werden, was enorme Energieverschwendung bedeutete. Am 5. Januar 1769 erhielt Watt das Patent für seine revolutionäre Verbesserung: einen separaten Kondensator, der den Zylinder ständig heiß hielt und die Effizienz um das Vierfache steigerte.\n\nWatts Dampfmaschine entwickelte sich kontinuierlich weiter. Zusammen mit dem Unternehmer Matthew Boulton gründete er 1775 die Firma Boulton & Watt, die verbesserte Dampfmaschinen produzierte und lizenzierte. Weitere Innovationen folgten: die doppelt wirkende Dampfmaschine (1782), das Planetengetriebe (1781) und der Fliehkraftregler (1788). Diese Verbesserungen machten die Dampfmaschine vielseitig einsetzbar – nicht nur zum Pumpen, sondern auch zum Antrieb von Maschinen in Textilfabriken, Mühlen und später Lokomotiven und Dampfschiffen. Die Dampfmaschine wurde zur Hauptenergiequelle der Industriellen Revolution.\n\nDie Dampfmaschine veränderte die menschliche Zivilisation fundamental. Sie ermöglichte die Mechanisierung der Produktion, die Entwicklung von Eisenbahnen und Dampfschiffen, die Urbanisierung und den Übergang von einer landwirtschaftlichen zu einer industriellen Gesellschaft. Die Erfindung legte den Grundstein für die moderne Welt und gilt als eine der bedeutendsten technologischen Durchbrüche der Menschheitsgeschichte. Watt selbst wurde zu Lebzeiten geehrt; die Einheit der Leistung \"Watt\" wurde 1882 nach ihm benannt.\n\n## References\n\n- James Watt: Patent für separate Kondensator (5. Januar 1769)\n- Boulton & Watt (gegründet 1775)\n- Science Museum London: James Watt Collection\n"
+      },
+      {
+        "title": "Erfindung der Eisenbahn",
+        "type": "Ereignis",
+        "start": "1825-09-27T00:00:00.000Z",
+        "end": null,
+        "domain": "Technologie",
+        "tags": [
+          "Erfindung",
+          "Eisenbahn",
+          "Dampflokomotive",
+          "George Stephenson",
+          "Transport",
+          "Industrielle Revolution"
+        ],
+        "added": "2026-01-30T00:00:00.000Z",
+        "content": "\n## Summary\n\nAm 27. September 1825 eröffnete die Stockton and Darlington Railway in England als erste öffentliche Eisenbahn mit Dampflokomotiven, eine Erfindung, die Transport und Handel revolutionierte und zum Symbol des industriellen Zeitalters wurde.\n\n## Description\n\nVor der Eisenbahn existierten bereits Pferdebahnen und stationäre Dampfmaschinen zum Ziehen von Wagen auf Schienen in Bergwerken. Der britische Ingenieur George Stephenson entwickelte jedoch die erste praktikable Dampflokomotive für den öffentlichen Verkehr. Seine Lokomotive \"Locomotion No. 1\" zog am 27. September 1825 auf der Stockton and Darlington Railway den ersten Zug mit Passagieren und Fracht über eine Strecke von 40 Kilometern. Dies war die erste öffentliche Eisenbahnlinie, die regelmäßig Dampflokomotiven einsetzte. Die Geschwindigkeit von etwa 24 km/h erschien damals atemberaubend und übertraf alles bisher Dagewesene.\n\nDer Durchbruch kam 1829 bei den Rainhill Trials, einem Wettbewerb zur Auswahl der besten Lokomotive für die neue Liverpool and Manchester Railway. Stephensons \"Rocket\" gewann überzeugend und wurde zum Prototyp für alle zukünftigen Lokomotiven. Die Liverpool and Manchester Railway, eröffnet 1830, war die erste Intercity-Eisenbahn und bewies die kommerzielle Rentabilität des Eisenbahnverkehrs. Innerhalb weniger Jahrzehnte breitete sich das Eisenbahnnetz explosionsartig aus: Großbritannien hatte 1850 bereits über 10.000 Kilometer Schienen, und Eisenbahnen wurden weltweit gebaut – in Europa, Nordamerika, Indien und darüber hinaus.\n\nDie Eisenbahn transformierte die Welt fundamental. Sie ermöglichte schnellen, zuverlässigen Güter- und Personentransport über große Entfernungen, förderte die Industrialisierung, verband Märkte, ermöglichte Massentourismus und prägte die wirtschaftliche und soziale Entwicklung des 19. Jahrhunderts. Städte entstanden entlang von Eisenbahnlinien, Zeitzonen wurden standardisiert, und nationale Wirtschaftsräume vereinheitlicht. Die Eisenbahn gilt neben der Dampfmaschine als die wichtigste technologische Innovation der Industriellen Revolution und bleibt bis heute ein zentrales Transportmittel.\n\n## References\n\n- Stockton and Darlington Railway (27. September 1825)\n- George Stephenson: \"Locomotion No. 1\"\n- Rainhill Trials (1829)\n- Liverpool and Manchester Railway (1830)\n"
+      },
       {
         "title": "Erste Mondlandung (Apollo 11)",
         "type": "Ereignis",
@@ -513,20 +462,21 @@
         "content": "\n## Summary\n\nDie erste Mondlandung am 20. Juli 1969 war ein historischer Meilenstein der Menschheitsgeschichte, als die amerikanischen Astronauten Neil Armstrong und Buzz Aldrin als erste Menschen den Mond betraten.\n\n## Description\n\nDie Apollo-11-Mission war der Höhepunkt des amerikanischen Raumfahrtprogramms und des Wettlaufs ins All zwischen den USA und der Sowjetunion während des Kalten Krieges. Präsident John F. Kennedy hatte 1961 das ehrgeizige Ziel verkündet, noch vor Ende des Jahrzehnts einen Menschen auf den Mond zu bringen und sicher zur Erde zurückzukehren.\n\nAm 16. Juli 1969 startete die Saturn-V-Rakete vom Kennedy Space Center in Florida mit den drei Astronauten Neil Armstrong, Buzz Aldrin und Michael Collins an Bord. Während Collins in der Mondumlaufbahn blieb, landeten Armstrong und Aldrin mit der Mondlandefähre \"Eagle\" im Mare Tranquillitatis (Meer der Ruhe). Um 02:56 UTC am 21. Juli betrat Neil Armstrong als erster Mensch die Mondoberfläche und sprach die berühmten Worte: \"Das ist ein kleiner Schritt für einen Menschen, aber ein gewaltiger Sprung für die Menschheit.\"\n\nDie erfolgreiche Mission markierte einen der größten technologischen und wissenschaftlichen Erfolge des 20. Jahrhunderts. Sie bewies die Leistungsfähigkeit der bemannten Raumfahrt und inspirierte Generationen von Wissenschaftlern und Ingenieuren. Die Astronauten brachten etwa 22 Kilogramm Mondgestein zur Erde zurück, das wertvolle Erkenntnisse über die Entstehung des Mondes und des Sonnensystems lieferte.\n\n## References\n\n- NASA Apollo 11 Mission Archives\n- Kennedy, John F.: \"Moon Speech\" (Rice University, 1962)\n"
       },
       {
-        "title": "Erfindung der Dampfmaschine",
+        "title": "Erfindung des Personalcomputers",
         "type": "Ereignis",
-        "start": "1769-01-05T00:00:00.000Z",
+        "start": "1975-01-01T00:00:00.000Z",
         "end": null,
         "domain": "Technologie",
         "tags": [
-          "Erfindung",
-          "Dampfmaschine",
-          "James Watt",
-          "Industrielle Revolution",
-          "Energie"
+          "Computer",
+          "PC",
+          "Altair",
+          "Apple",
+          "IBM",
+          "Mikrocomputer"
         ],
         "added": "2026-01-30T00:00:00.000Z",
-        "content": "\n## Summary\n\n1769 erhielt James Watt das Patent für seine verbesserte Dampfmaschine mit separatem Kondensator, eine Erfindung, die die Industrielle Revolution ermöglichte und die Welt von menschlicher und tierischer Arbeitskraft zu mechanischer Energie transformierte.\n\n## Description\n\nFrühe Dampfmaschinen existierten bereits seit Beginn des 18. Jahrhunderts, insbesondere Thomas Newcomens atmosphärische Dampfmaschine von 1712, die vor allem zum Abpumpen von Wasser aus Kohlebergwerken genutzt wurde. Diese Maschinen waren jedoch extrem ineffizient und verbrauchten große Mengen Kohle. Der schottische Ingenieur James Watt begann 1763 mit der Reparatur einer Newcomen-Maschine und erkannte deren fundamentale Schwäche: Der Zylinder musste bei jedem Hub abwechselnd erhitzt und gekühlt werden, was enorme Energieverschwendung bedeutete. Am 5. Januar 1769 erhielt Watt das Patent für seine revolutionäre Verbesserung: einen separaten Kondensator, der den Zylinder ständig heiß hielt und die Effizienz um das Vierfache steigerte.\n\nWatts Dampfmaschine entwickelte sich kontinuierlich weiter. Zusammen mit dem Unternehmer Matthew Boulton gründete er 1775 die Firma Boulton & Watt, die verbesserte Dampfmaschinen produzierte und lizenzierte. Weitere Innovationen folgten: die doppelt wirkende Dampfmaschine (1782), das Planetengetriebe (1781) und der Fliehkraftregler (1788). Diese Verbesserungen machten die Dampfmaschine vielseitig einsetzbar – nicht nur zum Pumpen, sondern auch zum Antrieb von Maschinen in Textilfabriken, Mühlen und später Lokomotiven und Dampfschiffen. Die Dampfmaschine wurde zur Hauptenergiequelle der Industriellen Revolution.\n\nDie Dampfmaschine veränderte die menschliche Zivilisation fundamental. Sie ermöglichte die Mechanisierung der Produktion, die Entwicklung von Eisenbahnen und Dampfschiffen, die Urbanisierung und den Übergang von einer landwirtschaftlichen zu einer industriellen Gesellschaft. Die Erfindung legte den Grundstein für die moderne Welt und gilt als eine der bedeutendsten technologischen Durchbrüche der Menschheitsgeschichte. Watt selbst wurde zu Lebzeiten geehrt; die Einheit der Leistung \"Watt\" wurde 1882 nach ihm benannt.\n\n## References\n\n- James Watt: Patent für separate Kondensator (5. Januar 1769)\n- Boulton & Watt (gegründet 1775)\n- Science Museum London: James Watt Collection\n"
+        "content": "\n## Summary\n\nDie Erfindung des Personalcomputers begann 1975 mit dem Altair 8800, dem ersten kommerziell erfolgreichen Mikrocomputer-Bausatz, der die Computernutzung von Großrechnern für Unternehmen zu erschwinglichen Geräten für Einzelpersonen transformierte und die digitale Revolution einleitete.\n\n## Description\n\nVor Mitte der 1970er Jahre waren Computer ausschließlich große, teure Maschinen, die von Unternehmen, Universitäten und Regierungen genutzt wurden. Die Entwicklung von Mikroprozessoren wie dem Intel 8080 machte es erstmals möglich, leistungsfähige Computer in kompakter Form zu bauen. Im Januar 1975 erschien der Altair 8800 von MITS auf dem Titelbild des Magazins \"Popular Electronics\". Dieser Bausatz für 397 Dollar war zwar primitiv und für Laien kaum nutzbar, löste aber eine Revolution aus: Er bewies, dass Computer für Einzelpersonen technisch und finanziell erreichbar waren. Der Altair inspirierte eine Generation von Enthusiasten, darunter Bill Gates und Paul Allen, die für den Altair die Programmiersprache BASIC entwickelten.\n\nDie Jahre nach 1975 brachten rasante Entwicklungen: Der Apple II (1977) von Steve Jobs und Steve Wozniak war der erste wirklich benutzerfreundliche Personal Computer mit Farbgrafik und wurde zum kommerziellen Durchbruch. Im selben Jahr erschienen auch der Commodore PET und der Tandy TRS-80, zusammen als \"Trinity of 1977\" bekannt. 1981 brachte IBM den IBM PC auf den Markt, der durch seine offene Architektur den Standard für die PC-Industrie setzte. Der IBM PC mit MS-DOS von Microsoft etablierte die Plattform, die die Computerindustrie für Jahrzehnte dominieren sollte. Der Apple Macintosh (1984) revolutionierte mit seiner grafischen Benutzeroberfläche die Bedienbarkeit.\n\nDer Personalcomputer veränderte fundamental, wie Menschen arbeiten, lernen, kommunizieren und sich unterhalten. Von wenigen tausend Hobbyisten 1975 wuchs die Nutzerbasis auf Milliarden weltweit. PCs ermöglichten die Softwareindustrie, Desktop-Publishing, digitale Musik und Kunst, und ebneten den Weg für das Internet-Zeitalter. Die Erfindung demokratisierte den Zugang zu Rechenleistung und Information und gilt als eine der transformativsten Technologien des 20. Jahrhunderts, vergleichbar mit Elektrizität und dem Automobil.\n\n## References\n\n- Altair 8800 (MITS, Januar 1975)\n- Apple II (1977)\n- IBM Personal Computer (1981)\n- Computer History Museum\n"
       },
       {
         "title": "Fall der Berliner Mauer",
@@ -561,22 +511,6 @@
         "content": "\n## Summary\n\nAm 6. August 1991 machte Tim Berners-Lee das World Wide Web öffentlich zugänglich, eine Erfindung, die die Art und Weise revolutionierte, wie Menschen Informationen teilen und miteinander kommunizieren, und die Grundlage der modernen digitalen Gesellschaft schuf.\n\n## Description\n\nTim Berners-Lee, ein britischer Informatiker am CERN (Europäische Organisation für Kernforschung) in Genf, entwickelte das World Wide Web als Lösung für das Problem der Informationsverteilung unter Wissenschaftlern. Im März 1989 reichte er seinen Vorschlag \"Information Management: A Proposal\" ein, in dem er ein System zur Verknüpfung von Dokumenten über ein Netzwerk beschrieb. Zwischen 1989 und 1991 entwickelte Berners-Lee die grundlegenden Technologien: HTML (Hypertext Markup Language) für die Strukturierung von Dokumenten, HTTP (Hypertext Transfer Protocol) für die Datenübertragung, URLs (Uniform Resource Locators) zur Adressierung von Ressourcen sowie den ersten Webbrowser und Webserver.\n\nAm 6. August 1991 veröffentlichte Berners-Lee die erste Website (info.cern.ch) und stellte das World Wide Web der Öffentlichkeit vor. Entscheidend für den Erfolg war, dass CERN 1993 das WWW als freie Technologie ohne Lizenzgebühren zur Verfügung stellte. Dies ermöglichte die explosive Verbreitung: Von einer Handvoll Websites 1991 wuchs das Web auf Millionen innerhalb weniger Jahre. Der erste populäre grafische Browser Mosaic (1993) und später Netscape Navigator machten das Web massentauglich. Das WWW unterschied sich vom bereits existierenden Internet dadurch, dass es eine benutzerfreundliche, visuelle Schnittstelle für den Zugang zu vernetzten Informationen bot.\n\nDas World Wide Web transformierte fundamental, wie die Menschheit kommuniziert, arbeitet, lernt und sich unterhält. Es demokratisierte den Zugang zu Information, ermöglichte neue Geschäftsmodelle (E-Commerce, Social Media, Cloud Computing) und veränderte politische und soziale Strukturen weltweit. Heute nutzen über 5 Milliarden Menschen das Web. Tim Berners-Lee wurde für seine Erfindung zum Ritter geschlagen und erhielt zahlreiche Auszeichnungen. Das WWW gilt neben dem Buchdruck und dem Internet selbst als eine der bedeutendsten Kommunikationstechnologien der Geschichte und prägt das 21. Jahrhundert wie kaum eine andere Erfindung.\n\n## References\n\n- Tim Berners-Lee: \"Information Management: A Proposal\" (März 1989)\n- CERN\n- World Wide Web Consortium (W3C)\n"
       },
       {
-        "title": "Erfindung des Buchdrucks",
-        "type": "Ereignis",
-        "start": "1450-01-01T00:00:00.000Z",
-        "end": null,
-        "domain": "Technologie",
-        "tags": [
-          "Erfindung",
-          "Buchdruck",
-          "Gutenberg",
-          "Medien",
-          "Renaissance"
-        ],
-        "added": "2026-01-30T00:00:00.000Z",
-        "content": "\n## Summary\n\nJohannes Gutenberg erfand um 1450 den modernen Buchdruck mit beweglichen Lettern, eine Revolution, die die Verbreitung von Wissen demokratisierte und als eine der einflussreichsten Erfindungen der Menschheitsgeschichte gilt.\n\n## Description\n\nJohannes Gutenberg entwickelte um 1450 in Mainz ein revolutionäres Druckverfahren mit beweglichen Metalllettern. Anders als frühere Druckmethoden wie der Holztafeldruck ermöglichte Gutenbergs System die flexible Kombination einzelner Buchstaben zu Wörtern und Texten. Er kombinierte verschiedene Technologien: bewegliche Lettern aus einer Metalllegierung, eine Druckerpresse (adaptiert von Weinpressen), ölbasierte Druckfarbe und spezielles Papier. Sein erstes großes Werk, die Gutenberg-Bibel (auch 42-zeilige Bibel genannt), wurde zwischen 1452 und 1454 gedruckt und demonstrierte die außergewöhnliche Qualität des neuen Verfahrens.\n\nDie Erfindung des Buchdrucks hatte weitreichende Konsequenzen für die Gesellschaft. Erstmals konnten Bücher schnell und in großer Stückzahl produziert werden, was die Kosten drastisch senkte und Wissen einer breiteren Bevölkerung zugänglich machte. Innerhalb von 50 Jahren entstanden in ganz Europa über 1.000 Druckereien, die schätzungsweise 20 Millionen Bücher produzierten. Der Buchdruck ermöglichte die Verbreitung wissenschaftlicher Erkenntnisse, förderte die Alphabetisierung und spielte eine entscheidende Rolle bei der Reformation, der Renaissance und der wissenschaftlichen Revolution.\n\nDie Gutenberg-Presse wird oft als \"Erfindung des Jahrtausends\" bezeichnet und gilt als Katalysator für die moderne Wissensgesellschaft. Sie veränderte fundamental, wie Informationen gespeichert, verbreitet und konsumiert wurden. Der Buchdruck ebnete den Weg für spätere Entwicklungen wie Zeitungen, Massenbildung und letztlich die digitale Informationsrevolution. Gutenbergs Innovation steht symbolisch für die transformative Kraft der Technologie auf Gesellschaft und Kultur.\n\n## References\n\n- Gutenberg-Bibel (1452-1454)\n- Gutenberg-Museum Mainz\n"
-      },
-      {
         "title": "Erfindung des Smartphones",
         "type": "Ereignis",
         "start": "2007-01-09T00:00:00.000Z",
@@ -592,40 +526,106 @@
         ],
         "added": "2026-01-30T00:00:00.000Z",
         "content": "\n## Summary\n\nAm 9. Januar 2007 stellte Steve Jobs das erste iPhone vor und definierte damit das moderne Smartphone neu – ein Gerät, das Telefon, iPod und Internet-Kommunikator in einem vereinte und die Art und Weise revolutionierte, wie Menschen mit Technologie interagieren.\n\n## Description\n\nVor dem iPhone existierten bereits Smartphones wie der IBM Simon (1994), Nokia Communicator oder BlackBerry-Geräte, die jedoch hauptsächlich von Geschäftsleuten genutzt wurden und komplizierte Bedienung mit Tastaturen und Stiften erforderten. Am 9. Januar 2007 präsentierte Steve Jobs auf der Macworld Conference in San Francisco das iPhone mit den Worten \"Today, Apple is going to reinvent the phone\". Das iPhone kombinierte erstmals einen großen Multi-Touch-Bildschirm, eine intuitive Benutzeroberfläche, einen vollwertigen Webbrowser und ein elegantes Design in einem Gerät. Die revolutionäre Steuerung mit Fingergesten statt Tastatur oder Stift machte Smartphones erstmals massentauglich. Der App Store, der 2008 folgte, schuf ein ganzes Ökosystem von Anwendungen.\n\nDer Erfolg des iPhone zwang die gesamte Mobilfunkindustrie zur Neuorientierung. Google entwickelte Android als Antwort, Nokia und BlackBerry, die den Smartphone-Markt dominierten, verloren innerhalb weniger Jahre ihre Marktführerschaft. Innerhalb eines Jahrzehnts entwickelten sich Smartphones von Nischenprodukten zu unverzichtbaren Alltagsgegenständen. Sie vereinten Funktionen von Dutzenden Geräten: Telefon, Kamera, Musikplayer, Navigationssystem, Computer, Fernseher, Spielkonsole, Geldbörse und mehr.\n\nHeute nutzen über 6 Milliarden Menschen Smartphones weltweit. Sie haben fundamental verändert, wie Menschen kommunizieren, arbeiten, lernen, sich informieren und unterhalten. Smartphones ermöglichten neue Geschäftsmodelle (Uber, Instagram, TikTok), veränderten soziale Interaktionen und demokratisierten den Zugang zu Information in bisher unerreichtem Maß. Das Smartphone gilt als die transformativste Technologie des 21. Jahrhunderts und hat innerhalb von 15 Jahren die menschliche Gesellschaft nachhaltig geprägt – eine Geschwindigkeit der Adoption, die historisch beispiellos ist.\n\n## References\n\n- Apple iPhone (vorgestellt 9. Januar 2007, veröffentlicht 29. Juni 2007)\n- Steve Jobs' Macworld Keynote 2007\n"
+      }
+    ],
+    "Zeitspanne": [
+      {
+        "title": "Der Blaue Reiter",
+        "type": "Zeitspanne",
+        "start": "1911-01-01T00:00:00.000Z",
+        "end": "1914-08-01T00:00:00.000Z",
+        "domain": "Kunst",
+        "tags": [
+          "Kunstbewegung",
+          "Expressionismus",
+          "Malerei",
+          "München",
+          "Abstraktion"
+        ],
+        "added": "2026-01-27T00:00:00.000Z",
+        "content": "\n## Summary\n\nDer Blaue Reiter (1911-1914) war eine bedeutende Künstlergruppe des deutschen Expressionismus, die von Wassily Kandinsky und Franz Marc in München gegründet wurde und die Entwicklung der modernen abstrakten Kunst maßgeblich beeinflusste.\n\n## Description\n\nDer Blaue Reiter entstand 1911 in München als Reaktion auf die konservative Haltung der Künstlervereinigung \"Neue Künstlervereinigung München\" (NKVM). Wassily Kandinsky und Franz Marc, die sich über künstlerische Differenzen mit der NKVM entzweiten, gründeten die neue Gruppe und gaben den gleichnamigen Almanach heraus. Der Name \"Der Blaue Reiter\" entstand aus den gemeinsamen Vorlieben der beiden Künstler: Marc liebte Pferde, Kandinsky liebte Reiter, und beide liebten die Farbe Blau.\n\nDie Bewegung versammelte eine diverse Gruppe internationaler Künstler, darunter Paul Klee, Gabriele Münter, August Macke und Alexej von Jawlensky. Sie organisierten zwei bedeutende Ausstellungen in München (1911 und 1912) und veröffentlichten den berühmten Almanach \"Der Blaue Reiter\" (1912), der Aufsätze über Kunst, Musik und Theater enthielt. Die Künstler strebten nach spiritueller Erneuerung in der Kunst und experimentierten mit Farbe, Form und Abstraktion. Sie lehnten naturalistische Darstellungen ab und suchten nach einer inneren, emotionalen Wahrheit in der Kunst.\n\nDer Ausbruch des Ersten Weltkriegs 1914 beendete die Aktivitäten der Gruppe abrupt. Franz Marc und August Macke fielen im Krieg, während Kandinsky als russischer Staatsbürger Deutschland verlassen musste. Trotz der kurzen Existenz hatte Der Blaue Reiter einen nachhaltigen Einfluss auf die Entwicklung der modernen Kunst, insbesondere auf die Abstraktion und den Expressionismus. Die Bewegung ebnete den Weg für spätere avantgardistische Kunstrichtungen und gilt heute als einer der wichtigsten Beiträge Deutschlands zur modernen Kunstgeschichte.\n"
       },
       {
-        "title": "Erfindung der Eisenbahn",
-        "type": "Ereignis",
-        "start": "1825-09-27T00:00:00.000Z",
-        "end": null,
-        "domain": "Technologie",
+        "title": "Erster Weltkrieg",
+        "type": "Zeitspanne",
+        "start": "1914-07-28T00:00:00.000Z",
+        "end": "1918-11-11T00:00:00.000Z",
+        "domain": "Geschichte",
         "tags": [
-          "Erfindung",
-          "Eisenbahn",
-          "Dampflokomotive",
-          "George Stephenson",
-          "Transport",
-          "Industrielle Revolution"
+          "Krieg",
+          "Europa",
+          "Völkerbund"
         ],
-        "added": "2026-01-30T00:00:00.000Z",
-        "content": "\n## Summary\n\nAm 27. September 1825 eröffnete die Stockton and Darlington Railway in England als erste öffentliche Eisenbahn mit Dampflokomotiven, eine Erfindung, die Transport und Handel revolutionierte und zum Symbol des industriellen Zeitalters wurde.\n\n## Description\n\nVor der Eisenbahn existierten bereits Pferdebahnen und stationäre Dampfmaschinen zum Ziehen von Wagen auf Schienen in Bergwerken. Der britische Ingenieur George Stephenson entwickelte jedoch die erste praktikable Dampflokomotive für den öffentlichen Verkehr. Seine Lokomotive \"Locomotion No. 1\" zog am 27. September 1825 auf der Stockton and Darlington Railway den ersten Zug mit Passagieren und Fracht über eine Strecke von 40 Kilometern. Dies war die erste öffentliche Eisenbahnlinie, die regelmäßig Dampflokomotiven einsetzte. Die Geschwindigkeit von etwa 24 km/h erschien damals atemberaubend und übertraf alles bisher Dagewesene.\n\nDer Durchbruch kam 1829 bei den Rainhill Trials, einem Wettbewerb zur Auswahl der besten Lokomotive für die neue Liverpool and Manchester Railway. Stephensons \"Rocket\" gewann überzeugend und wurde zum Prototyp für alle zukünftigen Lokomotiven. Die Liverpool and Manchester Railway, eröffnet 1830, war die erste Intercity-Eisenbahn und bewies die kommerzielle Rentabilität des Eisenbahnverkehrs. Innerhalb weniger Jahrzehnte breitete sich das Eisenbahnnetz explosionsartig aus: Großbritannien hatte 1850 bereits über 10.000 Kilometer Schienen, und Eisenbahnen wurden weltweit gebaut – in Europa, Nordamerika, Indien und darüber hinaus.\n\nDie Eisenbahn transformierte die Welt fundamental. Sie ermöglichte schnellen, zuverlässigen Güter- und Personentransport über große Entfernungen, förderte die Industrialisierung, verband Märkte, ermöglichte Massentourismus und prägte die wirtschaftliche und soziale Entwicklung des 19. Jahrhunderts. Städte entstanden entlang von Eisenbahnlinien, Zeitzonen wurden standardisiert, und nationale Wirtschaftsräume vereinheitlicht. Die Eisenbahn gilt neben der Dampfmaschine als die wichtigste technologische Innovation der Industriellen Revolution und bleibt bis heute ein zentrales Transportmittel.\n\n## References\n\n- Stockton and Darlington Railway (27. September 1825)\n- George Stephenson: \"Locomotion No. 1\"\n- Rainhill Trials (1829)\n- Liverpool and Manchester Railway (1830)\n"
+        "added": "2026-01-26T00:00:00.000Z",
+        "content": "\n## Summary\n\nDer Erste Weltkrieg (1914-1918) war ein globaler Konflikt, der hauptsächlich in Europa stattfand und die Mittelmächte gegen die Alliierten stellte. Der Krieg endete mit dem Waffenstillstand von Compiègne am 11. November 1918.\n\n## Description\n\nDer Erste Weltkrieg begann am 28. Juli 1914 nach der Ermordung des österreichisch-ungarischen Thronfolgers Franz Ferdinand in Sarajevo. Der Konflikt entwickelte sich schnell zu einem weltweiten Krieg mit den Mittelmächten (Deutsches Reich, Österreich-Ungarn, Osmanisches Reich) gegen die Alliierten (Frankreich, Großbritannien, Russland, später die USA).\n\nDer Krieg war geprägt durch Grabenkrieg, neue Waffentechnologien wie Giftgas und Panzer, sowie enorme Verluste auf beiden Seiten. Schätzungen zufolge starben etwa 17 Millionen Menschen, darunter Soldaten und Zivilisten.\n\nDer Krieg endete mit dem Waffenstillstand am 11. November 1918 und dem anschließenden Vertrag von Versailles 1919, der Deutschland schwere Reparationen auferlegte und die Karte Europas neu zeichnete.\n"
       },
       {
-        "title": "Erfindung des Personalcomputers",
-        "type": "Ereignis",
-        "start": "1975-01-01T00:00:00.000Z",
-        "end": null,
-        "domain": "Technologie",
+        "title": "Bauhaus",
+        "type": "Zeitspanne",
+        "start": "1919-04-01T00:00:00.000Z",
+        "end": "1933-04-11T00:00:00.000Z",
+        "domain": "Kunst",
         "tags": [
-          "Computer",
-          "PC",
-          "Altair",
-          "Apple",
-          "IBM",
-          "Mikrocomputer"
+          "Design",
+          "Architektur",
+          "Moderne",
+          "Weimar",
+          "Dessau",
+          "Gropius"
         ],
         "added": "2026-01-30T00:00:00.000Z",
-        "content": "\n## Summary\n\nDie Erfindung des Personalcomputers begann 1975 mit dem Altair 8800, dem ersten kommerziell erfolgreichen Mikrocomputer-Bausatz, der die Computernutzung von Großrechnern für Unternehmen zu erschwinglichen Geräten für Einzelpersonen transformierte und die digitale Revolution einleitete.\n\n## Description\n\nVor Mitte der 1970er Jahre waren Computer ausschließlich große, teure Maschinen, die von Unternehmen, Universitäten und Regierungen genutzt wurden. Die Entwicklung von Mikroprozessoren wie dem Intel 8080 machte es erstmals möglich, leistungsfähige Computer in kompakter Form zu bauen. Im Januar 1975 erschien der Altair 8800 von MITS auf dem Titelbild des Magazins \"Popular Electronics\". Dieser Bausatz für 397 Dollar war zwar primitiv und für Laien kaum nutzbar, löste aber eine Revolution aus: Er bewies, dass Computer für Einzelpersonen technisch und finanziell erreichbar waren. Der Altair inspirierte eine Generation von Enthusiasten, darunter Bill Gates und Paul Allen, die für den Altair die Programmiersprache BASIC entwickelten.\n\nDie Jahre nach 1975 brachten rasante Entwicklungen: Der Apple II (1977) von Steve Jobs und Steve Wozniak war der erste wirklich benutzerfreundliche Personal Computer mit Farbgrafik und wurde zum kommerziellen Durchbruch. Im selben Jahr erschienen auch der Commodore PET und der Tandy TRS-80, zusammen als \"Trinity of 1977\" bekannt. 1981 brachte IBM den IBM PC auf den Markt, der durch seine offene Architektur den Standard für die PC-Industrie setzte. Der IBM PC mit MS-DOS von Microsoft etablierte die Plattform, die die Computerindustrie für Jahrzehnte dominieren sollte. Der Apple Macintosh (1984) revolutionierte mit seiner grafischen Benutzeroberfläche die Bedienbarkeit.\n\nDer Personalcomputer veränderte fundamental, wie Menschen arbeiten, lernen, kommunizieren und sich unterhalten. Von wenigen tausend Hobbyisten 1975 wuchs die Nutzerbasis auf Milliarden weltweit. PCs ermöglichten die Softwareindustrie, Desktop-Publishing, digitale Musik und Kunst, und ebneten den Weg für das Internet-Zeitalter. Die Erfindung demokratisierte den Zugang zu Rechenleistung und Information und gilt als eine der transformativsten Technologien des 20. Jahrhunderts, vergleichbar mit Elektrizität und dem Automobil.\n\n## References\n\n- Altair 8800 (MITS, Januar 1975)\n- Apple II (1977)\n- IBM Personal Computer (1981)\n- Computer History Museum\n"
+        "content": "\n## Summary\n\nDas Bauhaus (1919-1933) war eine revolutionäre deutsche Kunstschule, die von Walter Gropius gegründet wurde und durch die Verbindung von Kunst, Handwerk und Technik das moderne Design und die Architektur des 20. Jahrhunderts maßgeblich prägte.\n\n## Description\n\nDas Bauhaus wurde im April 1919 von Walter Gropius in Weimar gegründet, entstanden aus der Fusion der Kunstgewerbeschule und der Hochschule für Bildende Kunst. Gropius' Vision war radikal: Er wollte die traditionelle Trennung zwischen Kunst und Handwerk überwinden und eine neue Einheit schaffen. Der Name \"Bauhaus\" bezog sich auf die mittelalterlichen Bauhütten und symbolisierte die Zusammenarbeit verschiedener Gewerke. Die Schule entwickelte einen innovativen pädagogischen Ansatz mit dem Vorkurs von Johannes Itten, gefolgt von Werkstattunterricht in verschiedenen Materialien und Techniken.\n\nDas Bauhaus durchlief drei Standorte und Phasen: Weimar (1919-1925), Dessau (1925-1932) und Berlin (1932-1933). In Dessau entstand unter Gropius' Nachfolger Hannes Meyer und später Ludwig Mies van der Rohe das ikonische Bauhaus-Gebäude, selbst ein Manifest der modernen Architektur. Die Schule zog bedeutende Künstler und Lehrer an, darunter Paul Klee, Wassily Kandinsky, László Moholy-Nagy und Josef Albers. Der Bauhaus-Stil zeichnete sich durch Funktionalität, geometrische Formen, klare Linien und das Prinzip \"Form follows Function\" aus. Die Bauhaus-Gestalter prägten Möbeldesign (Marcel Breuer's Stahlrohrmöbel), Typografie, Textilien und Architektur.\n\n1933 wurde das Bauhaus von den Nationalsozialisten als \"entartet\" diffamiert und geschlossen. Viele Bauhaus-Meister emigrierten, besonders in die USA, und verbreiteten die Ideen weltweit. Das Bauhaus wurde zur einflussreichsten Designschule der Moderne und prägt bis heute Architektur, Produktdesign und Kunsterziehung. Das Dessauer Bauhaus-Gebäude und die Meisterhäuser sind UNESCO-Weltkulturerbe und Pilgerstätten der Designgeschichte.\n\n## References\n\n- Bauhaus-Archiv / Museum für Gestaltung, Berlin\n- UNESCO-Weltkulturerbe: Bauhaus-Stätten in Weimar, Dessau und Bernau\n- Walter Gropius: \"Bauhaus-Manifest\" (1919)\n"
+      },
+      {
+        "title": "Weimarer Republik",
+        "type": "Zeitspanne",
+        "start": "1919-08-11T00:00:00.000Z",
+        "end": "1933-01-30T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Demokratie",
+          "Deutschland",
+          "Zwischenkriegszeit",
+          "Verfassung",
+          "Hyperinflation",
+          "Goldene Zwanziger"
+        ],
+        "added": "2026-01-30T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Weimarer Republik (1919-1933) war die erste demokratische Staatsform in Deutschland, die nach dem Ersten Weltkrieg entstand und mit der Machtübernahme der Nationalsozialisten endete.\n\n## Description\n\nDie Weimarer Republik wurde am 11. August 1919 mit der Verabschiedung der Weimarer Verfassung gegründet, nachdem Kaiser Wilhelm II. abdanken musste und Deutschland den Ersten Weltkrieg verloren hatte. Die neue demokratische Republik war von Anfang an mit enormen Herausforderungen konfrontiert: dem Versailler Vertrag mit seinen harten Bedingungen und Reparationszahlungen, politischer Instabilität durch extremistische Parteien von links und rechts, sowie wirtschaftlichen Krisen. Die junge Demokratie wurde von vielen als \"Novemberverbrecher\" diffamiert, die Deutschland angeblich verraten hätten.\n\nDie Geschichte der Weimarer Republik lässt sich in mehrere Phasen unterteilen. Die Krisenjahre (1919-1923) waren geprägt von politischen Putschversuchen, separatistischen Bewegungen und der verheerenden Hyperinflation von 1923, die die Ersparnisse weiter Bevölkerungsteile vernichtete. Die \"Goldenen Zwanziger\" (1924-1929) brachten eine Phase relativer Stabilität und kultureller Blüte mit bedeutenden Entwicklungen in Kunst, Architektur (Bauhaus), Literatur und Film. Berlin wurde zur kulturellen Metropole Europas. Die Weltwirtschaftskrise ab 1929 stürzte die Republik jedoch in eine tiefe politische und wirtschaftliche Krise mit Massenarbeitslosigkeit von über sechs Millionen Menschen.\n\nDie zunehmende Radikalisierung der Politik, das Versagen der demokratischen Parteien und die wirtschaftliche Not ermöglichten den Aufstieg der NSDAP. Am 30. Januar 1933 wurde Adolf Hitler zum Reichskanzler ernannt, was das faktische Ende der Weimarer Republik bedeutete. Mit dem Ermächtigungsgesetz vom 23. März 1933 wurde die demokratische Ordnung endgültig beseitigt. Die Weimarer Republik gilt als Lehrstück über die Fragilität der Demokratie und die Bedeutung wehrhafter demokratischer Institutionen.\n\n## References\n\n- Weimarer Verfassung (11. August 1919)\n- Versailler Vertrag (28. Juni 1919)\n- Ermächtigungsgesetz (23. März 1933)\n"
+      },
+      {
+        "title": "Zweiter Weltkrieg",
+        "type": "Zeitspanne",
+        "start": "1939-09-01T00:00:00.000Z",
+        "end": "1945-09-02T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Krieg",
+          "Nazi-Deutschland",
+          "Holocaust",
+          "Atombombe",
+          "Vereinte Nationen"
+        ],
+        "added": "2026-01-26T00:00:00.000Z",
+        "content": "\n## Summary\n\nDer Zweite Weltkrieg (1939-1945) war der bisher größte und verheerendste Konflikt der Menschheitsgeschichte, der die Achsenmächte gegen die Alliierten stellte. Der Krieg endete mit der bedingungslosen Kapitulation Nazi-Deutschlands im Mai 1945 und Japans im September 1945.\n\n## Description\n\nDer Zweite Weltkrieg begann am 1. September 1939 mit dem deutschen Überfall auf Polen. Der Konflikt weitete sich schnell zu einem globalen Krieg aus, mit den Achsenmächten (Nazi-Deutschland, Italien, Japan) gegen die Alliierten (Großbritannien, Sowjetunion, USA, China und weitere).\n\nDer Krieg war gekennzeichnet durch beispiellose Grausamkeiten, darunter der Holocaust, in dem sechs Millionen Juden und Millionen andere systematisch ermordet wurden. Neue Waffentechnologien wie Raketen, Jets und schließlich Atomwaffen veränderten die Kriegsführung grundlegend.\n\nInsgesamt starben schätzungsweise 70-85 Millionen Menschen, was etwa 3% der Weltbevölkerung entspricht. Der Krieg endete in Europa am 8. Mai 1945 (VE-Day) und im Pazifik am 2. September 1945 nach den Atombombenabwürfen auf Hiroshima und Nagasaki.\n\nDie Nachkriegsordnung führte zur Gründung der Vereinten Nationen, zum Beginn des Kalten Krieges und zur Teilung Deutschlands und Europas.\n\n## References\n\n- Antony Beevor: \"The Second World War\"\n- United States Holocaust Memorial Museum\n- Potsdam Conference (1945)\n"
+      },
+      {
+        "title": "Kalter Krieg",
+        "type": "Zeitspanne",
+        "start": "1947-03-12T00:00:00.000Z",
+        "end": "1991-12-26T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Ost-West-Konflikt",
+          "USA",
+          "Sowjetunion",
+          "NATO",
+          "Warschauer Pakt",
+          "Wettrüsten",
+          "Stellvertreterkriege"
+        ],
+        "added": "2026-01-27T00:00:00.000Z",
+        "content": "\n## Summary\n\nDer Kalte Krieg (1947-1991) war eine Epoche der geopolitischen Spannung zwischen den USA und der Sowjetunion sowie ihren jeweiligen Verbündeten, die die Weltpolitik nach dem Zweiten Weltkrieg prägte. Diese Konfrontation zwischen kapitalistischem Westen und kommunistischem Osten bestimmte fast ein halbes Jahrhundert lang die internationale Politik, ohne in einen direkten militärischen Konflikt zwischen den Supermächten zu münden.\n\n## Description\n\nDer Kalte Krieg begann nach dem Zweiten Weltkrieg, als die Zusammenarbeit zwischen den westlichen Alliierten und der Sowjetunion zerbrach. Die Truman-Doktrin vom 12. März 1947, die den Eindämmung des Kommunismus zum Ziel erklärte, markierte den symbolischen Beginn dieser Ära. Europa wurde durch den Eisernen Vorhang geteilt, manifestiert durch die Gründung der NATO 1949 im Westen und des Warschauer Pakts 1955 im Osten. Deutschland wurde zum Brennpunkt des Konflikts, symbolisiert durch die Teilung Berlins und den Bau der Berliner Mauer 1961.\n\nDie Epoche war geprägt von einem massiven nuklearen Wettrüsten, das die Welt an den Rand der Vernichtung brachte. Krisenmomente wie die Berlin-Blockade (1948-1949), die Kubakrise (1962) und der Korea-Krieg (1950-1953) zeigten die Gefahr einer direkten Konfrontation. Stattdessen trugen die Supermächte ihre Rivalität in Stellvertreterkriegen aus, etwa in Vietnam, Afghanistan und verschiedenen afrikanischen und lateinamerikanischen Ländern. Der Konflikt erstreckte sich auch auf Bereiche wie Wissenschaft und Sport, exemplarisch im Weltraumwettlauf, der mit der ersten Mondlandung 1969 seinen Höhepunkt erreichte.\n\nDer Kalte Krieg endete mit dem Zusammenbruch der kommunistischen Regime in Osteuropa ab 1989, symbolisiert durch den Fall der Berliner Mauer am 9. November 1989. Die formale Auflösung der Sowjetunion am 26. Dezember 1991 markierte das endgültige Ende dieser Epoche. Der Kalte Krieg hinterließ eine bipolare Weltordnung, die sich in eine neue multipolare Struktur verwandelte, und prägte maßgeblich die politischen, wirtschaftlichen und gesellschaftlichen Strukturen der zweiten Hälfte des 20. Jahrhunderts.\n\n## References\n\n- Truman-Doktrin (12. März 1947)\n- NATO-Gründungsvertrag (4. April 1949)\n- Warschauer Pakt (14. Mai 1955)\n"
       }
     ]
   }

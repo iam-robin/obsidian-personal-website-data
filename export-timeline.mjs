@@ -9,6 +9,24 @@ import {
     getLastUpdated,
 } from "./lib/utils.mjs";
 
+/**
+ * Normalize date values to consistent ISO 8601 format
+ * Handles both Date objects and date strings (including BCE/negative years)
+ */
+function normalizeDate(value) {
+    if (value instanceof Date) {
+        return value.toISOString();
+    }
+    if (typeof value === "string") {
+        // Match date patterns: YYYY-MM-DD or -YYYY-MM-DD (BCE)
+        const datePattern = /^-?\d{4}-\d{2}-\d{2}$/;
+        if (datePattern.test(value)) {
+            return value + "T00:00:00.000Z";
+        }
+    }
+    return value;
+}
+
 // Map German frontmatter keys to English JSON keys
 const KEY_MAP = {
     Titel: "title",
@@ -37,6 +55,10 @@ async function exportTimeline() {
 
             // Translate keys and clean wikilinks
             const entry = translateKeys(data, KEY_MAP);
+
+            // Normalize date fields (handles BCE dates and ensures consistent ISO format)
+            if (entry.start) entry.start = normalizeDate(entry.start);
+            if (entry.end) entry.end = normalizeDate(entry.end);
 
             // Ensure tags is always an array
             if (entry.tags && !Array.isArray(entry.tags)) {
