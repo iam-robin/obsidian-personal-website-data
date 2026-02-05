@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-02-05T16:50:20.639Z",
-  "count": 19,
+  "lastUpdated": "2026-02-05T20:30:19.865Z",
+  "count": 25,
   "entries": [
+    {
+      "title": "Vormoderne / Sakrale Kunst",
+      "type": "Epoche",
+      "start": "-0500-01-01T00:00:00.000Z",
+      "end": "1400-01-01T00:00:00.000Z",
+      "domain": "Kunst",
+      "tags": [
+        "Sakralkunst",
+        "Antike",
+        "Mittelalter",
+        "Religion",
+        "Ikonografie"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Vormoderne und Sakrale Kunst umfasst die künstlerischen Ausdrucksformen von der Antike bis etwa 1400, geprägt von religiösen Motiven, symbolischer Darstellung und der dienenden Funktion der Kunst gegenüber Glauben und Kirche.\n\n## Description\n\nDie Epoche der Vormoderne und Sakralen Kunst erstreckt sich über einen gewaltigen Zeitraum von der griechisch-römischen Antike bis zum ausgehenden Mittelalter. In der Antike stand die idealisierte Darstellung des menschlichen Körpers und der Götterwelt im Vordergrund, wobei Skulptur, Architektur und Malerei eine hohe technische Perfektion erreichten.\n\nMit dem Aufstieg des Christentums veränderte sich die Funktion der Kunst grundlegend. Kunst wurde zum Mittel der religiösen Unterweisung und Andacht. Die byzantinische Kunst entwickelte strenge ikonografische Regeln für die Darstellung heiliger Figuren, während in Westeuropa romanische und gotische Kunst die Kathedralen mit Skulpturen, Fresken und Glasmalereien schmückten. Der Künstler galt nicht als individueller Schöpfer, sondern als Handwerker im Dienste Gottes.\n\nDiese Epoche legte die Grundlagen für die europäische Kunsttradition. Die Techniken der Freskomalerei, Mosaik- und Goldschmiedekunst, die symbolische Bildsprache und die architektonischen Innovationen der Gotik beeinflussten alle nachfolgenden Kunstepochen nachhaltig.\n\n## References\n\n- Janson, H.W.: \"History of Art\"\n- Belting, Hans: \"Bild und Kult\"\n"
+    },
     {
       "title": "Antike",
       "type": "Epoche",
@@ -33,6 +49,22 @@
       ],
       "added": "2026-02-05T00:00:00.000Z",
       "content": "\n## Summary\n\nDas Mittelalter (ca. 500 bis 1500 n. Chr.) war eine Epoche zwischen Antike und Neuzeit, geprägt von Feudalismus, der Dominanz der christlichen Kirche, dem Rittertum und einer agrarisch geprägten Gesellschaftsordnung in Europa.\n\n## Description\n\nDas Frühmittelalter begann mit dem Zerfall des Weströmischen Reiches und der Völkerwanderung, die zur Entstehung neuer germanischer Königreiche führte. Das Frankenreich unter Karl dem Großen (768-814) schuf ein neues westeuropäisches Kaisertum und förderte eine kulturelle Blütezeit, die karolingische Renaissance. Die christliche Kirche entwickelte sich zur wichtigsten Institution des mittelalterlichen Europas, prägte Bildung, Kultur und Politik, während Klöster zu Zentren des Wissens und der Landwirtschaft wurden. Die Gesellschaft organisierte sich im Feudalsystem mit Lehnsherren, Vasallen und Leibeigenen.\n\nDas Hochmittelalter (etwa 1000-1300) war eine Zeit wirtschaftlichen Wachstums, städtischer Entwicklung und kultureller Blüte. Die Kreuzzüge (1095-1291) prägten die Beziehungen zwischen christlichem Europa und dem islamischen Orient. Gotische Kathedralen wurden errichtet, Universitäten gegründet, und das Rittertum entwickelte sich zu einer eigenen Kultur mit höfischen Idealen. Der Handel expandierte, Städte gewannen an Bedeutung, und neue Handelsrouten verbanden Europa mit Asien.\n\nDas Spätmittelalter war geprägt von Krisen: Die Pest (Schwarzer Tod, 1347-1353) tötete etwa ein Drittel der europäischen Bevölkerung, der Hundertjährige Krieg verwüstete Frankreich, und das Abendländische Schisma spaltete die Kirche. Gleichzeitig entstanden nationale Identitäten, und Erfindungen wie der Buchdruck (Gutenberg, ca. 1450) bereiteten den Übergang zur Neuzeit vor. Die Entdeckung Amerikas (1492) und die Renaissance markierten schließlich das Ende des mittelalterlichen Weltbilds.\n"
+    },
+    {
+      "title": "Renaissance & Humanismus",
+      "type": "Epoche",
+      "start": "1400-01-01T00:00:00.000Z",
+      "end": "1600-01-01T00:00:00.000Z",
+      "domain": "Kunst",
+      "tags": [
+        "Renaissance",
+        "Humanismus",
+        "Italien",
+        "Perspektive",
+        "Antike"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Renaissance (1400–1600) markiert die Wiedergeburt antiker Ideale in Kunst und Kultur, geprägt vom Humanismus, der Entdeckung der Zentralperspektive und dem Aufstieg des Künstlers als individuelles Genie.\n\n## Description\n\nDie Renaissance begann im frühen 15. Jahrhundert in den italienischen Stadtstaaten, insbesondere in Florenz, und verbreitete sich bis zum 16. Jahrhundert über ganz Europa. Angetrieben vom Humanismus – einer Geisteshaltung, die den Menschen in den Mittelpunkt stellte – wandten sich Künstler der Antike zu und studierten deren Proportionen, Techniken und Philosophie.\n\nRevolutionäre Entwicklungen prägten diese Epoche: Filippo Brunelleschi entdeckte die mathematische Zentralperspektive, die eine naturgetreue Raumdarstellung ermöglichte. Künstler wie Leonardo da Vinci, Michelangelo und Raffael erlangten einen bis dahin unbekannten Status als Genies. Die Ölmalerei setzte sich durch und ermöglichte feinere Farbabstufungen und detailreichere Darstellungen. Anatomische Studien führten zu einer realistischeren Wiedergabe des menschlichen Körpers.\n\nDie Renaissance veränderte das Verhältnis von Kunst und Gesellschaft fundamental. Kunst wurde zur eigenständigen Disziplin, Mäzene wie die Medici förderten Künstler, und Werke wurden als Ausdruck individueller Schöpferkraft gewürdigt. Diese Epoche legte den Grundstein für das moderne Verständnis von Kunst und Künstlertum.\n\n## References\n\n- Vasari, Giorgio: \"Leben der ausgezeichnetsten Maler, Bildhauer und Baumeister\"\n- Burckhardt, Jacob: \"Die Kultur der Renaissance in Italien\"\n"
     },
     {
       "title": "Erfindung des Buchdrucks",
@@ -67,6 +99,22 @@
       "content": "\n## Summary\n\nDie Frühe Neuzeit (ca. 1500 bis 1800) war eine transformative Epoche, geprägt von Renaissance, Reformation, wissenschaftlicher Revolution, Aufklärung und dem Beginn der europäischen Kolonialexpansion, die das mittelalterliche Weltbild grundlegend veränderte.\n\n## Description\n\nDie Frühe Neuzeit begann mit der Renaissance, die antikes Wissen wiederbelebte und den Humanismus förderte. Die Erfindung des Buchdrucks ermöglichte die Verbreitung von Ideen in nie dagewesener Geschwindigkeit. Die europäische Expansion führte zur \"Entdeckung\" neuer Kontinente – Kolumbus erreichte 1492 Amerika, Vasco da Gama umrundete Afrika nach Indien. Diese Entdeckungen lösten ein Zeitalter des Kolonialismus aus, das die Welt nachhaltig prägte. Die Reformation (ab 1517) mit Martin Luther spaltete das christliche Westeuropa und führte zu religiösen Konflikten, die im verheerenden Dreißigjährigen Krieg (1618-1648) gipfelten.\n\nDie wissenschaftliche Revolution des 16. und 17. Jahrhunderts veränderte das Weltbild fundamental. Kopernikus, Galileo und Newton stellten das geozentrische Weltbild infrage und legten die Grundlagen der modernen Naturwissenschaften. Die Philosophie der Aufklärung (18. Jahrhundert) mit Denkern wie Voltaire, Rousseau und Kant betonte Vernunft, individuelle Freiheit und Menschenrechte. Diese Ideen stellten absolute Monarchien und kirchliche Autorität zunehmend in Frage.\n\nPolitisch war die Frühe Neuzeit geprägt vom Aufstieg absolutistischer Nationalstaaten wie Frankreich unter Ludwig XIV., aber auch vom Entstehen parlamentarischer Systeme in England. Der Merkantilismus förderte den Handel und wirtschaftliches Wachstum. Die Epoche endete mit revolutionären Umwälzungen – die Amerikanische Revolution (1776) und die Französische Revolution (1789) setzten aufklärerische Ideale in politische Realität um und leiteten den Übergang zur Moderne ein.\n"
     },
     {
+      "title": "Barock bis Klassizismus",
+      "type": "Epoche",
+      "start": "1600-01-01T00:00:00.000Z",
+      "end": "1800-01-01T00:00:00.000Z",
+      "domain": "Kunst",
+      "tags": [
+        "Barock",
+        "Rokoko",
+        "Klassizismus",
+        "Absolutismus",
+        "Dramatik"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Epoche vom Barock bis zum Klassizismus (1600–1800) umfasst drei bedeutende Stilrichtungen: den dramatischen, überschwänglichen Barock, das verspielte Rokoko und den an der Antike orientierten Klassizismus.\n\n## Description\n\nDer Barock entstand um 1600 in Italien als Ausdruck der Gegenreformation und des aufkommenden Absolutismus. Gekennzeichnet durch Bewegung, Dramatik, Licht-Schatten-Kontraste und üppige Ornamentik, sollte die Kunst überwältigen und Emotionen wecken. Künstler wie Caravaggio, Rubens und Bernini schufen monumentale Werke, während Schlossanlagen wie Versailles die Macht absolutistischer Herrscher verkörperten.\n\nIm 18. Jahrhundert löste das Rokoko den schweren Barock ab. Diese leichtere, verspieltere Stilrichtung bevorzugte Pastelltöne, asymmetrische Ornamente und intime Salonszenen. Künstler wie Watteau und Boucher malten galante Feste und arkadische Landschaften für den französischen Adel.\n\nAls Reaktion auf die vermeintliche Oberflächlichkeit des Rokoko entstand ab etwa 1750 der Klassizismus. Inspiriert von den Ausgrabungen in Pompeji und den ästhetischen Theorien Winckelmanns, orientierte er sich an der klaren Formensprache der griechisch-römischen Antike. Jacques-Louis David malte heroische Historienbilder, während Architekten wie Schinkel klassische Tempelformen in moderne Bauten übersetzten.\n\n## References\n\n- Wölfflin, Heinrich: \"Kunstgeschichtliche Grundbegriffe\"\n- Winckelmann, Johann Joachim: \"Geschichte der Kunst des Alterthums\"\n"
+    },
+    {
       "title": "Erfindung der Dampfmaschine",
       "type": "Ereignis",
       "start": "1769-01-05T00:00:00.000Z",
@@ -99,6 +147,22 @@
       "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
     },
     {
+      "title": "Romantik & Frühmoderne",
+      "type": "Epoche",
+      "start": "1800-01-01T00:00:00.000Z",
+      "end": "1900-01-01T00:00:00.000Z",
+      "domain": "Kunst",
+      "tags": [
+        "Romantik",
+        "Impressionismus",
+        "Realismus",
+        "Natur",
+        "Emotion"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Romantik und Frühmoderne (1800–1900) brachten eine Abkehr von akademischen Regeln, eine Hinwendung zu Gefühl und Natur, und legten mit Realismus und Impressionismus die Grundlagen für die moderne Kunst.\n\n## Description\n\nDie Romantik entstand als Gegenbewegung zur Rationalität der Aufklärung und zum strengen Klassizismus. Künstler wie Caspar David Friedrich und William Turner stellten die überwältigende Kraft der Natur dar, während sie Gefühl, Sehnsucht und das Erhabene in den Mittelpunkt rückten. Die individuelle Empfindung des Künstlers wurde wichtiger als akademische Regeln.\n\nMitte des 19. Jahrhunderts wandten sich Realisten wie Gustave Courbet und Jean-François Millet der ungeschönten Darstellung des alltäglichen Lebens zu. Sie malten Arbeiter, Bauern und soziale Zustände und brachen damit das Privileg der historischen und mythologischen Themen.\n\nDer Impressionismus ab den 1860er Jahren revolutionierte die Malerei grundlegend. Claude Monet, Auguste Renoir und Edgar Degas malten im Freien, fingen flüchtige Lichtmomente ein und lösten die Formen in Farbflecke auf. Diese Bewegung befreite die Kunst endgültig von der naturgetreuen Nachahmung und öffnete den Weg für die radikalen Experimente des 20. Jahrhunderts.\n\n## References\n\n- Clark, T.J.: \"The Painting of Modern Life\"\n- Honour, Hugh: \"Romanticism\"\n"
+    },
+    {
       "title": "Erfindung der Eisenbahn",
       "type": "Ereignis",
       "start": "1825-09-27T00:00:00.000Z",
@@ -114,6 +178,22 @@
       ],
       "added": "2026-01-30T00:00:00.000Z",
       "content": "\n## Summary\n\nAm 27. September 1825 eröffnete die Stockton and Darlington Railway in England als erste öffentliche Eisenbahn mit Dampflokomotiven, eine Erfindung, die Transport und Handel revolutionierte und zum Symbol des industriellen Zeitalters wurde.\n\n## Description\n\nVor der Eisenbahn existierten bereits Pferdebahnen und stationäre Dampfmaschinen zum Ziehen von Wagen auf Schienen in Bergwerken. Der britische Ingenieur George Stephenson entwickelte jedoch die erste praktikable Dampflokomotive für den öffentlichen Verkehr. Seine Lokomotive \"Locomotion No. 1\" zog am 27. September 1825 auf der Stockton and Darlington Railway den ersten Zug mit Passagieren und Fracht über eine Strecke von 40 Kilometern. Dies war die erste öffentliche Eisenbahnlinie, die regelmäßig Dampflokomotiven einsetzte. Die Geschwindigkeit von etwa 24 km/h erschien damals atemberaubend und übertraf alles bisher Dagewesene.\n\nDer Durchbruch kam 1829 bei den Rainhill Trials, einem Wettbewerb zur Auswahl der besten Lokomotive für die neue Liverpool and Manchester Railway. Stephensons \"Rocket\" gewann überzeugend und wurde zum Prototyp für alle zukünftigen Lokomotiven. Die Liverpool and Manchester Railway, eröffnet 1830, war die erste Intercity-Eisenbahn und bewies die kommerzielle Rentabilität des Eisenbahnverkehrs. Innerhalb weniger Jahrzehnte breitete sich das Eisenbahnnetz explosionsartig aus: Großbritannien hatte 1850 bereits über 10.000 Kilometer Schienen, und Eisenbahnen wurden weltweit gebaut – in Europa, Nordamerika, Indien und darüber hinaus.\n\nDie Eisenbahn transformierte die Welt fundamental. Sie ermöglichte schnellen, zuverlässigen Güter- und Personentransport über große Entfernungen, förderte die Industrialisierung, verband Märkte, ermöglichte Massentourismus und prägte die wirtschaftliche und soziale Entwicklung des 19. Jahrhunderts. Städte entstanden entlang von Eisenbahnlinien, Zeitzonen wurden standardisiert, und nationale Wirtschaftsräume vereinheitlicht. Die Eisenbahn gilt neben der Dampfmaschine als die wichtigste technologische Innovation der Industriellen Revolution und bleibt bis heute ein zentrales Transportmittel.\n\n## References\n\n- Stockton and Darlington Railway (27. September 1825)\n- George Stephenson: \"Locomotion No. 1\"\n- Rainhill Trials (1829)\n- Liverpool and Manchester Railway (1830)\n"
+    },
+    {
+      "title": "Moderne / Avantgarde",
+      "type": "Epoche",
+      "start": "1900-01-01T00:00:00.000Z",
+      "end": "1970-01-01T00:00:00.000Z",
+      "domain": "Kunst",
+      "tags": [
+        "Moderne",
+        "Avantgarde",
+        "Abstraktion",
+        "Expressionismus",
+        "Kubismus"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Moderne und Avantgarde (1900–1970) waren geprägt von radikalen Brüchen mit der Tradition, der Entstehung abstrakter Kunst und einer Vielzahl revolutionärer Bewegungen wie Expressionismus, Kubismus, Surrealismus und Abstrakter Expressionismus.\n\n## Description\n\nDas frühe 20. Jahrhundert brachte einen beispiellosen Umbruch in der Kunstgeschichte. Die Fauves um Henri Matisse befreiten die Farbe von ihrer beschreibenden Funktion, während der deutsche Expressionismus mit Gruppen wie \"Die Brücke\" und \"Der Blaue Reiter\" innere Emotionen in verzerrten Formen und grellen Farben ausdrückte. Pablo Picasso und Georges Braque zerlegten mit dem Kubismus die sichtbare Welt in geometrische Fragmente.\n\nWeitere Bewegungen folgten in rascher Folge: Der Dadaismus hinterfragte den Kunstbegriff selbst, der Surrealismus erkundete das Unbewusste, das Bauhaus vereinte Kunst und Design, und die Konstruktivisten entwickelten eine rein geometrische Abstraktion. Wassily Kandinsky, Piet Mondrian und Kasimir Malewitsch schufen die ersten vollständig abstrakten Werke.\n\nNach dem Zweiten Weltkrieg verlagerte sich das Zentrum der Kunstwelt von Paris nach New York. Der Abstrakte Expressionismus mit Jackson Pollock und Mark Rothko, die Pop Art mit Andy Warhol und der Minimalismus prägten die Nachkriegsmoderne. Diese Epoche definierte Kunst neu als ständige Suche nach dem Unbekannten und als kritische Reflexion der Gesellschaft.\n\n## References\n\n- Greenberg, Clement: \"Art and Culture\"\n- Foster, Hal et al.: \"Art Since 1900\"\n"
     },
     {
       "title": "Der Blaue Reiter",
@@ -246,6 +326,22 @@
       "content": "\n## Summary\n\nDie erste Mondlandung am 20. Juli 1969 war ein historischer Meilenstein der Menschheitsgeschichte, als die amerikanischen Astronauten Neil Armstrong und Buzz Aldrin als erste Menschen den Mond betraten.\n\n## Description\n\nDie Apollo-11-Mission war der Höhepunkt des amerikanischen Raumfahrtprogramms und des Wettlaufs ins All zwischen den USA und der Sowjetunion während des Kalten Krieges. Präsident John F. Kennedy hatte 1961 das ehrgeizige Ziel verkündet, noch vor Ende des Jahrzehnts einen Menschen auf den Mond zu bringen und sicher zur Erde zurückzukehren.\n\nAm 16. Juli 1969 startete die Saturn-V-Rakete vom Kennedy Space Center in Florida mit den drei Astronauten Neil Armstrong, Buzz Aldrin und Michael Collins an Bord. Während Collins in der Mondumlaufbahn blieb, landeten Armstrong und Aldrin mit der Mondlandefähre \"Eagle\" im Mare Tranquillitatis (Meer der Ruhe). Um 02:56 UTC am 21. Juli betrat Neil Armstrong als erster Mensch die Mondoberfläche und sprach die berühmten Worte: \"Das ist ein kleiner Schritt für einen Menschen, aber ein gewaltiger Sprung für die Menschheit.\"\n\nDie erfolgreiche Mission markierte einen der größten technologischen und wissenschaftlichen Erfolge des 20. Jahrhunderts. Sie bewies die Leistungsfähigkeit der bemannten Raumfahrt und inspirierte Generationen von Wissenschaftlern und Ingenieuren. Die Astronauten brachten etwa 22 Kilogramm Mondgestein zur Erde zurück, das wertvolle Erkenntnisse über die Entstehung des Mondes und des Sonnensystems lieferte.\n\n## References\n\n- NASA Apollo 11 Mission Archives\n- Kennedy, John F.: \"Moon Speech\" (Rice University, 1962)\n"
     },
     {
+      "title": "Postmoderne & Gegenwartskunst",
+      "type": "Epoche",
+      "start": "1970-01-01T00:00:00.000Z",
+      "end": null,
+      "domain": "Kunst",
+      "tags": [
+        "Postmoderne",
+        "Gegenwartskunst",
+        "Konzeptkunst",
+        "Installation",
+        "Pluralismus"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Postmoderne und Gegenwartskunst (seit 1970) zeichnen sich durch stilistischen Pluralismus, die Auflösung von Grenzen zwischen Hoch- und Populärkultur sowie die Hinwendung zu Konzeptkunst, Installationen und neuen Medien aus.\n\n## Description\n\nAb den 1970er Jahren stellten Künstler und Theoretiker die Grundannahmen der Moderne in Frage. Die Postmoderne lehnte den Glauben an Fortschritt und einheitliche Stilrichtungen ab und feierte stattdessen Vielfalt, Ironie und die Vermischung von Stilen. Künstler zitierten historische Formen, kombinierten Elemente aus Hoch- und Massenkultur und hinterfragten den Status des Kunstwerks selbst.\n\nDie Konzeptkunst, die bereits in den 1960er Jahren begann, gewann weiter an Bedeutung: Die Idee wurde wichtiger als das fertige Objekt. Performance, Video, Installation und Land Art erweiterten den Kunstbegriff über Malerei und Skulptur hinaus. Künstler wie Joseph Beuys, Cindy Sherman, Jeff Koons und Damien Hirst prägten mit höchst unterschiedlichen Ansätzen die internationale Kunstszene.\n\nIm 21. Jahrhundert haben Digitalisierung und Globalisierung die Kunst weiter verändert. Digitale Kunst, NFTs, partizipative Projekte und sozial engagierte Kunst existieren neben traditionellen Medien. Die Gegenwartskunst ist geprägt von einer nie dagewesenen Offenheit bezüglich Materialien, Themen und Formen, während Fragen nach Identität, Kolonialismus, Klimawandel und Technologie zentrale Diskurse bestimmen.\n\n## References\n\n- Danto, Arthur C.: \"After the End of Art\"\n- Foster, Hal: \"The Anti-Aesthetic: Essays on Postmodern Culture\"\n"
+    },
+    {
       "title": "Erfindung des Personalcomputers",
       "type": "Ereignis",
       "start": "1975-01-01T00:00:00.000Z",
@@ -315,6 +411,22 @@
   "byType": {
     "Epoche": [
       {
+        "title": "Vormoderne / Sakrale Kunst",
+        "type": "Epoche",
+        "start": "-0500-01-01T00:00:00.000Z",
+        "end": "1400-01-01T00:00:00.000Z",
+        "domain": "Kunst",
+        "tags": [
+          "Sakralkunst",
+          "Antike",
+          "Mittelalter",
+          "Religion",
+          "Ikonografie"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Vormoderne und Sakrale Kunst umfasst die künstlerischen Ausdrucksformen von der Antike bis etwa 1400, geprägt von religiösen Motiven, symbolischer Darstellung und der dienenden Funktion der Kunst gegenüber Glauben und Kirche.\n\n## Description\n\nDie Epoche der Vormoderne und Sakralen Kunst erstreckt sich über einen gewaltigen Zeitraum von der griechisch-römischen Antike bis zum ausgehenden Mittelalter. In der Antike stand die idealisierte Darstellung des menschlichen Körpers und der Götterwelt im Vordergrund, wobei Skulptur, Architektur und Malerei eine hohe technische Perfektion erreichten.\n\nMit dem Aufstieg des Christentums veränderte sich die Funktion der Kunst grundlegend. Kunst wurde zum Mittel der religiösen Unterweisung und Andacht. Die byzantinische Kunst entwickelte strenge ikonografische Regeln für die Darstellung heiliger Figuren, während in Westeuropa romanische und gotische Kunst die Kathedralen mit Skulpturen, Fresken und Glasmalereien schmückten. Der Künstler galt nicht als individueller Schöpfer, sondern als Handwerker im Dienste Gottes.\n\nDiese Epoche legte die Grundlagen für die europäische Kunsttradition. Die Techniken der Freskomalerei, Mosaik- und Goldschmiedekunst, die symbolische Bildsprache und die architektonischen Innovationen der Gotik beeinflussten alle nachfolgenden Kunstepochen nachhaltig.\n\n## References\n\n- Janson, H.W.: \"History of Art\"\n- Belting, Hans: \"Bild und Kult\"\n"
+      },
+      {
         "title": "Antike",
         "type": "Epoche",
         "start": "-0800-01-01T00:00:00.000Z",
@@ -347,6 +459,22 @@
         "content": "\n## Summary\n\nDas Mittelalter (ca. 500 bis 1500 n. Chr.) war eine Epoche zwischen Antike und Neuzeit, geprägt von Feudalismus, der Dominanz der christlichen Kirche, dem Rittertum und einer agrarisch geprägten Gesellschaftsordnung in Europa.\n\n## Description\n\nDas Frühmittelalter begann mit dem Zerfall des Weströmischen Reiches und der Völkerwanderung, die zur Entstehung neuer germanischer Königreiche führte. Das Frankenreich unter Karl dem Großen (768-814) schuf ein neues westeuropäisches Kaisertum und förderte eine kulturelle Blütezeit, die karolingische Renaissance. Die christliche Kirche entwickelte sich zur wichtigsten Institution des mittelalterlichen Europas, prägte Bildung, Kultur und Politik, während Klöster zu Zentren des Wissens und der Landwirtschaft wurden. Die Gesellschaft organisierte sich im Feudalsystem mit Lehnsherren, Vasallen und Leibeigenen.\n\nDas Hochmittelalter (etwa 1000-1300) war eine Zeit wirtschaftlichen Wachstums, städtischer Entwicklung und kultureller Blüte. Die Kreuzzüge (1095-1291) prägten die Beziehungen zwischen christlichem Europa und dem islamischen Orient. Gotische Kathedralen wurden errichtet, Universitäten gegründet, und das Rittertum entwickelte sich zu einer eigenen Kultur mit höfischen Idealen. Der Handel expandierte, Städte gewannen an Bedeutung, und neue Handelsrouten verbanden Europa mit Asien.\n\nDas Spätmittelalter war geprägt von Krisen: Die Pest (Schwarzer Tod, 1347-1353) tötete etwa ein Drittel der europäischen Bevölkerung, der Hundertjährige Krieg verwüstete Frankreich, und das Abendländische Schisma spaltete die Kirche. Gleichzeitig entstanden nationale Identitäten, und Erfindungen wie der Buchdruck (Gutenberg, ca. 1450) bereiteten den Übergang zur Neuzeit vor. Die Entdeckung Amerikas (1492) und die Renaissance markierten schließlich das Ende des mittelalterlichen Weltbilds.\n"
       },
       {
+        "title": "Renaissance & Humanismus",
+        "type": "Epoche",
+        "start": "1400-01-01T00:00:00.000Z",
+        "end": "1600-01-01T00:00:00.000Z",
+        "domain": "Kunst",
+        "tags": [
+          "Renaissance",
+          "Humanismus",
+          "Italien",
+          "Perspektive",
+          "Antike"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Renaissance (1400–1600) markiert die Wiedergeburt antiker Ideale in Kunst und Kultur, geprägt vom Humanismus, der Entdeckung der Zentralperspektive und dem Aufstieg des Künstlers als individuelles Genie.\n\n## Description\n\nDie Renaissance begann im frühen 15. Jahrhundert in den italienischen Stadtstaaten, insbesondere in Florenz, und verbreitete sich bis zum 16. Jahrhundert über ganz Europa. Angetrieben vom Humanismus – einer Geisteshaltung, die den Menschen in den Mittelpunkt stellte – wandten sich Künstler der Antike zu und studierten deren Proportionen, Techniken und Philosophie.\n\nRevolutionäre Entwicklungen prägten diese Epoche: Filippo Brunelleschi entdeckte die mathematische Zentralperspektive, die eine naturgetreue Raumdarstellung ermöglichte. Künstler wie Leonardo da Vinci, Michelangelo und Raffael erlangten einen bis dahin unbekannten Status als Genies. Die Ölmalerei setzte sich durch und ermöglichte feinere Farbabstufungen und detailreichere Darstellungen. Anatomische Studien führten zu einer realistischeren Wiedergabe des menschlichen Körpers.\n\nDie Renaissance veränderte das Verhältnis von Kunst und Gesellschaft fundamental. Kunst wurde zur eigenständigen Disziplin, Mäzene wie die Medici förderten Künstler, und Werke wurden als Ausdruck individueller Schöpferkraft gewürdigt. Diese Epoche legte den Grundstein für das moderne Verständnis von Kunst und Künstlertum.\n\n## References\n\n- Vasari, Giorgio: \"Leben der ausgezeichnetsten Maler, Bildhauer und Baumeister\"\n- Burckhardt, Jacob: \"Die Kultur der Renaissance in Italien\"\n"
+      },
+      {
         "title": "Frühe Neuzeit",
         "type": "Epoche",
         "start": "1500-01-01T00:00:00.000Z",
@@ -361,6 +489,22 @@
         ],
         "added": "2026-02-05T00:00:00.000Z",
         "content": "\n## Summary\n\nDie Frühe Neuzeit (ca. 1500 bis 1800) war eine transformative Epoche, geprägt von Renaissance, Reformation, wissenschaftlicher Revolution, Aufklärung und dem Beginn der europäischen Kolonialexpansion, die das mittelalterliche Weltbild grundlegend veränderte.\n\n## Description\n\nDie Frühe Neuzeit begann mit der Renaissance, die antikes Wissen wiederbelebte und den Humanismus förderte. Die Erfindung des Buchdrucks ermöglichte die Verbreitung von Ideen in nie dagewesener Geschwindigkeit. Die europäische Expansion führte zur \"Entdeckung\" neuer Kontinente – Kolumbus erreichte 1492 Amerika, Vasco da Gama umrundete Afrika nach Indien. Diese Entdeckungen lösten ein Zeitalter des Kolonialismus aus, das die Welt nachhaltig prägte. Die Reformation (ab 1517) mit Martin Luther spaltete das christliche Westeuropa und führte zu religiösen Konflikten, die im verheerenden Dreißigjährigen Krieg (1618-1648) gipfelten.\n\nDie wissenschaftliche Revolution des 16. und 17. Jahrhunderts veränderte das Weltbild fundamental. Kopernikus, Galileo und Newton stellten das geozentrische Weltbild infrage und legten die Grundlagen der modernen Naturwissenschaften. Die Philosophie der Aufklärung (18. Jahrhundert) mit Denkern wie Voltaire, Rousseau und Kant betonte Vernunft, individuelle Freiheit und Menschenrechte. Diese Ideen stellten absolute Monarchien und kirchliche Autorität zunehmend in Frage.\n\nPolitisch war die Frühe Neuzeit geprägt vom Aufstieg absolutistischer Nationalstaaten wie Frankreich unter Ludwig XIV., aber auch vom Entstehen parlamentarischer Systeme in England. Der Merkantilismus förderte den Handel und wirtschaftliches Wachstum. Die Epoche endete mit revolutionären Umwälzungen – die Amerikanische Revolution (1776) und die Französische Revolution (1789) setzten aufklärerische Ideale in politische Realität um und leiteten den Übergang zur Moderne ein.\n"
+      },
+      {
+        "title": "Barock bis Klassizismus",
+        "type": "Epoche",
+        "start": "1600-01-01T00:00:00.000Z",
+        "end": "1800-01-01T00:00:00.000Z",
+        "domain": "Kunst",
+        "tags": [
+          "Barock",
+          "Rokoko",
+          "Klassizismus",
+          "Absolutismus",
+          "Dramatik"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Epoche vom Barock bis zum Klassizismus (1600–1800) umfasst drei bedeutende Stilrichtungen: den dramatischen, überschwänglichen Barock, das verspielte Rokoko und den an der Antike orientierten Klassizismus.\n\n## Description\n\nDer Barock entstand um 1600 in Italien als Ausdruck der Gegenreformation und des aufkommenden Absolutismus. Gekennzeichnet durch Bewegung, Dramatik, Licht-Schatten-Kontraste und üppige Ornamentik, sollte die Kunst überwältigen und Emotionen wecken. Künstler wie Caravaggio, Rubens und Bernini schufen monumentale Werke, während Schlossanlagen wie Versailles die Macht absolutistischer Herrscher verkörperten.\n\nIm 18. Jahrhundert löste das Rokoko den schweren Barock ab. Diese leichtere, verspieltere Stilrichtung bevorzugte Pastelltöne, asymmetrische Ornamente und intime Salonszenen. Künstler wie Watteau und Boucher malten galante Feste und arkadische Landschaften für den französischen Adel.\n\nAls Reaktion auf die vermeintliche Oberflächlichkeit des Rokoko entstand ab etwa 1750 der Klassizismus. Inspiriert von den Ausgrabungen in Pompeji und den ästhetischen Theorien Winckelmanns, orientierte er sich an der klaren Formensprache der griechisch-römischen Antike. Jacques-Louis David malte heroische Historienbilder, während Architekten wie Schinkel klassische Tempelformen in moderne Bauten übersetzten.\n\n## References\n\n- Wölfflin, Heinrich: \"Kunstgeschichtliche Grundbegriffe\"\n- Winckelmann, Johann Joachim: \"Geschichte der Kunst des Alterthums\"\n"
       },
       {
         "title": "Moderne",
@@ -379,6 +523,38 @@
         "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
       },
       {
+        "title": "Romantik & Frühmoderne",
+        "type": "Epoche",
+        "start": "1800-01-01T00:00:00.000Z",
+        "end": "1900-01-01T00:00:00.000Z",
+        "domain": "Kunst",
+        "tags": [
+          "Romantik",
+          "Impressionismus",
+          "Realismus",
+          "Natur",
+          "Emotion"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Romantik und Frühmoderne (1800–1900) brachten eine Abkehr von akademischen Regeln, eine Hinwendung zu Gefühl und Natur, und legten mit Realismus und Impressionismus die Grundlagen für die moderne Kunst.\n\n## Description\n\nDie Romantik entstand als Gegenbewegung zur Rationalität der Aufklärung und zum strengen Klassizismus. Künstler wie Caspar David Friedrich und William Turner stellten die überwältigende Kraft der Natur dar, während sie Gefühl, Sehnsucht und das Erhabene in den Mittelpunkt rückten. Die individuelle Empfindung des Künstlers wurde wichtiger als akademische Regeln.\n\nMitte des 19. Jahrhunderts wandten sich Realisten wie Gustave Courbet und Jean-François Millet der ungeschönten Darstellung des alltäglichen Lebens zu. Sie malten Arbeiter, Bauern und soziale Zustände und brachen damit das Privileg der historischen und mythologischen Themen.\n\nDer Impressionismus ab den 1860er Jahren revolutionierte die Malerei grundlegend. Claude Monet, Auguste Renoir und Edgar Degas malten im Freien, fingen flüchtige Lichtmomente ein und lösten die Formen in Farbflecke auf. Diese Bewegung befreite die Kunst endgültig von der naturgetreuen Nachahmung und öffnete den Weg für die radikalen Experimente des 20. Jahrhunderts.\n\n## References\n\n- Clark, T.J.: \"The Painting of Modern Life\"\n- Honour, Hugh: \"Romanticism\"\n"
+      },
+      {
+        "title": "Moderne / Avantgarde",
+        "type": "Epoche",
+        "start": "1900-01-01T00:00:00.000Z",
+        "end": "1970-01-01T00:00:00.000Z",
+        "domain": "Kunst",
+        "tags": [
+          "Moderne",
+          "Avantgarde",
+          "Abstraktion",
+          "Expressionismus",
+          "Kubismus"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Moderne und Avantgarde (1900–1970) waren geprägt von radikalen Brüchen mit der Tradition, der Entstehung abstrakter Kunst und einer Vielzahl revolutionärer Bewegungen wie Expressionismus, Kubismus, Surrealismus und Abstrakter Expressionismus.\n\n## Description\n\nDas frühe 20. Jahrhundert brachte einen beispiellosen Umbruch in der Kunstgeschichte. Die Fauves um Henri Matisse befreiten die Farbe von ihrer beschreibenden Funktion, während der deutsche Expressionismus mit Gruppen wie \"Die Brücke\" und \"Der Blaue Reiter\" innere Emotionen in verzerrten Formen und grellen Farben ausdrückte. Pablo Picasso und Georges Braque zerlegten mit dem Kubismus die sichtbare Welt in geometrische Fragmente.\n\nWeitere Bewegungen folgten in rascher Folge: Der Dadaismus hinterfragte den Kunstbegriff selbst, der Surrealismus erkundete das Unbewusste, das Bauhaus vereinte Kunst und Design, und die Konstruktivisten entwickelten eine rein geometrische Abstraktion. Wassily Kandinsky, Piet Mondrian und Kasimir Malewitsch schufen die ersten vollständig abstrakten Werke.\n\nNach dem Zweiten Weltkrieg verlagerte sich das Zentrum der Kunstwelt von Paris nach New York. Der Abstrakte Expressionismus mit Jackson Pollock und Mark Rothko, die Pop Art mit Andy Warhol und der Minimalismus prägten die Nachkriegsmoderne. Diese Epoche definierte Kunst neu als ständige Suche nach dem Unbekannten und als kritische Reflexion der Gesellschaft.\n\n## References\n\n- Greenberg, Clement: \"Art and Culture\"\n- Foster, Hal et al.: \"Art Since 1900\"\n"
+      },
+      {
         "title": "Zeitgeschichte",
         "type": "Epoche",
         "start": "1945-05-08T00:00:00.000Z",
@@ -393,6 +569,22 @@
         ],
         "added": "2026-02-05T00:00:00.000Z",
         "content": "\n## Summary\n\nDie Zeitgeschichte (1945 bis heute) ist die jüngste historische Epoche, geprägt vom Kalten Krieg, Dekolonisierung, technologischer Revolution, Globalisierung und dem Übergang in eine multipolare, digital vernetzte Welt mit neuartigen globalen Herausforderungen.\n\n## Description\n\nDie Zeitgeschichte begann unmittelbar nach dem Zweiten Weltkrieg mit der Teilung der Welt in zwei ideologische Blöcke: die kapitalistische, demokratische Welt unter Führung der USA und der kommunistische Ostblock unter sowjetischer Herrschaft. Der Kalte Krieg (1947-1991) bestimmte die internationalen Beziehungen durch Wettrüsten, Stellvertreterkriege (Korea, Vietnam) und die ständige Bedrohung eines nuklearen Konflikts. Gleichzeitig vollzog sich die Dekolonisierung: Dutzende ehemaliger Kolonien in Asien, Afrika und der Karibik erlangten ihre Unabhängigkeit, was die globale Machtkonstellation grundlegend veränderte.\n\nDie wirtschaftliche Nachkriegsordnung wurde durch Institutionen wie UN, Weltbank und IWF geprägt. Westeuropa erlebte das \"Wirtschaftswunder\", während sich die Europäische Integration entwickelte (von der EGKS zur heutigen EU). Die 1960er Jahre brachten gesellschaftliche Umwälzungen: Bürgerrechtsbewegungen, Studentenproteste, sexuelle Revolution und Feminismus. Die Ölkrisen der 1970er, der Fall der Berliner Mauer 1989 und der Zusammenbruch der Sowjetunion 1991 markierten das Ende des Kalten Krieges und schienen kurzzeitig eine neue Ära des Friedens zu versprechen.\n\nDas späte 20. und frühe 21. Jahrhundert wurde geprägt von Globalisierung, dem Aufstieg Chinas zur Weltmacht, und der digitalen Revolution – Personal Computer, Internet, Smartphones transformierten Kommunikation, Arbeit und Gesellschaft. Die Terroranschläge vom 11. September 2001 führten zu \"Kriegen gegen den Terror\" und neuen geopolitischen Spannungen. Aktuelle Herausforderungen umfassen Klimawandel, Migration, Populismus, Pandemien (COVID-19) und die Rückkehr von Großmachtrivalitäten. Die Zeitgeschichte ist noch nicht abgeschlossen – wir leben in ihr und gestalten sie mit.\n"
+      },
+      {
+        "title": "Postmoderne & Gegenwartskunst",
+        "type": "Epoche",
+        "start": "1970-01-01T00:00:00.000Z",
+        "end": null,
+        "domain": "Kunst",
+        "tags": [
+          "Postmoderne",
+          "Gegenwartskunst",
+          "Konzeptkunst",
+          "Installation",
+          "Pluralismus"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Postmoderne und Gegenwartskunst (seit 1970) zeichnen sich durch stilistischen Pluralismus, die Auflösung von Grenzen zwischen Hoch- und Populärkultur sowie die Hinwendung zu Konzeptkunst, Installationen und neuen Medien aus.\n\n## Description\n\nAb den 1970er Jahren stellten Künstler und Theoretiker die Grundannahmen der Moderne in Frage. Die Postmoderne lehnte den Glauben an Fortschritt und einheitliche Stilrichtungen ab und feierte stattdessen Vielfalt, Ironie und die Vermischung von Stilen. Künstler zitierten historische Formen, kombinierten Elemente aus Hoch- und Massenkultur und hinterfragten den Status des Kunstwerks selbst.\n\nDie Konzeptkunst, die bereits in den 1960er Jahren begann, gewann weiter an Bedeutung: Die Idee wurde wichtiger als das fertige Objekt. Performance, Video, Installation und Land Art erweiterten den Kunstbegriff über Malerei und Skulptur hinaus. Künstler wie Joseph Beuys, Cindy Sherman, Jeff Koons und Damien Hirst prägten mit höchst unterschiedlichen Ansätzen die internationale Kunstszene.\n\nIm 21. Jahrhundert haben Digitalisierung und Globalisierung die Kunst weiter verändert. Digitale Kunst, NFTs, partizipative Projekte und sozial engagierte Kunst existieren neben traditionellen Medien. Die Gegenwartskunst ist geprägt von einer nie dagewesenen Offenheit bezüglich Materialien, Themen und Formen, während Fragen nach Identität, Kolonialismus, Klimawandel und Technologie zentrale Diskurse bestimmen.\n\n## References\n\n- Danto, Arthur C.: \"After the End of Art\"\n- Foster, Hal: \"The Anti-Aesthetic: Essays on Postmodern Culture\"\n"
       }
     ],
     "Ereignis": [
