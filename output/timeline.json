@@ -1,7 +1,39 @@
 {
-  "lastUpdated": "2026-01-30T20:33:59.127Z",
-  "count": 14,
+  "lastUpdated": "2026-02-05T15:32:58.732Z",
+  "count": 19,
   "entries": [
+    {
+      "title": "Antike",
+      "type": "Epoche",
+      "start": "-0800-01-01",
+      "end": "0500-01-01T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Epoche",
+        "Griechenland",
+        "Rom",
+        "Philosophie",
+        "Demokratie"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Antike (ca. 800 v. Chr. bis 500 n. Chr.) umfasst die Hochkulturen des Mittelmeerraums, insbesondere das antike Griechenland und das Römische Reich, und legte die Grundlagen für westliche Zivilisation, Philosophie, Wissenschaft und Staatsformen.\n\n## Description\n\nDie Antike begann mit der Entstehung der griechischen Stadtstaaten (Poleis) und der Entwicklung der ersten demokratischen Staatsformen in Athen. Diese Periode war geprägt von bedeutenden philosophischen Denkern wie Sokrates, Platon und Aristoteles, die grundlegende Fragen über Ethik, Politik und Erkenntnistheorie stellten. Die griechische Kultur erreichte ihre Blütezeit im 5. Jahrhundert v. Chr., dem \"Goldenen Zeitalter\" Athens, in dem Kunst, Theater, Architektur und Wissenschaft florierten.\n\nMit dem Aufstieg Roms entwickelte sich ab dem 3. Jahrhundert v. Chr. eine neue Supermacht, die schließlich den gesamten Mittelmeerraum beherrschte. Das Römische Reich schuf ein beispielloses Rechtssystem, beeindruckende Infrastruktur (Straßen, Aquädukte) und eine effiziente Verwaltung. Die römische Kultur assimilierte und verbreitete griechisches Wissen und erschuf eine Synthese, die als griechisch-römische Zivilisation bekannt wurde. Das Römische Recht, die lateinische Sprache und römische Verwaltungsstrukturen prägten Europa für Jahrhunderte.\n\nDas Ende der Antike wird üblicherweise mit dem Fall Westroms (476 n. Chr.) oder dem Untergang des letzten weströmischen Kaisers markiert, wobei das Oströmische (Byzantinische) Reich noch weitere tausend Jahre fortbestand. Die Christianisierung des Römischen Reiches ab dem 4. Jahrhundert und die Völkerwanderung leiteten einen kulturellen und politischen Übergang zum Mittelalter ein. Das Erbe der Antike – von Demokratie und Philosophie bis zu Architektur und Literatur – prägt die westliche Welt bis heute fundamental.\n"
+    },
+    {
+      "title": "Mittelalter",
+      "type": "Epoche",
+      "start": "0500-01-01T00:00:00.000Z",
+      "end": "1500-01-01T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Epoche",
+        "Feudalismus",
+        "Kirche",
+        "Kreuzzüge",
+        "Rittertum"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDas Mittelalter (ca. 500 bis 1500 n. Chr.) war eine Epoche zwischen Antike und Neuzeit, geprägt von Feudalismus, der Dominanz der christlichen Kirche, dem Rittertum und einer agrarisch geprägten Gesellschaftsordnung in Europa.\n\n## Description\n\nDas Frühmittelalter begann mit dem Zerfall des Weströmischen Reiches und der Völkerwanderung, die zur Entstehung neuer germanischer Königreiche führte. Das Frankenreich unter Karl dem Großen (768-814) schuf ein neues westeuropäisches Kaisertum und förderte eine kulturelle Blütezeit, die karolingische Renaissance. Die christliche Kirche entwickelte sich zur wichtigsten Institution des mittelalterlichen Europas, prägte Bildung, Kultur und Politik, während Klöster zu Zentren des Wissens und der Landwirtschaft wurden. Die Gesellschaft organisierte sich im Feudalsystem mit Lehnsherren, Vasallen und Leibeigenen.\n\nDas Hochmittelalter (etwa 1000-1300) war eine Zeit wirtschaftlichen Wachstums, städtischer Entwicklung und kultureller Blüte. Die Kreuzzüge (1095-1291) prägten die Beziehungen zwischen christlichem Europa und dem islamischen Orient. Gotische Kathedralen wurden errichtet, Universitäten gegründet, und das Rittertum entwickelte sich zu einer eigenen Kultur mit höfischen Idealen. Der Handel expandierte, Städte gewannen an Bedeutung, und neue Handelsrouten verbanden Europa mit Asien.\n\nDas Spätmittelalter war geprägt von Krisen: Die Pest (Schwarzer Tod, 1347-1353) tötete etwa ein Drittel der europäischen Bevölkerung, der Hundertjährige Krieg verwüstete Frankreich, und das Abendländische Schisma spaltete die Kirche. Gleichzeitig entstanden nationale Identitäten, und Erfindungen wie der Buchdruck (Gutenberg, ca. 1450) bereiteten den Übergang zur Neuzeit vor. Die Entdeckung Amerikas (1492) und die Renaissance markierten schließlich das Ende des mittelalterlichen Weltbilds.\n"
+    },
     {
       "title": "Zweiter Weltkrieg",
       "type": "Zeitspanne",
@@ -34,6 +66,22 @@
       ],
       "added": "2026-01-30T00:00:00.000Z",
       "content": "\n## Summary\n\nDie Weimarer Republik (1919-1933) war die erste demokratische Staatsform in Deutschland, die nach dem Ersten Weltkrieg entstand und mit der Machtübernahme der Nationalsozialisten endete.\n\n## Description\n\nDie Weimarer Republik wurde am 11. August 1919 mit der Verabschiedung der Weimarer Verfassung gegründet, nachdem Kaiser Wilhelm II. abdanken musste und Deutschland den Ersten Weltkrieg verloren hatte. Die neue demokratische Republik war von Anfang an mit enormen Herausforderungen konfrontiert: dem Versailler Vertrag mit seinen harten Bedingungen und Reparationszahlungen, politischer Instabilität durch extremistische Parteien von links und rechts, sowie wirtschaftlichen Krisen. Die junge Demokratie wurde von vielen als \"Novemberverbrecher\" diffamiert, die Deutschland angeblich verraten hätten.\n\nDie Geschichte der Weimarer Republik lässt sich in mehrere Phasen unterteilen. Die Krisenjahre (1919-1923) waren geprägt von politischen Putschversuchen, separatistischen Bewegungen und der verheerenden Hyperinflation von 1923, die die Ersparnisse weiter Bevölkerungsteile vernichtete. Die \"Goldenen Zwanziger\" (1924-1929) brachten eine Phase relativer Stabilität und kultureller Blüte mit bedeutenden Entwicklungen in Kunst, Architektur (Bauhaus), Literatur und Film. Berlin wurde zur kulturellen Metropole Europas. Die Weltwirtschaftskrise ab 1929 stürzte die Republik jedoch in eine tiefe politische und wirtschaftliche Krise mit Massenarbeitslosigkeit von über sechs Millionen Menschen.\n\nDie zunehmende Radikalisierung der Politik, das Versagen der demokratischen Parteien und die wirtschaftliche Not ermöglichten den Aufstieg der NSDAP. Am 30. Januar 1933 wurde Adolf Hitler zum Reichskanzler ernannt, was das faktische Ende der Weimarer Republik bedeutete. Mit dem Ermächtigungsgesetz vom 23. März 1933 wurde die demokratische Ordnung endgültig beseitigt. Die Weimarer Republik gilt als Lehrstück über die Fragilität der Demokratie und die Bedeutung wehrhafter demokratischer Institutionen.\n\n## References\n\n- Weimarer Verfassung (11. August 1919)\n- Versailler Vertrag (28. Juni 1919)\n- Ermächtigungsgesetz (23. März 1933)\n"
+    },
+    {
+      "title": "Frühe Neuzeit",
+      "type": "Epoche",
+      "start": "1500-01-01T00:00:00.000Z",
+      "end": "1800-01-01T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Epoche",
+        "Renaissance",
+        "Reformation",
+        "Aufklärung",
+        "Kolonialismus"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Frühe Neuzeit (ca. 1500 bis 1800) war eine transformative Epoche, geprägt von Renaissance, Reformation, wissenschaftlicher Revolution, Aufklärung und dem Beginn der europäischen Kolonialexpansion, die das mittelalterliche Weltbild grundlegend veränderte.\n\n## Description\n\nDie Frühe Neuzeit begann mit der Renaissance, die antikes Wissen wiederbelebte und den Humanismus förderte. Die Erfindung des Buchdrucks ermöglichte die Verbreitung von Ideen in nie dagewesener Geschwindigkeit. Die europäische Expansion führte zur \"Entdeckung\" neuer Kontinente – Kolumbus erreichte 1492 Amerika, Vasco da Gama umrundete Afrika nach Indien. Diese Entdeckungen lösten ein Zeitalter des Kolonialismus aus, das die Welt nachhaltig prägte. Die Reformation (ab 1517) mit Martin Luther spaltete das christliche Westeuropa und führte zu religiösen Konflikten, die im verheerenden Dreißigjährigen Krieg (1618-1648) gipfelten.\n\nDie wissenschaftliche Revolution des 16. und 17. Jahrhunderts veränderte das Weltbild fundamental. Kopernikus, Galileo und Newton stellten das geozentrische Weltbild infrage und legten die Grundlagen der modernen Naturwissenschaften. Die Philosophie der Aufklärung (18. Jahrhundert) mit Denkern wie Voltaire, Rousseau und Kant betonte Vernunft, individuelle Freiheit und Menschenrechte. Diese Ideen stellten absolute Monarchien und kirchliche Autorität zunehmend in Frage.\n\nPolitisch war die Frühe Neuzeit geprägt vom Aufstieg absolutistischer Nationalstaaten wie Frankreich unter Ludwig XIV., aber auch vom Entstehen parlamentarischer Systeme in England. Der Merkantilismus förderte den Handel und wirtschaftliches Wachstum. Die Epoche endete mit revolutionären Umwälzungen – die Amerikanische Revolution (1776) und die Französische Revolution (1789) setzten aufklärerische Ideale in politische Realität um und leiteten den Übergang zur Moderne ein.\n"
     },
     {
       "title": "Der Blaue Reiter",
@@ -180,6 +228,22 @@
       "content": "\n## Summary\n\nDer Erste Weltkrieg (1914-1918) war ein globaler Konflikt, der hauptsächlich in Europa stattfand und die Mittelmächte gegen die Alliierten stellte. Der Krieg endete mit dem Waffenstillstand von Compiègne am 11. November 1918.\n\n## Description\n\nDer Erste Weltkrieg begann am 28. Juli 1914 nach der Ermordung des österreichisch-ungarischen Thronfolgers Franz Ferdinand in Sarajevo. Der Konflikt entwickelte sich schnell zu einem weltweiten Krieg mit den Mittelmächten (Deutsches Reich, Österreich-Ungarn, Osmanisches Reich) gegen die Alliierten (Frankreich, Großbritannien, Russland, später die USA).\n\nDer Krieg war geprägt durch Grabenkrieg, neue Waffentechnologien wie Giftgas und Panzer, sowie enorme Verluste auf beiden Seiten. Schätzungen zufolge starben etwa 17 Millionen Menschen, darunter Soldaten und Zivilisten.\n\nDer Krieg endete mit dem Waffenstillstand am 11. November 1918 und dem anschließenden Vertrag von Versailles 1919, der Deutschland schwere Reparationen auferlegte und die Karte Europas neu zeichnete.\n"
     },
     {
+      "title": "Zeitgeschichte",
+      "type": "Epoche",
+      "start": "1945-05-08T00:00:00.000Z",
+      "end": "2026-02-05T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Epoche",
+        "Kalter Krieg",
+        "Globalisierung",
+        "Digitalisierung",
+        "Dekolonisierung"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Zeitgeschichte (1945 bis heute) ist die jüngste historische Epoche, geprägt vom Kalten Krieg, Dekolonisierung, technologischer Revolution, Globalisierung und dem Übergang in eine multipolare, digital vernetzte Welt mit neuartigen globalen Herausforderungen.\n\n## Description\n\nDie Zeitgeschichte begann unmittelbar nach dem Zweiten Weltkrieg mit der Teilung der Welt in zwei ideologische Blöcke: die kapitalistische, demokratische Welt unter Führung der USA und der kommunistische Ostblock unter sowjetischer Herrschaft. Der Kalte Krieg (1947-1991) bestimmte die internationalen Beziehungen durch Wettrüsten, Stellvertreterkriege (Korea, Vietnam) und die ständige Bedrohung eines nuklearen Konflikts. Gleichzeitig vollzog sich die Dekolonisierung: Dutzende ehemaliger Kolonien in Asien, Afrika und der Karibik erlangten ihre Unabhängigkeit, was die globale Machtkonstellation grundlegend veränderte.\n\nDie wirtschaftliche Nachkriegsordnung wurde durch Institutionen wie UN, Weltbank und IWF geprägt. Westeuropa erlebte das \"Wirtschaftswunder\", während sich die Europäische Integration entwickelte (von der EGKS zur heutigen EU). Die 1960er Jahre brachten gesellschaftliche Umwälzungen: Bürgerrechtsbewegungen, Studentenproteste, sexuelle Revolution und Feminismus. Die Ölkrisen der 1970er, der Fall der Berliner Mauer 1989 und der Zusammenbruch der Sowjetunion 1991 markierten das Ende des Kalten Krieges und schienen kurzzeitig eine neue Ära des Friedens zu versprechen.\n\nDas späte 20. und frühe 21. Jahrhundert wurde geprägt von Globalisierung, dem Aufstieg Chinas zur Weltmacht, und der digitalen Revolution – Personal Computer, Internet, Smartphones transformierten Kommunikation, Arbeit und Gesellschaft. Die Terroranschläge vom 11. September 2001 führten zu \"Kriegen gegen den Terror\" und neuen geopolitischen Spannungen. Aktuelle Herausforderungen umfassen Klimawandel, Migration, Populismus, Pandemien (COVID-19) und die Rückkehr von Großmachtrivalitäten. Die Zeitgeschichte ist noch nicht abgeschlossen – wir leben in ihr und gestalten sie mit.\n"
+    },
+    {
       "title": "Erfindung der Eisenbahn",
       "type": "Ereignis",
       "start": "1825-09-27T00:00:00.000Z",
@@ -195,6 +259,22 @@
       ],
       "added": "2026-01-30T00:00:00.000Z",
       "content": "\n## Summary\n\nAm 27. September 1825 eröffnete die Stockton and Darlington Railway in England als erste öffentliche Eisenbahn mit Dampflokomotiven, eine Erfindung, die Transport und Handel revolutionierte und zum Symbol des industriellen Zeitalters wurde.\n\n## Description\n\nVor der Eisenbahn existierten bereits Pferdebahnen und stationäre Dampfmaschinen zum Ziehen von Wagen auf Schienen in Bergwerken. Der britische Ingenieur George Stephenson entwickelte jedoch die erste praktikable Dampflokomotive für den öffentlichen Verkehr. Seine Lokomotive \"Locomotion No. 1\" zog am 27. September 1825 auf der Stockton and Darlington Railway den ersten Zug mit Passagieren und Fracht über eine Strecke von 40 Kilometern. Dies war die erste öffentliche Eisenbahnlinie, die regelmäßig Dampflokomotiven einsetzte. Die Geschwindigkeit von etwa 24 km/h erschien damals atemberaubend und übertraf alles bisher Dagewesene.\n\nDer Durchbruch kam 1829 bei den Rainhill Trials, einem Wettbewerb zur Auswahl der besten Lokomotive für die neue Liverpool and Manchester Railway. Stephensons \"Rocket\" gewann überzeugend und wurde zum Prototyp für alle zukünftigen Lokomotiven. Die Liverpool and Manchester Railway, eröffnet 1830, war die erste Intercity-Eisenbahn und bewies die kommerzielle Rentabilität des Eisenbahnverkehrs. Innerhalb weniger Jahrzehnte breitete sich das Eisenbahnnetz explosionsartig aus: Großbritannien hatte 1850 bereits über 10.000 Kilometer Schienen, und Eisenbahnen wurden weltweit gebaut – in Europa, Nordamerika, Indien und darüber hinaus.\n\nDie Eisenbahn transformierte die Welt fundamental. Sie ermöglichte schnellen, zuverlässigen Güter- und Personentransport über große Entfernungen, förderte die Industrialisierung, verband Märkte, ermöglichte Massentourismus und prägte die wirtschaftliche und soziale Entwicklung des 19. Jahrhunderts. Städte entstanden entlang von Eisenbahnlinien, Zeitzonen wurden standardisiert, und nationale Wirtschaftsräume vereinheitlicht. Die Eisenbahn gilt neben der Dampfmaschine als die wichtigste technologische Innovation der Industriellen Revolution und bleibt bis heute ein zentrales Transportmittel.\n\n## References\n\n- Stockton and Darlington Railway (27. September 1825)\n- George Stephenson: \"Locomotion No. 1\"\n- Rainhill Trials (1829)\n- Liverpool and Manchester Railway (1830)\n"
+    },
+    {
+      "title": "Moderne",
+      "type": "Epoche",
+      "start": "1800-01-01T00:00:00.000Z",
+      "end": "1945-05-08T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Epoche",
+        "Industrialisierung",
+        "Nationalismus",
+        "Weltkriege",
+        "Imperialismus"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
     },
     {
       "title": "Erfindung des Personalcomputers",
@@ -215,7 +295,7 @@
     },
     {
       "title": "Kalter Krieg",
-      "type": "Epoche",
+      "type": "Zeitspanne",
       "start": "1947-03-12T00:00:00.000Z",
       "end": "1991-12-26T00:00:00.000Z",
       "domain": "Geschichte",
@@ -233,6 +313,88 @@
     }
   ],
   "byType": {
+    "Epoche": [
+      {
+        "title": "Antike",
+        "type": "Epoche",
+        "start": "-0800-01-01",
+        "end": "0500-01-01T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Epoche",
+          "Griechenland",
+          "Rom",
+          "Philosophie",
+          "Demokratie"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Antike (ca. 800 v. Chr. bis 500 n. Chr.) umfasst die Hochkulturen des Mittelmeerraums, insbesondere das antike Griechenland und das Römische Reich, und legte die Grundlagen für westliche Zivilisation, Philosophie, Wissenschaft und Staatsformen.\n\n## Description\n\nDie Antike begann mit der Entstehung der griechischen Stadtstaaten (Poleis) und der Entwicklung der ersten demokratischen Staatsformen in Athen. Diese Periode war geprägt von bedeutenden philosophischen Denkern wie Sokrates, Platon und Aristoteles, die grundlegende Fragen über Ethik, Politik und Erkenntnistheorie stellten. Die griechische Kultur erreichte ihre Blütezeit im 5. Jahrhundert v. Chr., dem \"Goldenen Zeitalter\" Athens, in dem Kunst, Theater, Architektur und Wissenschaft florierten.\n\nMit dem Aufstieg Roms entwickelte sich ab dem 3. Jahrhundert v. Chr. eine neue Supermacht, die schließlich den gesamten Mittelmeerraum beherrschte. Das Römische Reich schuf ein beispielloses Rechtssystem, beeindruckende Infrastruktur (Straßen, Aquädukte) und eine effiziente Verwaltung. Die römische Kultur assimilierte und verbreitete griechisches Wissen und erschuf eine Synthese, die als griechisch-römische Zivilisation bekannt wurde. Das Römische Recht, die lateinische Sprache und römische Verwaltungsstrukturen prägten Europa für Jahrhunderte.\n\nDas Ende der Antike wird üblicherweise mit dem Fall Westroms (476 n. Chr.) oder dem Untergang des letzten weströmischen Kaisers markiert, wobei das Oströmische (Byzantinische) Reich noch weitere tausend Jahre fortbestand. Die Christianisierung des Römischen Reiches ab dem 4. Jahrhundert und die Völkerwanderung leiteten einen kulturellen und politischen Übergang zum Mittelalter ein. Das Erbe der Antike – von Demokratie und Philosophie bis zu Architektur und Literatur – prägt die westliche Welt bis heute fundamental.\n"
+      },
+      {
+        "title": "Mittelalter",
+        "type": "Epoche",
+        "start": "0500-01-01T00:00:00.000Z",
+        "end": "1500-01-01T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Epoche",
+          "Feudalismus",
+          "Kirche",
+          "Kreuzzüge",
+          "Rittertum"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDas Mittelalter (ca. 500 bis 1500 n. Chr.) war eine Epoche zwischen Antike und Neuzeit, geprägt von Feudalismus, der Dominanz der christlichen Kirche, dem Rittertum und einer agrarisch geprägten Gesellschaftsordnung in Europa.\n\n## Description\n\nDas Frühmittelalter begann mit dem Zerfall des Weströmischen Reiches und der Völkerwanderung, die zur Entstehung neuer germanischer Königreiche führte. Das Frankenreich unter Karl dem Großen (768-814) schuf ein neues westeuropäisches Kaisertum und förderte eine kulturelle Blütezeit, die karolingische Renaissance. Die christliche Kirche entwickelte sich zur wichtigsten Institution des mittelalterlichen Europas, prägte Bildung, Kultur und Politik, während Klöster zu Zentren des Wissens und der Landwirtschaft wurden. Die Gesellschaft organisierte sich im Feudalsystem mit Lehnsherren, Vasallen und Leibeigenen.\n\nDas Hochmittelalter (etwa 1000-1300) war eine Zeit wirtschaftlichen Wachstums, städtischer Entwicklung und kultureller Blüte. Die Kreuzzüge (1095-1291) prägten die Beziehungen zwischen christlichem Europa und dem islamischen Orient. Gotische Kathedralen wurden errichtet, Universitäten gegründet, und das Rittertum entwickelte sich zu einer eigenen Kultur mit höfischen Idealen. Der Handel expandierte, Städte gewannen an Bedeutung, und neue Handelsrouten verbanden Europa mit Asien.\n\nDas Spätmittelalter war geprägt von Krisen: Die Pest (Schwarzer Tod, 1347-1353) tötete etwa ein Drittel der europäischen Bevölkerung, der Hundertjährige Krieg verwüstete Frankreich, und das Abendländische Schisma spaltete die Kirche. Gleichzeitig entstanden nationale Identitäten, und Erfindungen wie der Buchdruck (Gutenberg, ca. 1450) bereiteten den Übergang zur Neuzeit vor. Die Entdeckung Amerikas (1492) und die Renaissance markierten schließlich das Ende des mittelalterlichen Weltbilds.\n"
+      },
+      {
+        "title": "Frühe Neuzeit",
+        "type": "Epoche",
+        "start": "1500-01-01T00:00:00.000Z",
+        "end": "1800-01-01T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Epoche",
+          "Renaissance",
+          "Reformation",
+          "Aufklärung",
+          "Kolonialismus"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Frühe Neuzeit (ca. 1500 bis 1800) war eine transformative Epoche, geprägt von Renaissance, Reformation, wissenschaftlicher Revolution, Aufklärung und dem Beginn der europäischen Kolonialexpansion, die das mittelalterliche Weltbild grundlegend veränderte.\n\n## Description\n\nDie Frühe Neuzeit begann mit der Renaissance, die antikes Wissen wiederbelebte und den Humanismus förderte. Die Erfindung des Buchdrucks ermöglichte die Verbreitung von Ideen in nie dagewesener Geschwindigkeit. Die europäische Expansion führte zur \"Entdeckung\" neuer Kontinente – Kolumbus erreichte 1492 Amerika, Vasco da Gama umrundete Afrika nach Indien. Diese Entdeckungen lösten ein Zeitalter des Kolonialismus aus, das die Welt nachhaltig prägte. Die Reformation (ab 1517) mit Martin Luther spaltete das christliche Westeuropa und führte zu religiösen Konflikten, die im verheerenden Dreißigjährigen Krieg (1618-1648) gipfelten.\n\nDie wissenschaftliche Revolution des 16. und 17. Jahrhunderts veränderte das Weltbild fundamental. Kopernikus, Galileo und Newton stellten das geozentrische Weltbild infrage und legten die Grundlagen der modernen Naturwissenschaften. Die Philosophie der Aufklärung (18. Jahrhundert) mit Denkern wie Voltaire, Rousseau und Kant betonte Vernunft, individuelle Freiheit und Menschenrechte. Diese Ideen stellten absolute Monarchien und kirchliche Autorität zunehmend in Frage.\n\nPolitisch war die Frühe Neuzeit geprägt vom Aufstieg absolutistischer Nationalstaaten wie Frankreich unter Ludwig XIV., aber auch vom Entstehen parlamentarischer Systeme in England. Der Merkantilismus förderte den Handel und wirtschaftliches Wachstum. Die Epoche endete mit revolutionären Umwälzungen – die Amerikanische Revolution (1776) und die Französische Revolution (1789) setzten aufklärerische Ideale in politische Realität um und leiteten den Übergang zur Moderne ein.\n"
+      },
+      {
+        "title": "Zeitgeschichte",
+        "type": "Epoche",
+        "start": "1945-05-08T00:00:00.000Z",
+        "end": "2026-02-05T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Epoche",
+          "Kalter Krieg",
+          "Globalisierung",
+          "Digitalisierung",
+          "Dekolonisierung"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Zeitgeschichte (1945 bis heute) ist die jüngste historische Epoche, geprägt vom Kalten Krieg, Dekolonisierung, technologischer Revolution, Globalisierung und dem Übergang in eine multipolare, digital vernetzte Welt mit neuartigen globalen Herausforderungen.\n\n## Description\n\nDie Zeitgeschichte begann unmittelbar nach dem Zweiten Weltkrieg mit der Teilung der Welt in zwei ideologische Blöcke: die kapitalistische, demokratische Welt unter Führung der USA und der kommunistische Ostblock unter sowjetischer Herrschaft. Der Kalte Krieg (1947-1991) bestimmte die internationalen Beziehungen durch Wettrüsten, Stellvertreterkriege (Korea, Vietnam) und die ständige Bedrohung eines nuklearen Konflikts. Gleichzeitig vollzog sich die Dekolonisierung: Dutzende ehemaliger Kolonien in Asien, Afrika und der Karibik erlangten ihre Unabhängigkeit, was die globale Machtkonstellation grundlegend veränderte.\n\nDie wirtschaftliche Nachkriegsordnung wurde durch Institutionen wie UN, Weltbank und IWF geprägt. Westeuropa erlebte das \"Wirtschaftswunder\", während sich die Europäische Integration entwickelte (von der EGKS zur heutigen EU). Die 1960er Jahre brachten gesellschaftliche Umwälzungen: Bürgerrechtsbewegungen, Studentenproteste, sexuelle Revolution und Feminismus. Die Ölkrisen der 1970er, der Fall der Berliner Mauer 1989 und der Zusammenbruch der Sowjetunion 1991 markierten das Ende des Kalten Krieges und schienen kurzzeitig eine neue Ära des Friedens zu versprechen.\n\nDas späte 20. und frühe 21. Jahrhundert wurde geprägt von Globalisierung, dem Aufstieg Chinas zur Weltmacht, und der digitalen Revolution – Personal Computer, Internet, Smartphones transformierten Kommunikation, Arbeit und Gesellschaft. Die Terroranschläge vom 11. September 2001 führten zu \"Kriegen gegen den Terror\" und neuen geopolitischen Spannungen. Aktuelle Herausforderungen umfassen Klimawandel, Migration, Populismus, Pandemien (COVID-19) und die Rückkehr von Großmachtrivalitäten. Die Zeitgeschichte ist noch nicht abgeschlossen – wir leben in ihr und gestalten sie mit.\n"
+      },
+      {
+        "title": "Moderne",
+        "type": "Epoche",
+        "start": "1800-01-01T00:00:00.000Z",
+        "end": "1945-05-08T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Epoche",
+          "Industrialisierung",
+          "Nationalismus",
+          "Weltkriege",
+          "Imperialismus"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
+      }
+    ],
     "Zeitspanne": [
       {
         "title": "Zweiter Weltkrieg",
@@ -313,6 +475,24 @@
         ],
         "added": "2026-01-26T00:00:00.000Z",
         "content": "\n## Summary\n\nDer Erste Weltkrieg (1914-1918) war ein globaler Konflikt, der hauptsächlich in Europa stattfand und die Mittelmächte gegen die Alliierten stellte. Der Krieg endete mit dem Waffenstillstand von Compiègne am 11. November 1918.\n\n## Description\n\nDer Erste Weltkrieg begann am 28. Juli 1914 nach der Ermordung des österreichisch-ungarischen Thronfolgers Franz Ferdinand in Sarajevo. Der Konflikt entwickelte sich schnell zu einem weltweiten Krieg mit den Mittelmächten (Deutsches Reich, Österreich-Ungarn, Osmanisches Reich) gegen die Alliierten (Frankreich, Großbritannien, Russland, später die USA).\n\nDer Krieg war geprägt durch Grabenkrieg, neue Waffentechnologien wie Giftgas und Panzer, sowie enorme Verluste auf beiden Seiten. Schätzungen zufolge starben etwa 17 Millionen Menschen, darunter Soldaten und Zivilisten.\n\nDer Krieg endete mit dem Waffenstillstand am 11. November 1918 und dem anschließenden Vertrag von Versailles 1919, der Deutschland schwere Reparationen auferlegte und die Karte Europas neu zeichnete.\n"
+      },
+      {
+        "title": "Kalter Krieg",
+        "type": "Zeitspanne",
+        "start": "1947-03-12T00:00:00.000Z",
+        "end": "1991-12-26T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Ost-West-Konflikt",
+          "USA",
+          "Sowjetunion",
+          "NATO",
+          "Warschauer Pakt",
+          "Wettrüsten",
+          "Stellvertreterkriege"
+        ],
+        "added": "2026-01-27T00:00:00.000Z",
+        "content": "\n## Summary\n\nDer Kalte Krieg (1947-1991) war eine Epoche der geopolitischen Spannung zwischen den USA und der Sowjetunion sowie ihren jeweiligen Verbündeten, die die Weltpolitik nach dem Zweiten Weltkrieg prägte. Diese Konfrontation zwischen kapitalistischem Westen und kommunistischem Osten bestimmte fast ein halbes Jahrhundert lang die internationale Politik, ohne in einen direkten militärischen Konflikt zwischen den Supermächten zu münden.\n\n## Description\n\nDer Kalte Krieg begann nach dem Zweiten Weltkrieg, als die Zusammenarbeit zwischen den westlichen Alliierten und der Sowjetunion zerbrach. Die Truman-Doktrin vom 12. März 1947, die den Eindämmung des Kommunismus zum Ziel erklärte, markierte den symbolischen Beginn dieser Ära. Europa wurde durch den Eisernen Vorhang geteilt, manifestiert durch die Gründung der NATO 1949 im Westen und des Warschauer Pakts 1955 im Osten. Deutschland wurde zum Brennpunkt des Konflikts, symbolisiert durch die Teilung Berlins und den Bau der Berliner Mauer 1961.\n\nDie Epoche war geprägt von einem massiven nuklearen Wettrüsten, das die Welt an den Rand der Vernichtung brachte. Krisenmomente wie die Berlin-Blockade (1948-1949), die Kubakrise (1962) und der Korea-Krieg (1950-1953) zeigten die Gefahr einer direkten Konfrontation. Stattdessen trugen die Supermächte ihre Rivalität in Stellvertreterkriegen aus, etwa in Vietnam, Afghanistan und verschiedenen afrikanischen und lateinamerikanischen Ländern. Der Konflikt erstreckte sich auch auf Bereiche wie Wissenschaft und Sport, exemplarisch im Weltraumwettlauf, der mit der ersten Mondlandung 1969 seinen Höhepunkt erreichte.\n\nDer Kalte Krieg endete mit dem Zusammenbruch der kommunistischen Regime in Osteuropa ab 1989, symbolisiert durch den Fall der Berliner Mauer am 9. November 1989. Die formale Auflösung der Sowjetunion am 26. Dezember 1991 markierte das endgültige Ende dieser Epoche. Der Kalte Krieg hinterließ eine bipolare Weltordnung, die sich in eine neue multipolare Struktur verwandelte, und prägte maßgeblich die politischen, wirtschaftlichen und gesellschaftlichen Strukturen der zweiten Hälfte des 20. Jahrhunderts.\n\n## References\n\n- Truman-Doktrin (12. März 1947)\n- NATO-Gründungsvertrag (4. April 1949)\n- Warschauer Pakt (14. Mai 1955)\n"
       }
     ],
     "Ereignis": [
@@ -446,26 +626,6 @@
         ],
         "added": "2026-01-30T00:00:00.000Z",
         "content": "\n## Summary\n\nDie Erfindung des Personalcomputers begann 1975 mit dem Altair 8800, dem ersten kommerziell erfolgreichen Mikrocomputer-Bausatz, der die Computernutzung von Großrechnern für Unternehmen zu erschwinglichen Geräten für Einzelpersonen transformierte und die digitale Revolution einleitete.\n\n## Description\n\nVor Mitte der 1970er Jahre waren Computer ausschließlich große, teure Maschinen, die von Unternehmen, Universitäten und Regierungen genutzt wurden. Die Entwicklung von Mikroprozessoren wie dem Intel 8080 machte es erstmals möglich, leistungsfähige Computer in kompakter Form zu bauen. Im Januar 1975 erschien der Altair 8800 von MITS auf dem Titelbild des Magazins \"Popular Electronics\". Dieser Bausatz für 397 Dollar war zwar primitiv und für Laien kaum nutzbar, löste aber eine Revolution aus: Er bewies, dass Computer für Einzelpersonen technisch und finanziell erreichbar waren. Der Altair inspirierte eine Generation von Enthusiasten, darunter Bill Gates und Paul Allen, die für den Altair die Programmiersprache BASIC entwickelten.\n\nDie Jahre nach 1975 brachten rasante Entwicklungen: Der Apple II (1977) von Steve Jobs und Steve Wozniak war der erste wirklich benutzerfreundliche Personal Computer mit Farbgrafik und wurde zum kommerziellen Durchbruch. Im selben Jahr erschienen auch der Commodore PET und der Tandy TRS-80, zusammen als \"Trinity of 1977\" bekannt. 1981 brachte IBM den IBM PC auf den Markt, der durch seine offene Architektur den Standard für die PC-Industrie setzte. Der IBM PC mit MS-DOS von Microsoft etablierte die Plattform, die die Computerindustrie für Jahrzehnte dominieren sollte. Der Apple Macintosh (1984) revolutionierte mit seiner grafischen Benutzeroberfläche die Bedienbarkeit.\n\nDer Personalcomputer veränderte fundamental, wie Menschen arbeiten, lernen, kommunizieren und sich unterhalten. Von wenigen tausend Hobbyisten 1975 wuchs die Nutzerbasis auf Milliarden weltweit. PCs ermöglichten die Softwareindustrie, Desktop-Publishing, digitale Musik und Kunst, und ebneten den Weg für das Internet-Zeitalter. Die Erfindung demokratisierte den Zugang zu Rechenleistung und Information und gilt als eine der transformativsten Technologien des 20. Jahrhunderts, vergleichbar mit Elektrizität und dem Automobil.\n\n## References\n\n- Altair 8800 (MITS, Januar 1975)\n- Apple II (1977)\n- IBM Personal Computer (1981)\n- Computer History Museum\n"
-      }
-    ],
-    "Epoche": [
-      {
-        "title": "Kalter Krieg",
-        "type": "Epoche",
-        "start": "1947-03-12T00:00:00.000Z",
-        "end": "1991-12-26T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Ost-West-Konflikt",
-          "USA",
-          "Sowjetunion",
-          "NATO",
-          "Warschauer Pakt",
-          "Wettrüsten",
-          "Stellvertreterkriege"
-        ],
-        "added": "2026-01-27T00:00:00.000Z",
-        "content": "\n## Summary\n\nDer Kalte Krieg (1947-1991) war eine Epoche der geopolitischen Spannung zwischen den USA und der Sowjetunion sowie ihren jeweiligen Verbündeten, die die Weltpolitik nach dem Zweiten Weltkrieg prägte. Diese Konfrontation zwischen kapitalistischem Westen und kommunistischem Osten bestimmte fast ein halbes Jahrhundert lang die internationale Politik, ohne in einen direkten militärischen Konflikt zwischen den Supermächten zu münden.\n\n## Description\n\nDer Kalte Krieg begann nach dem Zweiten Weltkrieg, als die Zusammenarbeit zwischen den westlichen Alliierten und der Sowjetunion zerbrach. Die Truman-Doktrin vom 12. März 1947, die den Eindämmung des Kommunismus zum Ziel erklärte, markierte den symbolischen Beginn dieser Ära. Europa wurde durch den Eisernen Vorhang geteilt, manifestiert durch die Gründung der NATO 1949 im Westen und des Warschauer Pakts 1955 im Osten. Deutschland wurde zum Brennpunkt des Konflikts, symbolisiert durch die Teilung Berlins und den Bau der Berliner Mauer 1961.\n\nDie Epoche war geprägt von einem massiven nuklearen Wettrüsten, das die Welt an den Rand der Vernichtung brachte. Krisenmomente wie die Berlin-Blockade (1948-1949), die Kubakrise (1962) und der Korea-Krieg (1950-1953) zeigten die Gefahr einer direkten Konfrontation. Stattdessen trugen die Supermächte ihre Rivalität in Stellvertreterkriegen aus, etwa in Vietnam, Afghanistan und verschiedenen afrikanischen und lateinamerikanischen Ländern. Der Konflikt erstreckte sich auch auf Bereiche wie Wissenschaft und Sport, exemplarisch im Weltraumwettlauf, der mit der ersten Mondlandung 1969 seinen Höhepunkt erreichte.\n\nDer Kalte Krieg endete mit dem Zusammenbruch der kommunistischen Regime in Osteuropa ab 1989, symbolisiert durch den Fall der Berliner Mauer am 9. November 1989. Die formale Auflösung der Sowjetunion am 26. Dezember 1991 markierte das endgültige Ende dieser Epoche. Der Kalte Krieg hinterließ eine bipolare Weltordnung, die sich in eine neue multipolare Struktur verwandelte, und prägte maßgeblich die politischen, wirtschaftlichen und gesellschaftlichen Strukturen der zweiten Hälfte des 20. Jahrhunderts.\n\n## References\n\n- Truman-Doktrin (12. März 1947)\n- NATO-Gründungsvertrag (4. April 1949)\n- Warschauer Pakt (14. Mai 1955)\n"
       }
     ]
   }
