@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T20:30:19.865Z",
+  "lastUpdated": "2026-02-05T20:40:11.388Z",
   "count": 25,
   "entries": [
     {
@@ -329,7 +329,7 @@
       "title": "Postmoderne & Gegenwartskunst",
       "type": "Epoche",
       "start": "1970-01-01T00:00:00.000Z",
-      "end": null,
+      "end": "2026-02-05T00:00:00.000Z",
       "domain": "Kunst",
       "tags": [
         "Postmoderne",
@@ -574,7 +574,7 @@
         "title": "Postmoderne & Gegenwartskunst",
         "type": "Epoche",
         "start": "1970-01-01T00:00:00.000Z",
-        "end": null,
+        "end": "2026-02-05T00:00:00.000Z",
         "domain": "Kunst",
         "tags": [
           "Postmoderne",
