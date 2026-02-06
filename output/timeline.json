@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-06T14:18:45.172Z",
-  "count": 40,
+  "lastUpdated": "2026-02-06T15:38:57.738Z",
+  "count": 47,
   "entries": [
     {
       "title": "Vormoderne / Sakrale Kunst",
@@ -19,6 +19,22 @@
       "content": "\n## Summary\n\nDie Vormoderne und Sakrale Kunst umfasst die künstlerischen Ausdrucksformen von der Antike bis etwa 1400, geprägt von religiösen Motiven, symbolischer Darstellung und der dienenden Funktion der Kunst gegenüber Glauben und Kirche.\n\n## Description\n\nDie Epoche der Vormoderne und Sakralen Kunst erstreckt sich über einen gewaltigen Zeitraum von der griechisch-römischen Antike bis zum ausgehenden Mittelalter. In der Antike stand die idealisierte Darstellung des menschlichen Körpers und der Götterwelt im Vordergrund, wobei Skulptur, Architektur und Malerei eine hohe technische Perfektion erreichten.\n\nMit dem Aufstieg des Christentums veränderte sich die Funktion der Kunst grundlegend. Kunst wurde zum Mittel der religiösen Unterweisung und Andacht. Die byzantinische Kunst entwickelte strenge ikonografische Regeln für die Darstellung heiliger Figuren, während in Westeuropa romanische und gotische Kunst die Kathedralen mit Skulpturen, Fresken und Glasmalereien schmückten. Der Künstler galt nicht als individueller Schöpfer, sondern als Handwerker im Dienste Gottes.\n\nDiese Epoche legte die Grundlagen für die europäische Kunsttradition. Die Techniken der Freskomalerei, Mosaik- und Goldschmiedekunst, die symbolische Bildsprache und die architektonischen Innovationen der Gotik beeinflussten alle nachfolgenden Kunstepochen nachhaltig.\n\n## References\n\n- Janson, H.W.: \"History of Art\"\n- Belting, Hans: \"Bild und Kult\"\n"
     },
     {
+      "title": "Agrarische Technologiegesellschaft",
+      "type": "Epoche",
+      "start": "-0500-01-01T00:00:00.000Z",
+      "end": "1700-01-01T00:00:00.000Z",
+      "domain": "Technologie",
+      "tags": [
+        "Landwirtschaft",
+        "Handwerk",
+        "Wasserkraft",
+        "Buchdruck",
+        "Mühle"
+      ],
+      "added": "2026-02-06T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie agrarische Technologiegesellschaft (500 v. Chr. – 1700) war geprägt von schrittweisen technischen Innovationen in Landwirtschaft, Handwerk und Energienutzung, die von der Antike über das Mittelalter bis an die Schwelle der Industrialisierung reichten.\n\n## Description\n\nIn der Antike legten griechische und römische Ingenieure technologische Grundlagen, die Jahrhunderte nachwirkten: Aquädukte, Straßennetze, der Archimedessche Schraubenheber und ausgefeilte Bautechniken ermöglichten Zivilisationen von bisher unbekanntem Ausmaß. Die römische Ingenieurskunst schuf Infrastrukturen, die teilweise bis heute bestehen. Parallel entwickelten chinesische Technologen Papier, Kompass, Schießpulver und den Buchdruck – Erfindungen, die die Welt verändern sollten.\n\nDas europäische Mittelalter brachte entgegen verbreiteter Vorurteile bedeutende technische Fortschritte. Die Dreifelderwirtschaft steigerte landwirtschaftliche Erträge, Wasser- und Windmühlen mechanisierten Arbeitsprozesse, und das Kummetgeschirr machte Pferde als Zugtiere effizient nutzbar. Die gotischen Kathedralen zeigten hoch entwickelte Bautechnik. Johannes Gutenbergs Erfindung des Buchdrucks mit beweglichen Lettern um 1450 revolutionierte die Wissensverbreitung und gilt als eine der folgenreichsten Innovationen der Geschichte.\n\nDie frühe Neuzeit (1500–1700) brachte Navigation, Fernhandel und erste wissenschaftliche Instrumente wie Teleskop und Mikroskop hervor. Galileo, Newton und andere legten die Grundlagen der modernen Naturwissenschaft, die Technik zunehmend auf systematisches Wissen statt auf Erfahrungswissen stützte. Am Ende dieser Epoche standen die Voraussetzungen für die industrielle Revolution bereit.\n\n## References\n\n- Mokyr, Joel: \"The Lever of Riches: Technological Creativity and Economic Progress\"\n- Gimpel, Jean: \"The Medieval Machine: The Industrial Revolution of the Middle Ages\"\n"
+    },
+    {
       "title": "Antike",
       "type": "Epoche",
       "start": "-0800-01-01T00:00:00.000Z",
@@ -33,6 +49,38 @@
       ],
       "added": "2026-02-05T00:00:00.000Z",
       "content": "\n## Summary\n\nDie Antike (ca. 800 v. Chr. bis 500 n. Chr.) umfasst die Hochkulturen des Mittelmeerraums, insbesondere das antike Griechenland und das Römische Reich, und legte die Grundlagen für westliche Zivilisation, Philosophie, Wissenschaft und Staatsformen.\n\n## Description\n\nDie Antike begann mit der Entstehung der griechischen Stadtstaaten (Poleis) und der Entwicklung der ersten demokratischen Staatsformen in Athen. Diese Periode war geprägt von bedeutenden philosophischen Denkern wie Sokrates, Platon und Aristoteles, die grundlegende Fragen über Ethik, Politik und Erkenntnistheorie stellten. Die griechische Kultur erreichte ihre Blütezeit im 5. Jahrhundert v. Chr., dem \"Goldenen Zeitalter\" Athens, in dem Kunst, Theater, Architektur und Wissenschaft florierten.\n\nMit dem Aufstieg Roms entwickelte sich ab dem 3. Jahrhundert v. Chr. eine neue Supermacht, die schließlich den gesamten Mittelmeerraum beherrschte. Das Römische Reich schuf ein beispielloses Rechtssystem, beeindruckende Infrastruktur (Straßen, Aquädukte) und eine effiziente Verwaltung. Die römische Kultur assimilierte und verbreitete griechisches Wissen und erschuf eine Synthese, die als griechisch-römische Zivilisation bekannt wurde. Das Römische Recht, die lateinische Sprache und römische Verwaltungsstrukturen prägten Europa für Jahrhunderte.\n\nDas Ende der Antike wird üblicherweise mit dem Fall Westroms (476 n. Chr.) oder dem Untergang des letzten weströmischen Kaisers markiert, wobei das Oströmische (Byzantinische) Reich noch weitere tausend Jahre fortbestand. Die Christianisierung des Römischen Reiches ab dem 4. Jahrhundert und die Völkerwanderung leiteten einen kulturellen und politischen Übergang zum Mittelalter ein. Das Erbe der Antike – von Demokratie und Philosophie bis zu Architektur und Literatur – prägt die westliche Welt bis heute fundamental.\n"
+    },
+    {
+      "title": "Werkzeug- und Steinzeit",
+      "type": "Epoche",
+      "start": "-100000-01-01",
+      "end": "-3000-01-01T00:00:00.000Z",
+      "domain": "Technologie",
+      "tags": [
+        "Steinzeit",
+        "Werkzeug",
+        "Feuer",
+        "Urgeschichte",
+        "Erfindung"
+      ],
+      "added": "2026-02-06T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Werkzeug- und Steinzeit (bis ca. 3000 v. Chr.) umfasst die längste Epoche der Menschheitsgeschichte, in der grundlegende Technologien wie Steinwerkzeuge, Feuerbeherrschung, Landwirtschaft und Keramik entwickelt wurden.\n\n## Description\n\nDie Steinzeit beginnt mit den frühesten Werkzeugfunden vor über zwei Millionen Jahren und gliedert sich in Altsteinzeit (Paläolithikum), Mittelsteinzeit (Mesolithikum) und Jungsteinzeit (Neolithikum). In der Altsteinzeit lernten frühe Menschen, Steine gezielt zu bearbeiten – zunächst als grobe Faustkeile, später als fein zugeschlagene Klingen und Speerspitzen. Die Beherrschung des Feuers vor rund 400.000 Jahren war ein entscheidender Durchbruch, der Kochen, Wärme und Schutz ermöglichte.\n\nDie neolithische Revolution ab etwa 10.000 v. Chr. markierte den tiefgreifendsten Wandel: Menschen begannen, Pflanzen anzubauen und Tiere zu domestizieren. Sesshafte Siedlungen entstanden, Keramik wurde erfunden, und erste Textilien gewebt. Im Vorderen Orient, in China und in Mittelamerika entwickelten sich unabhängig voneinander landwirtschaftliche Gesellschaften. Das Rad, der Pflug und erste Bewässerungssysteme folgten in der Spätphase.\n\nDie Werkzeug- und Steinzeit legte sämtliche Grundlagen menschlicher Zivilisation. Vom einfachen Faustkeil bis zur geplanten Landwirtschaft zeigt diese Epoche die fundamentale menschliche Fähigkeit zur technischen Innovation. Der Übergang zur Metallverarbeitung um 3000 v. Chr. beendete die Steinzeit und eröffnete neue technologische Möglichkeiten.\n\n## References\n\n- Haidle, Miriam Noël: \"Menschenaffen? Affenmenschen? Menschen!\"\n- Lüning, Jens: \"Steinzeitliche Bauern in Deutschland\"\n"
+    },
+    {
+      "title": "Metallzeitalter",
+      "type": "Epoche",
+      "start": "-3000-01-01T00:00:00.000Z",
+      "end": "-0500-01-01T00:00:00.000Z",
+      "domain": "Technologie",
+      "tags": [
+        "Bronze",
+        "Eisen",
+        "Metallurgie",
+        "Schmieden",
+        "Hochkultur"
+      ],
+      "added": "2026-02-06T00:00:00.000Z",
+      "content": "\n## Summary\n\nDas Metallzeitalter (3000–500 v. Chr.) umfasst Bronze- und Eisenzeit, in denen die Metallverarbeitung Werkzeuge, Waffen, Handel und gesellschaftliche Strukturen grundlegend veränderte.\n\n## Description\n\nDie Bronzezeit begann um 3000 v. Chr. im Vorderen Orient, als Menschen lernten, Kupfer mit Zinn zu legieren. Bronze war härter als reines Kupfer und ermöglichte die Herstellung überlegener Werkzeuge, Waffen und Schmuck. Die Metallurgie erforderte spezialisiertes Wissen und weitreichende Handelsnetze für Rohstoffe, was zur Entstehung komplexer Gesellschaften beitrug. Hochkulturen in Mesopotamien, Ägypten, der Indus-Kultur und China blühten auf, begleitet von Schriftentwicklung, Monumentalarchitektur und organisierter Verwaltung.\n\nAb etwa 1200 v. Chr. setzte sich die Eisenverarbeitung durch. Eisen war zwar schwerer zu verhütten, aber die Erzvorkommen waren weitaus häufiger als Kupfer und Zinn. Die Demokratisierung des Metalls veränderte Gesellschaften: Eiserne Pflugscharen verbesserten die Landwirtschaft, eiserne Waffen verschoben militärische Machtverhältnisse, und eiserne Werkzeuge ermöglichten neue Handwerkstechniken. Die Eisenzeit sah den Aufstieg der griechischen Stadtstaaten, des Persischen Reiches und der keltischen Kultur in Europa.\n\nDas Metallzeitalter transformierte menschliche Gesellschaften von einfachen Agrargemeinschaften zu komplexen Zivilisationen mit Fernhandel, Spezialisierung und sozialer Schichtung. Die metallurgischen Grundkenntnisse dieser Epoche – Schmelzen, Legieren, Schmieden – blieben bis zur industriellen Revolution die technologische Basis der Metallbearbeitung.\n\n## References\n\n- Harding, Anthony: \"European Societies in the Bronze Age\"\n- Pleiner, Radomír: \"Iron in Archaeology: The European Bloomery Smelters\"\n"
     },
     {
       "title": "Mittelalter",
@@ -179,6 +227,22 @@
       "content": "\n## Summary\n\nDie Barockarchitektur (1600–1750) inszenierte Macht und Glaube durch monumentale Raumwirkungen, geschwungene Formen, üppigen Dekor und eine theatralische Verschmelzung von Architektur, Malerei und Skulptur.\n\n## Description\n\nDie Barockarchitektur entstand im Rom der Gegenreformation als Ausdruck kirchlicher Macht und verbreitete sich rasch in ganz Europa. Architekten wie Gian Lorenzo Bernini und Francesco Borromini schufen dynamische Fassaden, ovale Grundrisse und dramatische Lichtinszenierungen, die den Betrachter emotional überwältigen sollten. Der Petersdom mit Berninis Kolonnaden wurde zum Inbegriff barocker Raumgestaltung.\n\nIm weltlichen Bereich diente die Barockarchitektur der Repräsentation absolutistischer Herrschaft. Schloss Versailles unter Ludwig XIV. wurde zum Vorbild für Residenzen in ganz Europa. In Deutschland und Österreich entstanden prachtvolle Schlösser und Klöster: das Obere Belvedere in Wien, die Würzburger Residenz von Balthasar Neumann und die Dresdner Frauenkirche. Die süddeutsche und österreichische Barockarchitektur zeichnete sich durch besonders reiche Innenausstattungen mit Stuck, Fresken und Vergoldung aus.\n\nDie Barockarchitektur verband Bautechnik mit theatralischer Inszenierung wie keine Epoche zuvor. Ihre Fähigkeit, Raum, Licht und Bewegung zu einer Gesamtkunstwirkung zu verbinden, beeinflusste die europäische Stadtplanung nachhaltig und schuf viele der bis heute prägenden Stadtbilder.\n\n## References\n\n- Norberg-Schulz, Christian: \"Barock-Architektur\"\n- Wittkower, Rudolf: \"Art and Architecture in Italy 1600-1750\"\n"
     },
     {
+      "title": "Industrielles Zeitalter",
+      "type": "Epoche",
+      "start": "1700-01-01T00:00:00.000Z",
+      "end": "1900-01-01T00:00:00.000Z",
+      "domain": "Technologie",
+      "tags": [
+        "Industrialisierung",
+        "Dampfmaschine",
+        "Eisenbahn",
+        "Fabrik",
+        "Massenproduktion"
+      ],
+      "added": "2026-02-06T00:00:00.000Z",
+      "content": "\n## Summary\n\nDas Industrielle Zeitalter (1700–1900) transformierte die Welt durch Dampfkraft, mechanisierte Produktion und Eisenbahnnetze von agrarischen Gesellschaften zu industriellen Massengesellschaften.\n\n## Description\n\nDie Industrielle Revolution begann im 18. Jahrhundert in England, begünstigt durch Kohlevorkommen, koloniale Rohstoffe und eine innovationsfreundliche Gesellschaftsordnung. Thomas Newcomens und James Watts Dampfmaschinen ersetzten menschliche und tierische Muskelkraft durch mechanische Energie. Die Textilindustrie mechanisierte sich als erste: Spinning Jenny, Water Frame und Mule verwandelten Handarbeit in Fabrikproduktion. Die Eisenverhüttung mit Koks statt Holzkohle ermöglichte Massenproduktion von Stahl.\n\nDie zweite Phase der Industrialisierung ab Mitte des 19. Jahrhunderts brachte die Eisenbahn, das Dampfschiff und den Telegraphen. George Stephensons Rocket (1829) und das wachsende Schienennetz schrumpften Entfernungen dramatisch. Bessemer- und Siemens-Martin-Verfahren machten Stahl billig und ermöglichten Brücken, Schienen und Maschinen in nie dagewesenem Umfang. Die Weltausstellungen – allen voran London 1851 mit dem Crystal Palace – feierten den technologischen Fortschritt.\n\nDas Industrielle Zeitalter veränderte alles: Millionen Menschen zogen vom Land in die Städte, die Arbeiterbewegung entstand, und die Lebenserwartung stieg trotz anfänglich katastrophaler Arbeitsbedingungen. Die industrielle Produktion vervielfachte den materiellen Wohlstand, schuf aber auch Umweltprobleme und soziale Ungleichheit, deren Folgen bis heute spürbar sind.\n\n## References\n\n- Landes, David S.: \"The Unbound Prometheus: Technological Change and Industrial Development\"\n- Ashton, T.S.: \"The Industrial Revolution 1760-1830\"\n"
+    },
+    {
       "title": "Rokoko (Architektur)",
       "type": "Epoche",
       "start": "1720-01-01T00:00:00.000Z",
@@ -290,6 +354,22 @@
       ],
       "added": "2026-02-06T00:00:00.000Z",
       "content": "\n## Summary\n\nDer Historismus (1850–1910) griff systematisch auf historische Baustile zurück – Neogotik, Neorenaissance, Neobarock – und kombinierte sie eklektisch, um den repräsentativen Bedürfnissen des aufstrebenden Bürgertums und der Nationalstaaten zu entsprechen.\n\n## Description\n\nDer Historismus entstand im Kontext der Industrialisierung und des wachsenden Geschichtsbewusstseins des 19. Jahrhunderts. Neue Baumaterialien wie Stahl und Gusseisen ermöglichten technisch kühne Konstruktionen, die jedoch in historische Stilgewänder gekleidet wurden. Jeder Gebäudetyp erhielt seinen \"angemessenen\" Stil: Neogotik für Kirchen und Parlamente, Neorenaissance für Museen und Banken, Neobarock für Theater und Opernhäuser.\n\nIn Deutschland prägten Architekten wie Gottfried Semper (Dresdner Semperoper), Paul Wallot (Reichstagsgebäude) und Ludwig II. mit seinen Märchenschlössern (Neuschwanstein) die Epoche. Die Wiener Ringstraße wurde zur Prachtmeile des Historismus mit Rathaus (Neogotik), Oper (Neorenaissance) und Burgtheater (Neobarock). In Großbritannien symbolisierte der Palace of Westminster von Charles Barry die nationale Neugotik.\n\nDer Historismus formte die Innenstädte, wie wir sie heute kennen. Gründerzeitliche Mietskasernen, Bahnhöfe, Rathäuser und Kaufhäuser prägen bis heute europäische Stadtbilder. Obwohl später als \"Stilkopie\" kritisiert, zeigte der Historismus eine bemerkenswerte Fähigkeit, neue Funktionen mit traditionellen Formen zu verbinden, und schuf eine der größten Bauleistungen der europäischen Geschichte.\n\n## References\n\n- Dolgner, Dieter: \"Historismus – Deutsche Baukunst 1815-1900\"\n- Huse, Norbert: \"Geschichte der Architektur im 20. Jahrhundert\"\n"
+    },
+    {
+      "title": "Elektrisches und chemisches Zeitalter",
+      "type": "Epoche",
+      "start": "1880-01-01T00:00:00.000Z",
+      "end": "1950-01-01T00:00:00.000Z",
+      "domain": "Technologie",
+      "tags": [
+        "Elektrizität",
+        "Chemie",
+        "Radio",
+        "Automobil",
+        "Kunststoff"
+      ],
+      "added": "2026-02-06T00:00:00.000Z",
+      "content": "\n## Summary\n\nDas Elektrische und Chemische Zeitalter (1880–1950) brachte mit Elektrifizierung, synthetischer Chemie, Automobil und Telekommunikation Technologien hervor, die das moderne Alltagsleben grundlegend formten.\n\n## Description\n\nAb den 1880er Jahren verwandelte die Elektrizität Städte, Fabriken und Haushalte. Thomas Edison und Nikola Tesla trieben die Elektrifizierung voran – von der Glühbirne über Kraftwerke bis zu Elektromotoren, die Industriemaschinen antrieben. Gleichzeitig revolutionierte die synthetische Chemie die Materialwelt: Fritz Habers Ammoniaksynthese (1909) sicherte die Nahrungsmittelversorgung, Bakelit (1907) begründete das Kunststoffzeitalter, und die pharmazeutische Industrie entwickelte Medikamente wie Aspirin und später Antibiotika.\n\nDas Automobil (Karl Benz, 1886) und das Fließband (Henry Ford, 1913) veränderten Mobilität und Produktion. Die drahtlose Telegraphie (Guglielmo Marconi, 1895) und das Radio schufen die erste elektronische Massenkommunikation. Die Gebrüder Wright flogen 1903 zum ersten Mal motorisiert, und innerhalb weniger Jahrzehnte wurde die Luftfahrt zur Schlüsseltechnologie. Telefon und Film verwandelten Kommunikation und Unterhaltung.\n\nDiese Epoche verdichtete technischen Fortschritt wie keine zuvor: Innerhalb von 70 Jahren entstanden elektrisches Licht, Automobil, Flugzeug, Radio, Fernsehen, Radar, Kernspaltung und die ersten elektronischen Rechner. Zwei Weltkriege beschleunigten die technologische Entwicklung auf tragische Weise – vom Giftgas bis zur Atombombe. Die Grundlagen des digitalen Zeitalters waren gelegt.\n\n## References\n\n- Hughes, Thomas P.: \"Networks of Power: Electrification in Western Society, 1880-1930\"\n- Haber, L.F.: \"The Chemical Industry During the Nineteenth Century\"\n"
     },
     {
       "title": "Jugendstil / Art Nouveau (Architektur)",
@@ -486,6 +566,22 @@
       "content": "\n## Summary\n\nDer Kalte Krieg (1947-1991) war eine Epoche der geopolitischen Spannung zwischen den USA und der Sowjetunion sowie ihren jeweiligen Verbündeten, die die Weltpolitik nach dem Zweiten Weltkrieg prägte. Diese Konfrontation zwischen kapitalistischem Westen und kommunistischem Osten bestimmte fast ein halbes Jahrhundert lang die internationale Politik, ohne in einen direkten militärischen Konflikt zwischen den Supermächten zu münden.\n\n## Description\n\nDer Kalte Krieg begann nach dem Zweiten Weltkrieg, als die Zusammenarbeit zwischen den westlichen Alliierten und der Sowjetunion zerbrach. Die Truman-Doktrin vom 12. März 1947, die den Eindämmung des Kommunismus zum Ziel erklärte, markierte den symbolischen Beginn dieser Ära. Europa wurde durch den Eisernen Vorhang geteilt, manifestiert durch die Gründung der NATO 1949 im Westen und des Warschauer Pakts 1955 im Osten. Deutschland wurde zum Brennpunkt des Konflikts, symbolisiert durch die Teilung Berlins und den Bau der Berliner Mauer 1961.\n\nDie Epoche war geprägt von einem massiven nuklearen Wettrüsten, das die Welt an den Rand der Vernichtung brachte. Krisenmomente wie die Berlin-Blockade (1948-1949), die Kubakrise (1962) und der Korea-Krieg (1950-1953) zeigten die Gefahr einer direkten Konfrontation. Stattdessen trugen die Supermächte ihre Rivalität in Stellvertreterkriegen aus, etwa in Vietnam, Afghanistan und verschiedenen afrikanischen und lateinamerikanischen Ländern. Der Konflikt erstreckte sich auch auf Bereiche wie Wissenschaft und Sport, exemplarisch im Weltraumwettlauf, der mit der ersten Mondlandung 1969 seinen Höhepunkt erreichte.\n\nDer Kalte Krieg endete mit dem Zusammenbruch der kommunistischen Regime in Osteuropa ab 1989, symbolisiert durch den Fall der Berliner Mauer am 9. November 1989. Die formale Auflösung der Sowjetunion am 26. Dezember 1991 markierte das endgültige Ende dieser Epoche. Der Kalte Krieg hinterließ eine bipolare Weltordnung, die sich in eine neue multipolare Struktur verwandelte, und prägte maßgeblich die politischen, wirtschaftlichen und gesellschaftlichen Strukturen der zweiten Hälfte des 20. Jahrhunderts.\n\n## References\n\n- Truman-Doktrin (12. März 1947)\n- NATO-Gründungsvertrag (4. April 1949)\n- Warschauer Pakt (14. Mai 1955)\n"
     },
     {
+      "title": "Digitales Zeitalter",
+      "type": "Epoche",
+      "start": "1950-01-01T00:00:00.000Z",
+      "end": "2000-01-01T00:00:00.000Z",
+      "domain": "Technologie",
+      "tags": [
+        "Computer",
+        "Transistor",
+        "Internet",
+        "Mikrochip",
+        "Software"
+      ],
+      "added": "2026-02-06T00:00:00.000Z",
+      "content": "\n## Summary\n\nDas Digitale Zeitalter (1950–2000) führte von raumfüllenden Großrechnern über den Personal Computer bis zum World Wide Web und legte die Grundlage für die digitale Transformation aller Lebensbereiche.\n\n## Description\n\nDie Erfindung des Transistors bei den Bell Labs (1947) und des integrierten Schaltkreises (Jack Kilby und Robert Noyce, 1958) bildeten die technologische Basis des digitalen Zeitalters. Die ersten programmierbaren Computer wie ENIAC und UNIVAC waren noch raumfüllende Maschinen für Militär und Wissenschaft. Gordon Moores Beobachtung von 1965, dass sich die Transistordichte auf Chips regelmäßig verdoppelt (\"Moores Gesetz\"), beschrieb eine Dynamik, die Jahrzehnte anhielt.\n\nDer Personal Computer revolutionierte ab den späten 1970er Jahren Arbeit und Alltag. Der Apple II (1977), der IBM PC (1981) und Apples Macintosh (1984) brachten Rechenleistung auf den Schreibtisch. Microsoft Windows und Textverarbeitung, Tabellenkalkulation und Datenbanken veränderten die Büroarbeit. Parallel entstanden Videospiele und Computergrafik als neue Kulturformen.\n\nTim Berners-Lees Erfindung des World Wide Web (1989) und die Freigabe für die öffentliche Nutzung (1993) lösten den größten Kommunikationswandel seit dem Buchdruck aus. E-Mail, Webbrowser und die ersten Online-Dienste verbanden Menschen weltweit. Die Dotcom-Blase der späten 1990er Jahre zeigte sowohl die Euphorie als auch die Risiken der neuen digitalen Wirtschaft. Am Ende des Jahrhunderts war der Computer vom Spezialwerkzeug zum allgegenwärtigen Medium geworden.\n\n## References\n\n- Ceruzzi, Paul E.: \"A History of Modern Computing\"\n- Berners-Lee, Tim: \"Weaving the Web\"\n"
+    },
+    {
       "title": "Brutalismus (Architektur)",
       "type": "Epoche",
       "start": "1950-01-01T00:00:00.000Z",
@@ -615,6 +711,22 @@
       "content": "\n## Summary\n\nAm 6. August 1991 machte Tim Berners-Lee das World Wide Web öffentlich zugänglich, eine Erfindung, die die Art und Weise revolutionierte, wie Menschen Informationen teilen und miteinander kommunizieren, und die Grundlage der modernen digitalen Gesellschaft schuf.\n\n## Description\n\nTim Berners-Lee, ein britischer Informatiker am CERN (Europäische Organisation für Kernforschung) in Genf, entwickelte das World Wide Web als Lösung für das Problem der Informationsverteilung unter Wissenschaftlern. Im März 1989 reichte er seinen Vorschlag \"Information Management: A Proposal\" ein, in dem er ein System zur Verknüpfung von Dokumenten über ein Netzwerk beschrieb. Zwischen 1989 und 1991 entwickelte Berners-Lee die grundlegenden Technologien: HTML (Hypertext Markup Language) für die Strukturierung von Dokumenten, HTTP (Hypertext Transfer Protocol) für die Datenübertragung, URLs (Uniform Resource Locators) zur Adressierung von Ressourcen sowie den ersten Webbrowser und Webserver.\n\nAm 6. August 1991 veröffentlichte Berners-Lee die erste Website (info.cern.ch) und stellte das World Wide Web der Öffentlichkeit vor. Entscheidend für den Erfolg war, dass CERN 1993 das WWW als freie Technologie ohne Lizenzgebühren zur Verfügung stellte. Dies ermöglichte die explosive Verbreitung: Von einer Handvoll Websites 1991 wuchs das Web auf Millionen innerhalb weniger Jahre. Der erste populäre grafische Browser Mosaic (1993) und später Netscape Navigator machten das Web massentauglich. Das WWW unterschied sich vom bereits existierenden Internet dadurch, dass es eine benutzerfreundliche, visuelle Schnittstelle für den Zugang zu vernetzten Informationen bot.\n\nDas World Wide Web transformierte fundamental, wie die Menschheit kommuniziert, arbeitet, lernt und sich unterhält. Es demokratisierte den Zugang zu Information, ermöglichte neue Geschäftsmodelle (E-Commerce, Social Media, Cloud Computing) und veränderte politische und soziale Strukturen weltweit. Heute nutzen über 5 Milliarden Menschen das Web. Tim Berners-Lee wurde für seine Erfindung zum Ritter geschlagen und erhielt zahlreiche Auszeichnungen. Das WWW gilt neben dem Buchdruck und dem Internet selbst als eine der bedeutendsten Kommunikationstechnologien der Geschichte und prägt das 21. Jahrhundert wie kaum eine andere Erfindung.\n\n## References\n\n- Tim Berners-Lee: \"Information Management: A Proposal\" (März 1989)\n- CERN\n- World Wide Web Consortium (W3C)\n"
     },
     {
+      "title": "Vernetztes / KI-Zeitalter",
+      "type": "Epoche",
+      "start": "2000-01-01T00:00:00.000Z",
+      "end": "2026-02-06T00:00:00.000Z",
+      "domain": "Technologie",
+      "tags": [
+        "Künstliche Intelligenz",
+        "Smartphone",
+        "Cloud",
+        "Social Media",
+        "Vernetzung"
+      ],
+      "added": "2026-02-06T00:00:00.000Z",
+      "content": "\n## Summary\n\nDas Vernetzte und KI-Zeitalter (seit 2000) ist geprägt von allgegenwärtiger Konnektivität durch Smartphones und Cloud Computing, sozialen Netzwerken als neuer Öffentlichkeit und dem rasanten Aufstieg Künstlicher Intelligenz als transformativer Technologie.\n\n## Description\n\nDie Jahrtausendwende markierte den Beginn einer Ära permanenter Vernetzung. Das mobile Internet, angetrieben durch Apples iPhone (2007) und Googles Android, machte das Internet vom stationären Desktop-Erlebnis zum ständigen Begleiter. Social-Media-Plattformen wie Facebook, Twitter und Instagram schufen neue Formen der Kommunikation und Öffentlichkeit. Cloud Computing verlagerte Rechenleistung und Speicher ins Netz und ermöglichte Dienste wie Streaming, Online-Zusammenarbeit und Software-as-a-Service.\n\nDas Internet der Dinge (IoT) vernetzte zunehmend physische Gegenstände, während Big Data und maschinelles Lernen neue Möglichkeiten der Datenanalyse eröffneten. Der Durchbruch der Künstlichen Intelligenz – insbesondere durch Deep Learning ab den 2010er Jahren und große Sprachmodelle wie GPT ab 2020 – veränderte die Technologielandschaft fundamental. KI-Systeme begannen, Texte zu verfassen, Bilder zu generieren, Code zu schreiben und komplexe Aufgaben autonom zu lösen.\n\nDas Vernetzte und KI-Zeitalter stellt Gesellschaften vor beispiellose Herausforderungen: Datenschutz, algorithmische Entscheidungsfindung, Desinformation, digitale Abhängigkeit und die Frage, welche Arbeit künftig von Menschen und welche von Maschinen erledigt wird. Gleichzeitig eröffnen diese Technologien Chancen in Medizin, Bildung, Wissenschaft und Nachhaltigkeit, deren volles Ausmaß noch nicht absehbar ist.\n\n## References\n\n- Zuboff, Shoshana: \"Das Zeitalter des Überwachungskapitalismus\"\n- Russell, Stuart: \"Human Compatible: Künstliche Intelligenz und wie der Mensch die Kontrolle über superintelligente Maschinen behält\"\n"
+    },
+    {
       "title": "Parametrische Architektur",
       "type": "Epoche",
       "start": "2000-01-01T00:00:00.000Z",
@@ -667,6 +779,22 @@
         "content": "\n## Summary\n\nDie Vormoderne und Sakrale Kunst umfasst die künstlerischen Ausdrucksformen von der Antike bis etwa 1400, geprägt von religiösen Motiven, symbolischer Darstellung und der dienenden Funktion der Kunst gegenüber Glauben und Kirche.\n\n## Description\n\nDie Epoche der Vormoderne und Sakralen Kunst erstreckt sich über einen gewaltigen Zeitraum von der griechisch-römischen Antike bis zum ausgehenden Mittelalter. In der Antike stand die idealisierte Darstellung des menschlichen Körpers und der Götterwelt im Vordergrund, wobei Skulptur, Architektur und Malerei eine hohe technische Perfektion erreichten.\n\nMit dem Aufstieg des Christentums veränderte sich die Funktion der Kunst grundlegend. Kunst wurde zum Mittel der religiösen Unterweisung und Andacht. Die byzantinische Kunst entwickelte strenge ikonografische Regeln für die Darstellung heiliger Figuren, während in Westeuropa romanische und gotische Kunst die Kathedralen mit Skulpturen, Fresken und Glasmalereien schmückten. Der Künstler galt nicht als individueller Schöpfer, sondern als Handwerker im Dienste Gottes.\n\nDiese Epoche legte die Grundlagen für die europäische Kunsttradition. Die Techniken der Freskomalerei, Mosaik- und Goldschmiedekunst, die symbolische Bildsprache und die architektonischen Innovationen der Gotik beeinflussten alle nachfolgenden Kunstepochen nachhaltig.\n\n## References\n\n- Janson, H.W.: \"History of Art\"\n- Belting, Hans: \"Bild und Kult\"\n"
       },
       {
+        "title": "Agrarische Technologiegesellschaft",
+        "type": "Epoche",
+        "start": "-0500-01-01T00:00:00.000Z",
+        "end": "1700-01-01T00:00:00.000Z",
+        "domain": "Technologie",
+        "tags": [
+          "Landwirtschaft",
+          "Handwerk",
+          "Wasserkraft",
+          "Buchdruck",
+          "Mühle"
+        ],
+        "added": "2026-02-06T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie agrarische Technologiegesellschaft (500 v. Chr. – 1700) war geprägt von schrittweisen technischen Innovationen in Landwirtschaft, Handwerk und Energienutzung, die von der Antike über das Mittelalter bis an die Schwelle der Industrialisierung reichten.\n\n## Description\n\nIn der Antike legten griechische und römische Ingenieure technologische Grundlagen, die Jahrhunderte nachwirkten: Aquädukte, Straßennetze, der Archimedessche Schraubenheber und ausgefeilte Bautechniken ermöglichten Zivilisationen von bisher unbekanntem Ausmaß. Die römische Ingenieurskunst schuf Infrastrukturen, die teilweise bis heute bestehen. Parallel entwickelten chinesische Technologen Papier, Kompass, Schießpulver und den Buchdruck – Erfindungen, die die Welt verändern sollten.\n\nDas europäische Mittelalter brachte entgegen verbreiteter Vorurteile bedeutende technische Fortschritte. Die Dreifelderwirtschaft steigerte landwirtschaftliche Erträge, Wasser- und Windmühlen mechanisierten Arbeitsprozesse, und das Kummetgeschirr machte Pferde als Zugtiere effizient nutzbar. Die gotischen Kathedralen zeigten hoch entwickelte Bautechnik. Johannes Gutenbergs Erfindung des Buchdrucks mit beweglichen Lettern um 1450 revolutionierte die Wissensverbreitung und gilt als eine der folgenreichsten Innovationen der Geschichte.\n\nDie frühe Neuzeit (1500–1700) brachte Navigation, Fernhandel und erste wissenschaftliche Instrumente wie Teleskop und Mikroskop hervor. Galileo, Newton und andere legten die Grundlagen der modernen Naturwissenschaft, die Technik zunehmend auf systematisches Wissen statt auf Erfahrungswissen stützte. Am Ende dieser Epoche standen die Voraussetzungen für die industrielle Revolution bereit.\n\n## References\n\n- Mokyr, Joel: \"The Lever of Riches: Technological Creativity and Economic Progress\"\n- Gimpel, Jean: \"The Medieval Machine: The Industrial Revolution of the Middle Ages\"\n"
+      },
+      {
         "title": "Antike",
         "type": "Epoche",
         "start": "-0800-01-01T00:00:00.000Z",
@@ -681,6 +809,38 @@
         ],
         "added": "2026-02-05T00:00:00.000Z",
         "content": "\n## Summary\n\nDie Antike (ca. 800 v. Chr. bis 500 n. Chr.) umfasst die Hochkulturen des Mittelmeerraums, insbesondere das antike Griechenland und das Römische Reich, und legte die Grundlagen für westliche Zivilisation, Philosophie, Wissenschaft und Staatsformen.\n\n## Description\n\nDie Antike begann mit der Entstehung der griechischen Stadtstaaten (Poleis) und der Entwicklung der ersten demokratischen Staatsformen in Athen. Diese Periode war geprägt von bedeutenden philosophischen Denkern wie Sokrates, Platon und Aristoteles, die grundlegende Fragen über Ethik, Politik und Erkenntnistheorie stellten. Die griechische Kultur erreichte ihre Blütezeit im 5. Jahrhundert v. Chr., dem \"Goldenen Zeitalter\" Athens, in dem Kunst, Theater, Architektur und Wissenschaft florierten.\n\nMit dem Aufstieg Roms entwickelte sich ab dem 3. Jahrhundert v. Chr. eine neue Supermacht, die schließlich den gesamten Mittelmeerraum beherrschte. Das Römische Reich schuf ein beispielloses Rechtssystem, beeindruckende Infrastruktur (Straßen, Aquädukte) und eine effiziente Verwaltung. Die römische Kultur assimilierte und verbreitete griechisches Wissen und erschuf eine Synthese, die als griechisch-römische Zivilisation bekannt wurde. Das Römische Recht, die lateinische Sprache und römische Verwaltungsstrukturen prägten Europa für Jahrhunderte.\n\nDas Ende der Antike wird üblicherweise mit dem Fall Westroms (476 n. Chr.) oder dem Untergang des letzten weströmischen Kaisers markiert, wobei das Oströmische (Byzantinische) Reich noch weitere tausend Jahre fortbestand. Die Christianisierung des Römischen Reiches ab dem 4. Jahrhundert und die Völkerwanderung leiteten einen kulturellen und politischen Übergang zum Mittelalter ein. Das Erbe der Antike – von Demokratie und Philosophie bis zu Architektur und Literatur – prägt die westliche Welt bis heute fundamental.\n"
+      },
+      {
+        "title": "Werkzeug- und Steinzeit",
+        "type": "Epoche",
+        "start": "-100000-01-01",
+        "end": "-3000-01-01T00:00:00.000Z",
+        "domain": "Technologie",
+        "tags": [
+          "Steinzeit",
+          "Werkzeug",
+          "Feuer",
+          "Urgeschichte",
+          "Erfindung"
+        ],
+        "added": "2026-02-06T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Werkzeug- und Steinzeit (bis ca. 3000 v. Chr.) umfasst die längste Epoche der Menschheitsgeschichte, in der grundlegende Technologien wie Steinwerkzeuge, Feuerbeherrschung, Landwirtschaft und Keramik entwickelt wurden.\n\n## Description\n\nDie Steinzeit beginnt mit den frühesten Werkzeugfunden vor über zwei Millionen Jahren und gliedert sich in Altsteinzeit (Paläolithikum), Mittelsteinzeit (Mesolithikum) und Jungsteinzeit (Neolithikum). In der Altsteinzeit lernten frühe Menschen, Steine gezielt zu bearbeiten – zunächst als grobe Faustkeile, später als fein zugeschlagene Klingen und Speerspitzen. Die Beherrschung des Feuers vor rund 400.000 Jahren war ein entscheidender Durchbruch, der Kochen, Wärme und Schutz ermöglichte.\n\nDie neolithische Revolution ab etwa 10.000 v. Chr. markierte den tiefgreifendsten Wandel: Menschen begannen, Pflanzen anzubauen und Tiere zu domestizieren. Sesshafte Siedlungen entstanden, Keramik wurde erfunden, und erste Textilien gewebt. Im Vorderen Orient, in China und in Mittelamerika entwickelten sich unabhängig voneinander landwirtschaftliche Gesellschaften. Das Rad, der Pflug und erste Bewässerungssysteme folgten in der Spätphase.\n\nDie Werkzeug- und Steinzeit legte sämtliche Grundlagen menschlicher Zivilisation. Vom einfachen Faustkeil bis zur geplanten Landwirtschaft zeigt diese Epoche die fundamentale menschliche Fähigkeit zur technischen Innovation. Der Übergang zur Metallverarbeitung um 3000 v. Chr. beendete die Steinzeit und eröffnete neue technologische Möglichkeiten.\n\n## References\n\n- Haidle, Miriam Noël: \"Menschenaffen? Affenmenschen? Menschen!\"\n- Lüning, Jens: \"Steinzeitliche Bauern in Deutschland\"\n"
+      },
+      {
+        "title": "Metallzeitalter",
+        "type": "Epoche",
+        "start": "-3000-01-01T00:00:00.000Z",
+        "end": "-0500-01-01T00:00:00.000Z",
+        "domain": "Technologie",
+        "tags": [
+          "Bronze",
+          "Eisen",
+          "Metallurgie",
+          "Schmieden",
+          "Hochkultur"
+        ],
+        "added": "2026-02-06T00:00:00.000Z",
+        "content": "\n## Summary\n\nDas Metallzeitalter (3000–500 v. Chr.) umfasst Bronze- und Eisenzeit, in denen die Metallverarbeitung Werkzeuge, Waffen, Handel und gesellschaftliche Strukturen grundlegend veränderte.\n\n## Description\n\nDie Bronzezeit begann um 3000 v. Chr. im Vorderen Orient, als Menschen lernten, Kupfer mit Zinn zu legieren. Bronze war härter als reines Kupfer und ermöglichte die Herstellung überlegener Werkzeuge, Waffen und Schmuck. Die Metallurgie erforderte spezialisiertes Wissen und weitreichende Handelsnetze für Rohstoffe, was zur Entstehung komplexer Gesellschaften beitrug. Hochkulturen in Mesopotamien, Ägypten, der Indus-Kultur und China blühten auf, begleitet von Schriftentwicklung, Monumentalarchitektur und organisierter Verwaltung.\n\nAb etwa 1200 v. Chr. setzte sich die Eisenverarbeitung durch. Eisen war zwar schwerer zu verhütten, aber die Erzvorkommen waren weitaus häufiger als Kupfer und Zinn. Die Demokratisierung des Metalls veränderte Gesellschaften: Eiserne Pflugscharen verbesserten die Landwirtschaft, eiserne Waffen verschoben militärische Machtverhältnisse, und eiserne Werkzeuge ermöglichten neue Handwerkstechniken. Die Eisenzeit sah den Aufstieg der griechischen Stadtstaaten, des Persischen Reiches und der keltischen Kultur in Europa.\n\nDas Metallzeitalter transformierte menschliche Gesellschaften von einfachen Agrargemeinschaften zu komplexen Zivilisationen mit Fernhandel, Spezialisierung und sozialer Schichtung. Die metallurgischen Grundkenntnisse dieser Epoche – Schmelzen, Legieren, Schmieden – blieben bis zur industriellen Revolution die technologische Basis der Metallbearbeitung.\n\n## References\n\n- Harding, Anthony: \"European Societies in the Bronze Age\"\n- Pleiner, Radomír: \"Iron in Archaeology: The European Bloomery Smelters\"\n"
       },
       {
         "title": "Mittelalter",
@@ -811,6 +971,22 @@
         "content": "\n## Summary\n\nDie Barockarchitektur (1600–1750) inszenierte Macht und Glaube durch monumentale Raumwirkungen, geschwungene Formen, üppigen Dekor und eine theatralische Verschmelzung von Architektur, Malerei und Skulptur.\n\n## Description\n\nDie Barockarchitektur entstand im Rom der Gegenreformation als Ausdruck kirchlicher Macht und verbreitete sich rasch in ganz Europa. Architekten wie Gian Lorenzo Bernini und Francesco Borromini schufen dynamische Fassaden, ovale Grundrisse und dramatische Lichtinszenierungen, die den Betrachter emotional überwältigen sollten. Der Petersdom mit Berninis Kolonnaden wurde zum Inbegriff barocker Raumgestaltung.\n\nIm weltlichen Bereich diente die Barockarchitektur der Repräsentation absolutistischer Herrschaft. Schloss Versailles unter Ludwig XIV. wurde zum Vorbild für Residenzen in ganz Europa. In Deutschland und Österreich entstanden prachtvolle Schlösser und Klöster: das Obere Belvedere in Wien, die Würzburger Residenz von Balthasar Neumann und die Dresdner Frauenkirche. Die süddeutsche und österreichische Barockarchitektur zeichnete sich durch besonders reiche Innenausstattungen mit Stuck, Fresken und Vergoldung aus.\n\nDie Barockarchitektur verband Bautechnik mit theatralischer Inszenierung wie keine Epoche zuvor. Ihre Fähigkeit, Raum, Licht und Bewegung zu einer Gesamtkunstwirkung zu verbinden, beeinflusste die europäische Stadtplanung nachhaltig und schuf viele der bis heute prägenden Stadtbilder.\n\n## References\n\n- Norberg-Schulz, Christian: \"Barock-Architektur\"\n- Wittkower, Rudolf: \"Art and Architecture in Italy 1600-1750\"\n"
       },
       {
+        "title": "Industrielles Zeitalter",
+        "type": "Epoche",
+        "start": "1700-01-01T00:00:00.000Z",
+        "end": "1900-01-01T00:00:00.000Z",
+        "domain": "Technologie",
+        "tags": [
+          "Industrialisierung",
+          "Dampfmaschine",
+          "Eisenbahn",
+          "Fabrik",
+          "Massenproduktion"
+        ],
+        "added": "2026-02-06T00:00:00.000Z",
+        "content": "\n## Summary\n\nDas Industrielle Zeitalter (1700–1900) transformierte die Welt durch Dampfkraft, mechanisierte Produktion und Eisenbahnnetze von agrarischen Gesellschaften zu industriellen Massengesellschaften.\n\n## Description\n\nDie Industrielle Revolution begann im 18. Jahrhundert in England, begünstigt durch Kohlevorkommen, koloniale Rohstoffe und eine innovationsfreundliche Gesellschaftsordnung. Thomas Newcomens und James Watts Dampfmaschinen ersetzten menschliche und tierische Muskelkraft durch mechanische Energie. Die Textilindustrie mechanisierte sich als erste: Spinning Jenny, Water Frame und Mule verwandelten Handarbeit in Fabrikproduktion. Die Eisenverhüttung mit Koks statt Holzkohle ermöglichte Massenproduktion von Stahl.\n\nDie zweite Phase der Industrialisierung ab Mitte des 19. Jahrhunderts brachte die Eisenbahn, das Dampfschiff und den Telegraphen. George Stephensons Rocket (1829) und das wachsende Schienennetz schrumpften Entfernungen dramatisch. Bessemer- und Siemens-Martin-Verfahren machten Stahl billig und ermöglichten Brücken, Schienen und Maschinen in nie dagewesenem Umfang. Die Weltausstellungen – allen voran London 1851 mit dem Crystal Palace – feierten den technologischen Fortschritt.\n\nDas Industrielle Zeitalter veränderte alles: Millionen Menschen zogen vom Land in die Städte, die Arbeiterbewegung entstand, und die Lebenserwartung stieg trotz anfänglich katastrophaler Arbeitsbedingungen. Die industrielle Produktion vervielfachte den materiellen Wohlstand, schuf aber auch Umweltprobleme und soziale Ungleichheit, deren Folgen bis heute spürbar sind.\n\n## References\n\n- Landes, David S.: \"The Unbound Prometheus: Technological Change and Industrial Development\"\n- Ashton, T.S.: \"The Industrial Revolution 1760-1830\"\n"
+      },
+      {
         "title": "Rokoko (Architektur)",
         "type": "Epoche",
         "start": "1720-01-01T00:00:00.000Z",
@@ -889,6 +1065,22 @@
         ],
         "added": "2026-02-06T00:00:00.000Z",
         "content": "\n## Summary\n\nDer Historismus (1850–1910) griff systematisch auf historische Baustile zurück – Neogotik, Neorenaissance, Neobarock – und kombinierte sie eklektisch, um den repräsentativen Bedürfnissen des aufstrebenden Bürgertums und der Nationalstaaten zu entsprechen.\n\n## Description\n\nDer Historismus entstand im Kontext der Industrialisierung und des wachsenden Geschichtsbewusstseins des 19. Jahrhunderts. Neue Baumaterialien wie Stahl und Gusseisen ermöglichten technisch kühne Konstruktionen, die jedoch in historische Stilgewänder gekleidet wurden. Jeder Gebäudetyp erhielt seinen \"angemessenen\" Stil: Neogotik für Kirchen und Parlamente, Neorenaissance für Museen und Banken, Neobarock für Theater und Opernhäuser.\n\nIn Deutschland prägten Architekten wie Gottfried Semper (Dresdner Semperoper), Paul Wallot (Reichstagsgebäude) und Ludwig II. mit seinen Märchenschlössern (Neuschwanstein) die Epoche. Die Wiener Ringstraße wurde zur Prachtmeile des Historismus mit Rathaus (Neogotik), Oper (Neorenaissance) und Burgtheater (Neobarock). In Großbritannien symbolisierte der Palace of Westminster von Charles Barry die nationale Neugotik.\n\nDer Historismus formte die Innenstädte, wie wir sie heute kennen. Gründerzeitliche Mietskasernen, Bahnhöfe, Rathäuser und Kaufhäuser prägen bis heute europäische Stadtbilder. Obwohl später als \"Stilkopie\" kritisiert, zeigte der Historismus eine bemerkenswerte Fähigkeit, neue Funktionen mit traditionellen Formen zu verbinden, und schuf eine der größten Bauleistungen der europäischen Geschichte.\n\n## References\n\n- Dolgner, Dieter: \"Historismus – Deutsche Baukunst 1815-1900\"\n- Huse, Norbert: \"Geschichte der Architektur im 20. Jahrhundert\"\n"
+      },
+      {
+        "title": "Elektrisches und chemisches Zeitalter",
+        "type": "Epoche",
+        "start": "1880-01-01T00:00:00.000Z",
+        "end": "1950-01-01T00:00:00.000Z",
+        "domain": "Technologie",
+        "tags": [
+          "Elektrizität",
+          "Chemie",
+          "Radio",
+          "Automobil",
+          "Kunststoff"
+        ],
+        "added": "2026-02-06T00:00:00.000Z",
+        "content": "\n## Summary\n\nDas Elektrische und Chemische Zeitalter (1880–1950) brachte mit Elektrifizierung, synthetischer Chemie, Automobil und Telekommunikation Technologien hervor, die das moderne Alltagsleben grundlegend formten.\n\n## Description\n\nAb den 1880er Jahren verwandelte die Elektrizität Städte, Fabriken und Haushalte. Thomas Edison und Nikola Tesla trieben die Elektrifizierung voran – von der Glühbirne über Kraftwerke bis zu Elektromotoren, die Industriemaschinen antrieben. Gleichzeitig revolutionierte die synthetische Chemie die Materialwelt: Fritz Habers Ammoniaksynthese (1909) sicherte die Nahrungsmittelversorgung, Bakelit (1907) begründete das Kunststoffzeitalter, und die pharmazeutische Industrie entwickelte Medikamente wie Aspirin und später Antibiotika.\n\nDas Automobil (Karl Benz, 1886) und das Fließband (Henry Ford, 1913) veränderten Mobilität und Produktion. Die drahtlose Telegraphie (Guglielmo Marconi, 1895) und das Radio schufen die erste elektronische Massenkommunikation. Die Gebrüder Wright flogen 1903 zum ersten Mal motorisiert, und innerhalb weniger Jahrzehnte wurde die Luftfahrt zur Schlüsseltechnologie. Telefon und Film verwandelten Kommunikation und Unterhaltung.\n\nDiese Epoche verdichtete technischen Fortschritt wie keine zuvor: Innerhalb von 70 Jahren entstanden elektrisches Licht, Automobil, Flugzeug, Radio, Fernsehen, Radar, Kernspaltung und die ersten elektronischen Rechner. Zwei Weltkriege beschleunigten die technologische Entwicklung auf tragische Weise – vom Giftgas bis zur Atombombe. Die Grundlagen des digitalen Zeitalters waren gelegt.\n\n## References\n\n- Hughes, Thomas P.: \"Networks of Power: Electrification in Western Society, 1880-1930\"\n- Haber, L.F.: \"The Chemical Industry During the Nineteenth Century\"\n"
       },
       {
         "title": "Jugendstil / Art Nouveau (Architektur)",
@@ -987,6 +1179,22 @@
         "content": "\n## Summary\n\nDie Zeitgeschichte (1945 bis heute) ist die jüngste historische Epoche, geprägt vom Kalten Krieg, Dekolonisierung, technologischer Revolution, Globalisierung und dem Übergang in eine multipolare, digital vernetzte Welt mit neuartigen globalen Herausforderungen.\n\n## Description\n\nDie Zeitgeschichte begann unmittelbar nach dem Zweiten Weltkrieg mit der Teilung der Welt in zwei ideologische Blöcke: die kapitalistische, demokratische Welt unter Führung der USA und der kommunistische Ostblock unter sowjetischer Herrschaft. Der Kalte Krieg (1947-1991) bestimmte die internationalen Beziehungen durch Wettrüsten, Stellvertreterkriege (Korea, Vietnam) und die ständige Bedrohung eines nuklearen Konflikts. Gleichzeitig vollzog sich die Dekolonisierung: Dutzende ehemaliger Kolonien in Asien, Afrika und der Karibik erlangten ihre Unabhängigkeit, was die globale Machtkonstellation grundlegend veränderte.\n\nDie wirtschaftliche Nachkriegsordnung wurde durch Institutionen wie UN, Weltbank und IWF geprägt. Westeuropa erlebte das \"Wirtschaftswunder\", während sich die Europäische Integration entwickelte (von der EGKS zur heutigen EU). Die 1960er Jahre brachten gesellschaftliche Umwälzungen: Bürgerrechtsbewegungen, Studentenproteste, sexuelle Revolution und Feminismus. Die Ölkrisen der 1970er, der Fall der Berliner Mauer 1989 und der Zusammenbruch der Sowjetunion 1991 markierten das Ende des Kalten Krieges und schienen kurzzeitig eine neue Ära des Friedens zu versprechen.\n\nDas späte 20. und frühe 21. Jahrhundert wurde geprägt von Globalisierung, dem Aufstieg Chinas zur Weltmacht, und der digitalen Revolution – Personal Computer, Internet, Smartphones transformierten Kommunikation, Arbeit und Gesellschaft. Die Terroranschläge vom 11. September 2001 führten zu \"Kriegen gegen den Terror\" und neuen geopolitischen Spannungen. Aktuelle Herausforderungen umfassen Klimawandel, Migration, Populismus, Pandemien (COVID-19) und die Rückkehr von Großmachtrivalitäten. Die Zeitgeschichte ist noch nicht abgeschlossen – wir leben in ihr und gestalten sie mit.\n"
       },
       {
+        "title": "Digitales Zeitalter",
+        "type": "Epoche",
+        "start": "1950-01-01T00:00:00.000Z",
+        "end": "2000-01-01T00:00:00.000Z",
+        "domain": "Technologie",
+        "tags": [
+          "Computer",
+          "Transistor",
+          "Internet",
+          "Mikrochip",
+          "Software"
+        ],
+        "added": "2026-02-06T00:00:00.000Z",
+        "content": "\n## Summary\n\nDas Digitale Zeitalter (1950–2000) führte von raumfüllenden Großrechnern über den Personal Computer bis zum World Wide Web und legte die Grundlage für die digitale Transformation aller Lebensbereiche.\n\n## Description\n\nDie Erfindung des Transistors bei den Bell Labs (1947) und des integrierten Schaltkreises (Jack Kilby und Robert Noyce, 1958) bildeten die technologische Basis des digitalen Zeitalters. Die ersten programmierbaren Computer wie ENIAC und UNIVAC waren noch raumfüllende Maschinen für Militär und Wissenschaft. Gordon Moores Beobachtung von 1965, dass sich die Transistordichte auf Chips regelmäßig verdoppelt (\"Moores Gesetz\"), beschrieb eine Dynamik, die Jahrzehnte anhielt.\n\nDer Personal Computer revolutionierte ab den späten 1970er Jahren Arbeit und Alltag. Der Apple II (1977), der IBM PC (1981) und Apples Macintosh (1984) brachten Rechenleistung auf den Schreibtisch. Microsoft Windows und Textverarbeitung, Tabellenkalkulation und Datenbanken veränderten die Büroarbeit. Parallel entstanden Videospiele und Computergrafik als neue Kulturformen.\n\nTim Berners-Lees Erfindung des World Wide Web (1989) und die Freigabe für die öffentliche Nutzung (1993) lösten den größten Kommunikationswandel seit dem Buchdruck aus. E-Mail, Webbrowser und die ersten Online-Dienste verbanden Menschen weltweit. Die Dotcom-Blase der späten 1990er Jahre zeigte sowohl die Euphorie als auch die Risiken der neuen digitalen Wirtschaft. Am Ende des Jahrhunderts war der Computer vom Spezialwerkzeug zum allgegenwärtigen Medium geworden.\n\n## References\n\n- Ceruzzi, Paul E.: \"A History of Modern Computing\"\n- Berners-Lee, Tim: \"Weaving the Web\"\n"
+      },
+      {
         "title": "Brutalismus (Architektur)",
         "type": "Epoche",
         "start": "1950-01-01T00:00:00.000Z",
@@ -1049,6 +1257,22 @@
         ],
         "added": "2026-02-06T00:00:00.000Z",
         "content": "\n## Summary\n\nDer Dekonstruktivismus (1985–2010) zerlegte architektonische Konventionen, verfremdete vertraute Formen und schuf spektakuläre, scheinbar instabile Gebäude, die Wahrnehmung und Raumempfinden radikal herausforderten.\n\n## Description\n\nDer Dekonstruktivismus wurde 1988 durch die Ausstellung \"Deconstructivist Architecture\" am Museum of Modern Art in New York einem breiten Publikum bekannt. Kuratiert von Philip Johnson und Mark Wigley, zeigte sie Arbeiten von Frank Gehry, Daniel Libeskind, Rem Koolhaas, Zaha Hadid, Peter Eisenman, Coop Himmelb(l)au und Bernard Tschumi. Philosophisch bezog sich die Bewegung auf die Dekonstruktion Jacques Derridas und den russischen Konstruktivismus.\n\nDekonstruktivistische Bauten zeichnen sich durch fragmentierte Formen, schiefe Winkel, verzerrte Oberflächen und eine bewusste Unordnung aus. Frank Gehrys Guggenheim Museum Bilbao (1997) mit seinen titanverkleideten, organischen Formen wurde zum Wahrzeichen der Bewegung und löste den \"Bilbao-Effekt\" aus – die Überzeugung, dass ein spektakuläres Gebäude eine ganze Stadt transformieren kann. Daniel Libeskinds Jüdisches Museum in Berlin inszenierte mit Hohlräumen und Brüchen die traumatische jüdische Geschichte.\n\nDer Dekonstruktivismus erweiterte die Grenzen des architektonisch Möglichen und veränderte die Erwartungen an Gebäudeformen grundlegend. Neue digitale Entwurfs- und Fertigungstechnologien machten zuvor unvorstellbare Geometrien realisierbar. Die Bewegung ebnete den Weg für die parametrische Architektur und prägte die Figur des \"Starchitekten\" als globale Marke.\n\n## References\n\n- Johnson, Philip; Wigley, Mark: \"Deconstructivist Architecture\"\n- Wigley, Mark: \"The Architecture of Deconstruction: Derrida's Haunt\"\n"
+      },
+      {
+        "title": "Vernetztes / KI-Zeitalter",
+        "type": "Epoche",
+        "start": "2000-01-01T00:00:00.000Z",
+        "end": "2026-02-06T00:00:00.000Z",
+        "domain": "Technologie",
+        "tags": [
+          "Künstliche Intelligenz",
+          "Smartphone",
+          "Cloud",
+          "Social Media",
+          "Vernetzung"
+        ],
+        "added": "2026-02-06T00:00:00.000Z",
+        "content": "\n## Summary\n\nDas Vernetzte und KI-Zeitalter (seit 2000) ist geprägt von allgegenwärtiger Konnektivität durch Smartphones und Cloud Computing, sozialen Netzwerken als neuer Öffentlichkeit und dem rasanten Aufstieg Künstlicher Intelligenz als transformativer Technologie.\n\n## Description\n\nDie Jahrtausendwende markierte den Beginn einer Ära permanenter Vernetzung. Das mobile Internet, angetrieben durch Apples iPhone (2007) und Googles Android, machte das Internet vom stationären Desktop-Erlebnis zum ständigen Begleiter. Social-Media-Plattformen wie Facebook, Twitter und Instagram schufen neue Formen der Kommunikation und Öffentlichkeit. Cloud Computing verlagerte Rechenleistung und Speicher ins Netz und ermöglichte Dienste wie Streaming, Online-Zusammenarbeit und Software-as-a-Service.\n\nDas Internet der Dinge (IoT) vernetzte zunehmend physische Gegenstände, während Big Data und maschinelles Lernen neue Möglichkeiten der Datenanalyse eröffneten. Der Durchbruch der Künstlichen Intelligenz – insbesondere durch Deep Learning ab den 2010er Jahren und große Sprachmodelle wie GPT ab 2020 – veränderte die Technologielandschaft fundamental. KI-Systeme begannen, Texte zu verfassen, Bilder zu generieren, Code zu schreiben und komplexe Aufgaben autonom zu lösen.\n\nDas Vernetzte und KI-Zeitalter stellt Gesellschaften vor beispiellose Herausforderungen: Datenschutz, algorithmische Entscheidungsfindung, Desinformation, digitale Abhängigkeit und die Frage, welche Arbeit künftig von Menschen und welche von Maschinen erledigt wird. Gleichzeitig eröffnen diese Technologien Chancen in Medizin, Bildung, Wissenschaft und Nachhaltigkeit, deren volles Ausmaß noch nicht absehbar ist.\n\n## References\n\n- Zuboff, Shoshana: \"Das Zeitalter des Überwachungskapitalismus\"\n- Russell, Stuart: \"Human Compatible: Künstliche Intelligenz und wie der Mensch die Kontrolle über superintelligente Maschinen behält\"\n"
       },
       {
         "title": "Parametrische Architektur",
