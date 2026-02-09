@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T08:22:03.772Z",
+  "lastUpdated": "2026-02-09T14:28:30.877Z",
   "count": 83,
   "aktiv": [
     {
@@ -878,6 +878,8 @@
         ],
         "finished": "2023-11-15T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#F59E84",
+        "textColor": "#FFF8ED",
         "status": [
           "Abgeschlossen"
         ]
@@ -897,6 +899,8 @@
         ],
         "finished": "2023-05-03T00:00:00.000Z",
         "rating": 3.5,
+        "spineColor": "#02428B",
+        "textColor": "#FFFFFE",
         "status": [
           "Abgeschlossen"
         ]
@@ -915,6 +919,8 @@
         ],
         "finished": "2023-03-29T00:00:00.000Z",
         "rating": 5,
+        "spineColor": "#FFF227",
+        "textColor": "#171818",
         "status": [
           "Abgeschlossen"
         ]
@@ -933,6 +939,8 @@
         ],
         "finished": "2023-06-07T00:00:00.000Z",
         "rating": 4.5,
+        "spineColor": "#262223",
+        "textColor": "#FEFEFE",
         "status": [
           "Abgeschlossen"
         ]
@@ -951,6 +959,8 @@
         ],
         "finished": "2023-10-03T00:00:00.000Z",
         "rating": 3,
+        "spineColor": "#A9E4DA",
+        "textColor": "#0535B6",
         "status": [
           "Abgeschlossen"
         ]
@@ -969,6 +979,8 @@
         ],
         "finished": "2023-01-26T00:00:00.000Z",
         "rating": 4.5,
+        "spineColor": "#666",
+        "textColor": "#FFFFF3",
         "status": [
           "Abgeschlossen"
         ]
@@ -987,6 +999,8 @@
         ],
         "finished": "2023-12-14T00:00:00.000Z",
         "rating": 3,
+        "spineColor": "#020202",
+        "textColor": "#F3D918",
         "status": [
           "Abgeschlossen"
         ]
@@ -1005,6 +1019,8 @@
         ],
         "finished": "2023-01-15T00:00:00.000Z",
         "rating": 5,
+        "spineColor": "#060606",
+        "textColor": "#FFF",
         "status": [
           "Abgeschlossen"
         ]
@@ -1023,6 +1039,8 @@
         ],
         "finished": "2023-03-11T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#020202",
+        "textColor": "#FBFBFB",
         "status": [
           "Abgeschlossen"
         ]
@@ -1044,6 +1062,8 @@
         ],
         "finished": "2023-07-22T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#2C2A24",
+        "textColor": "#F4A6D6",
         "status": [
           "Abgeschlossen"
         ]
@@ -1063,6 +1083,8 @@
         ],
         "finished": "2023-01-14T00:00:00.000Z",
         "rating": null,
+        "spineColor": "#21283C",
+        "textColor": "#FEFEFE",
         "status": [
           "Abgeschlossen"
         ]
@@ -1081,6 +1103,8 @@
         ],
         "finished": "2023-05-15T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#066954",
+        "textColor": "#F9FEFC",
         "status": [
           "Abgeschlossen"
         ]
@@ -1099,6 +1123,8 @@
         ],
         "finished": "2023-06-26T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#131215",
+        "textColor": "#C4172F",
         "status": [
           "Abgeschlossen"
         ]
@@ -1117,6 +1143,8 @@
         ],
         "finished": "2023-08-28T00:00:00.000Z",
         "rating": 3.5,
+        "spineColor": "#C3716F",
+        "textColor": "#23134D",
         "status": [
           "Abgeschlossen"
         ]
@@ -1135,6 +1163,8 @@
         ],
         "finished": "2023-10-20T00:00:00.000Z",
         "rating": 5,
+        "spineColor": "#666",
+        "textColor": "#FFFFF3",
         "status": [
           "Abgeschlossen"
         ]
@@ -1153,6 +1183,8 @@
         ],
         "finished": "2023-06-02T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#272D1F",
+        "textColor": "#F6F5F5",
         "status": [
           "Abgeschlossen"
         ]
@@ -1196,6 +1228,8 @@
         ],
         "finished": "2024-05-01T00:00:00.000Z",
         "rating": 3,
+        "spineColor": "#272D2C",
+        "textColor": "#D8C87F",
         "status": [
           "Abgeschlossen"
         ]
@@ -1214,6 +1248,8 @@
         ],
         "finished": "2024-02-28T00:00:00.000Z",
         "rating": 4.5,
+        "spineColor": "#030303",
+        "textColor": "#FEFEFE",
         "status": [
           "Abgeschlossen"
         ]
@@ -1232,6 +1268,8 @@
         ],
         "finished": "2024-01-25T00:00:00.000Z",
         "rating": 3.5,
+        "spineColor": "#242422",
+        "textColor": "#EFEEE7",
         "status": [
           "Abgeschlossen"
         ]
@@ -1250,6 +1288,8 @@
         ],
         "finished": "2024-01-11T00:00:00.000Z",
         "rating": 3,
+        "spineColor": "#157978",
+        "textColor": "#FEFEFE",
         "status": [
           "Abgeschlossen"
         ]
@@ -1268,6 +1308,8 @@
         ],
         "finished": "2024-04-04T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#E5DFD3",
+        "textColor": "#242018",
         "status": [
           "Abgeschlossen"
         ]
@@ -1326,6 +1368,8 @@
         ],
         "finished": "2024-06-09T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#98B8CB",
+        "textColor": "#E42D13",
         "status": [
           "Abgeschlossen"
         ]
@@ -1344,6 +1388,8 @@
         ],
         "finished": "2024-09-14T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#1D1C1A",
+        "textColor": "#E17C33",
         "status": [
           "Abgeschlossen"
         ]
