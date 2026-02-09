@@ -31,6 +31,8 @@ const KEY_MAP = {
     Beendet: "finished",
     Bewertung: "rating",
     Hinzugefügt: "added",
+    "Farbe Buchrücken": "spineColor",
+    "Farbe Text": "textColor",
 };
 
 async function exportBooks() {

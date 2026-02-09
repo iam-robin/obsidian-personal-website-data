@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T10:07:26.587Z",
+  "lastUpdated": "2026-02-09T08:11:51.730Z",
   "count": 83,
   "aktiv": [
     {
@@ -1376,6 +1376,8 @@
         "finished": "2025-12-24T00:00:00.000Z",
         "rating": 4,
         "added": "2025-12-22 16:54",
+        "spineColor": "#F7F1E5",
+        "textColor": "#0C7B3E",
         "status": [
           "Abgeschlossen"
         ]
@@ -1395,6 +1397,8 @@
         ],
         "finished": "2025-04-02T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#1D2F2D",
+        "textColor": "#FFF",
         "status": [
           "Abgeschlossen"
         ]
@@ -1421,6 +1425,8 @@
         ],
         "finished": "2025-11-11T00:00:00.000Z",
         "rating": 4.5,
+        "spineColor": null,
+        "textColor": null,
         "status": [
           "Abgeschlossen"
         ]
@@ -1457,6 +1463,8 @@
         ],
         "finished": "2025-05-03T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#040404",
+        "textColor": "#FFF",
         "status": [
           "Abgeschlossen"
         ]
@@ -1516,6 +1524,8 @@
         ],
         "finished": "2025-12-15T00:00:00.000Z",
         "rating": 4,
+        "spineColor": "#F3E2CA",
+        "textColor": "#2164FE",
         "status": [
           "Abgeschlossen"
         ]
@@ -1534,6 +1544,8 @@
         ],
         "finished": "2025-06-13T00:00:00.000Z",
         "rating": 2.5,
+        "spineColor": "#2C2D27",
+        "textColor": "#F142AF",
         "status": [
           "Abgeschlossen"
         ]
@@ -1554,6 +1566,8 @@
         "finished": "2026-02-01T00:00:00.000Z",
         "rating": 3,
         "added": "2026-01-10 19:45",
+        "spineColor": "#262725",
+        "textColor": "#FAF00B",
         "status": [
           "Abgeschlossen"
         ]
@@ -1572,6 +1586,8 @@
         "finished": "2026-01-10T00:00:00.000Z",
         "rating": 4.5,
         "added": "2026-01-03 23:34",
+        "spineColor": "#FFF",
+        "textColor": "#000",
         "status": [
           "Abgeschlossen"
         ]
