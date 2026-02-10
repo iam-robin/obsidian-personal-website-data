@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T09:19:58.618Z",
+  "lastUpdated": "2026-02-10T09:23:04.988Z",
   "count": 83,
   "aktiv": [
     {
@@ -121,8 +121,8 @@
         ],
         "finished": "2018-09-05T00:00:00.000Z",
         "rating": 4.5,
-        "spineColor": "#E1E8EA",
-        "textColor": "#13543A",
+        "spineColor": "#14B071",
+        "textColor": "#E1E8EA",
         "status": [
           "Abgeschlossen"
         ]
