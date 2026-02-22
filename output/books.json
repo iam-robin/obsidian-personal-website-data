@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-10T09:24:39.972Z",
-  "count": 83,
+  "lastUpdated": "2026-02-22T12:15:32.355Z",
+  "count": 84,
   "aktiv": [
     {
       "title": "The Pillars of the Earth",
@@ -22,6 +22,27 @@
     }
   ],
   "merkliste": [
+    {
+      "title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
+      "author": [
+        "Karen Hao"
+      ],
+      "pages": 496,
+      "published": "2025-05-20",
+      "cover": "book-covers/empire-of-ai-dreams-and-nightmares-in-sam-altman-s-openai-karen-hao.jpg",
+      "isbn": "0593657500 9780593657508",
+      "publisher": "Penguin Press",
+      "genre": [
+        "Technology",
+        "Nonfiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-02-11 12:00",
+      "status": [
+        "Merkliste"
+      ]
+    },
     {
       "title": "Watchmen",
       "author": [

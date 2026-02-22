@@ -1,53 +1,7 @@
 {
-  "lastUpdated": "2026-02-04T07:18:01.275Z",
+  "lastUpdated": "2026-02-22T12:15:32.424Z",
   "count": 64,
   "aktiv": [
-    {
-      "title": "The Bear",
-      "season": 3,
-      "genre": null,
-      "director": null,
-      "rating": null,
-      "imdbScore": null,
-      "cast": null,
-      "cover": "https://artworks.thetvdb.com/banners/v4/season/2127094/posters/682d0083267ff.jpg",
-      "released": null,
-      "finished": null,
-      "added": "2026-01-10T00:00:00.000Z",
-      "favorite": false,
-      "status": [
-        "Aktiv"
-      ]
-    },
-    {
-      "title": "Shōgun",
-      "season": 1,
-      "genre": [
-        "Drama",
-        "War & Politics"
-      ],
-      "director": [
-        "Rachel Kondo",
-        "Justin Marks"
-      ],
-      "rating": null,
-      "imdbScore": 8.4,
-      "cast": [
-        "Hiroyuki Sanada",
-        "Cosmo Jarvis",
-        "Anna Sawai",
-        "Tadanobu Asano",
-        "Takehiro Hira"
-      ],
-      "cover": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
-      "released": "2024-02-27T00:00:00.000Z",
-      "finished": null,
-      "added": "2026-01-18T00:00:00.000Z",
-      "favorite": false,
-      "status": [
-        "Aktiv"
-      ]
-    },
     {
       "title": "Blue Eye Samurai",
       "season": 1,
@@ -72,6 +26,35 @@
       "released": "2023-11-01T00:00:00.000Z",
       "finished": null,
       "added": "2026-02-03T00:00:00.000Z",
+      "favorite": false,
+      "status": [
+        "Aktiv"
+      ]
+    },
+    {
+      "title": "A Knight of the Seven Kingdoms",
+      "season": 1,
+      "genre": [
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "director": [
+        "George R. R. Martin",
+        "Ira Parker"
+      ],
+      "rating": null,
+      "imdbScore": 7.3,
+      "cast": [
+        "Peter Claffey",
+        "Dexter Sol Ansell",
+        "Finn Bennett",
+        "Bertie Carvel",
+        "Tanzyn Crawford"
+      ],
+      "cover": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
+      "released": "2026-01-18T00:00:00.000Z",
+      "finished": null,
+      "added": "2026-01-19T00:00:00.000Z",
       "favorite": false,
       "status": [
         "Aktiv"
@@ -137,6 +120,52 @@
       ]
     },
     {
+      "title": "The Bear",
+      "season": 3,
+      "genre": null,
+      "director": null,
+      "rating": null,
+      "imdbScore": null,
+      "cast": null,
+      "cover": "https://artworks.thetvdb.com/banners/v4/season/2127094/posters/682d0083267ff.jpg",
+      "released": null,
+      "finished": null,
+      "added": "2026-01-10T00:00:00.000Z",
+      "favorite": false,
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Shōgun",
+      "season": 1,
+      "genre": [
+        "Drama",
+        "War & Politics"
+      ],
+      "director": [
+        "Rachel Kondo",
+        "Justin Marks"
+      ],
+      "rating": null,
+      "imdbScore": 8.4,
+      "cast": [
+        "Hiroyuki Sanada",
+        "Cosmo Jarvis",
+        "Anna Sawai",
+        "Tadanobu Asano",
+        "Takehiro Hira"
+      ],
+      "cover": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+      "released": "2024-02-27T00:00:00.000Z",
+      "finished": null,
+      "added": "2026-01-18T00:00:00.000Z",
+      "favorite": false,
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
       "title": "Peaky Blinders",
       "season": 1,
       "genre": [
@@ -179,35 +208,6 @@
       "released": null,
       "finished": null,
       "added": "2025-12-01 22:26",
-      "favorite": false,
-      "status": [
-        "Merkliste"
-      ]
-    },
-    {
-      "title": "A Knight of the Seven Kingdoms",
-      "season": 1,
-      "genre": [
-        "Drama",
-        "Sci-Fi & Fantasy"
-      ],
-      "director": [
-        "George R. R. Martin",
-        "Ira Parker"
-      ],
-      "rating": null,
-      "imdbScore": 7.3,
-      "cast": [
-        "Peter Claffey",
-        "Dexter Sol Ansell",
-        "Finn Bennett",
-        "Bertie Carvel",
-        "Tanzyn Crawford"
-      ],
-      "cover": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
-      "released": "2026-01-18T00:00:00.000Z",
-      "finished": null,
-      "added": "2026-01-19T00:00:00.000Z",
       "favorite": false,
       "status": [
         "Merkliste"
