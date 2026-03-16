@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-02-22T12:15:32.355Z",
-  "count": 84,
+  "lastUpdated": "2026-03-16T14:33:33.474Z",
+  "count": 87,
   "aktiv": [
     {
       "title": "The Pillars of the Earth",
@@ -23,27 +23,6 @@
   ],
   "merkliste": [
     {
-      "title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
-      "author": [
-        "Karen Hao"
-      ],
-      "pages": 496,
-      "published": "2025-05-20",
-      "cover": "book-covers/empire-of-ai-dreams-and-nightmares-in-sam-altman-s-openai-karen-hao.jpg",
-      "isbn": "0593657500 9780593657508",
-      "publisher": "Penguin Press",
-      "genre": [
-        "Technology",
-        "Nonfiction"
-      ],
-      "finished": "",
-      "rating": "",
-      "added": "2026-02-11 12:00",
-      "status": [
-        "Merkliste"
-      ]
-    },
-    {
       "title": "Watchmen",
       "author": [
         "Alan             Moore",
@@ -65,6 +44,26 @@
       ],
       "finished": null,
       "rating": null,
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "The Will of the Many",
+      "author": [
+        "James Islington"
+      ],
+      "pages": 720,
+      "published": "2025-06-10",
+      "cover": "book-covers/the-will-of-the-many-james-islington.jpg",
+      "isbn": "1982141182 9781982141189",
+      "publisher": "Simon and Schuster",
+      "genre": [
+        "Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-03-10 00:00",
       "status": [
         "Merkliste"
       ]
@@ -113,6 +112,70 @@
       ],
       "finished": null,
       "rating": null,
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI",
+      "author": [
+        "Karen Hao"
+      ],
+      "pages": 496,
+      "published": "2025-05-20",
+      "cover": "book-covers/empire-of-ai-dreams-and-nightmares-in-sam-altman-s-openai-karen-hao.jpg",
+      "isbn": "0593657500 9780593657508",
+      "publisher": "Penguin Press",
+      "genre": [
+        "Technology",
+        "Nonfiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-02-11 12:00",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Die Säulen der Erde - Der Traum von einer Kathedrale",
+      "author": [
+        "Didier Alcante",
+        "Steven Dupré"
+      ],
+      "pages": 112,
+      "published": "2024",
+      "cover": "book-covers/die-s-ulen-der-erde-der-traum-von-einer-kathedrale-didier-alcante.jpg",
+      "isbn": "9783757700874",
+      "publisher": "Lübbe",
+      "genre": [
+        "Graphic Novel",
+        "Historical Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-02-26 12:00",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Bullshit Jobs: A Theory",
+      "author": [
+        "David Graeber"
+      ],
+      "pages": 368,
+      "published": "2018-05-15",
+      "cover": "book-covers/bullshit-jobs-a-theory-david-graeber.jpg",
+      "isbn": "150114331X 9781501143311",
+      "publisher": "Simon & Schuster",
+      "genre": [
+        "Nonfiction",
+        "Social Science"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-02-24 12:00",
       "status": [
         "Merkliste"
       ]

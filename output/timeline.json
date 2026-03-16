@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T15:38:57.738Z",
+  "lastUpdated": "2026-03-16T14:33:33.692Z",
   "count": 47,
   "entries": [
     {
@@ -291,22 +291,6 @@
       "content": "\n## Summary\n\n1769 erhielt James Watt das Patent für seine verbesserte Dampfmaschine mit separatem Kondensator, eine Erfindung, die die Industrielle Revolution ermöglichte und die Welt von menschlicher und tierischer Arbeitskraft zu mechanischer Energie transformierte.\n\n## Description\n\nFrühe Dampfmaschinen existierten bereits seit Beginn des 18. Jahrhunderts, insbesondere Thomas Newcomens atmosphärische Dampfmaschine von 1712, die vor allem zum Abpumpen von Wasser aus Kohlebergwerken genutzt wurde. Diese Maschinen waren jedoch extrem ineffizient und verbrauchten große Mengen Kohle. Der schottische Ingenieur James Watt begann 1763 mit der Reparatur einer Newcomen-Maschine und erkannte deren fundamentale Schwäche: Der Zylinder musste bei jedem Hub abwechselnd erhitzt und gekühlt werden, was enorme Energieverschwendung bedeutete. Am 5. Januar 1769 erhielt Watt das Patent für seine revolutionäre Verbesserung: einen separaten Kondensator, der den Zylinder ständig heiß hielt und die Effizienz um das Vierfache steigerte.\n\nWatts Dampfmaschine entwickelte sich kontinuierlich weiter. Zusammen mit dem Unternehmer Matthew Boulton gründete er 1775 die Firma Boulton & Watt, die verbesserte Dampfmaschinen produzierte und lizenzierte. Weitere Innovationen folgten: die doppelt wirkende Dampfmaschine (1782), das Planetengetriebe (1781) und der Fliehkraftregler (1788). Diese Verbesserungen machten die Dampfmaschine vielseitig einsetzbar – nicht nur zum Pumpen, sondern auch zum Antrieb von Maschinen in Textilfabriken, Mühlen und später Lokomotiven und Dampfschiffen. Die Dampfmaschine wurde zur Hauptenergiequelle der Industriellen Revolution.\n\nDie Dampfmaschine veränderte die menschliche Zivilisation fundamental. Sie ermöglichte die Mechanisierung der Produktion, die Entwicklung von Eisenbahnen und Dampfschiffen, die Urbanisierung und den Übergang von einer landwirtschaftlichen zu einer industriellen Gesellschaft. Die Erfindung legte den Grundstein für die moderne Welt und gilt als eine der bedeutendsten technologischen Durchbrüche der Menschheitsgeschichte. Watt selbst wurde zu Lebzeiten geehrt; die Einheit der Leistung \"Watt\" wurde 1882 nach ihm benannt.\n\n## References\n\n- James Watt: Patent für separate Kondensator (5. Januar 1769)\n- Boulton & Watt (gegründet 1775)\n- Science Museum London: James Watt Collection\n"
     },
     {
-      "title": "Moderne",
-      "type": "Epoche",
-      "start": "1800-01-01T00:00:00.000Z",
-      "end": "1945-05-08T00:00:00.000Z",
-      "domain": "Geschichte",
-      "tags": [
-        "Epoche",
-        "Industrialisierung",
-        "Nationalismus",
-        "Weltkriege",
-        "Imperialismus"
-      ],
-      "added": "2026-02-05T00:00:00.000Z",
-      "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
-    },
-    {
       "title": "Romantik & Frühmoderne",
       "type": "Epoche",
       "start": "1800-01-01T00:00:00.000Z",
@@ -321,6 +305,22 @@
       ],
       "added": "2026-02-05T00:00:00.000Z",
       "content": "\n## Summary\n\nDie Romantik und Frühmoderne (1800–1900) brachten eine Abkehr von akademischen Regeln, eine Hinwendung zu Gefühl und Natur, und legten mit Realismus und Impressionismus die Grundlagen für die moderne Kunst.\n\n## Description\n\nDie Romantik entstand als Gegenbewegung zur Rationalität der Aufklärung und zum strengen Klassizismus. Künstler wie Caspar David Friedrich und William Turner stellten die überwältigende Kraft der Natur dar, während sie Gefühl, Sehnsucht und das Erhabene in den Mittelpunkt rückten. Die individuelle Empfindung des Künstlers wurde wichtiger als akademische Regeln.\n\nMitte des 19. Jahrhunderts wandten sich Realisten wie Gustave Courbet und Jean-François Millet der ungeschönten Darstellung des alltäglichen Lebens zu. Sie malten Arbeiter, Bauern und soziale Zustände und brachen damit das Privileg der historischen und mythologischen Themen.\n\nDer Impressionismus ab den 1860er Jahren revolutionierte die Malerei grundlegend. Claude Monet, Auguste Renoir und Edgar Degas malten im Freien, fingen flüchtige Lichtmomente ein und lösten die Formen in Farbflecke auf. Diese Bewegung befreite die Kunst endgültig von der naturgetreuen Nachahmung und öffnete den Weg für die radikalen Experimente des 20. Jahrhunderts.\n\n## References\n\n- Clark, T.J.: \"The Painting of Modern Life\"\n- Honour, Hugh: \"Romanticism\"\n"
+    },
+    {
+      "title": "Moderne",
+      "type": "Epoche",
+      "start": "1800-01-01T00:00:00.000Z",
+      "end": "1945-05-08T00:00:00.000Z",
+      "domain": "Geschichte",
+      "tags": [
+        "Epoche",
+        "Industrialisierung",
+        "Nationalismus",
+        "Weltkriege",
+        "Imperialismus"
+      ],
+      "added": "2026-02-05T00:00:00.000Z",
+      "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
     },
     {
       "title": "Erfindung der Eisenbahn",
@@ -1019,22 +1019,6 @@
         "content": "\n## Summary\n\nDer Klassizismus (1750–1850) kehrte zu den klaren Formen der griechisch-römischen Antike zurück und setzte auf strenge Symmetrie, Säulenportiken und ruhige Monumentalität als Gegenreaktion zum verspielten Rokoko.\n\n## Description\n\nDer architektonische Klassizismus entstand ab der Mitte des 18. Jahrhunderts, inspiriert durch die Ausgrabungen von Pompeji und Herculaneum sowie die theoretischen Schriften Johann Joachim Winckelmanns, der die \"edle Einfalt und stille Größe\" der antiken Kunst propagierte. Die Aufklärung forderte Vernunft und Klarheit – Werte, die sich in der reduzierten Formensprache des Klassizismus widerspiegelten.\n\nIn Frankreich prägte der Revolutionsklassizismus mit Bauten wie dem Panthéon von Jacques-Germain Soufflot und den Visionen von Claude-Nicolas Ledoux die Epoche. In Deutschland wurde Karl Friedrich Schinkel zur zentralen Figur: Sein Altes Museum, die Neue Wache und das Schauspielhaus in Berlin verbanden griechische Formstrenge mit modernem Funktionsbewusstsein. In England setzte John Nash mit dem Royal Pavilion und den Regent's Park Terraces klassizistische Maßstäbe.\n\nDer Klassizismus prägte nicht nur einzelne Gebäude, sondern ganze Stadtbilder: Die Planungen für St. Petersburg, München (Ludwigstraße) und Washington, D.C. folgten klassizistischen Idealen. Als Ausdruck bürgerlicher und demokratischer Werte beeinflusste der Stil Regierungsgebäude weltweit und legte den Grundstein für den Historismus des 19. Jahrhunderts.\n\n## References\n\n- Winckelmann, Johann Joachim: \"Gedanken über die Nachahmung der griechischen Werke\"\n- Watkin, David: \"A History of Western Architecture\"\n"
       },
       {
-        "title": "Moderne",
-        "type": "Epoche",
-        "start": "1800-01-01T00:00:00.000Z",
-        "end": "1945-05-08T00:00:00.000Z",
-        "domain": "Geschichte",
-        "tags": [
-          "Epoche",
-          "Industrialisierung",
-          "Nationalismus",
-          "Weltkriege",
-          "Imperialismus"
-        ],
-        "added": "2026-02-05T00:00:00.000Z",
-        "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
-      },
-      {
         "title": "Romantik & Frühmoderne",
         "type": "Epoche",
         "start": "1800-01-01T00:00:00.000Z",
@@ -1049,6 +1033,22 @@
         ],
         "added": "2026-02-05T00:00:00.000Z",
         "content": "\n## Summary\n\nDie Romantik und Frühmoderne (1800–1900) brachten eine Abkehr von akademischen Regeln, eine Hinwendung zu Gefühl und Natur, und legten mit Realismus und Impressionismus die Grundlagen für die moderne Kunst.\n\n## Description\n\nDie Romantik entstand als Gegenbewegung zur Rationalität der Aufklärung und zum strengen Klassizismus. Künstler wie Caspar David Friedrich und William Turner stellten die überwältigende Kraft der Natur dar, während sie Gefühl, Sehnsucht und das Erhabene in den Mittelpunkt rückten. Die individuelle Empfindung des Künstlers wurde wichtiger als akademische Regeln.\n\nMitte des 19. Jahrhunderts wandten sich Realisten wie Gustave Courbet und Jean-François Millet der ungeschönten Darstellung des alltäglichen Lebens zu. Sie malten Arbeiter, Bauern und soziale Zustände und brachen damit das Privileg der historischen und mythologischen Themen.\n\nDer Impressionismus ab den 1860er Jahren revolutionierte die Malerei grundlegend. Claude Monet, Auguste Renoir und Edgar Degas malten im Freien, fingen flüchtige Lichtmomente ein und lösten die Formen in Farbflecke auf. Diese Bewegung befreite die Kunst endgültig von der naturgetreuen Nachahmung und öffnete den Weg für die radikalen Experimente des 20. Jahrhunderts.\n\n## References\n\n- Clark, T.J.: \"The Painting of Modern Life\"\n- Honour, Hugh: \"Romanticism\"\n"
+      },
+      {
+        "title": "Moderne",
+        "type": "Epoche",
+        "start": "1800-01-01T00:00:00.000Z",
+        "end": "1945-05-08T00:00:00.000Z",
+        "domain": "Geschichte",
+        "tags": [
+          "Epoche",
+          "Industrialisierung",
+          "Nationalismus",
+          "Weltkriege",
+          "Imperialismus"
+        ],
+        "added": "2026-02-05T00:00:00.000Z",
+        "content": "\n## Summary\n\nDie Moderne (ca. 1800 bis 1945) war eine Epoche radikaler Transformation durch Industrialisierung, Nationalismus, Imperialismus und zwei Weltkriege, die Gesellschaft, Wirtschaft und Politik grundlegend und oft katastrophal veränderten.\n\n## Description\n\nDie Moderne begann mit der Industriellen Revolution, die von Großbritannien ausgehend Europa und Nordamerika erfasste. Dampfmaschinen, Eisenbahnen und Fabriken revolutionierten Produktion und Transport. Die Urbanisierung beschleunigte sich massiv, während neue soziale Klassen – das Industrieproletariat und das Bürgertum – entstanden. Diese Veränderungen führten zu sozialen Spannungen und neuen politischen Bewegungen wie Sozialismus und Kommunismus. Gleichzeitig erlebten Wissenschaft und Technik beispiellose Fortschritte: Elektrizität, Telegrafie, Telefon und später Automobile und Flugzeuge veränderten den Alltag grundlegend.\n\nDas 19. Jahrhundert war geprägt von Nationalismus und Imperialismus. Europäische Mächte teilten Afrika und große Teile Asiens unter sich auf, während nationalistische Bewegungen zur Bildung neuer Nationalstaaten führten (z.B. Deutschland und Italien). Die \"Belle Époque\" vor 1914 schien eine Zeit des Fortschritts und Wohlstands, doch Rivalitäten zwischen Großmächten, Wettrüsten und koloniale Konflikte schufen explosive Spannungen. Der Erste Weltkrieg (1914-1918) erschütterte diese Ordnung mit industrialisierter Kriegsführung und Millionen Toten.\n\nDie Zwischenkriegszeit war instabil: Die Russische Revolution (1917) schuf den ersten kommunistischen Staat, die Weltwirtschaftskrise (1929) stürzte Millionen in Armut, und totalitäre Regime – Faschismus in Italien, Nationalsozialismus in Deutschland, Stalinismus in der UdSSR – gewannen an Macht. Der Zweite Weltkrieg (1939-1945) wurde zum verheerendsten Konflikt der Geschichte mit über 60 Millionen Toten, dem Holocaust und dem ersten Einsatz von Atomwaffen. Das Kriegsende 1945 markierte das Ende der Moderne und den Beginn einer neuen, bipolaren Weltordnung.\n"
       },
       {
         "title": "Historismus (Architektur)",
