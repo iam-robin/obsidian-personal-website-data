@@ -4,6 +4,7 @@ import { exportBooks } from './export-books.mjs';
 import { exportSeries } from './export-series.mjs';
 import { exportDigitalGarden } from './export-digital-garden.mjs';
 import { exportTimeline } from './export-timeline.mjs';
+import { exportBookmarks } from './export-bookmarks.mjs';
 
 async function exportAll() {
   console.log('=== Obsidian Data Export ===\n');
@@ -34,12 +35,19 @@ async function exportAll() {
     console.error('Failed to export Timeline:', err.message);
   }
 
+  try {
+    results.bookmarks = await exportBookmarks();
+  } catch (err) {
+    console.error('Failed to export Bookmarks:', err.message);
+  }
+
   // Summary
   console.log('\n=== Export Complete ===');
   console.log(`Books: ${results.books?.count ?? 0} items`);
   console.log(`Series: ${results.series?.count ?? 0} items`);
   console.log(`Digital Garden: ${results.digitalGarden?.count ?? 0} items`);
   console.log(`Timeline: ${results.timeline?.count ?? 0} items`);
+  console.log(`Bookmarks: ${results.bookmarks?.count ?? 0} items`);
   console.log(`\nOutput: scripts/output/`);
 }
 

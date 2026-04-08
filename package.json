@@ -6,7 +6,8 @@
   "scripts": {
     "export": "node export-all.mjs",
     "export:books": "node export-books.mjs",
-    "export:series": "node export-series.mjs"
+    "export:series": "node export-series.mjs",
+    "export:bookmarks": "node export-bookmarks.mjs"
   },
   "dependencies": {
     "glob": "^10.3.10",
