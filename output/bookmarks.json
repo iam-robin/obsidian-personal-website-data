@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T06:34:41.854Z",
+  "lastUpdated": "2026-04-08T09:08:18.817Z",
   "count": 67,
   "items": [
     {
@@ -9,7 +9,8 @@
       "cover": null,
       "tags": [
         "webdev"
-      ]
+      ],
+      "type": "article"
     },
     {
       "title": "A cartoonist's review of AI art - The Oatmeal",
@@ -19,7 +20,8 @@
       "tags": [
         "ai"
       ],
-      "description": "This is a comic about AI art."
+      "description": "This is a comic about AI art.",
+      "type": "website"
     },
     {
       "title": "The Seven Phases of Madness",
@@ -28,7 +30,8 @@
       "cover": "bookmark-covers/the-seven-phases-of-madness.jpg",
       "tags": [
         "bike"
-      ]
+      ],
+      "type": "video"
     },
     {
       "title": "Building Websites With LLMS – (L)ots of (L)ittle ht(M)l page(S)",
@@ -40,7 +43,8 @@
         "webdev",
         "html"
       ],
-      "description": "Writing about the big beautiful mess that is making things for the world wide web."
+      "description": "Writing about the big beautiful mess that is making things for the world wide web.",
+      "type": "article"
     },
     {
       "title": "Dark Mode App Icons",
@@ -49,7 +53,8 @@
       "cover": "bookmark-covers/dark-mode-app-icons.jpg",
       "tags": [
         "design"
-      ]
+      ],
+      "type": "article"
     },
     {
       "title": "Internet Phone Book",
@@ -59,7 +64,8 @@
       "tags": [
         "internet"
       ],
-      "description": "A physical directory for exploring the vast poetic web"
+      "description": "A physical directory for exploring the vast poetic web",
+      "type": "website"
     },
     {
       "title": "A quick beginner's guide to animation",
@@ -70,7 +76,8 @@
         "motion",
         "design"
       ],
-      "description": "Get started with animation with these 5 exercises. They are fun and teach you how to imagine in time."
+      "description": "Get started with animation with these 5 exercises. They are fun and teach you how to imagine in time.",
+      "type": "article"
     },
     {
       "title": "The Human Made Mark",
@@ -80,7 +87,8 @@
       "tags": [
         "ai"
       ],
-      "description": "When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you."
+      "description": "When you see this logo on any artwork, whether painting, poetry, or prose, you know that it was made by a human just like you.",
+      "type": "website"
     },
     {
       "title": "Not By AI – Add the Badge to Your Human-Created Content",
@@ -90,7 +98,8 @@
       "tags": [
         "ai"
       ],
-      "description": "Download and add the Not By AI badge to showcase your AI-free & human-first approach to content creation"
+      "description": "Download and add the Not By AI badge to showcase your AI-free & human-first approach to content creation",
+      "type": "website"
     },
     {
       "title": "CSS Stats",
@@ -101,7 +110,8 @@
         "css",
         "webdev"
       ],
-      "description": "CSS Stats for www.iamrob.in: 114.4 KB, 1,686 rules, 88 colors"
+      "description": "CSS Stats for www.iamrob.in: 114.4 KB, 1,686 rules, 88 colors",
+      "type": "website"
     },
     {
       "title": "Sidenotes In Web Design",
@@ -113,7 +123,8 @@
         "css",
         "frontend"
       ],
-      "description": "In typography/design, 'sidenotes' place footnotes/endnotes in the margins for easier reading."
+      "description": "In typography/design, 'sidenotes' place footnotes/endnotes in the margins for easier reading.",
+      "type": "website"
     },
     {
       "title": "Love Hotel – Francois Prost",
@@ -122,7 +133,8 @@
       "cover": "bookmark-covers/love-hotel-francois-prost.jpg",
       "tags": [
         "photography"
-      ]
+      ],
+      "type": "website"
     },
     {
       "title": "A Global Design System",
@@ -132,7 +144,8 @@
       "tags": [
         "design-system"
       ],
-      "description": "TL;DR: This is a call to action to create a Global Design System that provides the world's web designers & developers a library of common UI components."
+      "description": "TL;DR: This is a call to action to create a Global Design System that provides the world's web designers & developers a library of common UI components.",
+      "type": "article"
     },
     {
       "title": "European Alternatives",
@@ -143,7 +156,8 @@
         "sustainability",
         "software"
       ],
-      "description": "We help you find European alternatives for digital service and products, like cloud services and SaaS products."
+      "description": "We help you find European alternatives for digital service and products, like cloud services and SaaS products.",
+      "type": "website"
     },
     {
       "title": "Stream of Consciousness",
@@ -152,7 +166,8 @@
       "cover": "bookmark-covers/stream-of-consciousness.jpg",
       "tags": [
         "short-film"
-      ]
+      ],
+      "type": "video"
     },
     {
       "title": "How to Build a Low-tech Website?",
@@ -163,7 +178,8 @@
         "webdev",
         "sustainability"
       ],
-      "description": "Our new website is designed to radically reduce the energy use associated with accessing our content."
+      "description": "Our new website is designed to radically reduce the energy use associated with accessing our content.",
+      "type": "article"
     },
     {
       "title": "How Farming Saved Me From Developer Burnout with Anselm Hannemann",
@@ -173,7 +189,8 @@
       "tags": [
         "work",
         "mental-health"
-      ]
+      ],
+      "type": "video"
     },
     {
       "title": "GenCup – Generative posters from FIFA Women's World Cup",
@@ -184,7 +201,8 @@
         "data-visualization",
         "football"
       ],
-      "description": "Art project that combines graphic design, football, and data vizualization. Using the statics of FIFA World Cup games to generate abstract compositions. Every match a new poster."
+      "description": "Art project that combines graphic design, football, and data vizualization. Using the statics of FIFA World Cup games to generate abstract compositions. Every match a new poster.",
+      "type": "website"
     },
     {
       "title": "Can There Be Too Many Cafes in Paris?",
@@ -194,7 +212,8 @@
       "tags": [
         "Urban-development"
       ],
-      "description": "The neighbors may complain about the noise, but outdoor spaces that bloomed under a pandemic program are now a permanent and vibrant fixture of city life."
+      "description": "The neighbors may complain about the noise, but outdoor spaces that bloomed under a pandemic program are now a permanent and vibrant fixture of city life.",
+      "type": "article"
     },
     {
       "title": "Logoipsum",
@@ -204,7 +223,8 @@
       "tags": [
         "branding"
       ],
-      "description": "Logoipsum offers free, SVG placeholder logos in a variety of styles for use in design projects and mockups. Easily copy or download logos for your design."
+      "description": "Logoipsum offers free, SVG placeholder logos in a variety of styles for use in design projects and mockups. Easily copy or download logos for your design.",
+      "type": "website"
     },
     {
       "title": "Here lies the internet murdered by generative AI",
@@ -215,7 +235,8 @@
         "ai",
         "internet"
       ],
-      "description": "Corruption everywhere, even in YouTube's kids content"
+      "description": "Corruption everywhere, even in YouTube's kids content",
+      "type": "article"
     },
     {
       "title": "Images of Australian criminals in the 1920s",
@@ -224,7 +245,8 @@
       "cover": null,
       "tags": [
         "photography"
-      ]
+      ],
+      "type": "article"
     },
     {
       "title": "Shaders | Dan Hollick",
@@ -234,7 +256,8 @@
       "tags": [
         "webdev"
       ],
-      "description": "Ever heard of a shader but too afraid to ask what it even means at this point?"
+      "description": "Ever heard of a shader but too afraid to ask what it even means at this point?",
+      "type": "article"
     },
     {
       "title": "The Cheap Web",
@@ -246,7 +269,8 @@
         "sustainability",
         "cheap-web"
       ],
-      "description": "The cheap web is a solarpunk philosophy of web design."
+      "description": "The cheap web is a solarpunk philosophy of web design.",
+      "type": "website"
     },
     {
       "title": "Tiny Awards",
@@ -256,7 +280,8 @@
       "tags": [
         "internet"
       ],
-      "description": "Tiny awards, tiny prize, tiny trophy, big love"
+      "description": "Tiny awards, tiny prize, tiny trophy, big love",
+      "type": "website"
     },
     {
       "title": "1 dataset. 100 visualizations.",
@@ -265,7 +290,8 @@
       "cover": "bookmark-covers/1-dataset-100-visualizations.jpg",
       "tags": [
         "data-visualization"
-      ]
+      ],
+      "type": "website"
     },
     {
       "title": "Work doesn't love us",
@@ -275,7 +301,8 @@
       "tags": [
         "work"
       ],
-      "description": "It's been layoff season for awhile, so it's time to remember work doesn't love us back."
+      "description": "It's been layoff season for awhile, so it's time to remember work doesn't love us back.",
+      "type": "article"
     },
     {
       "title": "Tim Cook sold Apple's soul",
@@ -285,7 +312,8 @@
       "tags": [
         "technology"
       ],
-      "description": "Apple used to stand for something. Now Tim Cook gifts golden statues to Trump, removes apps at the administration's request, and cozies up to accused rapists at White House screenings. The company I once admired has become morally bankrupt, but leaving the ecosystem feels almost impossible."
+      "description": "Apple used to stand for something. Now Tim Cook gifts golden statues to Trump, removes apps at the administration's request, and cozies up to accused rapists at White House screenings. The company I once admired has become morally bankrupt, but leaving the ecosystem feels almost impossible.",
+      "type": "article"
     },
     {
       "title": "Techno Tuesday",
@@ -294,7 +322,8 @@
       "cover": "bookmark-covers/techno-tuesday.jpg",
       "tags": [
         "webcomic"
-      ]
+      ],
+      "type": "website"
     },
     {
       "title": "Fields of Chess",
@@ -304,7 +333,8 @@
       "tags": [
         "data-visualization"
       ],
-      "description": "Generative chess posters based on the moves of each game"
+      "description": "Generative chess posters based on the moves of each game",
+      "type": "website"
     },
     {
       "title": "De-Atomization is the Secret to Happiness",
@@ -315,7 +345,8 @@
         "mental-health",
         "personal-development"
       ],
-      "description": "It may be that simple"
+      "description": "It may be that simple",
+      "type": "article"
     },
     {
       "title": "The Disappearance of an Internet Domain",
@@ -325,7 +356,8 @@
       "tags": [
         "internet"
       ],
-      "description": "How geopolitics can alter digital infrastructure"
+      "description": "How geopolitics can alter digital infrastructure",
+      "type": "article"
     },
     {
       "title": "Wall of Wally",
@@ -335,7 +367,8 @@
       "tags": [
         "art"
       ],
-      "description": "An illustrated celebration of Wally Olins CBE 1930 - 2014"
+      "description": "An illustrated celebration of Wally Olins CBE 1930 - 2014",
+      "type": "website"
     },
     {
       "title": "The Expanding Dark Forest and Generative AI",
@@ -347,7 +380,8 @@
         "ai",
         "culture"
       ],
-      "description": "Proving you're a human on a web flooded with generative AI content"
+      "description": "Proving you're a human on a web flooded with generative AI content",
+      "type": "article"
     },
     {
       "title": "Aspect Ratios with Sinners Director Ryan Coogler",
@@ -358,7 +392,8 @@
         "movie",
         "analog"
       ],
-      "description": "Watch Ryan Coogler, the director of Black Panther and Creed, break down the range of ways to view Sinners on the big screen."
+      "description": "Watch Ryan Coogler, the director of Black Panther and Creed, break down the range of ways to view Sinners on the big screen.",
+      "type": "video"
     },
     {
       "title": "No Web Without Women",
@@ -368,7 +403,8 @@
       "tags": [
         "internet"
       ],
-      "description": "An educational website featuring a collection of innovations by women in the fields of computer science and technology."
+      "description": "An educational website featuring a collection of innovations by women in the fields of computer science and technology.",
+      "type": "website"
     },
     {
       "title": "Taste Is the New Intelligence",
@@ -378,7 +414,8 @@
       "tags": [
         "design"
       ],
-      "description": "Why curation, discernment, and restraint matter more than ever"
+      "description": "Why curation, discernment, and restraint matter more than ever",
+      "type": "article"
     },
     {
       "title": "The Originals Museum",
@@ -389,7 +426,8 @@
         "design",
         "cars"
       ],
-      "description": "The Originals Museum: ein Rückblick auf die alten Renault-Modelle"
+      "description": "The Originals Museum: ein Rückblick auf die alten Renault-Modelle",
+      "type": "website"
     },
     {
       "title": "The Ritual - running 5km a day for an entire year.",
@@ -399,7 +437,8 @@
       "tags": [
         "running"
       ],
-      "description": "I started 2024 with one simple rule: Run 5 kilometres, every single day. No excuses.  Here's how it went…"
+      "description": "I started 2024 with one simple rule: Run 5 kilometres, every single day. No excuses.  Here's how it went…",
+      "type": "video"
     },
     {
       "title": "Dithering - Part 1",
@@ -410,7 +449,8 @@
         "creative-coding",
         "art"
       ],
-      "description": "Understanding how dithering works, visually."
+      "description": "Understanding how dithering works, visually.",
+      "type": "article"
     },
     {
       "title": "Generative AI is for the idea guys",
@@ -420,7 +460,8 @@
       "tags": [
         "ai"
       ],
-      "description": "When I started working in tech in the early 2010s I began running in to idea guys."
+      "description": "When I started working in tech in the early 2010s I began running in to idea guys.",
+      "type": "article"
     },
     {
       "title": "The Longest Serving Royal Photographer",
@@ -430,7 +471,8 @@
       "tags": [
         "photography"
       ],
-      "description": "The larger than life story behind the British Royal Family's longest serving photographer."
+      "description": "The larger than life story behind the British Royal Family's longest serving photographer.",
+      "type": "video"
     },
     {
       "title": "Simplifying how I work with photos – Gosha Tcherednitchenko",
@@ -440,7 +482,8 @@
       "tags": [
         "photography"
       ],
-      "description": "I really do not need to cosplay as a Real Professional Photographer"
+      "description": "I really do not need to cosplay as a Real Professional Photographer",
+      "type": "article"
     },
     {
       "title": "Your Name in Landsat 🛰️",
@@ -450,7 +493,8 @@
       "tags": [
         "typography"
       ],
-      "description": "Type your name and see it spelled out in stunning Landsat satellite imagery. Explore Earth from space, letter by letter, with NASA and USGS Landsat images."
+      "description": "Type your name and see it spelled out in stunning Landsat satellite imagery. Explore Earth from space, letter by letter, with NASA and USGS Landsat images.",
+      "type": "website"
     },
     {
       "title": "RSS is (not) dead (yet)",
@@ -461,7 +505,8 @@
         "RSS",
         "internet",
         "webcomic"
-      ]
+      ],
+      "type": "website"
     },
     {
       "title": "AIAIAI",
@@ -472,7 +517,8 @@
         "ai",
         "design"
       ],
-      "description": "How tired are we collectively about AI? Are we over it yet? Can you even hear about it anymore?"
+      "description": "How tired are we collectively about AI? Are we over it yet? Can you even hear about it anymore?",
+      "type": "article"
     },
     {
       "title": "Scrollbars",
@@ -482,7 +528,8 @@
       "tags": [
         "internet"
       ],
-      "description": "A guide on overriding native scroll behavior to provide your own objectively better experience."
+      "description": "A guide on overriding native scroll behavior to provide your own objectively better experience.",
+      "type": "article"
     },
     {
       "title": "AI Art is The New Stock Image",
@@ -493,7 +540,8 @@
         "ai",
         "design"
       ],
-      "description": "Critique of the pure AI image."
+      "description": "Critique of the pure AI image.",
+      "type": "website"
     },
     {
       "title": "Beware of Free Software",
@@ -504,7 +552,8 @@
         "software",
         "money"
       ],
-      "description": "Beware of free pizza. If I want a slice of pizza, I don't expect it to be free."
+      "description": "Beware of free pizza. If I want a slice of pizza, I don't expect it to be free.",
+      "type": "article"
     },
     {
       "title": "Why I Finally Quit Spotify",
@@ -515,7 +564,8 @@
         "music",
         "software"
       ],
-      "description": "The platform interface has gradually made it harder to find the music I want to listen to."
+      "description": "The platform interface has gradually made it harder to find the music I want to listen to.",
+      "type": "article"
     },
     {
       "title": "Web Design Museum - Discover old websites apps and software",
@@ -525,7 +575,8 @@
       "tags": [
         "internet"
       ],
-      "description": "Web Design Museum exhibits thousands of websites that chronicle forgotten trends in web design from its beginnings in the 1990s to the mid-00s."
+      "description": "Web Design Museum exhibits thousands of websites that chronicle forgotten trends in web design from its beginnings in the 1990s to the mid-00s.",
+      "type": "website"
     },
     {
       "title": "Nibble and your appetite will grow",
@@ -536,7 +587,8 @@
         "procrastination",
         "personal-development"
       ],
-      "description": "The most reliable way to create motivation is to start doing the thing. Actions precede feelings, not the other way around."
+      "description": "The most reliable way to create motivation is to start doing the thing. Actions precede feelings, not the other way around.",
+      "type": "website"
     },
     {
       "title": "A Call for Coding Designers",
@@ -546,7 +598,8 @@
       "tags": [
         "design"
       ],
-      "description": "This is a call for coding designers. It aims to serve as a proposal and a provocation for creative work."
+      "description": "This is a call for coding designers. It aims to serve as a proposal and a provocation for creative work.",
+      "type": "article"
     },
     {
       "title": "OKLCH Color Picker, Generator and Converter",
@@ -556,7 +609,8 @@
       "tags": [
         "design"
       ],
-      "description": "Convert, generate and explore OKLCH colors with oklch.fyi – a powerful tool to build unique and uniform color palettes. Preview on UI components, export CSS or Tailwind variables, and learn why OKLCH outperforms RGB and HSL."
+      "description": "Convert, generate and explore OKLCH colors with oklch.fyi – a powerful tool to build unique and uniform color palettes. Preview on UI components, export CSS or Tailwind variables, and learn why OKLCH outperforms RGB and HSL.",
+      "type": "website"
     },
     {
       "title": "The Type Wunderkammer",
@@ -566,7 +620,8 @@
       "tags": [
         "typography"
       ],
-      "description": "A simple online archive of type related objects"
+      "description": "A simple online archive of type related objects",
+      "type": "website"
     },
     {
       "title": "Giving a Small Sandwich Shop a BIG Rebrand...For Free",
@@ -576,7 +631,8 @@
       "tags": [
         "design"
       ],
-      "description": "I've designed for Apple, Nike, Google: some of the biggest and most influential companies in the world."
+      "description": "I've designed for Apple, Nike, Google: some of the biggest and most influential companies in the world.",
+      "type": "video"
     },
     {
       "title": "Public Work by Cosmos",
@@ -586,7 +642,8 @@
       "tags": [
         "art"
       ],
-      "description": "Public Work is a visual search engine for public domain content. Explore 100,000+ copyright-free images from The MET, New York Public Library, and other sources"
+      "description": "Public Work is a visual search engine for public domain content. Explore 100,000+ copyright-free images from The MET, New York Public Library, and other sources",
+      "type": "website"
     },
     {
       "title": "Japanese web design - weird but it works. Here's why",
@@ -597,7 +654,8 @@
         "design",
         "internet"
       ],
-      "description": "Japanese website design looks weird. But, they work just as well as other websites around the world. Why is that?"
+      "description": "Japanese website design looks weird. But, they work just as well as other websites around the world. Why is that?",
+      "type": "video"
     },
     {
       "title": "Small Technology Foundation",
@@ -609,7 +667,8 @@
         "web0",
         "sustainability"
       ],
-      "description": "Hello! We're a tiny and independent two-person not-for-profit based in Ireland. We are building the Small Web."
+      "description": "Hello! We're a tiny and independent two-person not-for-profit based in Ireland. We are building the Small Web.",
+      "type": "website"
     },
     {
       "title": "Heat Death of the Internet",
@@ -619,7 +678,8 @@
       "tags": [
         "internet"
       ],
-      "description": "You want to order from a local restaurant, but you need to download a third-party delivery app, even though you plan to pick it up yourself."
+      "description": "You want to order from a local restaurant, but you need to download a third-party delivery app, even though you plan to pick it up yourself.",
+      "type": "article"
     },
     {
       "title": "The lowwwcarbon website showcase",
@@ -630,7 +690,8 @@
         "internet",
         "sustainability"
       ],
-      "description": "Examples of low-carbon, sustainable, web design and development."
+      "description": "Examples of low-carbon, sustainable, web design and development.",
+      "type": "website"
     },
     {
       "title": "A Website To End All Websites",
@@ -640,7 +701,8 @@
       "tags": [
         "internet"
       ],
-      "description": "How to win the war for the soul of the internet, and build the Web We Want."
+      "description": "How to win the war for the soul of the internet, and build the Web We Want.",
+      "type": "article"
     },
     {
       "title": "That's AI (2026) - Short Film",
@@ -650,7 +712,8 @@
       "tags": [
         "ai"
       ],
-      "description": "No AI was used in the process of making this film.Shot on ARRI ALEXA 35.Written and Directed bySebastian Lopezhttps://www.instagram.com/harteliuslopez/Execut..."
+      "description": "No AI was used in the process of making this film.Shot on ARRI ALEXA 35.Written and Directed bySebastian Lopezhttps://www.instagram.com/harteliuslopez/Execut...",
+      "type": "video"
     },
     {
       "title": "Butterick's Practical Typography",
@@ -659,7 +722,8 @@
       "cover": "bookmark-covers/butterick-s-practical-typography.jpg",
       "tags": [
         "typography"
-      ]
+      ],
+      "type": "website"
     },
     {
       "title": "Choosing the perfect icons for your typeface",
@@ -671,7 +735,8 @@
         "typography",
         "icons"
       ],
-      "description": "A simple guide on how to pair icons and typefaces to create a consistent visual language."
+      "description": "A simple guide on how to pair icons and typefaces to create a consistent visual language.",
+      "type": "article"
     },
     {
       "title": "Become a better UX-designer with these three words",
@@ -682,7 +747,8 @@
         "ux",
         "design"
       ],
-      "description": "Getting older has taught me that the more you know, the more you realize how little you actually know."
+      "description": "Getting older has taught me that the more you know, the more you realize how little you actually know.",
+      "type": "article"
     },
     {
       "title": "The age of average",
@@ -693,7 +759,8 @@
         "design",
         "culture"
       ],
-      "description": "In the early 1990s, two Russian artists named Vitaly Komar and Alexander Melamid hired a market research firm to survey the public on what they wanted in a work of art."
+      "description": "In the early 1990s, two Russian artists named Vitaly Komar and Alexander Melamid hired a market research firm to survey the public on what they wanted in a work of art.",
+      "type": "article"
     }
   ]
 }

@@ -30,6 +30,7 @@ const KEY_MAP = {
     "Cover (lokal)": "coverLocal",
     Tags: "tags",
     description: "description",
+    Type: "type",
 };
 
 async function exportBookmarks() {
@@ -59,6 +60,10 @@ async function exportBookmarks() {
             } else if (!Array.isArray(bookmark.tags)) {
                 bookmark.tags = [bookmark.tags];
             }
+
+            // Default type to "misc" if missing — the website's fetchBookmarks
+            // also falls back to "misc", but setting it here keeps the JSON honest.
+            if (!bookmark.type) bookmark.type = "misc";
 
             // Handle cover field: copy local cover and generate relative URL
             if (bookmark.coverLocal) {
