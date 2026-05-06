@@ -1,33 +1,7 @@
 {
-  "lastUpdated": "2026-03-16T14:33:33.550Z",
+  "lastUpdated": "2026-05-06T21:18:39.360Z",
   "count": 64,
   "aktiv": [
-    {
-      "title": "Mr. Robot",
-      "season": 1,
-      "genre": [
-        "Krimi",
-        "Drama"
-      ],
-      "director": [
-        "Sam Esmail"
-      ],
-      "rating": null,
-      "imdbScore": 8.3,
-      "cast": [
-        "Rami Malek",
-        "Christian Slater",
-        "Carly Chaikin"
-      ],
-      "cover": "https://image.tmdb.org/t/p/w500/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",
-      "released": "2015-06-24T00:00:00.000Z",
-      "finished": null,
-      "added": "2026-01-18T00:00:00.000Z",
-      "favorite": false,
-      "status": [
-        "Aktiv"
-      ]
-    },
     {
       "title": "Blue Eye Samurai",
       "season": 1,
@@ -1581,6 +1555,32 @@
       }
     ],
     "2026": [
+      {
+        "title": "Mr. Robot",
+        "season": 1,
+        "genre": [
+          "Krimi",
+          "Drama"
+        ],
+        "director": [
+          "Sam Esmail"
+        ],
+        "rating": null,
+        "imdbScore": 8.3,
+        "cast": [
+          "Rami Malek",
+          "Christian Slater",
+          "Carly Chaikin"
+        ],
+        "cover": "https://image.tmdb.org/t/p/w500/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",
+        "released": "2015-06-24T00:00:00.000Z",
+        "finished": "2026-05-02T00:00:00.000Z",
+        "added": "2026-01-18T00:00:00.000Z",
+        "favorite": false,
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
       {
         "title": "The Bear",
         "season": 2,

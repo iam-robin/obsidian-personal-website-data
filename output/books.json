@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-03-16T14:33:33.474Z",
-  "count": 87,
+  "lastUpdated": "2026-05-06T21:18:39.286Z",
+  "count": 90,
   "aktiv": [
     {
       "title": "The Pillars of the Earth",
@@ -69,6 +69,25 @@
       ]
     },
     {
+      "title": "The Secret History",
+      "author": [
+        "Donna Tartt"
+      ],
+      "pages": 546,
+      "published": "1992",
+      "cover": "book-covers/the-secret-history-donna-tartt.jpg",
+      "isbn": 9780307765697,
+      "genre": [
+        "Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-04-20 16:53",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
       "title": "The People in the Trees",
       "author": [
         "Hanya Yanagihara"
@@ -88,6 +107,44 @@
       ],
       "finished": null,
       "rating": null,
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "The Little Friend",
+      "author": [
+        "Donna Tartt"
+      ],
+      "pages": 1024,
+      "published": "2002",
+      "cover": "book-covers/the-little-friend-donna-tartt.jpg",
+      "isbn": 9780375434976,
+      "genre": [
+        "Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-04-20 16:53",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "The Goldfinch",
+      "author": [
+        "Donna Tartt"
+      ],
+      "pages": 935,
+      "published": "2013",
+      "cover": "book-covers/the-goldfinch-donna-tartt.jpg",
+      "isbn": 9781405529518,
+      "genre": [
+        "Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-04-20 16:53",
       "status": [
         "Merkliste"
       ]
