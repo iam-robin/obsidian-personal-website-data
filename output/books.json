@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-06T21:18:39.286Z",
-  "count": 90,
+  "lastUpdated": "2026-07-01T11:52:44.088Z",
+  "count": 91,
   "aktiv": [
     {
       "title": "The Pillars of the Earth",
@@ -1724,6 +1724,24 @@
         "rating": 3.5,
         "spineColor": "#11B1AF",
         "textColor": "#E2E434",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Leviathan Wakes",
+        "author": [
+          "James S. A. Corey"
+        ],
+        "pages": 561,
+        "published": "2011-01-01T00:00:00.000Z",
+        "cover": "https://assets.literal.club/4/ckikdst7815360zhfipq4q8qk.jpg?size=600",
+        "isbn": 9781841499888,
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2025-08-31T00:00:00.000Z",
+        "rating": 4,
         "status": [
           "Abgeschlossen"
         ]

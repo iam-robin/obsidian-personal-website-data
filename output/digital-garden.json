@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T22:31:41.308Z",
+  "lastUpdated": "2026-07-01T12:16:35.079Z",
   "count": 36,
   "Art": [
     {
@@ -188,8 +188,8 @@
       "description": "Notes on the project you are currently viewing",
       "created": "2024-12-15T00:00:00.000Z",
       "edited": "2025-01-07T00:00:00.000Z",
-      "title": "Digital Garden",
-      "slug": "digital-garden",
+      "title": "About the Digital Garden",
+      "slug": "about-the-digital-garden",
       "content": "## What is a digital garden?\n\nA digital garden is a method for organizing and sharing knowledge, thoughts, and ideas in a flexible and interconnected way. The notes don’t have to be polished or finished; they can be shared as incomplete ideas that will develop over time and ideally create new connections, which may eventually lead to the development of a blog post or similar content to share fresh insights.\n\nI have decided to publish my digital garden, which I already maintain for myself locally in Obsidian, on my personal website, as one or the other note might be exciting for you and initiate new thoughts and ideas.\n\n\n## How did I build my digital garden?\n\nI use the software Obsidian to create, edit, and organize my notes, and it’s convenient because I can do this on both my smartphone and laptop. The app automatically adds important information like creation dates, editing dates, and footnotes, which makes it user-friendly. I wanted the process of creating and maintaining notes to be straightforward, without any technical challenges, so I would actually use it.\n\nMy Obsidian Vault syncs automatically with GitHub whenever I make changes. Each day, the latest version of my GitHub project is automatically fetched from my personal website and shown in this digital garden, so I don’t have to manually deploy my local changes.\n\n\n\n## Ideas (to implement)\n\n- [ ] add backlink logic to other notes\n- [ ] support for nested categories/folders\n- [ ] add handmade scribbles to notes\n- [ ] add \"random note\" feature for sidebar navigation\n- [ ] dynamic open graph images for notes and topics"
     },
     {

@@ -14,8 +14,8 @@ import {
 const KEY_MAP = {
     Thema: "thema",
     description: "description",
-    created: "created",
-    edited: "edited",
+    Hinzugefügt: "created",
+    Bearbeitet: "edited",
 };
 
 /**
