@@ -1,21 +1,24 @@
 {
-  "lastUpdated": "2026-07-05T18:31:40.656Z",
-  "count": 91,
+  "lastUpdated": "2026-07-05T18:57:25.789Z",
+  "count": 92,
   "aktiv": [
     {
-      "title": "The Pillars of the Earth",
+      "title": "Dungeon Crawler Carl",
       "author": [
-        "Ken Follett"
+        "Matt Dinniman"
       ],
-      "pages": "",
-      "published": "",
-      "cover": "book-covers/the-pillars-of-the-earth-ken-follett.jpg",
-      "isbn": "",
-      "publisher": "",
-      "genre": [],
+      "pages": 465,
+      "published": "2020",
+      "cover": "book-covers/dungeon-crawler-carl-matt-dinniman.jpg",
+      "isbn": "059382024X 9780593820247",
+      "publisher": "Ace",
+      "genre": [
+        "Science Fiction",
+        "Fantasy"
+      ],
       "finished": "",
       "rating": "",
-      "added": "2026-02-02 15:30",
+      "added": "2026-07-05 20:51",
       "status": [
         "Aktiv"
       ]
@@ -238,7 +241,26 @@
       ]
     }
   ],
-  "pausiert": [],
+  "pausiert": [
+    {
+      "title": "The Pillars of the Earth",
+      "author": [
+        "Ken Follett"
+      ],
+      "pages": "",
+      "published": "",
+      "cover": "book-covers/the-pillars-of-the-earth-ken-follett.jpg",
+      "isbn": "",
+      "publisher": "",
+      "genre": [],
+      "finished": "",
+      "rating": "",
+      "added": "2026-02-02 15:30",
+      "status": [
+        "Pausiert"
+      ]
+    }
+  ],
   "abgeschlossen": {
     "2018": [
       {
@@ -1742,6 +1764,7 @@
         ],
         "finished": "2025-08-31T00:00:00.000Z",
         "rating": 4,
+        "added": "2026-01-04 13:39",
         "status": [
           "Abgeschlossen"
         ]
