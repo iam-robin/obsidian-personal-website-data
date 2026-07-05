@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T21:18:39.360Z",
+  "lastUpdated": "2026-07-05T17:18:16.421Z",
   "count": 64,
   "aktiv": [
     {
@@ -25,7 +25,7 @@
       "cover": "https://image.tmdb.org/t/p/w500/bOPIUxriSFP2xqlzTYRdInFZAsG.jpg",
       "released": "2023-11-01T00:00:00.000Z",
       "finished": null,
-      "added": "2026-02-03T00:00:00.000Z",
+      "added": "2026-02-03 00:00",
       "favorite": false,
       "status": [
         "Aktiv"
@@ -56,7 +56,7 @@
       "cover": "https://image.tmdb.org/t/p/w500/jlYlYAQZ6tlhkkXHfv3mVEDW3gZ.jpg",
       "released": "2015-10-10T00:00:00.000Z",
       "finished": null,
-      "added": "2026-01-18T00:00:00.000Z",
+      "added": "2026-01-18 00:00",
       "favorite": false,
       "status": [
         "Merkliste"
@@ -84,7 +84,7 @@
       "cover": "https://image.tmdb.org/t/p/w500/14zAGUZmtZ5zXrf51ose34nlyL9.jpg",
       "released": "2025-06-25T00:00:00.000Z",
       "finished": null,
-      "added": "2026-01-18T00:00:00.000Z",
+      "added": "2026-01-18 00:00",
       "favorite": false,
       "status": [
         "Merkliste"
@@ -101,7 +101,7 @@
       "cover": "https://artworks.thetvdb.com/banners/v4/season/2127094/posters/682d0083267ff.jpg",
       "released": null,
       "finished": null,
-      "added": "2026-01-10T00:00:00.000Z",
+      "added": "2026-01-10 00:00",
       "favorite": false,
       "status": [
         "Merkliste"
@@ -130,7 +130,7 @@
       "cover": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
       "released": "2024-02-27T00:00:00.000Z",
       "finished": null,
-      "added": "2026-01-18T00:00:00.000Z",
+      "added": "2026-01-18 00:00",
       "favorite": false,
       "status": [
         "Merkliste"
@@ -157,7 +157,7 @@
       "cover": "https://image.tmdb.org/t/p/w500/vPlsKun2WZEsqe3yZTmebxtwElW.jpg",
       "released": "2013-09-12T00:00:00.000Z",
       "finished": null,
-      "added": "2026-01-18T00:00:00.000Z",
+      "added": "2026-01-18 00:00",
       "favorite": false,
       "status": [
         "Merkliste"
@@ -197,7 +197,7 @@
       "cover": "https://static.wikia.nocookie.net/haltandcatchfire/images/8/8f/Season1Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20160531012637",
       "released": null,
       "finished": null,
-      "added": "2026-01-10T00:00:00.000Z",
+      "added": "2026-01-10 00:00",
       "favorite": false,
       "status": [
         "Pausiert"
@@ -229,7 +229,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/8zvIqLFOrBymKKI3L2W1AH8YZQI.jpg",
         "released": "2018-08-06T00:00:00.000Z",
         "finished": "2018-10-10T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -259,7 +259,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/iLgsphV7n5WrIVYv8x8JTDh5AmY.jpg",
         "released": "2018-10-11T00:00:00.000Z",
         "finished": "2018-12-25T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -288,7 +288,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/dHIMW3CkL21jYWtsHiAdwkCjAej.jpg",
         "released": "2017-04-10T00:00:00.000Z",
         "finished": "2018-12-31T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -318,7 +318,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/eAl3MQkWHHCVMNm54Q2M32TRKp7.jpg",
         "released": "2017-05-08T00:00:00.000Z",
         "finished": "2018-12-10T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -346,7 +346,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/o7ytmKNlOIcCyWXLdtDSRXi5Ruc.jpg",
         "released": "2019-03-04T00:00:00.000Z",
         "finished": "2019-07-16T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -372,7 +372,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",
         "released": "2019-10-05T00:00:00.000Z",
         "finished": "2019-12-24T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -400,7 +400,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/e00rak9Xp3DSp42hm7EK3omnhQS.jpg",
         "released": "2019-11-04T00:00:00.000Z",
         "finished": "2019-11-09T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -426,7 +426,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/qI85n9DBgRv6ghhJuzHOCaKXk3v.jpg",
         "released": "2016-07-21T00:00:00.000Z",
         "finished": "2019-07-13T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -453,7 +453,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/cVlqRoJN5NsFD4NbbUAiyUUFjVz.jpg",
         "released": "2019-05-31T00:00:00.000Z",
         "finished": "2019-06-10T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -480,7 +480,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
         "released": "2020-10-23T00:00:00.000Z",
         "finished": "2020-12-09T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -509,7 +509,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/k9VHO9Btnj1D57kNIHWY9pl9Qcj.jpg",
         "released": "2018-08-31T00:00:00.000Z",
         "finished": "2020-10-27T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -538,7 +538,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/tEs8FyNRkTUvhTOmePkkykFgsRp.jpg",
         "released": "2020-02-26T00:00:00.000Z",
         "finished": "2020-02-13T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -566,7 +566,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/3M7BRPhUEhcewLiUhHOZUep7wwF.jpg",
         "released": "2018-03-01T00:00:00.000Z",
         "finished": "2020-05-10T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -593,7 +593,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
         "released": "2019-05-06T00:00:00.000Z",
         "finished": "2020-05-03T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -623,7 +623,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/iNB6KSH1U0jFPklFJaukMtpkbHs.jpg",
         "released": "2019-11-07T00:00:00.000Z",
         "finished": "2020-05-02T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -651,7 +651,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/dlTrCV1RtbARSfvH2bsSbqCspdd.jpg",
         "released": "2020-02-06T00:00:00.000Z",
         "finished": "2020-07-18T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -680,7 +680,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/clxEFkDueNUp2G9mphAFNXwotkt.jpg",
         "released": "2017-07-21T00:00:00.000Z",
         "finished": "2020-09-07T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -709,7 +709,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/ox4AVp06UZj6TonlrftliAwpbUc.jpg",
         "released": "2014-06-29T00:00:00.000Z",
         "finished": "2020-03-30T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -740,7 +740,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/yMejMxkTyePplyaWhTmQEGqVZX0.jpg",
         "released": "2015-10-04T00:00:00.000Z",
         "finished": "2021-03-09T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -767,7 +767,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/cB078qyaLiTf6ofXS03U0ppWPUb.jpg",
         "released": "2018-05-12T00:00:00.000Z",
         "finished": "2021-09-19T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -796,7 +796,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/lgHXzqpForw8qsMoC6pySkbpAUP.jpg",
         "released": "2020-03-27T00:00:00.000Z",
         "finished": "2021-01-03T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -823,7 +823,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/50Z6XkPSzM6bpeUeLrqLWCR6QpF.jpg",
         "released": "2019-09-05T00:00:00.000Z",
         "finished": "2021-01-03T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -851,7 +851,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/87VO6spysSzuYUId2ZPz0hfmYEJ.jpg",
         "released": "2020-03-26T00:00:00.000Z",
         "finished": "2021-08-16T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -878,7 +878,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg",
         "released": "2019-06-16T00:00:00.000Z",
         "finished": "2021-03-26T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -907,7 +907,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/46aKrlLIssEa9apmBAstAwjFcHO.jpg",
         "released": "2017-04-16T00:00:00.000Z",
         "finished": "2021-03-19T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -938,7 +938,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/8VddwjSjvuHaoSw1wZ0mflB0Ckq.jpg",
         "released": "2022-01-21T00:00:00.000Z",
         "finished": "2022-02-15T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -967,7 +967,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/16rmeQjNJDGQS2sk6dKujc5uYi6.jpg",
         "released": "2022-02-17T00:00:00.000Z",
         "finished": "2022-04-12T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -996,7 +996,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/wKTzWgDaHxjdMhZ3zsVEF5eXVvX.jpg",
         "released": "2022-04-18T00:00:00.000Z",
         "finished": "2022-09-18T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1025,7 +1025,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/dZHa2vUtYNQ81KV38eHGjn0P4JE.jpg",
         "released": "2020-02-23T00:00:00.000Z",
         "finished": "2022-09-04T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1054,7 +1054,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/jtnfNzqZwN4E32FGGxx1YZaBWWf.jpg",
         "released": "2022-01-08T00:00:00.000Z",
         "finished": "2023-01-11T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": true,
         "status": [
           "Abgeschlossen"
@@ -1082,7 +1082,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/utQj0H6F24SG8Q5xopgoUJwFWmJ.jpg",
         "released": "2022-06-23T00:00:00.000Z",
         "finished": "2023-01-17T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": true,
         "status": [
           "Abgeschlossen"
@@ -1111,7 +1111,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
         "released": "2023-08-31T00:00:00.000Z",
         "finished": "2023-09-25T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1139,7 +1139,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/hS62paPx7Ls3c6voXcXJzJNaTG4.jpg",
         "released": "2018-06-03T00:00:00.000Z",
         "finished": "2023-07-17T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1167,7 +1167,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/qmj4lGU9WSJgFF9mIPUzStsUGnZ.jpg",
         "released": "2023-04-05T00:00:00.000Z",
         "finished": "2023-10-20T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1194,7 +1194,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/lJFRiAeD83gKyzpoqStRM3ebKul.jpg",
         "released": "2017-10-13T00:00:00.000Z",
         "finished": "2023-01-27T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1221,7 +1221,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/ge5B0uzU7ggvzMMgtuQnBAaxvVx.jpg",
         "released": "2019-08-16T00:00:00.000Z",
         "finished": "2023-02-10T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1250,7 +1250,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/b3Efu3KoVUWHlfw3bcJVEIhxqR0.jpg",
         "released": "2017-12-01T00:00:00.000Z",
         "finished": "2024-01-10T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1278,7 +1278,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
         "released": "2024-09-19T00:00:00.000Z",
         "finished": "2024-12-04T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1305,7 +1305,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/34H2sg0NhQtMeSlOuKISomQTMeH.jpg",
         "released": "2022-04-01T00:00:00.000Z",
         "finished": "2024-10-20T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1333,7 +1333,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/v3IXL25IaFGFKeZWcpA6FaLzSVB.jpg",
         "released": "2024-05-07T00:00:00.000Z",
         "finished": "2024-07-21T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1360,7 +1360,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/8FM8KCgZQSbLLXcZew0MSj6so1k.jpg",
         "released": "2022-12-02T00:00:00.000Z",
         "finished": "2024-12-14T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1391,7 +1391,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/jJXV3H1SAvQpjSTIKZBUyAGica3.jpg",
         "released": "2021-07-11T00:00:00.000Z",
         "finished": "2025-02-12T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1411,7 +1411,7 @@
         "cover": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_.jpg",
         "released": "2025-11-07T00:00:00.000Z",
         "finished": "2025-12-24T00:00:00.000Z",
-        "added": "2025-11-12T20:44:37.000Z",
+        "added": "2025-11-12 21:44",
         "favorite": true,
         "status": [
           "Abgeschlossen"
@@ -1439,7 +1439,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/hXuVhMxi3ZNzfBY8h7Hiiotmjiy.jpg",
         "released": "2019-08-11T00:00:00.000Z",
         "finished": "2025-04-09T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1468,7 +1468,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
         "released": "2025-02-16T00:00:00.000Z",
         "finished": "2025-06-03T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1497,7 +1497,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/qhpxq9uSLdViP9eQoJFqrnuoSwg.jpg",
         "released": "2022-10-30T00:00:00.000Z",
         "finished": "2025-05-04T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1520,7 +1520,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/kcAgL0amIvGDGpFsD4P8WJOT8b9.jpg",
         "released": "2025-03-13T00:00:00.000Z",
         "finished": "2025-03-30T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1547,7 +1547,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/wEgf8HtZmx44U32zVVXBvdgq4iW.jpg",
         "released": "2023-01-15T00:00:00.000Z",
         "finished": "2025-07-21T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1575,7 +1575,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",
         "released": "2015-06-24T00:00:00.000Z",
         "finished": "2026-05-02T00:00:00.000Z",
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1592,7 +1592,7 @@
         "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Bear_Season_2.png",
         "released": null,
         "finished": "2026-01-05T00:00:00.000Z",
-        "added": "2026-01-05T00:00:00.000Z",
+        "added": "2026-01-05 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1621,7 +1621,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
         "released": "2026-01-18T00:00:00.000Z",
         "finished": "2026-02-23T00:00:00.000Z",
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": true,
         "status": [
           "Abgeschlossen"
@@ -1651,7 +1651,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/3xzfmg9olP5XzrQrJgyku2nd6P0.jpg",
         "released": "2017-10-24T00:00:00.000Z",
         "finished": null,
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1677,7 +1677,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",
         "released": "2017-10-11T00:00:00.000Z",
         "finished": null,
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1703,7 +1703,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",
         "released": "2016-07-13T00:00:00.000Z",
         "finished": null,
-        "added": "2026-01-19T00:00:00.000Z",
+        "added": "2026-01-19 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1732,7 +1732,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/4NDwAQjFD8bTOsMKxYdl8IK10R9.jpg",
         "released": "2016-02-15T00:00:00.000Z",
         "finished": null,
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
@@ -1761,7 +1761,7 @@
         "cover": "https://image.tmdb.org/t/p/w500/bAbZBZmz25Lqk8A8mwMWzAkvlAj.jpg",
         "released": "2015-02-08T00:00:00.000Z",
         "finished": null,
-        "added": "2026-01-18T00:00:00.000Z",
+        "added": "2026-01-18 00:00",
         "favorite": false,
         "status": [
           "Abgeschlossen"
