@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-07-05T18:57:25.789Z",
+  "lastUpdated": "2026-08-10T13:02:46.965Z",
   "count": 92,
   "aktiv": [
+    {
+      "title": "Station Eleven",
+      "author": [
+        "Emily St. John Mandel"
+      ],
+      "pages": 333,
+      "published": "2014",
+      "cover": "book-covers/station-eleven-emily-st-john-mandel.jpg",
+      "isbn": null,
+      "genre": [
+        "Fiction",
+        "Science Fiction",
+        "Dystopia",
+        "Book Club",
+        "Post Apocalyptic",
+        "Audiobook",
+        "Fantasy"
+      ],
+      "finished": null,
+      "rating": null,
+      "status": [
+        "Aktiv"
+      ]
+    },
     {
       "title": "Dungeon Crawler Carl",
       "author": [
@@ -19,6 +43,8 @@
       "finished": "",
       "rating": "",
       "added": "2026-07-05 20:51",
+      "spineColor": "#000",
+      "textColor": "#F9C033",
       "status": [
         "Aktiv"
       ]
@@ -148,30 +174,6 @@
       "finished": "",
       "rating": "",
       "added": "2026-04-20 16:53",
-      "status": [
-        "Merkliste"
-      ]
-    },
-    {
-      "title": "Station Eleven",
-      "author": [
-        "Emily St. John Mandel"
-      ],
-      "pages": 333,
-      "published": "2014",
-      "cover": "book-covers/station-eleven-emily-st-john-mandel.jpg",
-      "isbn": null,
-      "genre": [
-        "Fiction",
-        "Science Fiction",
-        "Dystopia",
-        "Book Club",
-        "Post Apocalyptic",
-        "Audiobook",
-        "Fantasy"
-      ],
-      "finished": null,
-      "rating": null,
       "status": [
         "Merkliste"
       ]
