@@ -7,8 +7,8 @@ This directory contains Node.js scripts for managing book cover images in the Ob
 The book cover workflow uses two frontmatter fields:
 
 ```yaml
-Cover: ""           # Temporary: URL for downloading (cleared after download)
-Cover (lokal): ""   # Permanent: Local file path to cover image
+cover: ""           # Temporary: URL for downloading (cleared after download)
+cover_local: ""   # Permanent: Local file path to cover image
 ```
 
 **Naming Convention:** All cover images use lowercase filenames with the format:
@@ -17,7 +17,7 @@ Cover (lokal): ""   # Permanent: Local file path to cover image
 ```
 Example: `the-pillars-of-the-earth-ken-follett.jpg`
 
-**Storage Location:** `/Users/robin/Documents/Obsidian/Notes/Attachments/Book Cover/`
+**Storage Location:** `/Users/robin/Documents/Obsidian/Notes/attachments/book-cover/`
 
 ---
 
@@ -29,11 +29,11 @@ Example: `the-pillars-of-the-earth-ken-follett.jpg`
 
 **Features:**
 - Reads all book notes from Obsidian vault
-- Downloads covers from URLs in `Cover` field
+- Downloads covers from URLs in `cover` field
 - Auto-optimizes images larger than 100KB (resizes to max 600×900px @ 85% quality)
 - Saves with standardized lowercase filenames
 - Updates book frontmatter automatically
-- Clears `Cover` field value after download (keeps key for future updates)
+- Clears `cover` field value after download (keeps key for future updates)
 - Overwrites existing covers when new URL is provided (allows updating covers)
 - Skips books that have local covers but no new URL
 
@@ -51,17 +51,17 @@ node scripts/books/download-book-covers.mjs
 ```
 
 **Workflow:**
-1. Add cover URL to `Cover` field in book note
+1. Add cover URL to `cover` field in book note
 2. Run script
 3. Script downloads image, optimizes if needed, and saves to vault
-4. Script updates `Cover (lokal)` with path and clears `Cover` value
+4. Script updates `cover_local` with path and clears `cover` value
 
-**Note:** If a book already has a local cover (`Cover (lokal)` set) but you add a new URL to the `Cover` field, the script will download the new image and overwrite the existing one. This allows you to easily update covers by simply adding a new URL.
+**Note:** If a book already has a local cover (`cover_local` set) but you add a new URL to the `cover` field, the script will download the new image and overwrite the existing one. This allows you to easily update covers by simply adding a new URL.
 
 **Error Handling:**
 - Failed downloads are logged but don't stop the process
 - Summary report shows success/failure counts
-- Skips books without `Cover` URLs
+- Skips books without `cover` URLs
 
 **Example Output:**
 ```
@@ -80,8 +80,8 @@ node scripts/books/download-book-covers.mjs
 **Features:**
 - Processes all books in vault
 - Verifies local cover files exist
-- Sets `Cover (lokal)` to path or empty string
-- Ensures `Cover` field is present (empty value)
+- Sets `cover_local` to path or empty string
+- Ensures `cover` field is present (empty value)
 - Removes stale external URLs
 - Maintains YAML structure
 
@@ -98,7 +98,7 @@ node scripts/books/cleanup-book-covers.mjs
 - To remove external URLs from books with local covers
 
 **What It Does:**
-- **Books with local covers:** Verifies file exists, sets path, clears `Cover`
+- **Books with local covers:** Verifies file exists, sets path, clears `cover`
 - **Books without covers:** Sets both fields to empty strings
 - **Already correct books:** Skips (no changes made)
 
@@ -181,10 +181,10 @@ After:  small-things-like-these-claire-keegan.jpg
 ### Adding a New Book with Cover
 
 1. Create book note using template
-2. Add cover URL to `Cover` field:
+2. Add cover URL to `cover` field:
    ```yaml
    Cover: 'https://example.com/cover.jpg'
-   Cover (lokal): ''
+   cover_local: ''
    ```
 3. Run download script:
    ```bash
@@ -193,14 +193,14 @@ After:  small-things-like-these-claire-keegan.jpg
 4. Result:
    ```yaml
    Cover: ''
-   Cover (lokal): 'Attachments/Book Cover/book-title-author.jpg'
+   cover_local: 'attachments/book-cover/book-title-author.jpg'
    ```
 
 ### Updating an Existing Cover
 
-1. Add new URL to `Cover` field in book note
+1. Add new URL to `cover` field in book note
 2. Run download script (will overwrite existing file)
-3. `Cover` field is cleared again, `Cover (lokal)` updated
+3. `cover` field is cleared again, `cover_local` updated
 
 ### Fixing Non-Standard Filenames
 
@@ -247,7 +247,7 @@ npm install
 - **Scripts:** `/obsidian-personal-website-data/scripts/books/`
 - **Utilities:** `/obsidian-personal-website-data/lib/utils.mjs`
 - **Obsidian Vault:** `/Users/robin/Documents/Obsidian/Notes/`
-- **Cover Storage:** `/Users/robin/Documents/Obsidian/Notes/Attachments/Book Cover/`
+- **Cover Storage:** `/Users/robin/Documents/Obsidian/Notes/attachments/book-cover/`
 - **Book Notes:** `/Users/robin/Documents/Obsidian/Notes/Clippings/Books/*.md`
 
 ---
@@ -285,8 +285,8 @@ macOS uses case-insensitive filesystems by default. The rename script handles th
 ## Troubleshooting
 
 ### "File not found" errors
-- Verify book note has correct `Cover (lokal)` path
-- Check file exists in `Attachments/Book Cover/` directory
+- Verify book note has correct `cover_local` path
+- Check file exists in `attachments/book-cover/` directory
 - Run cleanup script to fix paths
 
 ### "Target exists" errors

@@ -26,8 +26,8 @@ node export-series.mjs
 
 JSON files are written to `scripts/output/`:
 
--   `books.json` - Books from `Kategorie: [[Bücher]]`
--   `series.json` - TV series with `Kategorie: [[Serien]]`
+-   `books.json` - Books from `category: [[Bücher]]`
+-   `series.json` - TV series with `category: [[Serien]]`
 
 ## Book Covers Workflow
 
@@ -36,7 +36,7 @@ Book covers are stored locally in the Obsidian vault and copied to this repo dur
 ### Adding a New Book with Cover
 
 1. **In Obsidian vault**, create a new book note using the book template
-2. Add a cover URL to the `Cover` field in frontmatter
+2. Add a cover URL to the `cover` field in frontmatter
 3. Run the download script:
    ```bash
    cd /Users/robin/Documents/code/private/iamrobin/obsidian-personal-website-data
@@ -45,8 +45,8 @@ Book covers are stored locally in the Obsidian vault and copied to this repo dur
 4. The script will:
    - Download the cover image
    - Optimize/resize if needed (max 600x900px @ 85% quality)
-   - Save to vault: `Attachments/Book Cover/{title-author}.jpg`
-   - Update frontmatter: set `Cover (lokal)`, clear `Cover` field
+   - Save to vault: `attachments/book-cover/{title-author}.jpg`
+   - Update frontmatter: set `cover_local`, clear `cover` field
 5. Run the export to copy covers to this repo:
    ```bash
    node export-books.mjs
@@ -60,14 +60,14 @@ Book covers are stored locally in the Obsidian vault and copied to this repo dur
 
 ### Updating an Existing Book Cover
 
-1. Add a new URL to the `Cover` field in the book note's frontmatter
+1. Add a new URL to the `cover` field in the book note's frontmatter
 2. Run the download script (it will overwrite the existing cover)
 3. Run the export script
 4. Commit and push changes
 
 ### Book Cover Files
 
-- **Source**: Obsidian vault at `/Users/robin/Documents/Obsidian/Notes/Attachments/Book Cover/`
+- **Source**: Obsidian vault at `/Users/robin/Documents/Obsidian/Notes/attachments/book-cover/`
 - **Export destination**: `output/book-covers/` (83 covers)
 - **Naming**: Lowercase with hyphens, e.g., `the-pillars-of-the-earth-ken-follett.jpg`
 - **books.json**: Contains relative paths: `"cover": "book-covers/filename.jpg"`
@@ -107,5 +107,5 @@ The website's build process automatically:
 
 1. Create `export-[type].mjs` (copy from `export-books.mjs`)
 2. Update `KEY_MAP` for your frontmatter fields
-3. Update `hasKategorie()` filter
+3. Update `hasCategory()` filter
 4. Import and call from `export-all.mjs`

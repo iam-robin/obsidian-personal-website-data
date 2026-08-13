@@ -6,7 +6,7 @@ import { join, basename, dirname } from "path";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasKategorie,
+    hasCategory,
     translateKeys,
     normalizeStatus,
     writeOutput,
@@ -17,22 +17,22 @@ import {
 const COVERS_DIR = join(dirname(new URL(import.meta.url).pathname), "output", "book-covers");
 const GITHUB_RAW_BASE = "book-covers"; // Relative path for website build
 
-// Map German frontmatter keys to English JSON keys
+// Map vault frontmatter keys to the JSON keys the website consumes
 const KEY_MAP = {
-    Titel: "title",
-    Autor: "author",
-    Seiten: "pages",
-    Erschienen: "published",
-    Cover: "cover",
-    "Cover (lokal)": "coverLocal",
+    title: "title",
+    author: "author",
+    pages: "pages",
+    released: "published",
+    cover: "cover",
+    cover_local: "coverLocal",
     isbn: "isbn",
-    Verlag: "publisher",
-    Genre: "genre",
-    Beendet: "finished",
-    Bewertung: "rating",
-    Hinzugefügt: "added",
-    "Farbe Buchrücken": "spineColor",
-    "Farbe Text": "textColor",
+    publisher: "publisher",
+    genre: "genre",
+    finished: "finished",
+    rating: "rating",
+    added: "added",
+    spine_color: "spineColor",
+    text_color: "textColor",
 };
 
 async function exportBooks() {
@@ -47,14 +47,14 @@ async function exportBooks() {
             const { data } = await parseMarkdownFile(filePath);
 
             // Skip if not a book or is a template
-            if (!hasKategorie(data, "Bücher")) continue;
+            if (!hasCategory(data, "Bücher")) continue;
             if (filePath.includes("Template")) continue;
 
             // Translate keys and clean wikilinks
             const book = translateKeys(data, KEY_MAP);
 
             // Handle status separately (normalize to array)
-            book.status = normalizeStatus(data.Status);
+            book.status = normalizeStatus(data.status);
 
             // Ensure author is always an array
             if (book.author && !Array.isArray(book.author)) {

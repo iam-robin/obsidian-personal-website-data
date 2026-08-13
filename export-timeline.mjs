@@ -3,7 +3,7 @@
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasKategorie,
+    hasCategory,
     translateKeys,
     writeOutput,
     getLastUpdated,
@@ -27,15 +27,15 @@ function normalizeDate(value) {
     return value;
 }
 
-// Map German frontmatter keys to English JSON keys
+// Map vault frontmatter keys to the JSON keys the website consumes
 const KEY_MAP = {
-    Titel: "title",
-    Typ: "type",
-    Beginn: "start",
-    Ende: "end",
-    Bereich: "domain",
-    Schlagwörter: "tags",
-    Hinzugefügt: "added",
+    title: "title",
+    type: "type",
+    start: "start",
+    end: "end",
+    domain: "domain",
+    tags: "tags",
+    added: "added",
 };
 
 async function exportTimeline() {
@@ -50,7 +50,7 @@ async function exportTimeline() {
             const { data, body } = await parseMarkdownFile(filePath);
 
             // Skip if not a timeline entry or is a template
-            if (!hasKategorie(data, "Timeline")) continue;
+            if (!hasCategory(data, "Timeline")) continue;
             if (filePath.includes("Template")) continue;
 
             // Translate keys and clean wikilinks

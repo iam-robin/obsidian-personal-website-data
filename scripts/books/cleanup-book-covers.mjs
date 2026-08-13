@@ -7,21 +7,21 @@ import matter from "gray-matter";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasKategorie,
+    hasCategory,
     VAULT_PATH,
 } from "../../lib/utils.mjs";
 
 /**
  * Clean up book note frontmatter
  * - Remove Cover field (external URL)
- * - Ensure Cover (lokal) is set (to path or empty string)
+ * - Ensure cover_local is set (to path or empty string)
  */
 async function cleanupBookFrontmatter(filepath) {
     const content = await readFile(filepath, "utf-8");
     const { data, content: body } = matter(content);
 
-    const currentCoverLocal = data["Cover (lokal)"];
-    const currentCover = data.Cover;
+    const currentCoverLocal = data.cover_local;
+    const currentCover = data.cover;
 
     // Check if a local cover file exists
     let localCoverPath = null;
@@ -35,14 +35,14 @@ async function cleanupBookFrontmatter(filepath) {
     // Update frontmatter
     if (localCoverPath) {
         // Has local cover - keep path, clear Cover URL
-        data["Cover (lokal)"] = localCoverPath;
+        data.cover_local = localCoverPath;
     } else {
         // No local cover - set to empty string
-        data["Cover (lokal)"] = "";
+        data.cover_local = "";
     }
 
     // Always clear Cover field value (keep key for future updates)
-    data.Cover = "";
+    data.cover = "";
 
     // Check if changes were made
     const hadCover = currentCover !== undefined;
@@ -80,10 +80,10 @@ async function main() {
     const books = [];
     for (const file of files) {
         const { data } = await parseMarkdownFile(file);
-        if (hasKategorie(data, "Bücher")) {
+        if (hasCategory(data, "Bücher")) {
             books.push({
-                title: data.Titel || "Unknown",
-                author: data.Autor || "Unknown",
+                title: data.title || "Unknown",
+                author: data.author || "Unknown",
                 filepath: file,
             });
         }

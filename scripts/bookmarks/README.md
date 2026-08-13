@@ -7,11 +7,11 @@ This directory contains Node.js scripts for managing bookmark cover thumbnails i
 The bookmark cover workflow uses two frontmatter fields:
 
 ```yaml
-Cover: 'https://example.com/thumb.jpg'    # Remote URL (kept as breadcrumb)
-Cover (lokal): 'Attachments/Bookmark Cover/some-bookmark.jpg'
+cover: 'https://example.com/thumb.jpg'    # Remote URL (kept as breadcrumb)
+cover_local: 'attachments/bookmark-cover/some-bookmark.jpg'
 ```
 
-> **Difference from books:** the book cover script *clears* the `Cover` field after download. The bookmark script intentionally **keeps** the remote URL as a breadcrumb so it's possible to re-fetch later, or to compare against the original source if needed.
+> **Difference from books:** the book cover script *clears* the `cover` field after download. The bookmark script intentionally **keeps** the remote URL as a breadcrumb so it's possible to re-fetch later, or to compare against the original source if needed.
 
 **Naming Convention:** All cover images use lowercase filenames in the format:
 
@@ -23,7 +23,7 @@ Example: `de-atomization-is-the-secret-to-happiness.jpg`
 
 Unlike books, bookmark filenames do **not** include an author — bookmark titles alone are unique enough in practice.
 
-**Storage Location:** `/Users/robin/Documents/Obsidian/Notes/Attachments/Bookmark Cover/`
+**Storage Location:** `/Users/robin/Documents/Obsidian/Notes/attachments/bookmark-cover/`
 
 ---
 
@@ -35,14 +35,14 @@ Unlike books, bookmark filenames do **not** include an author — bookmark title
 
 **Features:**
 
-- Reads all bookmark notes from the Obsidian vault (filtered by `Kategorie: Bookmarks`)
-- Downloads covers from URLs in the `Cover` field
+- Reads all bookmark notes from the Obsidian vault (filtered by `category: Bookmarks`)
+- Downloads covers from URLs in the `cover` field
 - Always optimizes via `sharp` — resizes to max 800px wide, JPEG quality 80, no enlargement
 - Saves with standardized lowercase filenames
 - Updates bookmark frontmatter automatically via `gray-matter`
-- Keeps the original `Cover` URL as a breadcrumb (not cleared)
-- **Idempotent:** skips bookmarks that already have a `Cover (lokal)` field with an existing local file, even if the remote `Cover` URL is still set
-- **Self-cleaning on broken URLs:** definitively dead covers (HTTP 4xx, non-image content, oversize) get both `Cover` and `Cover (lokal)` cleared in the note, so future runs skip them instead of re-hitting the dead URL
+- Keeps the original `cover` URL as a breadcrumb (not cleared)
+- **Idempotent:** skips bookmarks that already have a `cover_local` field with an existing local file, even if the remote `cover` URL is still set
+- **Self-cleaning on broken URLs:** definitively dead covers (HTTP 4xx, non-image content, oversize) get both `cover` and `cover_local` cleared in the note, so future runs skip them instead of re-hitting the dead URL
 - **Transient errors are preserved:** HTTP 5xx and network errors leave the note untouched, so the next run can retry
 
 **Usage:**
@@ -62,14 +62,14 @@ node scripts/bookmarks/download-bookmark-covers.mjs
 
 1. Import bookmarks from Raindrop (via the vault's `scripts/import-bookmarks.mjs`)
 2. Run this script to fetch and archive all covers
-3. Bookmarks now have a `Cover (lokal)` path; the vault is portable and resistant to link rot
+3. Bookmarks now have a `cover_local` path; the vault is portable and resistant to link rot
 4. Re-run any time after adding new bookmarks — already-archived ones are skipped automatically
 
 **Broken URLs:**
 
 Failures are split into two categories:
 
-- **Definitive failures** — HTTP 4xx (404, 410, etc.), non-image `Content-Type`, or images larger than 10MB. These are treated as permanently broken: the script clears both `Cover` and `Cover (lokal)` in the note's frontmatter and logs the bookmark with `(cleared)`. On subsequent runs, the bookmark has no URL to fetch so it's silently skipped. To fix it later, paste a new working URL into `Cover` and re-run.
+- **Definitive failures** — HTTP 4xx (404, 410, etc.), non-image `Content-Type`, or images larger than 10MB. These are treated as permanently broken: the script clears both `cover` and `cover_local` in the note's frontmatter and logs the bookmark with `(cleared)`. On subsequent runs, the bookmark has no URL to fetch so it's silently skipped. To fix it later, paste a new working URL into `cover` and re-run.
 - **Transient failures** — HTTP 5xx, network errors, DNS timeouts. The note is **not** modified, and the bookmark is logged with `(will retry)`. Re-running the script will try again.
 
 **Example Output:**
@@ -111,7 +111,7 @@ Need to download:             67
   ✅ Successfully downloaded: 64
   🗑️  Broken (cleared):        2
   ⏳ Transient (will retry):  1
-  📁 Saved to: /Users/robin/Documents/Obsidian/Notes/Attachments/Bookmark Cover
+  📁 Saved to: /Users/robin/Documents/Obsidian/Notes/attachments/bookmark-cover
 ```
 
 ---
@@ -138,8 +138,8 @@ Just run the script again. Already-archived bookmarks are skipped automatically 
 ### Fixing a broken cover
 
 1. Find a working URL for the bookmark
-2. Replace the `Cover` value in the bookmark's frontmatter
-3. Delete the (probably non-existent) `Cover (lokal)` line, or leave it unset
+2. Replace the `cover` value in the bookmark's frontmatter
+3. Delete the (probably non-existent) `cover_local` line, or leave it unset
 4. Re-run `download-bookmark-covers.mjs`
 
 ---
@@ -166,7 +166,7 @@ npm install
 - **Scripts:** `/obsidian-personal-website-data/scripts/bookmarks/`
 - **Utilities:** `/obsidian-personal-website-data/lib/utils.mjs`
 - **Obsidian Vault:** `/Users/robin/Documents/Obsidian/Notes/`
-- **Cover Storage:** `/Users/robin/Documents/Obsidian/Notes/Attachments/Bookmark Cover/`
+- **Cover Storage:** `/Users/robin/Documents/Obsidian/Notes/attachments/bookmark-cover/`
 - **Bookmark Notes:** `/Users/robin/Documents/Obsidian/Notes/Library/Bookmarks/*.md`
 
 ---
@@ -199,7 +199,7 @@ Example: `"De-Atomization is the Secret to Happiness"` → `de-atomization-is-th
 
 ### Bookmark Filtering
 
-Bookmarks are identified via `hasKategorie(data, "Bookmarks")` from `lib/utils.mjs`, which matches notes whose `Kategorie` frontmatter (after wikilink cleaning) includes the string `"Bookmarks"`. This matches the convention used by `import-bookmarks.mjs` in the vault repo, which tags every imported note with `Kategorie: [[Bookmarks]]`.
+Bookmarks are identified via `hasCategory(data, "Bookmarks")` from `lib/utils.mjs`, which matches notes whose `category` frontmatter (after wikilink cleaning) includes the string `"Bookmarks"`. This matches the convention used by `import-bookmarks.mjs` in the vault repo, which tags every imported note with `category: [[Bookmarks]]`.
 
 ---
 
@@ -216,7 +216,7 @@ Bookmarks are identified via `hasKategorie(data, "Bookmarks")` from `lib/utils.m
 
 - Check that the YAML in the bookmark note is valid
 - Make sure `gray-matter` can parse the frontmatter (try opening the note in Obsidian — broken YAML is usually flagged)
-- Verify the note actually has `Kategorie: [[Bookmarks]]`, otherwise it's filtered out
+- Verify the note actually has `category: [[Bookmarks]]`, otherwise it's filtered out
 
 ### Wrong-looking thumbnails
 

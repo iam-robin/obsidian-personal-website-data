@@ -7,19 +7,19 @@
  * rot quickly (CDNs rotate, sites redesign, domains expire), so we archive
  * each cover locally — same approach used for book covers.
  *
- * For each bookmark note in Library/Bookmarks/ that has a `Cover:` URL but
- * no `Cover (lokal):` field yet, this script:
+ * For each bookmark note in library/bookmarks/ that has a `Cover:` URL but
+ * no `cover_local:` field yet, this script:
  *   1. Fetches the cover URL.
  *   2. Resizes/recompresses it to max 800px wide JPEG via sharp.
- *   3. Saves it as Attachments/Bookmark Cover/<slug>.jpg.
- *   4. Adds a `Cover (lokal):` frontmatter field. The original `Cover:` URL
+ *   3. Saves it as attachments/bookmark-cover/<slug>.jpg.
+ *   4. Adds a `cover_local:` frontmatter field. The original `Cover:` URL
  *      is preserved as a breadcrumb (unlike books, which clear it).
  *
- * Idempotent: notes that already have a `Cover (lokal):` field with an
+ * Idempotent: notes that already have a `cover_local:` field with an
  * existing local file are skipped on subsequent runs.
  *
  * Broken URLs (HTTP 4xx, non-image content, oversize) are treated as
- * permanently dead: both `Cover` and `Cover (lokal)` are cleared in the
+ * permanently dead: both `Cover` and `cover_local` are cleared in the
  * note's frontmatter so future runs skip them. Transient failures (HTTP
  * 5xx, network errors) leave the note untouched for retry on the next run.
  *
@@ -37,11 +37,11 @@ import sharp from "sharp";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasKategorie,
+    hasCategory,
     VAULT_PATH,
 } from "../../lib/utils.mjs";
 
-const COVER_DIR = join(VAULT_PATH, "Attachments/Bookmark Cover");
+const COVER_DIR = join(VAULT_PATH, "attachments/bookmark-cover");
 
 // Parse command line arguments
 const args = process.argv.slice(2);
@@ -65,7 +65,7 @@ function sanitizeFilename(title) {
 }
 
 /**
- * Update bookmark frontmatter: set `Cover (lokal)` to the relative path,
+ * Update bookmark frontmatter: set `cover_local` to the relative path,
  * leave `Cover` (the remote URL) untouched as a breadcrumb.
  */
 async function updateBookmarkFrontmatter(filepath, localCoverPath) {
@@ -73,7 +73,7 @@ async function updateBookmarkFrontmatter(filepath, localCoverPath) {
     const { data, content: body } = matter(content);
 
     const relativePath = relative(VAULT_PATH, localCoverPath);
-    data["Cover (lokal)"] = relativePath;
+    data.cover_local = relativePath;
 
     const updated = matter.stringify(body, data);
     await writeFile(filepath, updated, "utf-8");
@@ -81,7 +81,7 @@ async function updateBookmarkFrontmatter(filepath, localCoverPath) {
 
 /**
  * Mark a bookmark's cover as definitively broken: clear both `Cover` (the
- * dead remote URL) and `Cover (lokal)` (no local file). This records the
+ * dead remote URL) and `cover_local` (no local file). This records the
  * broken state in the note so future runs of this script see "no URL" and
  * skip it instead of re-hitting the dead URL.
  */
@@ -89,8 +89,8 @@ async function clearBookmarkCover(filepath) {
     const content = await readFile(filepath, "utf-8");
     const { data, content: body } = matter(content);
 
-    data.Cover = "";
-    data["Cover (lokal)"] = "";
+    data.cover = "";
+    data.cover_local = "";
 
     const updated = matter.stringify(body, data);
     await writeFile(filepath, updated, "utf-8");
@@ -186,7 +186,7 @@ async function main() {
     const bookmarks = [];
     for (const file of files) {
         const { data } = await parseMarkdownFile(file);
-        if (hasKategorie(data, "Bookmarks")) {
+        if (hasCategory(data, "Bookmarks")) {
             bookmarks.push({ data, file });
         }
     }
@@ -206,9 +206,9 @@ async function main() {
     const noCoverUrl = [];
 
     for (const { data, file } of bookmarks) {
-        const title = data.Titel || "Unknown";
-        const coverUrl = data.Cover;
-        const coverLocal = data["Cover (lokal)"];
+        const title = data.title || "Unknown";
+        const coverUrl = data.cover;
+        const coverLocal = data.cover_local;
 
         if (coverUrl) stats.withCover++;
         if (coverLocal) stats.withLocalCover++;
@@ -307,7 +307,7 @@ async function main() {
             results.success++;
         } catch (error) {
             if (error.definitive) {
-                // Permanently broken — clear both Cover and Cover (lokal)
+                // Permanently broken — clear both Cover and cover_local
                 // so re-runs skip this bookmark instead of re-hitting the dead URL.
                 await clearBookmarkCover(filepath);
                 console.log(`❌ ${error.message} — cleared frontmatter`);

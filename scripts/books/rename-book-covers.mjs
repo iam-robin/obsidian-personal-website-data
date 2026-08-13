@@ -7,11 +7,11 @@ import matter from "gray-matter";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasKategorie,
+    hasCategory,
     VAULT_PATH,
 } from "../../lib/utils.mjs";
 
-const COVER_DIR = join(VAULT_PATH, "Attachments/Book Cover");
+const COVER_DIR = join(VAULT_PATH, "attachments/book-cover");
 
 /**
  * Sanitize filename for safe file system storage (same as download script)
@@ -44,7 +44,7 @@ async function renameBookCover(filepath, title, author, currentPath) {
     // Build full paths
     const currentFullPath = join(VAULT_PATH, currentPath);
     const newFullPath = join(COVER_DIR, expectedFilename);
-    const newRelativePath = `Attachments/Book Cover/${expectedFilename}`;
+    const newRelativePath = `attachments/book-cover/${expectedFilename}`;
 
     // Check if current file exists
     if (!existsSync(currentFullPath)) {
@@ -75,7 +75,7 @@ async function renameBookCover(filepath, title, author, currentPath) {
     // Update frontmatter
     const content = await readFile(filepath, "utf-8");
     const { data, content: body } = matter(content);
-    data["Cover (lokal)"] = newRelativePath;
+    data.cover_local = newRelativePath;
     const updated = matter.stringify(body, data);
     await writeFile(filepath, updated, "utf-8");
 
@@ -104,11 +104,11 @@ async function main() {
     const booksWithCovers = [];
     for (const file of files) {
         const { data } = await parseMarkdownFile(file);
-        if (hasKategorie(data, "Bücher") && data["Cover (lokal)"]) {
+        if (hasCategory(data, "Bücher") && data.cover_local) {
             booksWithCovers.push({
-                title: data.Titel || "Unknown",
-                author: data.Autor || "Unknown",
-                coverLocal: data["Cover (lokal)"],
+                title: data.title || "Unknown",
+                author: data.author || "Unknown",
+                coverLocal: data.cover_local,
                 filepath: file,
             });
         }

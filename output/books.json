@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T11:27:11.121Z",
+  "lastUpdated": "2026-08-13T14:20:59.253Z",
   "count": 92,
   "aktiv": [
     {
@@ -76,6 +76,7 @@
       ],
       "finished": null,
       "rating": null,
+      "added": "2025-11-11 00:00",
       "status": [
         "Merkliste"
       ]
@@ -139,6 +140,7 @@
       ],
       "finished": null,
       "rating": null,
+      "added": "2025-11-12 00:00",
       "status": [
         "Merkliste"
       ]
@@ -289,6 +291,7 @@
         ],
         "finished": "2018-09-05T00:00:00.000Z",
         "rating": 4.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#14B071",
         "textColor": "#E1E8EA",
         "status": [
@@ -313,6 +316,7 @@
         ],
         "finished": "2018-09-08T00:00:00.000Z",
         "rating": 4.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#953322",
         "textColor": "#F7D1C5",
         "status": [
@@ -338,6 +342,7 @@
         ],
         "finished": "2019-12-18T00:00:00.000Z",
         "rating": 3,
+        "added": "2025-11-11 00:00",
         "spineColor": "#554EFF",
         "textColor": "#E7FB1B",
         "status": [
@@ -358,6 +363,7 @@
         ],
         "finished": "2019-03-05T00:00:00.000Z",
         "rating": 4.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#F02D33",
         "textColor": "#FFF8EB",
         "status": [
@@ -378,6 +384,7 @@
         ],
         "finished": "2019-05-09T00:00:00.000Z",
         "rating": 3,
+        "added": "2025-11-11 00:00",
         "spineColor": "#0C513F",
         "textColor": "#FDF697",
         "status": [
@@ -398,6 +405,7 @@
         ],
         "finished": "2019-02-28T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#BB232B",
         "textColor": "#E7FBF8",
         "status": [
@@ -418,6 +426,7 @@
         ],
         "finished": "2019-04-11T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FFF",
         "textColor": "#2B2B2B",
         "status": [
@@ -438,6 +447,7 @@
         ],
         "finished": "2019-08-04T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FFFFF3",
         "textColor": "#181C0C",
         "status": [
@@ -458,6 +468,7 @@
         ],
         "finished": "2019-11-16T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FFF",
         "textColor": "#080808",
         "status": [
@@ -478,6 +489,7 @@
         ],
         "finished": "2019-03-15T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#C13B33",
         "textColor": "#EBDFD0",
         "status": [
@@ -500,6 +512,7 @@
         ],
         "finished": "2020-09-24T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FBFAF7",
         "textColor": "#1F1E1C",
         "status": [
@@ -520,6 +533,7 @@
         ],
         "finished": "2020-05-21T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#F0ECDC",
         "textColor": "#2A4C1E",
         "status": [
@@ -540,6 +554,7 @@
         ],
         "finished": "2020-07-30T00:00:00.000Z",
         "rating": 4.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FDFCFB",
         "textColor": "#E74312",
         "status": [
@@ -560,6 +575,7 @@
         ],
         "finished": "2020-07-02T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#6DAEE4",
         "textColor": "#1D3A51",
         "status": [
@@ -580,6 +596,7 @@
         ],
         "finished": "2020-02-13T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FFF",
         "textColor": "#0D0D0D",
         "status": [
@@ -600,6 +617,7 @@
         ],
         "finished": "2020-12-17T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#0A0A0A",
         "textColor": "#A9D632",
         "status": [
@@ -620,6 +638,7 @@
         ],
         "finished": "2020-04-16T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#043F81",
         "textColor": "#FEFDFD",
         "status": [
@@ -640,6 +659,7 @@
         ],
         "finished": "2020-01-18T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#CFD0D2",
         "textColor": "#3061A2",
         "status": [
@@ -660,6 +680,7 @@
         ],
         "finished": "2020-10-19T00:00:00.000Z",
         "rating": 4.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#E75A0C",
         "textColor": "#FEFEFE",
         "status": [
@@ -680,6 +701,7 @@
         ],
         "finished": "2020-06-15T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#EEEEE7",
         "textColor": "#EB252C",
         "status": [
@@ -700,6 +722,7 @@
         ],
         "finished": "2020-11-13T00:00:00.000Z",
         "rating": 5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FCCC0F",
         "textColor": "#083B5B",
         "status": [
@@ -722,6 +745,7 @@
         ],
         "finished": "2021-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#CCC",
         "textColor": "#EC5F09",
         "status": [
@@ -742,6 +766,7 @@
         ],
         "finished": "2021-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#1F2D5A",
         "textColor": "#FEF262",
         "status": [
@@ -762,6 +787,7 @@
         ],
         "finished": "2021-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#B7DECF",
         "textColor": "#982086",
         "status": [
@@ -782,6 +808,7 @@
         ],
         "finished": "2021-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#E4418F",
         "textColor": "#FDFDFF",
         "status": [
@@ -802,6 +829,7 @@
         ],
         "finished": "2021-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#353373",
         "textColor": "#E8DCCB",
         "status": [
@@ -822,6 +850,7 @@
         ],
         "finished": "2021-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#F1100B",
         "textColor": "#090306",
         "status": [
@@ -842,6 +871,7 @@
         ],
         "finished": "2021-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#F7F7F6",
         "textColor": "#EC3925",
         "status": [
@@ -862,6 +892,7 @@
         ],
         "finished": "2021-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FF3B41",
         "textColor": "#201C1D",
         "status": [
@@ -884,6 +915,7 @@
         ],
         "finished": "2022-05-24T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#E3D9D2",
         "textColor": "#426B3C",
         "status": [
@@ -905,6 +937,7 @@
         ],
         "finished": "2022-04-28T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#010101",
         "textColor": "#FEFEFE",
         "status": [
@@ -925,6 +958,7 @@
         ],
         "finished": "2022-10-08T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#121D24",
         "textColor": "#DACFCA",
         "status": [
@@ -945,6 +979,7 @@
         ],
         "finished": "2022-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#BD1D22",
         "textColor": "#F9B23D",
         "status": [
@@ -965,6 +1000,7 @@
         ],
         "finished": "2022-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FFF45D",
         "textColor": "#242421",
         "status": [
@@ -985,6 +1021,7 @@
         ],
         "finished": "2022-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#51B293",
         "textColor": "#F2F8F5",
         "status": [
@@ -1005,6 +1042,7 @@
         ],
         "finished": "2022-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FED318",
         "textColor": "#040505",
         "status": [
@@ -1026,6 +1064,7 @@
         ],
         "finished": "2022-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#12242F",
         "textColor": "#F9F9FC",
         "status": [
@@ -1046,6 +1085,7 @@
         ],
         "finished": "2022-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#49C9F2",
         "textColor": "#2E2A2C",
         "status": [
@@ -1066,6 +1106,7 @@
         ],
         "finished": "2022-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#AC2326",
         "textColor": "#D7EEFE",
         "status": [
@@ -1086,6 +1127,7 @@
         ],
         "finished": "2022-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#474C97",
         "textColor": "#E75452",
         "status": [
@@ -1106,6 +1148,7 @@
         ],
         "finished": "2022-01-01T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#CC8CDB",
         "textColor": "#FFF",
         "status": [
@@ -1128,6 +1171,7 @@
         ],
         "finished": "2023-11-15T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#F59E84",
         "textColor": "#FFF8ED",
         "status": [
@@ -1149,6 +1193,7 @@
         ],
         "finished": "2023-05-03T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#02428B",
         "textColor": "#FFFFFE",
         "status": [
@@ -1169,6 +1214,7 @@
         ],
         "finished": "2023-03-29T00:00:00.000Z",
         "rating": 5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FFF227",
         "textColor": "#171818",
         "status": [
@@ -1189,6 +1235,7 @@
         ],
         "finished": "2023-06-07T00:00:00.000Z",
         "rating": 4.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#262223",
         "textColor": "#FEFEFE",
         "status": [
@@ -1209,6 +1256,7 @@
         ],
         "finished": "2023-10-03T00:00:00.000Z",
         "rating": 3,
+        "added": "2025-11-11 00:00",
         "spineColor": "#A9E4DA",
         "textColor": "#0535B6",
         "status": [
@@ -1229,6 +1277,7 @@
         ],
         "finished": "2023-01-26T00:00:00.000Z",
         "rating": 4.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FFFFF3",
         "textColor": "#323125",
         "status": [
@@ -1249,6 +1298,7 @@
         ],
         "finished": "2023-12-14T00:00:00.000Z",
         "rating": 3,
+        "added": "2025-11-11 00:00",
         "spineColor": "#020202",
         "textColor": "#F3D918",
         "status": [
@@ -1269,6 +1319,7 @@
         ],
         "finished": "2023-01-15T00:00:00.000Z",
         "rating": 5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#060606",
         "textColor": "#FFF",
         "status": [
@@ -1289,6 +1340,7 @@
         ],
         "finished": "2023-03-11T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#020202",
         "textColor": "#FBFBFB",
         "status": [
@@ -1312,6 +1364,7 @@
         ],
         "finished": "2023-07-22T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#2C2A24",
         "textColor": "#F4A6D6",
         "status": [
@@ -1333,6 +1386,7 @@
         ],
         "finished": "2023-01-14T00:00:00.000Z",
         "rating": null,
+        "added": "2025-11-11 00:00",
         "spineColor": "#21283C",
         "textColor": "#FEFEFE",
         "status": [
@@ -1353,6 +1407,7 @@
         ],
         "finished": "2023-05-15T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#066954",
         "textColor": "#F9FEFC",
         "status": [
@@ -1373,6 +1428,7 @@
         ],
         "finished": "2023-06-26T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#131215",
         "textColor": "#FFFEFA",
         "status": [
@@ -1393,6 +1449,7 @@
         ],
         "finished": "2023-08-28T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#C3716F",
         "textColor": "#23134D",
         "status": [
@@ -1413,6 +1470,7 @@
         ],
         "finished": "2023-10-20T00:00:00.000Z",
         "rating": 5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#FFFFF3",
         "textColor": "#312D1F",
         "status": [
@@ -1433,6 +1491,7 @@
         ],
         "finished": "2023-06-02T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#272D1F",
         "textColor": "#F6F5F5",
         "status": [
@@ -1478,6 +1537,7 @@
         ],
         "finished": "2024-05-01T00:00:00.000Z",
         "rating": 3,
+        "added": "2025-11-11 00:00",
         "spineColor": "#272D2C",
         "textColor": "#D8C87F",
         "status": [
@@ -1498,6 +1558,7 @@
         ],
         "finished": "2024-02-28T00:00:00.000Z",
         "rating": 4.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#030303",
         "textColor": "#FEFEFE",
         "status": [
@@ -1518,6 +1579,7 @@
         ],
         "finished": "2024-01-25T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#242422",
         "textColor": "#EFEEE7",
         "status": [
@@ -1538,6 +1600,7 @@
         ],
         "finished": "2024-01-11T00:00:00.000Z",
         "rating": 3,
+        "added": "2025-11-11 00:00",
         "spineColor": "#157978",
         "textColor": "#FEFEFE",
         "status": [
@@ -1558,6 +1621,7 @@
         ],
         "finished": "2024-04-04T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#E5DFD3",
         "textColor": "#242018",
         "status": [
@@ -1578,6 +1642,7 @@
         ],
         "finished": "2024-10-27T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#E73526",
         "textColor": "#F1EBDD",
         "status": [
@@ -1598,6 +1663,7 @@
         ],
         "finished": "2024-10-20T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#D87E4C",
         "textColor": "#F8D41F",
         "status": [
@@ -1618,6 +1684,7 @@
         ],
         "finished": "2024-06-09T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#98B8CB",
         "textColor": "#E42D13",
         "status": [
@@ -1638,6 +1705,7 @@
         ],
         "finished": "2024-09-14T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#1D1C1A",
         "textColor": "#E17C33",
         "status": [
@@ -1658,6 +1726,7 @@
         ],
         "finished": "2024-12-02T00:00:00.000Z",
         "rating": 2.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#DCDEBD",
         "textColor": "#1B3204",
         "status": [
@@ -1701,6 +1770,7 @@
         ],
         "finished": "2025-04-02T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#1C6B93",
         "textColor": "#FBF4E4",
         "status": [
@@ -1729,6 +1799,7 @@
         ],
         "finished": "2025-11-11T00:00:00.000Z",
         "rating": 4.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#B4BAAB",
         "textColor": "#612448",
         "status": [
@@ -1749,6 +1820,7 @@
         ],
         "finished": "2025-02-09T00:00:00.000Z",
         "rating": 3.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#11B1AF",
         "textColor": "#E2E434",
         "status": [
@@ -1788,6 +1860,7 @@
         ],
         "finished": "2025-05-03T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#040404",
         "textColor": "#FFF",
         "status": [
@@ -1808,6 +1881,7 @@
         ],
         "finished": "2025-02-08T00:00:00.000Z",
         "rating": 3,
+        "added": "2025-11-11 00:00",
         "spineColor": "#0A2429",
         "textColor": "#C79A2E",
         "status": [
@@ -1829,6 +1903,7 @@
         ],
         "finished": "2025-04-26T00:00:00.000Z",
         "rating": 3,
+        "added": "2025-11-11 00:00",
         "spineColor": "#11273D",
         "textColor": "#F36467",
         "status": [
@@ -1853,6 +1928,7 @@
         ],
         "finished": "2025-12-15T00:00:00.000Z",
         "rating": 4,
+        "added": "2025-11-11 00:00",
         "spineColor": "#F3E2CA",
         "textColor": "#2164FE",
         "status": [
@@ -1873,6 +1949,7 @@
         ],
         "finished": "2025-06-13T00:00:00.000Z",
         "rating": 2.5,
+        "added": "2025-11-11 00:00",
         "spineColor": "#F142AF",
         "textColor": "#282226",
         "status": [

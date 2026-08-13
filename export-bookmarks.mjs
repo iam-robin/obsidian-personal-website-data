@@ -6,7 +6,7 @@ import { join, basename, dirname } from "path";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasKategorie,
+    hasCategory,
     translateKeys,
     writeOutput,
     getLastUpdated,
@@ -20,17 +20,17 @@ const COVERS_DIR = join(
 );
 const GITHUB_RAW_BASE = "bookmark-covers"; // Relative path for website build
 
-// Map German frontmatter keys to English JSON keys.
-// Favorit is deliberately omitted — it's used for filtering, not exported.
+// Map vault frontmatter keys to the JSON keys the website consumes.
+// `favorite` is deliberately omitted — it's used for filtering, not exported.
 const KEY_MAP = {
-    Titel: "title",
-    Quelle: "url",
-    Hinzugefügt: "added",
-    Cover: "cover",
-    "Cover (lokal)": "coverLocal",
-    Tags: "tags",
+    title: "title",
+    source: "url",
+    added: "added",
+    cover: "cover",
+    cover_local: "coverLocal",
+    tags: "tags",
     description: "description",
-    Type: "type",
+    type: "type",
 };
 
 async function exportBookmarks() {
@@ -44,12 +44,12 @@ async function exportBookmarks() {
             const { data } = await parseMarkdownFile(filePath);
 
             // Skip if not a bookmark or is a template
-            if (!hasKategorie(data, "Bookmarks")) continue;
+            if (!hasCategory(data, "Bookmarks")) continue;
             if (filePath.includes("Template")) continue;
 
-            // Favorit gate: only `Favorit: true` bookmarks are published.
+            // favorite gate: only `favorite: true` bookmarks are published.
             // Strict boolean equality — gray-matter parses YAML `true` to a real bool.
-            if (data.Favorit !== true) continue;
+            if (data.favorite !== true) continue;
 
             // Translate keys and clean wikilinks
             const bookmark = translateKeys(data, KEY_MAP);

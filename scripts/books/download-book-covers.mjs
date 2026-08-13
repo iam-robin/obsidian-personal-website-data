@@ -8,11 +8,11 @@ import sharp from "sharp";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasKategorie,
+    hasCategory,
     VAULT_PATH,
 } from "../../lib/utils.mjs";
 
-const COVER_DIR = join(VAULT_PATH, "Attachments/Book Cover");
+const COVER_DIR = join(VAULT_PATH, "attachments/book-cover");
 
 // Parse command line arguments
 const args = process.argv.slice(2);
@@ -42,12 +42,12 @@ async function updateBookFrontmatter(filepath, localCoverPath) {
     const content = await readFile(filepath, "utf-8");
     const { data, content: body } = matter(content);
 
-    // Set Cover (lokal) to relative path from vault root
+    // Set cover_local to relative path from vault root
     const relativePath = relative(VAULT_PATH, localCoverPath);
-    data["Cover (lokal)"] = relativePath;
+    data.cover_local = relativePath;
 
     // Clear the Cover field value (keep key for future updates)
-    data.Cover = "";
+    data.cover = "";
 
     // Stringify back to markdown with frontmatter
     const updated = matter.stringify(body, data);
@@ -139,7 +139,7 @@ async function main() {
     const books = [];
     for (const file of files) {
         const { data } = await parseMarkdownFile(file);
-        if (hasKategorie(data, "Bücher")) {
+        if (hasCategory(data, "Bücher")) {
             books.push({ data, file });
         }
     }
@@ -160,10 +160,10 @@ async function main() {
     const noCoverUrl = [];
 
     for (const { data, file } of books) {
-        const title = data.Titel || "Unknown";
-        const author = data.Autor || "Unknown";
-        const coverUrl = data.Cover;
-        const coverLocal = data["Cover (lokal)"];
+        const title = data.title || "Unknown";
+        const author = data.author || "Unknown";
+        const coverUrl = data.cover;
+        const coverLocal = data.cover_local;
 
         if (coverUrl) stats.withCover++;
         if (coverLocal) stats.withLocalCover++;

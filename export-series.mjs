@@ -3,27 +3,27 @@
 import {
   findMarkdownFiles,
   parseMarkdownFile,
-  hasKategorie,
+  hasCategory,
   translateKeys,
   normalizeStatus,
   writeOutput,
   getLastUpdated,
 } from './lib/utils.mjs';
 
-// Map German frontmatter keys to English JSON keys
+// Map vault frontmatter keys to the JSON keys the website consumes
 const KEY_MAP = {
-  'Titel': 'title',
-  'Staffel': 'season',
-  'Genre': 'genre',
-  'Regisseur': 'director',
-  'Bewertung': 'rating',
-  'scoreImdb': 'imdbScore',
+  'title': 'title',
+  'season': 'season',
+  'genre': 'genre',
+  'director': 'director',
+  'rating': 'rating',
+  'imdb_score': 'imdbScore',
   'cast': 'cast',
-  'Cover': 'cover',
-  'Erschienen': 'released',
-  'Beendet': 'finished',
-  'Hinzugefügt': 'added',
-  'Favorit': 'favorite'
+  'cover': 'cover',
+  'released': 'released',
+  'finished': 'finished',
+  'added': 'added',
+  'favorite': 'favorite'
 };
 
 async function exportSeries() {
@@ -38,14 +38,14 @@ async function exportSeries() {
       const { data } = await parseMarkdownFile(filePath);
 
       // Skip if not a series or is a template
-      if (!hasKategorie(data, 'Serien')) continue;
+      if (!hasCategory(data, 'Serien')) continue;
       if (filePath.includes('Template')) continue;
 
       // Translate keys and clean wikilinks
       const show = translateKeys(data, KEY_MAP);
 
       // Handle status separately (normalize to array)
-      show.status = normalizeStatus(data.Status);
+      show.status = normalizeStatus(data.status);
 
       // Ensure genre is always an array
       if (show.genre && !Array.isArray(show.genre)) {

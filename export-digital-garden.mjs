@@ -4,18 +4,20 @@ import { basename } from "path";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasKategorie,
+    hasCategory,
     translateKeys,
     writeOutput,
     getLastUpdated,
 } from "./lib/utils.mjs";
 
-// Map German frontmatter keys to English JSON keys
+// Map vault frontmatter keys to the JSON keys the website consumes.
+// The JSON side keeps `thema` so digital-garden.json stays byte-identical
+// and the website needs no change; only the vault key was renamed to `topic`.
 const KEY_MAP = {
-    Thema: "thema",
+    topic: "thema",
     description: "description",
-    Hinzugefügt: "created",
-    Bearbeitet: "edited",
+    added: "created",
+    updated: "edited",
 };
 
 /**
@@ -48,7 +50,7 @@ async function exportDigitalGarden() {
             const { data, body } = await parseMarkdownFile(filePath);
 
             // Skip if not a Digital Garden note or is a template
-            if (!hasKategorie(data, "Digital Garden")) continue;
+            if (!hasCategory(data, "Digital Garden")) continue;
             if (filePath.includes("Template")) continue;
 
             // Translate keys and clean wikilinks
