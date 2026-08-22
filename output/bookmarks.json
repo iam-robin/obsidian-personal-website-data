@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-08-13T14:21:00.196Z",
-  "count": 68,
+  "lastUpdated": "2026-08-22T08:27:47.155Z",
+  "count": 69,
   "items": [
+    {
+      "title": "Tapir Emoji Proposal · Frank Rausch",
+      "url": "https://frankrausch.com/tapir-emoji/",
+      "added": "2026-08-22 00:00",
+      "cover": "bookmark-covers/tapir-emoji-proposal.jpg",
+      "tags": [
+        "design",
+        "icons"
+      ],
+      "description": "I think we need a tapir emoji.",
+      "type": "article"
+    },
     {
       "title": "I believe in files",
       "url": "https://gregwolanski.com/files/",
