@@ -1,30 +1,26 @@
 {
-  "lastUpdated": "2026-08-13T14:20:59.253Z",
-  "count": 92,
+  "lastUpdated": "2026-08-23T08:35:52.624Z",
+  "count": 93,
   "aktiv": [
     {
-      "title": "Station Eleven",
+      "title": "Hexenkunst",
       "author": [
-        "Emily St. John Mandel"
+        "Sole Otero"
       ],
-      "pages": 333,
-      "published": "2014",
-      "cover": "book-covers/station-eleven-emily-st-john-mandel.jpg",
-      "isbn": null,
+      "pages": 376,
+      "published": "2025",
+      "cover": "book-covers/hexenkunst-sole-otero.jpg",
+      "isbn": 9783956404535,
+      "publisher": "Reprodukt",
       "genre": [
-        "Fiction",
-        "Science Fiction",
-        "Dystopia",
-        "Book Club",
-        "Post Apocalyptic",
-        "Audiobook",
-        "Fantasy"
+        "Graphic Novel",
+        "Fiction"
       ],
-      "finished": null,
-      "rating": null,
-      "added": "2026-01-04 13:39",
-      "spineColor": "#1C1737",
-      "textColor": "#fff",
+      "finished": "",
+      "rating": "",
+      "added": "2026-08-23 10:33",
+      "spineColor": "#1B1F33",
+      "textColor": "#FEFEFE",
       "status": [
         "Aktiv"
       ]
@@ -1834,7 +1830,7 @@
         ],
         "pages": 561,
         "published": "2011-01-01T00:00:00.000Z",
-        "cover": "https://assets.literal.club/4/ckikdst7815360zhfipq4q8qk.jpg?size=600",
+        "cover": "book-covers/leviathan-wakes-james-s-a-corey.jpg",
         "isbn": 9781841499888,
         "genre": [
           "Fiction"
@@ -1974,6 +1970,33 @@
         "added": "2026-01-10 19:45",
         "spineColor": "#424236",
         "textColor": "#FEEE0D",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Station Eleven",
+        "author": [
+          "Emily St. John Mandel"
+        ],
+        "pages": 333,
+        "published": "2014",
+        "cover": "book-covers/station-eleven-emily-st-john-mandel.jpg",
+        "isbn": null,
+        "genre": [
+          "Fiction",
+          "Science Fiction",
+          "Dystopia",
+          "Book Club",
+          "Post Apocalyptic",
+          "Audiobook",
+          "Fantasy"
+        ],
+        "finished": "2026-08-23T00:00:00.000Z",
+        "rating": 4.5,
+        "added": "2026-01-04 13:39",
+        "spineColor": "#1C1737",
+        "textColor": "#fff",
         "status": [
           "Abgeschlossen"
         ]
