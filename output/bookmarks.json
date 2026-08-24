@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-08-22T08:27:47.155Z",
-  "count": 69,
+  "lastUpdated": "2026-08-24T08:00:04.694Z",
+  "count": 70,
   "items": [
+    {
+      "title": "I miss thinking hard.",
+      "url": "https://www.jernesto.com/articles/thinking_hard",
+      "added": "2026-08-23 10:47",
+      "cover": "bookmark-covers/i-miss-thinking-hard.jpg",
+      "tags": [
+        "ai",
+        "software"
+      ],
+      "description": "AI has changed the experience of being an engineer, starving my Thinker side while satisfying the Builder side.",
+      "type": "article"
+    },
     {
       "title": "Tapir Emoji Proposal · Frank Rausch",
       "url": "https://frankrausch.com/tapir-emoji/",
