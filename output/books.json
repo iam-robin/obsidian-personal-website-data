@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-08-24T20:33:45.297Z",
-  "count": 94,
+  "lastUpdated": "2026-09-07T06:25:00.594Z",
+  "count": 96,
   "aktiv": [
+    {
+      "title": "Junge Frau, am Fenster stehend, Abendlicht, blaues Kleid",
+      "author": [
+        "Alena Schröder"
+      ],
+      "pages": 366,
+      "published": "2021",
+      "cover": "book-covers/junge-frau-am-fenster-stehend-abendlicht-blaues-kleid-alena-schroeder.jpg",
+      "isbn": "3423282738 9783423282734",
+      "publisher": "dtv",
+      "genre": [
+        "Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-09-07 08:23",
+      "spineColor": "#1C1F2B",
+      "textColor": "#F2E6C9",
+      "status": [
+        "Aktiv"
+      ]
+    },
     {
       "title": "Dungeon Crawler Carl",
       "author": [
@@ -219,6 +241,29 @@
       "finished": "",
       "rating": "",
       "added": "2026-02-26 12:00",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Der Name des Windes",
+      "author": [
+        "Patrick Rothfuss"
+      ],
+      "pages": 876,
+      "published": "2010",
+      "cover": "book-covers/der-name-des-windes-patrick-rothfuss.jpg",
+      "isbn": "3608938788 9783608938784",
+      "publisher": "Klett-Cotta",
+      "genre": [
+        "Fiction",
+        "Fantasy"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-08-25 13:08",
+      "spineColor": "#E8DFC8",
+      "textColor": "#8B1A1A",
       "status": [
         "Merkliste"
       ]
