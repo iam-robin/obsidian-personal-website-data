@@ -1,53 +1,7 @@
 {
-  "lastUpdated": "2026-09-07T06:25:00.594Z",
-  "count": 96,
-  "aktiv": [
-    {
-      "title": "Junge Frau, am Fenster stehend, Abendlicht, blaues Kleid",
-      "author": [
-        "Alena Schröder"
-      ],
-      "pages": 366,
-      "published": "2021",
-      "cover": "book-covers/junge-frau-am-fenster-stehend-abendlicht-blaues-kleid-alena-schroeder.jpg",
-      "isbn": "3423282738 9783423282734",
-      "publisher": "dtv",
-      "genre": [
-        "Fiction"
-      ],
-      "finished": "",
-      "rating": "",
-      "added": "2026-09-07 08:23",
-      "spineColor": "#1C1F2B",
-      "textColor": "#F2E6C9",
-      "status": [
-        "Aktiv"
-      ]
-    },
-    {
-      "title": "Dungeon Crawler Carl",
-      "author": [
-        "Matt Dinniman"
-      ],
-      "pages": 465,
-      "published": "2020",
-      "cover": "book-covers/dungeon-crawler-carl-matt-dinniman.jpg",
-      "isbn": "059382024X 9780593820247",
-      "publisher": "Ace",
-      "genre": [
-        "Science Fiction",
-        "Fantasy"
-      ],
-      "finished": "",
-      "rating": "",
-      "added": "2026-07-05 20:51",
-      "spineColor": "#000",
-      "textColor": "#F9C033",
-      "status": [
-        "Aktiv"
-      ]
-    }
-  ],
+  "lastUpdated": "2026-10-16T19:57:18.747Z",
+  "count": 103,
+  "aktiv": [],
   "merkliste": [
     {
       "title": "Watchmen",
@@ -72,6 +26,26 @@
       "finished": null,
       "rating": null,
       "added": "2025-11-11 00:00",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Verlorene Schäfchen",
+      "author": [
+        "Madeline Cash"
+      ],
+      "pages": 320,
+      "published": "2026-05-13",
+      "cover": "book-covers/verlorene-sch-fchen-madeline-cash.jpg",
+      "isbn": 9783328604518,
+      "publisher": "Penguin Verlag",
+      "genre": [
+        "Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-09-14 11:15",
       "status": [
         "Merkliste"
       ]
@@ -198,6 +172,134 @@
       "finished": "",
       "rating": "",
       "added": "2026-04-20 16:53",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Red Rising",
+      "author": [
+        "Pierce Brown"
+      ],
+      "pages": 382,
+      "published": "2014-01-28",
+      "cover": "book-covers/red-rising-pierce-brown.jpg",
+      "isbn": "0345539788 9780345539786",
+      "publisher": "Del Rey",
+      "genre": [
+        "Science Fiction",
+        "Fantasy",
+        "Dystopia"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-09-29 11:57",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Piranesi",
+      "author": [
+        "Susanna Clarke"
+      ],
+      "pages": 245,
+      "published": "2020-09-15",
+      "cover": "book-covers/piranesi-susanna-clarke.jpg",
+      "isbn": "163557563X 9781635575637",
+      "publisher": "Bloomsbury",
+      "genre": [
+        "Fantasy",
+        "Fiction",
+        "Mystery"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-09-29 11:57",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "On Love",
+      "author": [
+        "Alain de Botton"
+      ],
+      "pages": 240,
+      "published": "2006-01-06",
+      "cover": "book-covers/on-love-alain-de-botton.jpg",
+      "isbn": "0802142400 9780802142405",
+      "publisher": "Grove Press",
+      "genre": [
+        "Fiction",
+        "Literary Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-09-29 11:57",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Moonbound",
+      "author": [
+        "Robin Sloan"
+      ],
+      "pages": 434,
+      "published": "2024-06-11",
+      "cover": "book-covers/moonbound-robin-sloan.jpg",
+      "isbn": "0374610606 9780374610609",
+      "publisher": "MCD",
+      "genre": [
+        "Fiction",
+        "Science Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-09-22 00:00",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Middlemarch",
+      "author": [
+        "George Eliot"
+      ],
+      "pages": 912,
+      "published": "2003-12-02",
+      "cover": "book-covers/middlemarch-george-eliot.jpg",
+      "isbn": "0451529170 9780451529176",
+      "publisher": "Signet",
+      "genre": [
+        "Classics",
+        "Fiction",
+        "Historical Fiction"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-09-29 11:57",
+      "status": [
+        "Merkliste"
+      ]
+    },
+    {
+      "title": "Im Jahr Null",
+      "author": [
+        "Moritz Aisslinger"
+      ],
+      "pages": 400,
+      "published": "2026-08-27",
+      "cover": "book-covers/im-jahr-null-moritz-aisslinger.jpg",
+      "isbn": 9783549100875,
+      "publisher": "Propyläen Verlag",
+      "genre": [
+        "Geschichte"
+      ],
+      "finished": "",
+      "rating": "",
+      "added": "2026-09-14 11:15",
       "status": [
         "Merkliste"
       ]
@@ -2086,6 +2188,28 @@
         "added": "2026-08-23 10:33",
         "spineColor": "#1B1F33",
         "textColor": "#FEFEFE",
+        "status": [
+          "Abgeschlossen"
+        ]
+      },
+      {
+        "title": "Junge Frau, am Fenster stehend, Abendlicht, blaues Kleid",
+        "author": [
+          "Alena Schröder"
+        ],
+        "pages": 366,
+        "published": "2021",
+        "cover": "book-covers/junge-frau-am-fenster-stehend-abendlicht-blaues-kleid-alena-schr-der.jpg",
+        "isbn": "3423282738 9783423282734",
+        "publisher": "dtv",
+        "genre": [
+          "Fiction"
+        ],
+        "finished": "2026-10-16T00:00:00.000Z",
+        "rating": 4.5,
+        "added": "2026-09-07 08:23",
+        "spineColor": "#1C1F2B",
+        "textColor": "#F2E6C9",
         "status": [
           "Abgeschlossen"
         ]
