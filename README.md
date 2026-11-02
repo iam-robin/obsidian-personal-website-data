@@ -40,6 +40,14 @@ Covers live in the Obsidian vault under `attachments/book-cover/`; each book not
 
 To change a cover, either overwrite the image file in the vault (same name) or paste a new image URL into `cover`, then run the export.
 
+## Daily automatic export
+
+`scripts/auto-export.sh` runs the export and, if anything in `output/` changed, commits and pushes it (only `output/`, nothing else). On failure it shows a macOS notification; the log is `~/Library/Logs/obsidian-export.log`.
+
+It runs every morning at 5:30 via launchd (`~/Library/LaunchAgents/in.iamrob.obsidian-export.plist`). launchd jobs can't read `~/Documents`, so the job opens a tiny applet, `~/Applications/Obsidian-Export.app` (built with `osacompile`), which has its own Documents permission and runs the script. Missed runs (Mac asleep) happen on wake. The website's GitHub Action picks the new data up at 6:00.
+
+Run it by hand any time with `scripts/auto-export.sh`. The "Obsidian-Export" shortcut in the Shortcuts app runs it with `--deploy`, which additionally triggers the website's "Daily rebuild" workflow (via `gh`) after a push, so changes go live within minutes.
+
 ## Website Integration
 
 This repository is integrated into the personal website as a git submodule.
