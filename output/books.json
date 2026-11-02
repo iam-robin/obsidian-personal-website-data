@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-11-02T16:13:49.630Z",
-  "count": 103,
+  "lastUpdated": "2026-11-02T17:01:12.821Z",
+  "count": 104,
   "aktiv": [
+    {
+      "title": "On Photography",
+      "author": [
+        "Susan Sontag"
+      ],
+      "pages": 167,
+      "cover": "book-covers/on-photography-susan-sontag.jpg",
+      "finished": null,
+      "rating": null,
+      "status": [
+        "Aktiv"
+      ],
+      "spineColor": "#b8b8b8"
+    },
     {
       "title": "Moonbound",
       "author": [
@@ -16,6 +30,22 @@
         "Aktiv"
       ],
       "spineColor": "#f8f8e8"
+    },
+    {
+      "title": "Der Name des Windes",
+      "author": [
+        "Patrick Rothfuss"
+      ],
+      "pages": 876,
+      "cover": "book-covers/der-name-des-windes-patrick-rothfuss.jpg",
+      "finished": "",
+      "rating": "",
+      "added": "2026-08-25 13:08",
+      "spineColor": "#E8DFC8",
+      "textColor": "#8B1A1A",
+      "status": [
+        "Aktiv"
+      ]
     }
   ],
   "merkliste": [
@@ -247,22 +277,6 @@
         "Merkliste"
       ],
       "spineColor": "#d8d8d8"
-    },
-    {
-      "title": "Der Name des Windes",
-      "author": [
-        "Patrick Rothfuss"
-      ],
-      "pages": 876,
-      "cover": "book-covers/der-name-des-windes-patrick-rothfuss.jpg",
-      "finished": "",
-      "rating": "",
-      "added": "2026-08-25 13:08",
-      "spineColor": "#E8DFC8",
-      "textColor": "#8B1A1A",
-      "status": [
-        "Merkliste"
-      ]
     },
     {
       "title": "Bullshit Jobs: A Theory",
