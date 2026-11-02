@@ -4,7 +4,6 @@ import { basename } from "path";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasCategory,
     translateKeys,
     writeOutput,
     getLastUpdated,
@@ -41,17 +40,12 @@ function getTitleFromPath(filePath) {
 async function exportDigitalGarden() {
     console.log("Exporting Digital Garden notes...");
 
-    // Find all markdown files
-    const files = await findMarkdownFiles("**/*.md");
+    const files = await findMarkdownFiles("garden/*.md");
     const notes = [];
 
     for (const filePath of files) {
         try {
             const { data, body } = await parseMarkdownFile(filePath);
-
-            // Skip if not a Digital Garden note or is a template
-            if (!hasCategory(data, "Digital Garden")) continue;
-            if (filePath.includes("Template")) continue;
 
             // Translate keys and clean wikilinks
             const note = translateKeys(data, KEY_MAP);

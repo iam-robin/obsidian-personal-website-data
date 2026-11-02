@@ -1,29 +1,12 @@
 {
-  "lastUpdated": "2026-07-05T17:18:16.421Z",
+  "lastUpdated": "2026-10-30T11:24:15.977Z",
   "count": 64,
   "aktiv": [
     {
       "title": "Blue Eye Samurai",
       "season": 1,
-      "genre": [
-        "Action & Adventure",
-        "Animation"
-      ],
-      "director": [
-        "Amber Noizumi",
-        "Michael Green"
-      ],
       "rating": null,
-      "imdbScore": 8.5,
-      "cast": [
-        "Maya Erskine",
-        "George Takei",
-        "Masi Oka",
-        "Cary-Hiroyuki Tagawa",
-        "Brenda Song"
-      ],
       "cover": "https://image.tmdb.org/t/p/w500/bOPIUxriSFP2xqlzTYRdInFZAsG.jpg",
-      "released": "2023-11-01T00:00:00.000Z",
       "finished": null,
       "added": "2026-02-03 00:00",
       "favorite": false,
@@ -36,25 +19,8 @@
     {
       "title": "The Last Kingdom",
       "season": 1,
-      "genre": [
-        "Action & Adventure",
-        "Drama",
-        "War & Politics"
-      ],
-      "director": [
-        "Stephen Butchard"
-      ],
       "rating": null,
-      "imdbScore": 8.2,
-      "cast": [
-        "Alexander Dreymon",
-        "Emily Cox",
-        "Eliza Butterworth",
-        "Mark Rowley",
-        "Ruby Hartley"
-      ],
       "cover": "https://image.tmdb.org/t/p/w500/jlYlYAQZ6tlhkkXHfv3mVEDW3gZ.jpg",
-      "released": "2015-10-10T00:00:00.000Z",
       "finished": null,
       "added": "2026-01-18 00:00",
       "favorite": false,
@@ -65,24 +31,8 @@
     {
       "title": "The Bear",
       "season": 4,
-      "genre": [
-        "Drama",
-        "Komödie"
-      ],
-      "director": [
-        "Christopher Storer"
-      ],
       "rating": null,
-      "imdbScore": 8.2,
-      "cast": [
-        "Jeremy Allen White",
-        "Ebon Moss-Bachrach",
-        "Ayo Edebiri",
-        "Lionel Boyce",
-        "Abby Elliott"
-      ],
       "cover": "https://image.tmdb.org/t/p/w500/14zAGUZmtZ5zXrf51ose34nlyL9.jpg",
-      "released": "2025-06-25T00:00:00.000Z",
       "finished": null,
       "added": "2026-01-18 00:00",
       "favorite": false,
@@ -93,13 +43,8 @@
     {
       "title": "The Bear",
       "season": 3,
-      "genre": null,
-      "director": null,
       "rating": null,
-      "imdbScore": null,
-      "cast": null,
       "cover": "https://artworks.thetvdb.com/banners/v4/season/2127094/posters/682d0083267ff.jpg",
-      "released": null,
       "finished": null,
       "added": "2026-01-10 00:00",
       "favorite": false,
@@ -110,25 +55,8 @@
     {
       "title": "Shōgun",
       "season": 1,
-      "genre": [
-        "Drama",
-        "War & Politics"
-      ],
-      "director": [
-        "Rachel Kondo",
-        "Justin Marks"
-      ],
       "rating": null,
-      "imdbScore": 8.4,
-      "cast": [
-        "Hiroyuki Sanada",
-        "Cosmo Jarvis",
-        "Anna Sawai",
-        "Tadanobu Asano",
-        "Takehiro Hira"
-      ],
       "cover": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
-      "released": "2024-02-27T00:00:00.000Z",
       "finished": null,
       "added": "2026-01-18 00:00",
       "favorite": false,
@@ -139,23 +67,8 @@
     {
       "title": "Peaky Blinders",
       "season": 1,
-      "genre": [
-        "Drama",
-        "Krimi"
-      ],
-      "director": [
-        "Steven Knight"
-      ],
       "rating": null,
-      "imdbScore": 8.5,
-      "cast": [
-        "Cillian Murphy",
-        "Paul Anderson",
-        "Sophie Rundle",
-        "Natasha O'Keeffe"
-      ],
       "cover": "https://image.tmdb.org/t/p/w500/vPlsKun2WZEsqe3yZTmebxtwElW.jpg",
-      "released": "2013-09-12T00:00:00.000Z",
       "finished": null,
       "added": "2026-01-18 00:00",
       "favorite": false,
@@ -166,17 +79,8 @@
     {
       "title": "Die Brücke",
       "season": 1,
-      "genre": [
-        null
-      ],
-      "director": null,
       "rating": null,
-      "imdbScore": null,
-      "cast": [
-        null
-      ],
       "cover": "https://m.media-amazon.com/images/I/91+SzVRLNeL._AC_UF894,1000_QL80_.jpg",
-      "released": null,
       "finished": null,
       "added": "2025-12-01 22:26",
       "favorite": false,
@@ -189,13 +93,8 @@
     {
       "title": "Halt and catch fire",
       "season": 1,
-      "genre": null,
-      "director": null,
       "rating": null,
-      "imdbScore": null,
-      "cast": null,
       "cover": "https://static.wikia.nocookie.net/haltandcatchfire/images/8/8f/Season1Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20160531012637",
-      "released": null,
       "finished": null,
       "added": "2026-01-10 00:00",
       "favorite": false,
@@ -209,25 +108,8 @@
       {
         "title": "Better Call Saul",
         "season": 4,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Vince Gilligan",
-          "Peter Gould"
-        ],
         "rating": null,
-        "imdbScore": 8.7,
-        "cast": [
-          "Bob Odenkirk",
-          "Jonathan Banks",
-          "Rhea Seehorn",
-          "Tony Dalton",
-          "Giancarlo Esposito"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/8zvIqLFOrBymKKI3L2W1AH8YZQI.jpg",
-        "released": "2018-08-06T00:00:00.000Z",
         "finished": "2018-10-10T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -238,26 +120,8 @@
       {
         "title": "4 Blocks",
         "season": 2,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Richard Kropf",
-          "Hanno Hackfort",
-          "Bob Konrad"
-        ],
         "rating": null,
-        "imdbScore": 6.3,
-        "cast": [
-          "Kida Khodr Ramadan",
-          "Massiv",
-          "Almila Bağrıaçık",
-          "Oliver Masucci",
-          "Emilio Sakraya"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/iLgsphV7n5WrIVYv8x8JTDh5AmY.jpg",
-        "released": "2018-10-11T00:00:00.000Z",
         "finished": "2018-12-25T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -268,25 +132,8 @@
       {
         "title": "Better Call Saul",
         "season": 3,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Vince Gilligan",
-          "Peter Gould"
-        ],
         "rating": null,
-        "imdbScore": 8.7,
-        "cast": [
-          "Bob Odenkirk",
-          "Jonathan Banks",
-          "Rhea Seehorn",
-          "Tony Dalton",
-          "Giancarlo Esposito"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/dHIMW3CkL21jYWtsHiAdwkCjAej.jpg",
-        "released": "2017-04-10T00:00:00.000Z",
         "finished": "2018-12-31T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -297,26 +144,8 @@
       {
         "title": "4 Blocks",
         "season": 1,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Richard Kropf",
-          "Hanno Hackfort",
-          "Bob Konrad"
-        ],
         "rating": null,
-        "imdbScore": 6.3,
-        "cast": [
-          "Kida Khodr Ramadan",
-          "Massiv",
-          "Almila Bağrıaçık",
-          "Oliver Masucci",
-          "Emilio Sakraya"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/eAl3MQkWHHCVMNm54Q2M32TRKp7.jpg",
-        "released": "2017-05-08T00:00:00.000Z",
         "finished": "2018-12-10T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -329,22 +158,8 @@
       {
         "title": "Fleabag",
         "season": 2,
-        "genre": [
-          "Komödie",
-          "Drama"
-        ],
-        "director": [
-          "Phoebe Waller-Bridge"
-        ],
         "rating": null,
-        "imdbScore": 8.3,
-        "cast": [
-          "Phoebe Waller-Bridge",
-          "Sian Clifford",
-          "Andrew Scott"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/o7ytmKNlOIcCyWXLdtDSRXi5Ruc.jpg",
-        "released": "2019-03-04T00:00:00.000Z",
         "finished": "2019-07-16T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -355,22 +170,8 @@
       {
         "title": "Mr. Robot",
         "season": 4,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Sam Esmail"
-        ],
         "rating": null,
-        "imdbScore": 8.3,
-        "cast": [
-          "Rami Malek",
-          "Christian Slater",
-          "Carly Chaikin"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/4PxMbpF3pv5B8eYw48hZ1hy16gr.jpg",
-        "released": "2019-10-05T00:00:00.000Z",
         "finished": "2019-12-24T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -381,24 +182,8 @@
       {
         "title": "The End of the F***ing World",
         "season": 2,
-        "genre": [
-          "Komödie",
-          "Drama",
-          "Krimi"
-        ],
-        "director": [
-          "Jonathan Entwistle"
-        ],
         "rating": null,
-        "imdbScore": 8,
-        "cast": [
-          "Alex Lawther",
-          "Jessica Barden",
-          "Naomi Ackie",
-          "Josh Dylan"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/e00rak9Xp3DSp42hm7EK3omnhQS.jpg",
-        "released": "2019-11-04T00:00:00.000Z",
         "finished": "2019-11-09T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -409,22 +194,8 @@
       {
         "title": "Fleabag",
         "season": 1,
-        "genre": [
-          "Komödie",
-          "Drama"
-        ],
-        "director": [
-          "Phoebe Waller-Bridge"
-        ],
         "rating": null,
-        "imdbScore": 8.3,
-        "cast": [
-          "Phoebe Waller-Bridge",
-          "Sian Clifford",
-          "Andrew Scott"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/qI85n9DBgRv6ghhJuzHOCaKXk3v.jpg",
-        "released": "2016-07-21T00:00:00.000Z",
         "finished": "2019-07-13T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -435,23 +206,8 @@
       {
         "title": "When They See Us",
         "season": 1,
-        "genre": [
-          "Drama"
-        ],
-        "director": [
-          "Ava DuVernay"
-        ],
         "rating": null,
-        "imdbScore": 8.2,
-        "cast": [
-          "Asante Blackk",
-          "Jharrel Jerome",
-          "Ethan Herisse",
-          "Marquis Rodriguez",
-          "Caleel Harris"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/cVlqRoJN5NsFD4NbbUAiyUUFjVz.jpg",
-        "released": "2019-05-31T00:00:00.000Z",
         "finished": "2019-06-10T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -464,21 +220,8 @@
       {
         "title": "The Queen's Gambit",
         "season": 1,
-        "genre": [
-          "Drama"
-        ],
-        "director": [
-          "Scott Frank",
-          "Allan Scott"
-        ],
         "rating": null,
-        "imdbScore": 8.4,
-        "cast": [
-          "Anya Taylor-Joy",
-          "Chloe Pirrie"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
-        "released": "2020-10-23T00:00:00.000Z",
         "finished": "2020-12-09T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -489,25 +232,8 @@
       {
         "title": "Ozark",
         "season": 2,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Bill Dubuque",
-          "Mark Williams"
-        ],
         "rating": null,
-        "imdbScore": 8.2,
-        "cast": [
-          "Jason Bateman",
-          "Laura Linney",
-          "Sofia Hublitz",
-          "Skylar Gaertner",
-          "Julia Garner"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/k9VHO9Btnj1D57kNIHWY9pl9Qcj.jpg",
-        "released": "2018-08-31T00:00:00.000Z",
         "finished": "2020-10-27T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -518,25 +244,8 @@
       {
         "title": "I Am Not Okay with This",
         "season": 1,
-        "genre": [
-          "Drama",
-          "Komödie",
-          "Sci-Fi & Fantasy"
-        ],
-        "director": [
-          "Christy Hall",
-          "Jonathan Entwistle"
-        ],
         "rating": null,
-        "imdbScore": 8,
-        "cast": [
-          "Sophia Lillis",
-          "Wyatt Oleff",
-          "Sofia Bryant",
-          "Kathleen Rose Perkins"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/tEs8FyNRkTUvhTOmePkkykFgsRp.jpg",
-        "released": "2020-02-26T00:00:00.000Z",
         "finished": "2020-02-13T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -547,24 +256,8 @@
       {
         "title": "Bad Banks",
         "season": 1,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Christian Schwochow"
-        ],
         "rating": null,
-        "imdbScore": 7.3,
-        "cast": [
-          "Paula Beer",
-          "Barry Atsma",
-          "Désirée Nosbusch",
-          "Albrecht Schuch",
-          "Mai Duong Kieu"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/3M7BRPhUEhcewLiUhHOZUep7wwF.jpg",
-        "released": "2018-03-01T00:00:00.000Z",
         "finished": "2020-05-10T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -575,23 +268,8 @@
       {
         "title": "Chernobyl",
         "season": 1,
-        "genre": [
-          "Drama"
-        ],
-        "director": [
-          "Craig Mazin"
-        ],
         "rating": null,
-        "imdbScore": 8.7,
-        "cast": [
-          "Jared Harris",
-          "Stellan Skarsgård",
-          "Emily Watson",
-          "Paul Ritter",
-          "Jessie Buckley"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
-        "released": "2019-05-06T00:00:00.000Z",
         "finished": "2020-05-03T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -602,26 +280,8 @@
       {
         "title": "4 Blocks",
         "season": 3,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Richard Kropf",
-          "Hanno Hackfort",
-          "Bob Konrad"
-        ],
         "rating": null,
-        "imdbScore": 6.3,
-        "cast": [
-          "Kida Khodr Ramadan",
-          "Massiv",
-          "Almila Bağrıaçık",
-          "Oliver Masucci",
-          "Emilio Sakraya"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/iNB6KSH1U0jFPklFJaukMtpkbHs.jpg",
-        "released": "2019-11-07T00:00:00.000Z",
         "finished": "2020-05-02T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -632,24 +292,8 @@
       {
         "title": "Bad Banks",
         "season": 2,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Christian Schwochow"
-        ],
         "rating": null,
-        "imdbScore": 7.3,
-        "cast": [
-          "Paula Beer",
-          "Barry Atsma",
-          "Désirée Nosbusch",
-          "Albrecht Schuch",
-          "Mai Duong Kieu"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/dlTrCV1RtbARSfvH2bsSbqCspdd.jpg",
-        "released": "2020-02-06T00:00:00.000Z",
         "finished": "2020-07-18T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -660,25 +304,8 @@
       {
         "title": "Ozark",
         "season": 1,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Bill Dubuque",
-          "Mark Williams"
-        ],
         "rating": null,
-        "imdbScore": 8.2,
-        "cast": [
-          "Jason Bateman",
-          "Laura Linney",
-          "Sofia Hublitz",
-          "Skylar Gaertner",
-          "Julia Garner"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/clxEFkDueNUp2G9mphAFNXwotkt.jpg",
-        "released": "2017-07-21T00:00:00.000Z",
         "finished": "2020-09-07T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -689,25 +316,8 @@
       {
         "title": "The Leftovers",
         "season": 1,
-        "genre": [
-          "Sci-Fi & Fantasy",
-          "Drama"
-        ],
-        "director": [
-          "Damon Lindelof",
-          "Tom Perrotta"
-        ],
         "rating": null,
-        "imdbScore": 7.6,
-        "cast": [
-          "Justin Theroux",
-          "Amy Brenneman",
-          "Christopher Eccleston",
-          "Chris Zylka",
-          "Carrie Coon"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/ox4AVp06UZj6TonlrftliAwpbUc.jpg",
-        "released": "2014-06-29T00:00:00.000Z",
         "finished": "2020-03-30T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -720,25 +330,8 @@
       {
         "title": "The Leftovers",
         "season": 2,
-        "genre": [
-          "Sci-Fi & Fantasy",
-          "Drama"
-        ],
-        "director": [
-          "Damon Lindelof",
-          "Tom Perrotta"
-        ],
         "rating": null,
-        "imdbScore": 7.6,
-        "cast": [
-          "Justin Theroux",
-          "Amy Brenneman",
-          "Christopher Eccleston",
-          "Chris Zylka",
-          "Carrie Coon"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/yMejMxkTyePplyaWhTmQEGqVZX0.jpg",
-        "released": "2015-10-04T00:00:00.000Z",
         "finished": "2021-03-09T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -749,23 +342,8 @@
       {
         "title": "Patrick Melrose",
         "season": 1,
-        "genre": [
-          "Drama"
-        ],
-        "director": [
-          "David Nicholls"
-        ],
         "rating": null,
-        "imdbScore": 7.6,
-        "cast": [
-          "Benedict Cumberbatch",
-          "Jennifer Jason Leigh",
-          "Hugo Weaving",
-          "Sebastian Maltz",
-          "Jessica Raine"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/cB078qyaLiTf6ofXS03U0ppWPUb.jpg",
-        "released": "2018-05-12T00:00:00.000Z",
         "finished": "2021-09-19T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -776,25 +354,8 @@
       {
         "title": "Ozark",
         "season": 3,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Bill Dubuque",
-          "Mark Williams"
-        ],
         "rating": null,
-        "imdbScore": 8.2,
-        "cast": [
-          "Jason Bateman",
-          "Laura Linney",
-          "Sofia Hublitz",
-          "Skylar Gaertner",
-          "Julia Garner"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/lgHXzqpForw8qsMoC6pySkbpAUP.jpg",
-        "released": "2020-03-27T00:00:00.000Z",
         "finished": "2021-01-03T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -805,23 +366,8 @@
       {
         "title": "Die Neue Zeit",
         "season": 1,
-        "genre": [
-          "Drama"
-        ],
-        "director": [
-          "Lars Kraume"
-        ],
         "rating": null,
-        "imdbScore": 7.1,
-        "cast": [
-          "August Diehl",
-          "Anna Maria Mühe",
-          "Trine Dyrholm",
-          "Valerie Pachner",
-          "Ludwig Trepte"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/50Z6XkPSzM6bpeUeLrqLWCR6QpF.jpg",
-        "released": "2019-09-05T00:00:00.000Z",
         "finished": "2021-01-03T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -832,24 +378,8 @@
       {
         "title": "Unorthodox",
         "season": 1,
-        "genre": [
-          "Drama"
-        ],
-        "director": [
-          "Alexa Karolinski",
-          "Anna Winger"
-        ],
         "rating": null,
-        "imdbScore": 7.7,
-        "cast": [
-          "Shira Haas",
-          "עמית רהב",
-          "Jeff Wilbusch",
-          "Alex Reid",
-          "Delia Mayer"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/87VO6spysSzuYUId2ZPz0hfmYEJ.jpg",
-        "released": "2020-03-26T00:00:00.000Z",
         "finished": "2021-08-16T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -860,23 +390,8 @@
       {
         "title": "Euphoria",
         "season": 1,
-        "genre": [
-          "Drama"
-        ],
-        "director": [
-          "Sam Levinson"
-        ],
         "rating": null,
-        "imdbScore": 8.3,
-        "cast": [
-          "Zendaya",
-          "Hunter Schafer",
-          "Sydney Sweeney",
-          "Jacob Elordi",
-          "Alexa Demie"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/5mi3aRl16yKmfpQJMzvqN5TXkdA.jpg",
-        "released": "2019-06-16T00:00:00.000Z",
         "finished": "2021-03-26T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -887,25 +402,8 @@
       {
         "title": "The Leftovers",
         "season": 3,
-        "genre": [
-          "Sci-Fi & Fantasy",
-          "Drama"
-        ],
-        "director": [
-          "Damon Lindelof",
-          "Tom Perrotta"
-        ],
         "rating": null,
-        "imdbScore": 7.6,
-        "cast": [
-          "Justin Theroux",
-          "Amy Brenneman",
-          "Christopher Eccleston",
-          "Chris Zylka",
-          "Carrie Coon"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/46aKrlLIssEa9apmBAstAwjFcHO.jpg",
-        "released": "2017-04-16T00:00:00.000Z",
         "finished": "2021-03-19T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -918,25 +416,8 @@
       {
         "title": "Ozark",
         "season": 4,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Bill Dubuque",
-          "Mark Williams"
-        ],
         "rating": null,
-        "imdbScore": 8.2,
-        "cast": [
-          "Jason Bateman",
-          "Laura Linney",
-          "Sofia Hublitz",
-          "Skylar Gaertner",
-          "Julia Garner"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/8VddwjSjvuHaoSw1wZ0mflB0Ckq.jpg",
-        "released": "2022-01-21T00:00:00.000Z",
         "finished": "2022-02-15T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -947,25 +428,8 @@
       {
         "title": "Severance",
         "season": 1,
-        "genre": [
-          "Drama",
-          "Mystery",
-          "Sci-Fi & Fantasy"
-        ],
-        "director": [
-          "Dan Erickson"
-        ],
         "rating": null,
-        "imdbScore": 8.4,
-        "cast": [
-          "Adam Scott",
-          "Britt Lower",
-          "Tramell Tillman",
-          "Zach Cherry",
-          "Jen Tullock"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/16rmeQjNJDGQS2sk6dKujc5uYi6.jpg",
-        "released": "2022-02-17T00:00:00.000Z",
         "finished": "2022-04-12T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -976,25 +440,8 @@
       {
         "title": "Better Call Saul",
         "season": 6,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Vince Gilligan",
-          "Peter Gould"
-        ],
         "rating": null,
-        "imdbScore": 8.7,
-        "cast": [
-          "Bob Odenkirk",
-          "Jonathan Banks",
-          "Rhea Seehorn",
-          "Tony Dalton",
-          "Giancarlo Esposito"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/wKTzWgDaHxjdMhZ3zsVEF5eXVvX.jpg",
-        "released": "2022-04-18T00:00:00.000Z",
         "finished": "2022-09-18T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -1005,25 +452,8 @@
       {
         "title": "Better Call Saul",
         "season": 5,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Vince Gilligan",
-          "Peter Gould"
-        ],
         "rating": null,
-        "imdbScore": 8.7,
-        "cast": [
-          "Bob Odenkirk",
-          "Jonathan Banks",
-          "Rhea Seehorn",
-          "Tony Dalton",
-          "Giancarlo Esposito"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/dZHa2vUtYNQ81KV38eHGjn0P4JE.jpg",
-        "released": "2020-02-23T00:00:00.000Z",
         "finished": "2022-09-04T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -1036,23 +466,8 @@
       {
         "title": "Euphoria",
         "season": 2,
-        "genre": [
-          "Drama"
-        ],
-        "director": [
-          "Sam Levinson"
-        ],
         "rating": 4.5,
-        "imdbScore": 8.3,
-        "cast": [
-          "Zendaya",
-          "Hunter Schafer",
-          "Sydney Sweeney",
-          "Jacob Elordi",
-          "Alexa Demie"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/jtnfNzqZwN4E32FGGxx1YZaBWWf.jpg",
-        "released": "2022-01-08T00:00:00.000Z",
         "finished": "2023-01-11T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": true,
@@ -1063,24 +478,8 @@
       {
         "title": "The Bear",
         "season": 1,
-        "genre": [
-          "Drama",
-          "Komödie"
-        ],
-        "director": [
-          "Christopher Storer"
-        ],
         "rating": 4,
-        "imdbScore": 8.2,
-        "cast": [
-          "Jeremy Allen White",
-          "Ebon Moss-Bachrach",
-          "Ayo Edebiri",
-          "Lionel Boyce",
-          "Abby Elliott"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/utQj0H6F24SG8Q5xopgoUJwFWmJ.jpg",
-        "released": "2022-06-23T00:00:00.000Z",
         "finished": "2023-01-17T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": true,
@@ -1091,25 +490,8 @@
       {
         "title": "One Piece",
         "season": 1,
-        "genre": [
-          "Action & Adventure",
-          "Sci-Fi & Fantasy"
-        ],
-        "director": [
-          "Matt Owens",
-          "Steven Maeda"
-        ],
         "rating": 3.5,
-        "imdbScore": 8.3,
-        "cast": [
-          "Iñaki Godoy",
-          "Mackenyu",
-          "Emily Rudd",
-          "Jacob Romero Gibson",
-          "Taz Skylar"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
-        "released": "2023-08-31T00:00:00.000Z",
         "finished": "2023-09-25T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1120,24 +502,8 @@
       {
         "title": "Succession",
         "season": 1,
-        "genre": [
-          "Drama",
-          "Komödie"
-        ],
-        "director": [
-          "Jesse Armstrong"
-        ],
         "rating": 4,
-        "imdbScore": 8.3,
-        "cast": [
-          "Jeremy Strong",
-          "Kieran Culkin",
-          "Sarah Snook",
-          "Brian Cox",
-          "Matthew Macfadyen"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/hS62paPx7Ls3c6voXcXJzJNaTG4.jpg",
-        "released": "2018-06-03T00:00:00.000Z",
         "finished": "2023-07-17T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1148,24 +514,8 @@
       {
         "title": "BEEF",
         "season": 1,
-        "genre": [
-          "Komödie",
-          "Drama"
-        ],
-        "director": [
-          "Lee Sung Jin"
-        ],
         "rating": 3.5,
-        "imdbScore": 7.7,
-        "cast": [
-          "Steven Yeun",
-          "Ali Wong",
-          "Joseph Lee",
-          "Young Mazino",
-          "David Choe"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/qmj4lGU9WSJgFF9mIPUzStsUGnZ.jpg",
-        "released": "2023-04-05T00:00:00.000Z",
         "finished": "2023-10-20T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -1176,23 +526,8 @@
       {
         "title": "Mindhunter",
         "season": 1,
-        "genre": [
-          "Drama",
-          "Krimi"
-        ],
-        "director": [
-          "Joe Penhall"
-        ],
         "rating": 3.5,
-        "imdbScore": 8.1,
-        "cast": [
-          "Jonathan Groff",
-          "Holt McCallany",
-          "Anna Torv",
-          "Stacey Roca"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/lJFRiAeD83gKyzpoqStRM3ebKul.jpg",
-        "released": "2017-10-13T00:00:00.000Z",
         "finished": "2023-01-27T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1203,23 +538,8 @@
       {
         "title": "Mindhunter",
         "season": 2,
-        "genre": [
-          "Drama",
-          "Krimi"
-        ],
-        "director": [
-          "Joe Penhall"
-        ],
         "rating": 3,
-        "imdbScore": 8.1,
-        "cast": [
-          "Jonathan Groff",
-          "Holt McCallany",
-          "Anna Torv",
-          "Stacey Roca"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/ge5B0uzU7ggvzMMgtuQnBAaxvVx.jpg",
-        "released": "2019-08-16T00:00:00.000Z",
         "finished": "2023-02-10T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1232,23 +552,8 @@
       {
         "title": "Dark",
         "season": 1,
-        "genre": [
-          "Krimi",
-          "Drama",
-          "Sci-Fi & Fantasy",
-          "Mystery"
-        ],
-        "director": [
-          "Baran bo Odar",
-          "Jantje Friese"
-        ],
         "rating": 4,
-        "imdbScore": 8.4,
-        "cast": [
-          "Louis Hofmann"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/b3Efu3KoVUWHlfw3bcJVEIhxqR0.jpg",
-        "released": "2017-12-01T00:00:00.000Z",
         "finished": "2024-01-10T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1259,24 +564,8 @@
       {
         "title": "The Penguin",
         "season": 1,
-        "genre": [
-          "Drama",
-          "Krimi"
-        ],
-        "director": [
-          "Lauren LeFranc"
-        ],
         "rating": 4,
-        "imdbScore": 8.4,
-        "cast": [
-          "Colin Farrell",
-          "Cristin Milioti",
-          "Rhenzy Feliz",
-          "Deirdre O'Connell",
-          "Clancy Brown"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
-        "released": "2024-09-19T00:00:00.000Z",
         "finished": "2024-12-04T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1287,23 +576,8 @@
       {
         "title": "Slow Horses",
         "season": 1,
-        "genre": [
-          "Krimi",
-          "Drama",
-          "Komödie"
-        ],
-        "director": null,
         "rating": 3.5,
-        "imdbScore": 8,
-        "cast": [
-          "Gary Oldman",
-          "Jack Lowden",
-          "Kristin Scott Thomas",
-          "Saskia Reeves",
-          "Christopher Chung"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/34H2sg0NhQtMeSlOuKISomQTMeH.jpg",
-        "released": "2022-04-01T00:00:00.000Z",
         "finished": "2024-10-20T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1314,24 +588,8 @@
       {
         "title": "Dark Matter",
         "season": 1,
-        "genre": [
-          "Sci-Fi & Fantasy",
-          "Drama"
-        ],
-        "director": [
-          "Blake Crouch"
-        ],
         "rating": 2,
-        "imdbScore": 7.8,
-        "cast": [
-          "Joel Edgerton",
-          "Jennifer Connelly",
-          "Alice Braga",
-          "Jimmi Simpson",
-          "Dayo Okeniyi"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/v3IXL25IaFGFKeZWcpA6FaLzSVB.jpg",
-        "released": "2024-05-07T00:00:00.000Z",
         "finished": "2024-07-21T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1342,23 +600,8 @@
       {
         "title": "Slow Horses",
         "season": 2,
-        "genre": [
-          "Krimi",
-          "Drama",
-          "Komödie"
-        ],
-        "director": null,
         "rating": 3.5,
-        "imdbScore": 8,
-        "cast": [
-          "Gary Oldman",
-          "Jack Lowden",
-          "Kristin Scott Thomas",
-          "Saskia Reeves",
-          "Christopher Chung"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/8FM8KCgZQSbLLXcZew0MSj6so1k.jpg",
-        "released": "2022-12-02T00:00:00.000Z",
         "finished": "2024-12-14T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1371,25 +614,8 @@
       {
         "title": "The White Lotus",
         "season": 1,
-        "genre": [
-          "Komödie",
-          "Drama",
-          "Mystery"
-        ],
-        "director": [
-          "Mike White"
-        ],
         "rating": 4,
-        "imdbScore": 7.6,
-        "cast": [
-          "Leslie Bibb",
-          "Carrie Coon",
-          "Walton Goggins",
-          "Sarah Catherine Hook",
-          "Jason Isaacs"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/jJXV3H1SAvQpjSTIKZBUyAGica3.jpg",
-        "released": "2021-07-11T00:00:00.000Z",
         "finished": "2025-02-12T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -1400,16 +626,8 @@
       {
         "title": "Pluribus",
         "season": 1,
-        "genre": [
-          "Drama",
-          "Sci-Fi"
-        ],
-        "director": "Vince Gilligan",
         "rating": 5,
-        "imdbScore": 8.9,
-        "cast": null,
         "cover": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_.jpg",
-        "released": "2025-11-07T00:00:00.000Z",
         "finished": "2025-12-24T00:00:00.000Z",
         "added": "2025-11-12 21:44",
         "favorite": true,
@@ -1420,24 +638,8 @@
       {
         "title": "Succession",
         "season": 2,
-        "genre": [
-          "Drama",
-          "Komödie"
-        ],
-        "director": [
-          "Jesse Armstrong"
-        ],
         "rating": 4,
-        "imdbScore": 8.3,
-        "cast": [
-          "Jeremy Strong",
-          "Kieran Culkin",
-          "Sarah Snook",
-          "Brian Cox",
-          "Matthew Macfadyen"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/hXuVhMxi3ZNzfBY8h7Hiiotmjiy.jpg",
-        "released": "2019-08-11T00:00:00.000Z",
         "finished": "2025-04-09T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1448,25 +650,8 @@
       {
         "title": "The White Lotus",
         "season": 3,
-        "genre": [
-          "Komödie",
-          "Drama",
-          "Mystery"
-        ],
-        "director": [
-          "Mike White"
-        ],
         "rating": 3.5,
-        "imdbScore": 7.6,
-        "cast": [
-          "Leslie Bibb",
-          "Carrie Coon",
-          "Walton Goggins",
-          "Sarah Catherine Hook",
-          "Jason Isaacs"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg",
-        "released": "2025-02-16T00:00:00.000Z",
         "finished": "2025-06-03T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -1477,25 +662,8 @@
       {
         "title": "The White Lotus",
         "season": 2,
-        "genre": [
-          "Komödie",
-          "Drama",
-          "Mystery"
-        ],
-        "director": [
-          "Mike White"
-        ],
         "rating": 4.5,
-        "imdbScore": 7.6,
-        "cast": [
-          "Leslie Bibb",
-          "Carrie Coon",
-          "Walton Goggins",
-          "Sarah Catherine Hook",
-          "Jason Isaacs"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/qhpxq9uSLdViP9eQoJFqrnuoSwg.jpg",
-        "released": "2022-10-30T00:00:00.000Z",
         "finished": "2025-05-04T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -1506,19 +674,8 @@
       {
         "title": "Adolescence",
         "season": 1,
-        "genre": [
-          "Drama",
-          "Krimi"
-        ],
-        "director": [
-          "Stephen Graham",
-          "Jack Thorne"
-        ],
         "rating": 4,
-        "imdbScore": 7.8,
-        "cast": null,
         "cover": "https://image.tmdb.org/t/p/w500/kcAgL0amIvGDGpFsD4P8WJOT8b9.jpg",
-        "released": "2025-03-13T00:00:00.000Z",
         "finished": "2025-03-30T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1529,23 +686,8 @@
       {
         "title": "The Last of Us",
         "season": 1,
-        "genre": [
-          "Drama"
-        ],
-        "director": [
-          "Neil Druckmann",
-          "Craig Mazin"
-        ],
         "rating": 3,
-        "imdbScore": 8.5,
-        "cast": [
-          "Bella Ramsey",
-          "Gabriel Luna",
-          "Isabela Merced",
-          "Young Mazino"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/wEgf8HtZmx44U32zVVXBvdgq4iW.jpg",
-        "released": "2023-01-15T00:00:00.000Z",
         "finished": "2025-07-21T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1558,22 +700,8 @@
       {
         "title": "Mr. Robot",
         "season": 1,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Sam Esmail"
-        ],
         "rating": null,
-        "imdbScore": 8.3,
-        "cast": [
-          "Rami Malek",
-          "Christian Slater",
-          "Carly Chaikin"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/1aiNh5Gak36EdpdwhvWHIXzAj50.jpg",
-        "released": "2015-06-24T00:00:00.000Z",
         "finished": "2026-05-02T00:00:00.000Z",
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -1584,13 +712,8 @@
       {
         "title": "The Bear",
         "season": 2,
-        "genre": null,
-        "director": null,
         "rating": 4.5,
-        "imdbScore": null,
-        "cast": null,
         "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/The_Bear_Season_2.png",
-        "released": null,
         "finished": "2026-01-05T00:00:00.000Z",
         "added": "2026-01-05 00:00",
         "favorite": false,
@@ -1601,25 +724,8 @@
       {
         "title": "A Knight of the Seven Kingdoms",
         "season": 1,
-        "genre": [
-          "Drama",
-          "Sci-Fi & Fantasy"
-        ],
-        "director": [
-          "George R. R. Martin",
-          "Ira Parker"
-        ],
         "rating": 4.5,
-        "imdbScore": 7.3,
-        "cast": [
-          "Peter Claffey",
-          "Dexter Sol Ansell",
-          "Finn Bennett",
-          "Bertie Carvel",
-          "Tanzyn Crawford"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
-        "released": "2026-01-18T00:00:00.000Z",
         "finished": "2026-02-23T00:00:00.000Z",
         "added": "2026-01-19 00:00",
         "favorite": true,
@@ -1632,24 +738,8 @@
       {
         "title": "The End of the F***ing World",
         "season": 1,
-        "genre": [
-          "Komödie",
-          "Drama",
-          "Krimi"
-        ],
-        "director": [
-          "Jonathan Entwistle"
-        ],
         "rating": null,
-        "imdbScore": 8,
-        "cast": [
-          "Alex Lawther",
-          "Jessica Barden",
-          "Naomi Ackie",
-          "Josh Dylan"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/3xzfmg9olP5XzrQrJgyku2nd6P0.jpg",
-        "released": "2017-10-24T00:00:00.000Z",
         "finished": null,
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -1660,22 +750,8 @@
       {
         "title": "Mr. Robot",
         "season": 3,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Sam Esmail"
-        ],
         "rating": null,
-        "imdbScore": 8.3,
-        "cast": [
-          "Rami Malek",
-          "Christian Slater",
-          "Carly Chaikin"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/AmRhiyXwFvcoqm8DpZCPkFs6vqK.jpg",
-        "released": "2017-10-11T00:00:00.000Z",
         "finished": null,
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1686,22 +762,8 @@
       {
         "title": "Mr. Robot",
         "season": 2,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Sam Esmail"
-        ],
         "rating": null,
-        "imdbScore": 8.3,
-        "cast": [
-          "Rami Malek",
-          "Christian Slater",
-          "Carly Chaikin"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/mjqAWBXM6zoxmoeC3q9J6I1wl7R.jpg",
-        "released": "2016-07-13T00:00:00.000Z",
         "finished": null,
         "added": "2026-01-19 00:00",
         "favorite": false,
@@ -1712,25 +774,8 @@
       {
         "title": "Better Call Saul",
         "season": 2,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Vince Gilligan",
-          "Peter Gould"
-        ],
         "rating": null,
-        "imdbScore": 8.7,
-        "cast": [
-          "Bob Odenkirk",
-          "Jonathan Banks",
-          "Rhea Seehorn",
-          "Tony Dalton",
-          "Giancarlo Esposito"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/4NDwAQjFD8bTOsMKxYdl8IK10R9.jpg",
-        "released": "2016-02-15T00:00:00.000Z",
         "finished": null,
         "added": "2026-01-18 00:00",
         "favorite": false,
@@ -1741,25 +786,8 @@
       {
         "title": "Better Call Saul",
         "season": 1,
-        "genre": [
-          "Krimi",
-          "Drama"
-        ],
-        "director": [
-          "Vince Gilligan",
-          "Peter Gould"
-        ],
         "rating": null,
-        "imdbScore": 8.7,
-        "cast": [
-          "Bob Odenkirk",
-          "Jonathan Banks",
-          "Rhea Seehorn",
-          "Tony Dalton",
-          "Giancarlo Esposito"
-        ],
         "cover": "https://image.tmdb.org/t/p/w500/bAbZBZmz25Lqk8A8mwMWzAkvlAj.jpg",
-        "released": "2015-02-08T00:00:00.000Z",
         "finished": null,
         "added": "2026-01-18 00:00",
         "favorite": false,

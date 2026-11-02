@@ -5,7 +5,6 @@ Export Obsidian vault data to JSON for use in external websites.
 ## Setup
 
 ```bash
-cd scripts
 npm install
 ```
 
@@ -24,53 +23,22 @@ node export-series.mjs
 
 ## Output
 
-JSON files are written to `scripts/output/`:
+JSON files are written to `output/`:
 
--   `books.json` - Books from `category: [[Bücher]]`
--   `series.json` - TV series with `category: [[Serien]]`
+-   `books.json` - Books from the vault folder `books/`
+-   `series.json` - TV series from the vault folder `series/`
+-   `digital-garden.json` - Garden notes from the vault folder `garden/`
 
-## Book Covers Workflow
+## Book Covers
 
-Book covers are stored locally in the Obsidian vault and copied to this repo during export.
+Covers live in the Obsidian vault under `attachments/book-cover/`; each book note points to its file in the `cover` field. `export-books.mjs` takes care of the rest:
 
-### Adding a New Book with Cover
+- **URL in `cover`** (e.g. pasted by hand): downloaded into the vault, resized, and the note's `cover` is rewritten to the local path.
+- **Tiny cover** (under 200px wide, typically the Google thumbnail the Book Search plugin saves): replaced in place by a larger Open Library cover when one exists.
+- **Copy to the website**: the cover is copied to `output/book-covers/` (slugified file name) whenever its content changed. `books.json` holds `"cover": "book-covers/<file>.jpg"`.
+- **Spine colour**: if the note has no `spine_color`, the cover's dominant colour is used. The website picks a readable text colour itself.
 
-1. **In Obsidian vault**, create a new book note using the book template
-2. Add a cover URL to the `cover` field in frontmatter
-3. Run the download script:
-   ```bash
-   cd /Users/robin/Documents/code/private/iamrobin/obsidian-personal-website-data
-   node scripts/books/download-book-covers.mjs
-   ```
-4. The script will:
-   - Download the cover image
-   - Optimize/resize if needed (max 600x900px @ 85% quality)
-   - Save to vault: `attachments/book-cover/{title-author}.jpg`
-   - Update frontmatter: set `cover_local`, clear `cover` field
-5. Run the export to copy covers to this repo:
-   ```bash
-   node export-books.mjs
-   ```
-6. Commit and push:
-   ```bash
-   git add output/ scripts/
-   git commit -m "Add new book: [Title]"
-   git push origin main
-   ```
-
-### Updating an Existing Book Cover
-
-1. Add a new URL to the `cover` field in the book note's frontmatter
-2. Run the download script (it will overwrite the existing cover)
-3. Run the export script
-4. Commit and push changes
-
-### Book Cover Files
-
-- **Source**: Obsidian vault at `/Users/robin/Documents/Obsidian/Notes/attachments/book-cover/`
-- **Export destination**: `output/book-covers/` (83 covers)
-- **Naming**: Lowercase with hyphens, e.g., `the-pillars-of-the-earth-ken-follett.jpg`
-- **books.json**: Contains relative paths: `"cover": "book-covers/filename.jpg"`
+To change a cover, either overwrite the image file in the vault (same name) or paste a new image URL into `cover`, then run the export.
 
 ## Website Integration
 

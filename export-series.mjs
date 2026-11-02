@@ -3,7 +3,6 @@
 import {
   findMarkdownFiles,
   parseMarkdownFile,
-  hasCategory,
   translateKeys,
   normalizeStatus,
   writeOutput,
@@ -14,13 +13,8 @@ import {
 const KEY_MAP = {
   'title': 'title',
   'season': 'season',
-  'genre': 'genre',
-  'director': 'director',
   'rating': 'rating',
-  'imdb_score': 'imdbScore',
-  'cast': 'cast',
   'cover': 'cover',
-  'released': 'released',
   'finished': 'finished',
   'added': 'added',
   'favorite': 'favorite'
@@ -29,17 +23,12 @@ const KEY_MAP = {
 async function exportSeries() {
   console.log('Exporting series...');
 
-  // Find all markdown files (series could be in Notes or elsewhere)
-  const files = await findMarkdownFiles('**/*.md');
+  const files = await findMarkdownFiles('series/*.md');
   const series = [];
 
   for (const filePath of files) {
     try {
       const { data } = await parseMarkdownFile(filePath);
-
-      // Skip if not a series or is a template
-      if (!hasCategory(data, 'Serien')) continue;
-      if (filePath.includes('Template')) continue;
 
       // Translate keys and clean wikilinks
       const show = translateKeys(data, KEY_MAP);
@@ -47,26 +36,10 @@ async function exportSeries() {
       // Handle status separately (normalize to array)
       show.status = normalizeStatus(data.status);
 
-      // Ensure genre is always an array
-      if (show.genre && !Array.isArray(show.genre)) {
-        show.genre = [show.genre];
-      }
-
-      // Ensure cast is always an array
-      if (show.cast && !Array.isArray(show.cast)) {
-        show.cast = [show.cast];
-      }
-
       // Parse rating as number if possible
       if (show.rating) {
         const parsed = parseFloat(show.rating);
         show.rating = isNaN(parsed) ? show.rating : parsed;
-      }
-
-      // Parse imdbScore as number if possible
-      if (show.imdbScore) {
-        const parsed = parseFloat(show.imdbScore);
-        show.imdbScore = isNaN(parsed) ? show.imdbScore : parsed;
       }
 
       // Parse season as number if possible

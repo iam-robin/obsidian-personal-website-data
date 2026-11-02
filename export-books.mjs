@@ -1,33 +1,21 @@
 #!/usr/bin/env node
 
-import { copyFile, mkdir } from "fs/promises";
-import { existsSync } from "fs";
-import { join, basename, dirname } from "path";
 import {
     findMarkdownFiles,
     parseMarkdownFile,
-    hasCategory,
     translateKeys,
     normalizeStatus,
     writeOutput,
     getLastUpdated,
-    VAULT_PATH,
 } from "./lib/utils.mjs";
-
-const COVERS_DIR = join(dirname(new URL(import.meta.url).pathname), "output", "book-covers");
-const GITHUB_RAW_BASE = "book-covers"; // Relative path for website build
+import { ensureLocalCover, publishCover, dominantColor, writeCoverToNote } from "./lib/covers.mjs";
 
 // Map vault frontmatter keys to the JSON keys the website consumes
 const KEY_MAP = {
     title: "title",
     author: "author",
     pages: "pages",
-    released: "published",
     cover: "cover",
-    cover_local: "coverLocal",
-    isbn: "isbn",
-    publisher: "publisher",
-    genre: "genre",
     finished: "finished",
     rating: "rating",
     added: "added",
@@ -38,17 +26,14 @@ const KEY_MAP = {
 async function exportBooks() {
     console.log("Exporting books...");
 
-    // Find all markdown files in Clippings/Books
-    const files = await findMarkdownFiles("**/*.md");
+    const files = (await findMarkdownFiles("books/*.md")).filter(
+        (f) => !f.endsWith("/README.md"),
+    );
     const books = [];
 
     for (const filePath of files) {
         try {
             const { data } = await parseMarkdownFile(filePath);
-
-            // Skip if not a book or is a template
-            if (!hasCategory(data, "Bücher")) continue;
-            if (filePath.includes("Template")) continue;
 
             // Translate keys and clean wikilinks
             const book = translateKeys(data, KEY_MAP);
@@ -59,11 +44,6 @@ async function exportBooks() {
             // Ensure author is always an array
             if (book.author && !Array.isArray(book.author)) {
                 book.author = [book.author];
-            }
-
-            // Ensure genre is always an array
-            if (book.genre && !Array.isArray(book.genre)) {
-                book.genre = [book.genre];
             }
 
             // Parse pages as number if possible
@@ -78,39 +58,20 @@ async function exportBooks() {
                 book.rating = isNaN(parsed) ? book.rating : parsed;
             }
 
-            // Handle cover field: copy local cover and generate GitHub URL
-            if (book.coverLocal) {
-                try {
-                    // Build full paths
-                    const sourcePath = join(VAULT_PATH, book.coverLocal);
-                    const filename = basename(book.coverLocal);
-                    const destPath = join(COVERS_DIR, filename);
+            // Cover: make sure it is a local file in the vault, then publish it
+            let coverPath = null;
+            try {
+                const result = await ensureLocalCover(data);
+                coverPath = result.path;
+                if (result.changed) await writeCoverToNote(filePath, coverPath);
+            } catch (err) {
+                console.warn(`  Warning: No cover for ${book.title}: ${err.message}`);
+            }
+            book.cover = coverPath ? await publishCover(coverPath) : null;
 
-                    // Ensure covers directory exists
-                    await mkdir(COVERS_DIR, { recursive: true });
-
-                    // Copy file if source exists
-                    if (existsSync(sourcePath)) {
-                        await copyFile(sourcePath, destPath);
-                        // Set cover to GitHub raw URL
-                        book.cover = `${GITHUB_RAW_BASE}/${filename}`;
-                    } else {
-                        console.warn(`  Warning: Cover file not found: ${sourcePath}`);
-                        book.cover = null;
-                    }
-                } catch (error) {
-                    console.error(`  Error copying cover for ${book.title}: ${error.message}`);
-                    book.cover = null;
-                }
-                // Remove coverLocal from final output
-                delete book.coverLocal;
-            } else if (book.cover) {
-                // External URL exists but no local cover - keep it (shouldn't happen after migration)
-                delete book.coverLocal;
-            } else {
-                // No cover at all
-                book.cover = null;
-                delete book.coverLocal;
+            // Spine colour: hand-picked if set, otherwise taken from the cover
+            if (!book.spineColor && coverPath) {
+                book.spineColor = await dominantColor(coverPath);
             }
 
             books.push(book);
