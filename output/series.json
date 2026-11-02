@@ -1,20 +1,7 @@
 {
-  "lastUpdated": "2026-10-30T11:24:15.977Z",
+  "lastUpdated": "2026-11-02T21:22:01.756Z",
   "count": 64,
-  "aktiv": [
-    {
-      "title": "Blue Eye Samurai",
-      "season": 1,
-      "rating": null,
-      "cover": "https://image.tmdb.org/t/p/w500/bOPIUxriSFP2xqlzTYRdInFZAsG.jpg",
-      "finished": null,
-      "added": "2026-02-03 00:00",
-      "favorite": false,
-      "status": [
-        "Aktiv"
-      ]
-    }
-  ],
+  "aktiv": [],
   "merkliste": [
     {
       "title": "The Last Kingdom",
@@ -97,6 +84,18 @@
       "cover": "https://static.wikia.nocookie.net/haltandcatchfire/images/8/8f/Season1Cover.jpg/revision/latest/scale-to-width-down/1000?cb=20160531012637",
       "finished": null,
       "added": "2026-01-10 00:00",
+      "favorite": false,
+      "status": [
+        "Pausiert"
+      ]
+    },
+    {
+      "title": "Blue Eye Samurai",
+      "season": 1,
+      "rating": null,
+      "cover": "https://image.tmdb.org/t/p/w500/bOPIUxriSFP2xqlzTYRdInFZAsG.jpg",
+      "finished": null,
+      "added": "2026-02-03 00:00",
       "favorite": false,
       "status": [
         "Pausiert"
