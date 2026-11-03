@@ -33,12 +33,13 @@ JSON files are written to `output/`:
 
 Covers live in the Obsidian vault under `attachments/book-cover/`; each book note points to its file in the `cover` field. `export-books.mjs` takes care of the rest:
 
-- **URL in `cover`** (e.g. pasted by hand): downloaded into the vault, resized, and the note's `cover` is rewritten to the local path.
-- **Tiny cover** (under 200px wide, typically the Google thumbnail the Book Search plugin saves): replaced in place by a larger Open Library cover when one exists.
+- **URL in `cover`** (the Book Search plugin puts the Google Books cover URL there, or pasted by hand): downloaded into the vault, resized, and the note's `cover` is rewritten to the local path. Google Books URLs are fetched with `fife=w1000`, i.e. the same cover at 1000px instead of the 128px thumbnail. Existing local covers are never replaced.
 - **Copy to the website**: the cover is copied to `output/book-covers/` (slugified file name) whenever its content changed. `books.json` holds `"cover": "book-covers/<file>.jpg"`.
 - **Spine colour**: if the note has no `spine_color`, the cover's dominant colour is used. The website picks a readable text colour itself.
 
 To change a cover, either overwrite the image file in the vault (same name) or paste a new image URL into `cover`, then run the export.
+
+**Series** work the same way: poster URLs in `cover` are downloaded to `attachments/series-cover/`, the note is rewritten to the local path, and the file is published to `output/series-covers/` (`series.json` then holds `"cover": "series-covers/<file>.jpg"`). If a download fails, the remote URL stays in `series.json` until the next try. No spine colours for series.
 
 ## Daily automatic export
 

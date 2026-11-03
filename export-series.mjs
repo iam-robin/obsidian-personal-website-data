@@ -8,6 +8,7 @@ import {
   writeOutput,
   getLastUpdated,
 } from './lib/utils.mjs';
+import { ensureLocalCover, publishCover, writeCoverToNote } from './lib/covers.mjs';
 
 // Map vault frontmatter keys to the JSON keys the website consumes
 const KEY_MAP = {
@@ -46,6 +47,19 @@ async function exportSeries() {
       if (show.season) {
         const parsed = parseInt(show.season, 10);
         show.season = isNaN(parsed) ? show.season : parsed;
+      }
+
+      // Cover: download the poster into the vault once, then publish the
+      // local copy. If the download fails, keep the remote URL for now.
+      if (show.cover) {
+        try {
+          const name = [show.title, show.season].filter(Boolean).join(' ');
+          const { path, changed } = await ensureLocalCover(data.cover, name, 'series');
+          if (changed) await writeCoverToNote(filePath, path);
+          if (path) show.cover = await publishCover(path, 'series');
+        } catch (err) {
+          console.warn(`  Warning: Could not localise cover for ${show.title}: ${err.message}`);
+        }
       }
 
       series.push(show);

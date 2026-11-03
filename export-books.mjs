@@ -61,7 +61,8 @@ async function exportBooks() {
             // Cover: make sure it is a local file in the vault, then publish it
             let coverPath = null;
             try {
-                const result = await ensureLocalCover(data);
+                const name = [data.title, ...[].concat(data.author || [])].join(" ");
+                const result = await ensureLocalCover(data.cover, name);
                 coverPath = result.path;
                 if (result.changed) await writeCoverToNote(filePath, coverPath);
             } catch (err) {
